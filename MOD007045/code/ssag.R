@@ -1,6 +1,6 @@
 ## using semantic scholar academic graph API
 
-get_ss_papers <- function(search = "covid vaccination", offset = 0, `next` = 100){
+get_ss_papers <- function(search = "microplastics health", offset = 0, `next` = 100){
 
   require(jsonlite)
   require(stringr)
