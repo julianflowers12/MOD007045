@@ -1,0 +1,216 @@
+---
+title: "Protected area designations"
+output:
+  html_document:
+    toc: yes
+    df_print: paged
+  html_notebook:
+    toc: yes
+---
+
+```{r setup, include = FALSE}
+
+knitr::opts_chunk$set(cache = TRUE)
+
+
+
+```
+
+
+## Special protection areas
+
+```{r}
+
+library(pacman)
+
+p_load(tidyverse, rvest, devtools, rlang, sf, readxl, DT)
+
+# devtools::install_github("julianflowers/myScrapers")
+library(myScrapers)
+spa <- "https://jncc.gov.uk/our-work/list-of-spas/"
+
+tables <- read_html(spa) %>%
+  rvest::html_table()
+
+tables <- map_dfr(tables, bind_rows)
+
+colnames(tables) <- tables[1, ]
+
+tables <- tables %>%
+  slice(-1)
+
+tables %>%
+  datatable()
+
+```
+
+
+## Special Areas of Conservation (SAC)
+
+```{r}
+
+sac <- "https://sac.jncc.gov.uk/site/"
+
+tables_sac <- read_html(sac) %>%
+  rvest::html_table()
+
+tables_sac <- map_dfr(tables_sac, bind_rows)
+
+tables_sac %>%
+  datatable()
+
+
+
+
+
+```
+
+### Annex I habitat types
+
+
+
+```{r}
+
+sac_hab <- "https://sac.jncc.gov.uk/habitat/"
+
+tables_hab <- read_html(sac_hab) %>%
+  rvest::html_table()
+
+titles <- map(tables_hab, ~colnames(.x)[1])
+
+
+
+tables_hab <- map_dfr(tables_hab, ~(set_names(.x, c("Type", "No SAC"))))
+
+tables_hab %>%
+  datatable()
+
+
+
+
+```
+
+### Annex 2 Species
+
+```{r}
+
+sac_spec <- "https://sac.jncc.gov.uk/species/"
+
+tables_spec <- read_html(sac_spec) %>%
+  rvest::html_table()
+
+titles <- map(tables_spec, ~colnames(.x)[1])
+
+
+
+tables_spec <- map_dfr(tables_spec, ~(set_names(.x, c("Species", "No SAC"))))
+
+tables_spec %>%
+  datatable()
+
+```
+## SSSIs
+
+```{r}
+
+sssi <- st_read("https://opendata.arcgis.com/datasets/f10cbb4425154bfda349ccf493487a80_0.geojson")
+
+sssi %>%
+  datatable()
+
+
+
+```
+
+## MCZ list
+
+```{r}
+
+
+mcz <- "https://www.gov.uk/government/collections/marine-conservation-zone-designations-in-england"
+
+get_page_links(mcz) %>%
+  enframe() %>%
+  filter(str_detect(value, "marine-conservation")) %>%
+  mutate(mcz = str_extract(value, "marine-conservation.+")) %>%
+  slice(-c(1:2)) %>%
+  select(mcz)
+
+
+
+```
+
+## UK MPA Statistics
+
+```{r}
+
+mpa <- "https://jncc.gov.uk/our-work/uk-marine-protected-area-network-statistics/"
+
+table_mpa <- read_html(mpa) %>%
+  html_table() %>%
+  data.frame()
+
+colnames(table_mpa) <- table_mpa[1,]
+
+
+table_mpa %>%
+  datatable()
+
+```
+
+
+### Ramsar
+
+```{r}
+
+ramsar <- tempfile()
+
+curl::curl_download("https://data.jncc.gov.uk/data/bc9b0905-fb63-4786-8e90-5f7851bb417d/uk-ramsar-data-20151001.xls", destfile = ramsar)
+
+excel_sheets(ramsar)
+
+
+
+```
+
+## National Nature Reserves (NNT)
+
+See MAGIC website
+
+
+
+```{r}
+
+nnts <- st_read("C:/Users/Julian/OneDrive/Desktop/MOD007045/MOD007045/data/NE_NationalNatureReservesEngland_GeoJSON_Full/data/National_Nature_Reserves_England.json")
+
+nnts %>%
+  datatable()
+
+
+```
+
+## Local Nature Reserves (LNT)
+
+```{r}
+
+lnts <- st_read("C:/Users/Julian/OneDrive/Desktop/MOD007045/MOD007045/data/Local_Nature_Reserves_England.json")
+
+lnts %>%
+  datatable()
+
+
+
+```
+### BAP priority species
+
+```{r}
+url <- "https://data.jncc.gov.uk/data/bdd8ad64-c247-4b69-ab33-19c2e0d63736/UKBAP-UKListPriorityHabitatsSpecies-V1.4-2010.xls"
+
+bap <- curl::curl_download(url, destfile = basename(url))
+
+readxl::read_excel(bap, skip= 1) %>%
+  DT::datatable(filter = "top", options = list(pageLength = 50))
+
+```
+
+

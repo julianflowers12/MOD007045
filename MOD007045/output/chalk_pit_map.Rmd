@@ -1,0 +1,48 @@
+---
+title: "Cherry Hinton Chalk Pits"
+subtitle: "Mapping"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = TRUE, message =FALSE, warning = FALSE)
+
+library(pacman)
+
+p_load(tidyverse, sf, ggspatial, spatial)
+
+
+```
+
+### Cherry Hinton Pit boundary
+
+```{r fig.height=4, fig.width=4}
+
+sssi_url <- "https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/SSSI_England/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson"
+
+sssi <- st_read(sssi_url)
+
+st_crs(sssi)
+
+
+chcp <- sssi %>%
+  filter(OBJECTID == 4204) %>%
+  st_transform(4326)
+
+chcp %>%
+  ggplot() +
+  annotation_map_tile(zoomin = -0, type = "osm") +
+  geom_sf(alpha = 0) +
+  annotation_north_arrow(location = "tr") +
+  annotation_scale(location = "br") +
+  theme(axis.text = element_blank(), 
+        axis.ticks = element_blank(), 
+        panel.background = element_blank())
+  
+
+
+
+
+```
+
+

@@ -1,0 +1,46 @@
+2022-02-02 15:11:57,880 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Windows/10)
+2022-02-02 15:11:57,880 --- start push jflowers/cherryhinton
+2022-02-02 15:11:58,152 got project info: local version v0 / server version v0
+2022-02-02 15:11:58,156 push changes:
+{'added': [{'checksum': 'ad079fce7a459708389841a9d2cd24009bed11ee',
+            'chunks': ['e62ec631-ef56-4357-b922-eacc67df1e7b'],
+            'mtime': datetime.datetime(2022, 1, 31, 12, 30, 54, 841326, tzinfo=tzlocal()),
+            'path': 'about.Rmd',
+            'size': 150},
+           {'checksum': 'a8e3534ff7198b44b44276a6e4b2a44e19031b34',
+            'chunks': ['c3f2dbc8-b00f-4eea-9159-b441434e122d'],
+            'mtime': datetime.datetime(2022, 2, 2, 15, 11, 57, 43185, tzinfo=tzlocal()),
+            'path': 'cherryhinton.qgz',
+            'size': 4497},
+           {'checksum': '8cf86e766efee5d077c0a20925c72c7df37bc90b',
+            'chunks': ['70cdb202-8669-48e3-ba93-034467d509d4'],
+            'mtime': datetime.datetime(2022, 1, 31, 12, 30, 54, 842327, tzinfo=tzlocal()),
+            'path': 'index.Rmd',
+            'size': 187},
+           {'checksum': 'b3e13184c0b9e6202ccf29767bbc6ac8973268c1',
+            'chunks': ['a8f73d2f-45df-4455-a2c6-de76bfff1a7f'],
+            'mtime': datetime.datetime(2022, 1, 31, 12, 30, 54, 842327, tzinfo=tzlocal()),
+            'path': 'license.Rmd',
+            'size': 720},
+           {'checksum': 'c4d5567c6a0fb9e165bc8c80e783778af72a1855',
+            'chunks': ['2372e0a3-1ccc-436b-9f64-06ed6ef07a21'],
+            'mtime': datetime.datetime(2022, 1, 31, 12, 30, 54, 841326, tzinfo=tzlocal()),
+            'path': '_site.yml',
+            'size': 422}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2022-02-02 15:11:58,801 got transaction ID d8daa349-7fa0-4bd1-8db0-cfb7cac66793
+2022-02-02 15:11:58,802 will upload 5 items with total size 5976
+2022-02-02 15:11:58,805 Uploading C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\about.Rmd part=0
+2022-02-02 15:11:58,806 Uploading C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\index.Rmd part=0
+2022-02-02 15:11:58,807 Uploading C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\cherryhinton.qgz part=0
+2022-02-02 15:11:58,807 Uploading C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\license.Rmd part=0
+2022-02-02 15:11:59,149 Upload finished: C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\about.Rmd
+2022-02-02 15:11:59,150 Uploading C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\_site.yml part=0
+2022-02-02 15:11:59,163 Upload finished: C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\license.Rmd
+2022-02-02 15:11:59,163 Upload finished: C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\cherryhinton.qgz
+2022-02-02 15:11:59,163 Upload finished: C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\index.Rmd
+2022-02-02 15:11:59,372 Upload finished: C:\Users\Julian\OneDrive\Desktop\MOD007045\MOD007045\analysis\_site.yml
+2022-02-02 15:11:59,459 Finishing transaction d8daa349-7fa0-4bd1-8db0-cfb7cac66793
+2022-02-02 15:11:59,912 --- push finished - new project version v1

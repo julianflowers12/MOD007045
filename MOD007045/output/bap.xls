@@ -1,0 +1,659 @@
+
+
+<!doctype html>
+<html lang="en">
+<head>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NS88J5S');</script>
+        <!-- End Google Tag Manager -->
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+        Report on the Species and Habitat Review (UK BAP) | JNCC Resource Hub
+    </title>
+	<meta name="description" content="The *Report on the Species and Habitat Review* was produced by the Biodiversity Reporting and Information Group (BRIG) for the UK BAP UK Standing Committee in 2007.&#xA;&#xA;The aim of the Species and Habitat">
+	
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="shortcut icon" href="/frontend/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="/frontend/css/app.css">
+	<link rel="stylesheet" href="/css/site.css">
+
+    
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.0/js/foundation.min.js" defer></script>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<script src="/js/lib/readmore-3.0.0-beta-1.js" defer></script>
+
+    
+    
+        <script src="/js/site.min.js"></script>
+    
+
+</head>
+<body>
+	<noscript><div>Javascript must be enabled for the correct page display</div></noscript>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NS88J5S"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+	<div id="wrapper">
+		<a class="accessibility" href="#main" accesskey="S">Skip to Content</a>
+		<header id="header">
+			<div class="container">
+				<strong class="logo">
+					<a href="https://jncc.gov.uk" accesskey="1"><img src="/frontend/images/logo.png" alt="JNCC"></a>
+				</strong>
+				<form action="https://jncc.gov.uk/search" role="search" class="top-bar search-form input-group" id="search-form" data-animate="hinge-in-from-top spin-out">
+					<label for="search-field" class="show-for-sr" accesskey="4">Search:</label>
+					<input type="search" name="q" placeholder="Search jncc.gov.uk" class="input-group-field" id="search-field">
+					<button class="input-group-button" aria-label="search-button"><i class="icon-search"></i></button>
+				</form>
+				<div class="show-for-small-only">
+					<div class="title-bar" data-responsive-toggle="search-form" data-hide-for="medium">
+						<button type="button" class="search-opener" data-toggle="search-form" aria-label="search-opener"><i class="icon-search"></i></button>
+					</div>
+					<div class="title-bar" data-responsive-toggle="menu" data-hide-for="medium">
+						<button type="button" class="nav-opener" data-toggle="menu" data-responsive-toggle="menu" aria-label="navigation-opener"><span></span></button>
+					</div>
+				</div>
+			</div>
+			<nav class="top-bar nav no-page-hero " id="menu" data-animate="hinge-in-from-top spin-out" aria-label="main-navigation">
+				<div class="container mobileNavContainer">
+					<ul class="vertical medium-horizontal menu dropdown" data-dropdown-menu data-click-open data-alignment="left"
+                     style="vertical-align:middle;">
+                        <li class="is-dropdown-submenu-parent">
+                            <a href="https://jncc.gov.uk/our-role/">Our role</a>
+                            <ul class="vertical menu nested">
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/our-role/the-uk/">The UK</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/our-role/the-offshore-marine-environment/">The offshore marine environment</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/our-role/the-uks-overseas-territories/">The UK&#39;s Overseas Territories</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/our-role/international/">International</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="is-dropdown-submenu-parent">
+                            <a href="https://jncc.gov.uk/monitoring/">Monitoring</a>
+                            <ul class="vertical menu nested">
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/monitoring/cost-effective-approaches/">Cost-effective approaches</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/monitoring/earth-observation/">Earth observation</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/monitoring/marine-monitoring-mapping/">Marine monitoring &amp; mapping</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/monitoring/analyses-trends/">Analyses &amp; trends</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="is-dropdown-submenu-parent">
+                            <a href="https://jncc.gov.uk/evaluating/">Evaluating</a>
+                            <ul class="vertical menu nested">
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/evaluating/sustainable-global-supply-chains/">Sustainable global supply chains</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/evaluating/land-use/">Land use</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/evaluating/climate-change/">Climate change</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="is-dropdown-submenu-parent">
+                            <a href="https://jncc.gov.uk/advice/">Advice</a>
+                            <ul class="vertical menu nested">
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/advice/improving-global-co-ordination-action/">Improving global co-ordination &amp; action</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/advice/offshore-industries/">Offshore Industries</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/advice/marine-protected-areas/">Marine Protected Areas</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/advice/sustainable-development-overseas/">Sustainable development overseas</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="is-dropdown-submenu-parent">
+                            <a href="https://jncc.gov.uk/our-work/">Our work</a>
+                            <ul class="vertical menu nested">
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/our-work/our-work-a-z/">Our work A–Z</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="is-dropdown-submenu-parent active ">
+                            <a href="/">Resources</a>
+                            <ul class="vertical menu nested">
+        						<li class="">
+                                    <a href="/search">Search our resources</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="is-dropdown-submenu-parent">
+                            <a href="https://jncc.gov.uk/about-jncc/">About JNCC</a>
+                            <ul class="vertical menu nested">
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/about-jncc/who-we-are/">Who we are</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/about-jncc/how-we-work/">How we work</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/about-jncc/our-performance/">Our performance</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/about-jncc/corporate-information/">Corporate information</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/about-jncc/jncc-blog/">JNCC Blog</a>
+                                </li>
+                                <li class="">
+                                    <a href="https://jncc.gov.uk/about-jncc/careers/">Careers</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="menuitem">
+                            <a href="https://jncc.gov.uk/news/">News</a>
+                        </li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+
+        <p class="container show-for-small-only" style="margin-bottom: 1.5rem;">
+            <i class="fas fa-database fa-fw"></i> Resource hub
+        </p>
+
+        <main id="main">
+        
+
+
+
+
+ 
+<div class="space-below show-for-medium">
+    <!-- whitespace for when the "show-for-small-only" microsite name subtitile is hidden -->
+</div>
+
+<div class="container">
+
+<div class="grid-x grid-margin-x">
+    <div class="cell medium-expand small-order-1 medium-order-2">
+        
+        <!-- Title -->
+        <h1 style="margin-bottom: 1rem;">
+            <span class="spot-colour" style="margin-right:0.3rem;">  
+            <i class="fas fa-file-alt"
+                data-toggle="tooltip" title="publication"></i>
+            </span>
+            <span style="margin-right: 0.1em;">Report on the Species and Habitat Review (UK BAP)</span>
+            <span class="text-small text-muted">2007</span>
+        </h1>
+
+        <p>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fjncc-domain%2FFreshwater">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    Freshwater
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fjncc-domain%2FTerrestrial">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    Terrestrial
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fjncc-category%2FUK&#x2B;Biodiversity">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    UK Biodiversity
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fjncc-publication-category%2FHabitats">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    Habitats
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fjncc-publication-category%2FSpecies">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    Species
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fjncc-publication-category%2FUK&#x2B;BAP">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    UK BAP
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fjncc-publication-category%2FUK&#x2B;Habitats&#x2B;and&#x2B;Species">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    UK Habitats and Species
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fnatural-capital-glossary%2FBiodiversity&#x2B;">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    Biodiversity 
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fnatural-capital-glossary%2FSpecies&#x2B;">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    Species 
+</span>
+
+                </a>
+                <a href="/search?k=http%3A%2F%2Fvocab.jncc.gov.uk%2Fnatural-capital-glossary%2FSpecies&#x2B;diversity">
+                    
+<span class="keyword" data-toggle="tooltip" data-placement="top" title="Click to filter by this keyword">
+    Species diversity
+</span>
+
+                </a>
+        </p>
+        <div class="module">
+            <p id="abstract">
+                <span class="text-label">Abstract</span> <p>The <em>Report on the Species and Habitat Review</em> was produced by the Biodiversity Reporting and Information Group (BRIG) for the UK BAP UK Standing Committee in 2007.</p>
+<p>The aim of the Species and Habitat Review was to ensure that the UK BAP remained focussed on the correct priorities for action and took account of changes in the status of UK biodiversity in addition to new information and knowledge. This was the first full review of the UK BAP priority list, and through the review the original list of UK BAP priority species and habitats, produced between 1995 and 1999, was assessed and updated.</p>
+<p>The following documents are also provided here, to accompany the report:</p>
+<ul>
+<li>the <em>UK BAP List of Priority Habitats and Species</em> spreadsheet (V1.4 2010).</li>
+<li>the <em>Selection Criteria</em> spreadsheet, which describes the criteria used to select species, and provides the details and justification for the selection of each individual priority species.</li>
+<li>the <em>De-listed Species</em> spreadsheet, which contains the details of the species which were de-listed as a result of the review.</li>
+</ul>
+<p>The <a href="https://hub.jncc.gov.uk/assets/98fb6dab-13ae-470d-884b-7816afce42d4">list of priority species is also available as a series of tables, split by taxonomic group</a>.</p>
+<p>Please note: due to the age of these documents, some of the weblinks contained within the text may no longer function.</p>
+
+            </p>
+        </div>
+
+    </div>
+</div> <!-- grid -->
+
+<!-- tabs -->
+<div class="grid-x grid-margin-x">
+    <div class="cell large-6 large-order-2">
+        <ul class="tabs" data-tabs id="resource-tabs">
+            <li class="tabs-title is-active">
+                <a href="#resource-list" aria-selected="true">
+                    <i class="fas fa-cloud-download-alt"></i>
+                    <span class="space-after">Resources</span> <span class="round-badge">4</span>
+                </a>
+            </li>
+        </ul>
+        <div class="tabs-content space-below" data-tabs-content="resource-tabs">
+            <div class="tabs-panel is-active" id="resource-list">
+                <ul>
+                            <li class="pb-2" id="UKBAP-Species-HabitatsReview-2007.pdf">
+                                <div class="grid-x embedded-grid">
+                                    <div class="cell small-11">
+                                        <div class="highlightable">
+                                            <span>
+                                                <a href="https://data.jncc.gov.uk/data/bdd8ad64-c247-4b69-ab33-19c2e0d63736/UKBAP-Species-HabitatsReview-2007.pdf"
+                                                    class="space-after"
+                                                    data-event="download"
+                                                    data-size="1362109"
+                                                    target="_blank">Report on the Species and Habitat Review 2007</a>
+                                                    <span class="square-badge">PDF</span>
+                                            </span>
+                                            <br />
+                                            <span class="text-small">
+                                                    <span style="word-spacing:-0.3em; margin-right:0.6em">
+                                                        1.3 MB
+                                                    </span>
+                                                    <span style="overflow-wrap: break-word;" class="text-muted">
+                                                        UKBAP-Species-HabitatsReview-2007.pdf
+                                                    </span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="cell small-1">
+                                        <div class="highlight-bar"/>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="pb-2" id="UKBAP-UKListPriorityHabitatsSpecies-V1.4-2010.xls">
+                                <div class="grid-x embedded-grid">
+                                    <div class="cell small-11">
+                                        <div class="highlightable">
+                                            <span>
+                                                <a href="https://data.jncc.gov.uk/data/bdd8ad64-c247-4b69-ab33-19c2e0d63736/UKBAP-UKListPriorityHabitatsSpecies-V1.4-2010.xls"
+                                                    class="space-after"
+                                                    data-event="download"
+                                                    data-size="353280"
+                                                    target="_blank">UK BAP List of Priority Habitats and Species: spreadsheet (V1.4 2010)</a>
+                                                    <span class="square-badge">XLS</span>
+                                            </span>
+                                            <br />
+                                            <span class="text-small">
+                                                    <span style="word-spacing:-0.3em; margin-right:0.6em">
+                                                        345.0 KB
+                                                    </span>
+                                                    <span style="overflow-wrap: break-word;" class="text-muted">
+                                                        UKBAP-UKListPriorityHabitatsSpecies-V1.4-2010.xls
+                                                    </span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="cell small-1">
+                                        <div class="highlight-bar"/>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="pb-2" id="UKBAP-PrioritySpecies-SelectionCriteria.xls">
+                                <div class="grid-x embedded-grid">
+                                    <div class="cell small-11">
+                                        <div class="highlightable">
+                                            <span>
+                                                <a href="https://data.jncc.gov.uk/data/bdd8ad64-c247-4b69-ab33-19c2e0d63736/UKBAP-PrioritySpecies-SelectionCriteria.xls"
+                                                    class="space-after"
+                                                    data-event="download"
+                                                    data-size="1865728"
+                                                    target="_blank">Species and Habitat Review: Priority Species Selection Criteria (spreadsheet)</a>
+                                                    <span class="square-badge">XLS</span>
+                                            </span>
+                                            <br />
+                                            <span class="text-small">
+                                                    <span style="word-spacing:-0.3em; margin-right:0.6em">
+                                                        1.8 MB
+                                                    </span>
+                                                    <span style="overflow-wrap: break-word;" class="text-muted">
+                                                        UKBAP-PrioritySpecies-SelectionCriteria.xls
+                                                    </span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="cell small-1">
+                                        <div class="highlight-bar"/>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="pb-2" id="UKBAP-DelistedSpecies-2007.xls">
+                                <div class="grid-x embedded-grid">
+                                    <div class="cell small-11">
+                                        <div class="highlightable">
+                                            <span>
+                                                <a href="https://data.jncc.gov.uk/data/bdd8ad64-c247-4b69-ab33-19c2e0d63736/UKBAP-DelistedSpecies-2007.xls"
+                                                    class="space-after"
+                                                    data-event="download"
+                                                    data-size="44032"
+                                                    target="_blank">Species and Habitat Review: De-listed Species (spreadsheet)</a>
+                                                    <span class="square-badge">XLS</span>
+                                            </span>
+                                            <br />
+                                            <span class="text-small">
+                                                    <span style="word-spacing:-0.3em; margin-right:0.6em">
+                                                        43.0 KB
+                                                    </span>
+                                                    <span style="overflow-wrap: break-word;" class="text-muted">
+                                                        UKBAP-DelistedSpecies-2007.xls
+                                                    </span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <div class="cell small-1">
+                                        <div class="highlight-bar"/>
+                                    </div>
+                                </div>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="cell large-6 large-order-1">
+        <ul class="tabs" data-tabs id="detail-tabs">
+            <li class="tabs-title is-active">
+                <a href="#main-detail" aria-selected="true">
+                    <i class="fas fa-asterisk"></i> Detail
+                </a>
+            </li>
+            <li class="tabs-title">
+                <a data-tabs-target="usage-detail" href="#usage-detail">
+                    <i class="fas fa-utensils"></i> Usage
+                </a>
+            </li>
+            <li class="tabs-title">
+                <a data-tabs-target="meta-detail" href="#meta-detail">
+                    <i class="fas fa-cog"></i> Meta
+                </a>
+            </li>
+            <li class="tabs-title">
+                <a data-tabs-target="extent-detail" href="#extent-detail">
+                    <i class="fas fa-map-marker-alt"></i> Extent
+                </a>
+            </li>
+        </ul>
+        <div class="tabs-content space-below" data-tabs-content="detail-tabs">
+            <div class="tabs-panel is-active" id="main-detail">
+                <p>
+                    <span class="text-label">Resource type</span>
+                    Publication
+                </p>
+
+                <p>
+                    <span class="text-label">Topic category</span>
+                    Environment
+                </p>
+
+                <p>
+                    <span class="text-label">Reference date</span>
+                    <span title="Dataset Reference Date" data-toggle="tooltip" data-placement="top">
+                        
+
+<span>2007</span><span class="text-muted">&#x00B7</span><span>06</span><span class="text-muted">&#x00B7</span><span>01</span>
+                    </span>
+                </p>
+
+
+                <p>
+                    <span class="text-label">Citation</span>
+                    <br />
+                    BRIG. 2007. Report on the Species and Habitat Review (Report by the Biodiversity Reporting and Information Group (BRIG) to the UK Standing Committee). JNCC, Peterborough.
+                </p>
+
+                <p>
+                    <span class="text-label">Lineage</span>
+                    <br />
+                    The Species and Habitat Review was undertaken in 2007.  This report and the accompanying documents, outline the process and outcomes
+                </p>
+
+            </div>
+            <div class="tabs-panel" id="usage-detail">
+                <p>
+                    <span class="text-label">Responsible organisation</span>
+                    <br />
+                    <span class="space-after">Communications, JNCC</span>
+                    <span class="square-badge">publisher</span>
+                    <br />
+                    <i class="fas fa-envelope email-address-icon"></i>
+                    <span class="email-address">comms@jncc.gov.uk</span>
+                </p>
+                
+                <p>
+                    <span class="text-label">Limitations on public access</span>
+                    No limitations
+                </p>
+
+                <p>
+                    <span class="text-label">Use constraints</span>
+                    <span class="">Available under the Open Government Licence 3.0</span>
+                </p>
+            </div>
+            <div class="tabs-panel" id="meta-detail">
+                <p>
+                    <span class="text-label">Metadata date</span>
+                    <span title="2019-10-31T21:00:05.1028087Z" data-toggle="tooltip">
+                        
+
+<span>2019</span><span class="text-muted">&#x00B7</span><span>10</span><span class="text-muted">&#x00B7</span><span>31</span>                        
+                    </span>
+                </p>
+                <p>
+                    <span class="text-label">Metadata point of contact</span>
+                    <br />
+                    <span class="">Communications, JNCC</span>
+                    <br />
+                    <i class="fas fa-envelope email-address-icon"></i>
+                    <span class="email-address">comms@jncc.gov.uk</span>
+
+                </p>
+            </div>
+            <div class="tabs-panel" id="extent-detail">
+                                                                            </div>
+        </div>
+    </div>
+</div>
+
+</div> <!-- container -->
+
+        </main>
+
+		<footer id="footer" class="text-center medium-text-left">
+			<div class="container">
+				<div class="row" id="footer-nav">
+					<div class="columns small-12 medium-4">
+						<nav class="holder" aria-label="footer-navigation">
+							<h3>About us</h3>
+							<ul class="footer-nav no-bullet">
+								<li><a href="https://jncc.gov.uk/about-jncc/">About JNCC</a></li>
+								<li><a href="https://jncc.gov.uk/about-jncc/careers/">Careers</a></li>
+								<li><a href="https://jncc.gov.uk/about-jncc/corporate-information/procurement/">Procurement</a></li>
+							</ul>
+						</nav>
+					</div>
+					<div class="columns small-12 medium-4">
+						<nav class="holder" aria-label="footer-navigation">
+							<h3>Our work</h3>
+							<ul class="footer-nav no-bullet">
+								<li><a href="https://jncc.gov.uk/our-work/our-work-a-z/">Our work A-Z</a></li>
+								<li><a href="https://hub.jncc.gov.uk/">Resource hub</a></li>
+								<li><a href="https://jncc.gov.uk/about-jncc/jncc-blog/">JNCC Blog</a></li>
+								<li><a href="https://jncc.gov.uk/news/">News</a></li>
+							</ul>
+						</nav>
+					</div>
+					<div class="columns small-12 medium-4">
+						<nav class="holder" aria-label="footer-navigation">
+							<h3>Our services</h3>
+							<ul class="footer-nav no-bullet">
+								<li><a href="https://jncc.gov.uk/our-role/">Our role</a></li>
+								<li><a href="https://jncc.gov.uk/monitoring/">Monitoring</a></li>
+								<li><a href="https://jncc.gov.uk/evaluating/">Evaluating</a></li>
+								<li><a href="https://jncc.gov.uk/advice/">Advice</a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+				<ul class="social-media no-bullet">
+					<li><a href="https://twitter.com/JNCC_UK" target="_blank"><span class="show-for-sr">twitter</span><i class="icon-twitter"></i></a></li>
+					<li><a href="https://www.facebook.com/JNCCUK" target="_blank"><span class="show-for-sr">facebook</span><i class="icon-facebook"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/jncc" target="_blank"><span class="show-for-sr">linkedin</span><i class="icon-linkedin"></i></a></li>
+					<li><a href="https://www.youtube.com/channel/UC14QLVv3QA1Xu6Fjdn7GJnw"><span class="show-for-sr">youtube</span><i class="icon-youtube"></i></a></li>
+				</ul>
+			</div>
+			<div class="footer-bottom">
+				<div class="container">
+					<p>&copy; Joint Nature Conservation Committee, Monkstone House, City Road, Peterborough, PE1 1JY<br>Tel: 01733 562626 Fax: 01733 555948. Contact us:&nbsp;<a href="https://jncc.gov.uk/contact/?ref=hub" title="contact" data-anchor="?ref=hub">Enquiry form</a><br>JNCC SUPPORT CO. Registered in England and Wales. Company no. 05380206. Registered office as above</p>
+					<ul class="footer-bottom-list no-bullet info">
+						<li><a href="https://jncc.gov.uk/about-jncc/corporate-information/privacy-statement/">Privacy statement</a></li>
+						<li><a href="https://jncc.gov.uk/about-jncc/corporate-information/accessibility-statement/">Accessibility statement</a></li>
+						<li><a href="https://jncc.gov.uk/about-jncc/corporate-information/cookie-policy/">Cookie policy</a></li>
+					</ul>
+				</div>
+			</div>
+		</footer>
+	</div>
+	<a class="accessibility" href="#wrapper">Back to top</a>
+    
+    
+    <!-- <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script> -->
+    <script >
+        $(function () {
+            new Readmore('#abstract', {
+                moreLink: '<a href="#" class="text-right">Read more</a>',
+                lessLink: '<a href="#" class="text-right">Read less</a>'                
+            });
+        })
+    </script>
+    
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" integrity="sha384-JPbtLYL10d/Z1crlc6GGGGM3PavCzzoUJ1UxH0bXHOfguWHQ6XAWrIzW+MBGGXe5" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function() {
+            $('html, body').hide();
+            if (window.location.hash) {
+                $('<div><a href="#header">Back to top</a></div>').insertAfter('#resource-list');
+                $('html, body').scrollTop(0).show();
+                setTimeout(function() {
+                    var targetId = window.location.hash.replace(/\./g,'\\.');
+                    
+                    $('html, body').animate({
+                        scrollTop: $(targetId).offset().top
+                    });
+                    setTimeout(function(){
+                        $(targetId).addClass('highlighted');
+                        $(targetId).find('.highlightable').effect('highlight', {color: '#FFFF99'}, 3000);
+                    }, 500);
+                    
+                },  10);
+            } else {
+                $('html, body').show();
+            }
+            
+        });
+    </script>
+
+    
+    <!-- Cookie Consent Setup -->
+    <div data-cookie-banner-container class="sticky-cookie"></div>
+    <script type="text/html" class="sticky-cookie" id="cookie-banner-template" data-cookie-name="cookiePolicyAcceptance" data-cookie-duration="20">
+        <div class="row expanded cookie-policy" data-closable>
+            <div class="container row">
+                <div class="cookie-banner-text columns small-12 medium-9 large-9">
+                    We use cookies to track usage of our site. Details of these can be found on our <a href="https://jncc.gov.uk/about-jncc/corporate-information/cookie-policy/" title="Cookie policy">Cookie Policy</a>. You may choose to <button class="buttonLink" onclick="CookieDisagreement()">decline all tracking cookies</button>, but if you do some key features may not work as expected.
+                </div>
+                <div class="columns small-12 medium-3 large-3">
+                    <p class="cookie-button-container">
+                        <button class="cookie-button" onclick="CookieAgreement()" id="Agree">Agree &amp; Close</button>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </script>
+
+</body>
+</html>
