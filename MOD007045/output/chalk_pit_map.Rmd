@@ -1,7 +1,11 @@
 ---
 title: "Cherry Hinton Chalk Pits"
-subtitle: "Mapping"
-output: html_notebook
+subtitle: Mapping
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: inline
 ---
 
 ```{r setup, include=FALSE}
@@ -9,12 +13,40 @@ knitr::opts_chunk$set(cache = TRUE, message =FALSE, warning = FALSE)
 
 library(pacman)
 
-p_load(tidyverse, sf, ggspatial, spatial)
-
+p_load(tidyverse, sf, ggspatial, spatial, raster, here, sp)
+here()
 
 ```
 
+
 ### Cherry Hinton Pit boundary
+
+* Obtain SSSI boundary (ID = 4204)
+* Obtain landcover data (used 2020 CEH 10m pixel dataset cropped to SSSI boundary)
+* Obtain LNER boundaries for East Pit and Limekiln Close
+
+```{r fig.height=4, fig.width=4}
+
+f <- list.files(here("data"), pattern = "shp", full.names = T)
+
+lnr <- st_read(f[1])
+
+lnr <- lnr %>%
+  st_transform(4326) %>%
+  st_union() 
+
+lnr %>%
+  ggplot() +
+  annotation_map_tile(zoomin = -0, type = "osm") +
+  geom_sf(alpha = 0) +
+  annotation_north_arrow(location = "tr") +
+  annotation_scale(location = "br") +
+  theme(axis.text = element_blank(), 
+        axis.ticks = element_blank(), 
+        panel.background = element_blank())
+
+```
+
 
 ```{r fig.height=4, fig.width=4}
 
@@ -45,4 +77,62 @@ chcp %>%
 
 ```
 
+```{r fig.height=4, fig.width=4}
+dirs <- list.dirs("../")
+files <- list.files(dirs[5], full.names = TRUE)
+lc <- raster(files[2])
+```
+
+
+```{r}
+lc_cat <- data.frame(LCM = c(1, 3, 4, 12, 20, 21), 
+                     name = c("Broadleaf woodland",
+                              "Arable", 
+                              "Improved grassland",
+                              "Inland rock", 
+                              "Urban", 
+                              "Suburban")
+)
+
+plot(lc)
+
+raster::tr
+lnr1 <- st_transform(lnr, 27700)
+lnr1 <- as(lnr, "Spatial")
+extent(lc)
+st_bbox(lnr1)
+
+lcm <- crop(lc, lnr1)
+lcm1 <- mask(lc, lnr) 
+
+lcm_df <- as.data.frame(lcm1, xy = TRUE)  %>%
+  drop_na() %>%
+  left_join(lc_cat, by = c("LCM"))
+
+lcm_df %>%
+  count(LCM) %>%
+  mutate(prop = 100 * n / sum(n))
+```
+
+
+```{r}
+
+plot(lcm1)
+
+lcm_df %>%
+  mutate(lcm = factor(LCM)) %>%
+  ggplot() +
+  geom_sf(data = chcp1, colour = "black", lwd = 2) +
+  annotation_scale() + 
+  annotation_north_arrow(location = "tl") +
+  geom_tile(aes(x, y, fill = name),  alpha = 0.7) +
+  scale_fill_brewer(palette = "RdYG", direction = -1, name = "Landcover\nclass") +
+  theme(axis.text = element_blank(), 
+        axis.ticks = element_blank(), 
+        panel.background = element_blank()) +
+  labs(x = "",
+       y = "", 
+       caption = "Source: 2020 CEH Landscape Cover 10m")
+
+```
 
