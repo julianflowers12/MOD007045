@@ -31,9 +31,9 @@ f <- list.files(here("data"), pattern = "shp", full.names = T)
 
 lnr <- st_read(f[1])
 
-lnr <- lnr %>%
-  st_transform(4326) %>%
-  st_union() 
+# lnr <- lnr %>%
+#   st_transform(4326) %>%
+#   st_union() 
 
 lnr %>%
   ggplot() +
@@ -54,7 +54,8 @@ sssi_url <- "https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/S
 
 sssi <- st_read(sssi_url)
 
-st_crs(sssi)
+cp <- sssi %>%
+  filter(OBJECTID == 4204) 
 
 
 chcp <- sssi %>%
@@ -80,6 +81,10 @@ chcp %>%
 ```{r fig.height=4, fig.width=4}
 dirs <- list.dirs("../")
 files <- list.files(dirs[5], full.names = TRUE)
+lnr <- st_read("https://opendata.arcgis.com/datasets/b1d690ac6dd54c15bdd2d341b686ecd7_0.geojson")
+
+lnr %>%
+  filter(str_detect(LNR_NAME, "Limekiln"))
 lc <- raster(files[2])
 ```
 
