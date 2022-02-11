@@ -1,0 +1,20 @@
+{
+  "name": "jflowers/cp1",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "17f2c1db024994257a2e977a290e609927e8290c",
+      "mtime": "2022-02-08T17:17:06.982499Z",
+      "path": "Cp.qgs",
+      "size": 27615,
+      "version": "v1"
+    },
+    {
+      "checksum": "896f349f86a91dad62fade01f003b34101de3cac",
+      "mtime": "2022-02-08T17:17:07.032397Z",
+      "path": "data.gpkg",
+      "size": 98304,
+      "version": "v1"
+    }
+  ]
+}

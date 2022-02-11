@@ -1,0 +1,9 @@
+2022-02-11 08:58:58,675 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.13 (Darwin/12.3)
+2022-02-11 08:58:58,675 --- start download jflowers/cp1
+2022-02-11 08:58:59,012 got project info. version v1
+2022-02-11 08:58:59,012 will download 2 files in 2 chunks, total size 125919
+2022-02-11 08:58:59,013 Downloading Cp.qgs version=v1 diff=False part=0
+2022-02-11 08:58:59,014 Downloading data.gpkg version=v1 diff=False part=0
+2022-02-11 08:58:59,378 Download finished: Cp.qgs
+2022-02-11 08:58:59,392 Download finished: data.gpkg
+2022-02-11 08:58:59,537 --- download finished
