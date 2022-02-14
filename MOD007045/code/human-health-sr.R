@@ -1,27 +1,32 @@
 ## microplastics and human health
 
-library(myScrapers); library(europepmc); library(tidypmc)
+library(myScrapers); library(europepmc); library(tidypmc); library(europepmc); library(tidypmc)
 
-search <- "plasticenta"
+search <- "plastic exposure human[mh] systematic[sb]"
 
-n <- 13
-start <- 2000
+n <- 5
+start <- 1990
 end <- 2022
 
 key <- Sys.getenv("ncbi_key")
 
 res <- pubmedAbstractR(search = search, n = n, start = start, end = end, ncbi_key = key)
 
-res$abstracts$abstract
+res$abstracts %>%
+  gt::gt()
 
 pmc <- pluck(res$abstracts, "pmid")
 pmc <- map(pmc, epmc_details) %>%
   map(., "basic")
 
-glimpse(pmc)
+pmcid <- map(pmc, "pmcid") %>%
+  enframe() %>%
+  unnest("value")
 
+pmc_xml <- pmcid %>%
+  mutate(xml = map(value, ~(possibly(pmc_xml(.x), otherwise = NA_real_))))
 
-search1 <- "plastic pollution health human[mh] review[pt ]"
+search1 <- "plastic pollution public health human[mh] review[pt ]"
 
 n <- 146
 start <- 2000
