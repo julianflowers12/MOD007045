@@ -1,0 +1,41 @@
+{
+  "name": "jflowers/cherryhinton",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "ad079fce7a459708389841a9d2cd24009bed11ee",
+      "mtime": "2022-02-02T15:11:58.983232Z",
+      "path": "about.Rmd",
+      "size": 150,
+      "version": "v1"
+    },
+    {
+      "checksum": "a8e3534ff7198b44b44276a6e4b2a44e19031b34",
+      "mtime": "2022-02-02T15:11:58.983234Z",
+      "path": "cherryhinton.qgz",
+      "size": 4497,
+      "version": "v1"
+    },
+    {
+      "checksum": "8cf86e766efee5d077c0a20925c72c7df37bc90b",
+      "mtime": "2022-02-02T15:11:58.983235Z",
+      "path": "index.Rmd",
+      "size": 187,
+      "version": "v1"
+    },
+    {
+      "checksum": "b3e13184c0b9e6202ccf29767bbc6ac8973268c1",
+      "mtime": "2022-02-02T15:11:58.983236Z",
+      "path": "license.Rmd",
+      "size": 720,
+      "version": "v1"
+    },
+    {
+      "checksum": "c4d5567c6a0fb9e165bc8c80e783778af72a1855",
+      "mtime": "2022-02-02T15:11:58.983236Z",
+      "path": "_site.yml",
+      "size": 422,
+      "version": "v1"
+    }
+  ]
+}

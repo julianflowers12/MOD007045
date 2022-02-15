@@ -1,0 +1,100 @@
+2022-02-08 17:18:33,981 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.13 (Darwin/12.3)
+2022-02-08 17:18:33,988 --- start push jflowers/cp_e010
+2022-02-08 17:18:34,134 got project info: local version v0 / server version v0
+2022-02-08 17:18:34,158 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Grid.gpkg
+2022-02-08 17:18:34,163 checkpoint - return value: (0, 0, 0)
+2022-02-08 17:18:34,169 checkpoint - new size 180224 checksum 6e183c6a096a277dca32c7ac06a748db8e018e9d
+2022-02-08 17:18:34,171 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/OSGR_grid_squares.gpkg
+2022-02-08 17:18:34,172 checkpoint - return value: (0, 0, 0)
+2022-02-08 17:18:34,178 checkpoint - new size 274432 checksum 1a04e7702be0ccbec14de099a2b3b7d3b012ba46
+2022-02-08 17:18:34,178 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Added_geom_info.gpkg
+2022-02-08 17:18:34,179 checkpoint - return value: (0, 0, 0)
+2022-02-08 17:18:34,182 checkpoint - new size 98304 checksum e4ccfe2893633c9c597f71fae5cf0c639d93b8d4
+2022-02-08 17:18:34,182 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Local_Nature_Reserves_England.gpkg
+2022-02-08 17:18:34,183 checkpoint - return value: (0, 0, 0)
+2022-02-08 17:18:34,186 checkpoint - new size 106496 checksum 32bfe4c971017df4e370cfc9387a2d9cdc0cfb16
+2022-02-08 17:18:34,187 push changes:
+{'added': [{'checksum': '6e183c6a096a277dca32c7ac06a748db8e018e9d',
+            'chunks': ['0c56600e-6fa1-4612-ba7b-34a7804d072d'],
+            'mtime': datetime.datetime(2022, 2, 8, 17, 18, 32, 853474, tzinfo=tzlocal()),
+            'path': 'Grid.gpkg',
+            'size': 180224},
+           {'checksum': '1a04e7702be0ccbec14de099a2b3b7d3b012ba46',
+            'chunks': ['e0e8e1b9-0075-4a5e-894c-f90a9b34bb97'],
+            'mtime': datetime.datetime(2022, 2, 8, 17, 18, 32, 819862, tzinfo=tzlocal()),
+            'path': 'OSGR_grid_squares.gpkg',
+            'size': 274432},
+           {'checksum': '01525db7631310998a5ceda71f4ae4d1a4d0a636',
+            'chunks': ['a21b816b-68f2-4584-bfb3-ff1caedb6637'],
+            'mtime': datetime.datetime(2022, 2, 8, 17, 18, 33, 225317, tzinfo=tzlocal()),
+            'path': 'cp_e010.qgz',
+            'size': 19483},
+           {'checksum': 'e4ccfe2893633c9c597f71fae5cf0c639d93b8d4',
+            'chunks': ['c5b08199-8d84-4e74-b008-1427e50ee6cc'],
+            'mtime': datetime.datetime(2022, 2, 8, 17, 18, 32, 875578, tzinfo=tzlocal()),
+            'path': 'Added_geom_info.gpkg',
+            'size': 98304},
+           {'checksum': 'f5ebea4724014d503177cd383ff459128e081700',
+            'chunks': ['22d718db-5780-49dd-9c7c-eebe771eda9c'],
+            'mtime': datetime.datetime(2022, 2, 8, 17, 18, 33, 62313, tzinfo=tzlocal()),
+            'path': 'LCM.tif',
+            'size': 2610599},
+           {'checksum': '32bfe4c971017df4e370cfc9387a2d9cdc0cfb16',
+            'chunks': ['90d12cc4-5f57-46e7-ab48-5330ba159e62'],
+            'mtime': datetime.datetime(2022, 2, 8, 17, 18, 32, 764229, tzinfo=tzlocal()),
+            'path': 'Local_Nature_Reserves_England.gpkg',
+            'size': 106496},
+           {'checksum': '1b96b085c19a61d90eab047093e11b2e8bc304d3',
+            'chunks': ['4b31996d-fed4-4497-8ad4-2c131a9659c8'],
+            'mtime': datetime.datetime(2022, 2, 8, 17, 18, 32, 918088, tzinfo=tzlocal()),
+            'path': 'OUTPUT.tif',
+            'size': 7247}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2022-02-08 17:18:34,188 Making a temporary copy (full upload): Grid.gpkg
+2022-02-08 17:18:34,190 Making a temporary copy (full upload): OSGR_grid_squares.gpkg
+2022-02-08 17:18:34,227 Making a temporary copy (full upload): Added_geom_info.gpkg
+2022-02-08 17:18:34,247 Making a temporary copy (full upload): Local_Nature_Reserves_England.gpkg
+2022-02-08 17:18:34,547 got transaction ID cee58da0-3b69-439e-a022-40100c86dc04
+2022-02-08 17:18:34,548 will upload 7 items with total size 3296785
+2022-02-08 17:18:34,556 Uploading /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/cp_e010.qgz part=0
+2022-02-08 17:18:34,556 Uploading /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/Grid.gpkg part=0
+2022-02-08 17:18:34,557 Uploading /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/OSGR_grid_squares.gpkg part=0
+2022-02-08 17:18:34,557 Uploading /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/Added_geom_info.gpkg part=0
+2022-02-08 17:18:34,761 Upload finished: /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/cp_e010.qgz
+2022-02-08 17:18:34,770 Uploading /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/LCM.tif part=0
+2022-02-08 17:18:34,903 Upload finished: /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/Added_geom_info.gpkg
+2022-02-08 17:18:34,905 Uploading /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/Local_Nature_Reserves_England.gpkg part=0
+2022-02-08 17:18:34,935 Upload finished: /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/Grid.gpkg
+2022-02-08 17:18:34,935 Uploading /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/OUTPUT.tif part=0
+2022-02-08 17:18:34,997 Upload finished: /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/OSGR_grid_squares.gpkg
+2022-02-08 17:18:35,146 Upload finished: /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/OUTPUT.tif
+2022-02-08 17:18:35,216 Upload finished: /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-227x0j86/Local_Nature_Reserves_England.gpkg
+2022-02-08 17:18:36,864 Upload finished: /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/LCM.tif
+2022-02-08 17:18:36,944 Finishing transaction cee58da0-3b69-439e-a022-40100c86dc04
+2022-02-08 17:18:37,422 --- push finished - new project version v1
+2022-02-08 17:19:39,908 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Grid.gpkg
+2022-02-08 17:19:39,910 checkpoint - return value: (0, 0, 0)
+2022-02-08 17:19:39,916 checkpoint - new size 180224 checksum 17d2651ef8a8e3824d8589147a4561bf22f7bb69
+2022-02-08 17:19:39,916 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/OSGR_grid_squares.gpkg
+2022-02-08 17:19:39,918 checkpoint - return value: (0, 0, 0)
+2022-02-08 17:19:39,924 checkpoint - new size 274432 checksum d70d3c30d5a0dd9bf718f987acbe09fdd2b5863b
+2022-02-08 17:19:39,924 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Added_geom_info.gpkg
+2022-02-08 17:19:39,925 checkpoint - return value: (0, 0, 0)
+2022-02-08 17:19:39,929 checkpoint - new size 98304 checksum 57faad58cebccd33b1a4c20a1754821a270dfadc
+2022-02-08 17:19:39,929 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Local_Nature_Reserves_England.gpkg
+2022-02-08 17:19:39,930 checkpoint - return value: (0, 26, 26)
+2022-02-08 17:19:39,933 checkpoint - new size 106496 checksum efb85e3b9a9330860e5b84dac1c2e81528662da5
+2022-02-08 17:21:10,979 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Grid.gpkg
+2022-02-08 17:21:10,982 checkpoint - return value: (0, 44, 44)
+2022-02-08 17:21:10,988 checkpoint - new size 180224 checksum 4c00350250deca27efd1e34bfe7a59375963034e
+2022-02-08 17:21:10,988 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/OSGR_grid_squares.gpkg
+2022-02-08 17:21:10,989 checkpoint - return value: (0, 67, 67)
+2022-02-08 17:21:10,996 checkpoint - new size 274432 checksum e206510c2e97aa385f0fc1bd34eefda6037216c9
+2022-02-08 17:21:10,996 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Added_geom_info.gpkg
+2022-02-08 17:21:10,997 checkpoint - return value: (0, 24, 24)
+2022-02-08 17:21:11,000 checkpoint - new size 98304 checksum 9c1c40d209eca29bc4215a8b87b55c7a1e0607bb
+2022-02-08 17:21:11,000 checkpoint - going to add it in /Users/julianflowers/Dropbox/Mac (2)/Desktop/MOD007045/MOD007045/data/cp_e010/Local_Nature_Reserves_England.gpkg
+2022-02-08 17:21:11,002 checkpoint - return value: (0, 26, 26)
+2022-02-08 17:21:11,005 checkpoint - new size 106496 checksum dc36bd487ddc92cd795db16a747f3b38f87b4f06

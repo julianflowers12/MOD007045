@@ -1,0 +1,15 @@
+2022-02-11 08:58:33,145 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.13 (Darwin/12.3)
+2022-02-11 08:58:33,145 --- start download jflowers/cherryhinton
+2022-02-11 08:58:33,473 got project info. version v1
+2022-02-11 08:58:33,485 will download 5 files in 5 chunks, total size 5976
+2022-02-11 08:58:33,487 Downloading about.Rmd version=v1 diff=False part=0
+2022-02-11 08:58:33,488 Downloading cherryhinton.qgz version=v1 diff=False part=0
+2022-02-11 08:58:33,488 Downloading index.Rmd version=v1 diff=False part=0
+2022-02-11 08:58:33,489 Downloading license.Rmd version=v1 diff=False part=0
+2022-02-11 08:58:33,772 Download finished: license.Rmd
+2022-02-11 08:58:33,774 Downloading _site.yml version=v1 diff=False part=0
+2022-02-11 08:58:33,798 Download finished: cherryhinton.qgz
+2022-02-11 08:58:33,799 Download finished: about.Rmd
+2022-02-11 08:58:33,918 Download finished: index.Rmd
+2022-02-11 08:58:33,995 Download finished: _site.yml
+2022-02-11 08:58:34,016 --- download finished

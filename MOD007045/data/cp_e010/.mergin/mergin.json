@@ -1,0 +1,48 @@
+{
+  "name": "jflowers/cp_e010",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "afbf3bfd6a72488399bef8ffb4b3ee43a665c62f",
+      "mtime": "2022-02-08T17:18:34.506842Z",
+      "path": "Grid.gpkg",
+      "size": 180224
+    },
+    {
+      "checksum": "d9028e407389f738705ac86f2f5700df765be627",
+      "mtime": "2022-02-08T17:18:34.506846Z",
+      "path": "OSGR_grid_squares.gpkg",
+      "size": 274432
+    },
+    {
+      "checksum": "01525db7631310998a5ceda71f4ae4d1a4d0a636",
+      "mtime": "2022-02-08T17:18:34.506847Z",
+      "path": "cp_e010.qgz",
+      "size": 19483
+    },
+    {
+      "checksum": "8ca7ea683443a69505cd0f5dda17da58f5e4e2ab",
+      "mtime": "2022-02-08T17:18:34.506847Z",
+      "path": "Added_geom_info.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "f5ebea4724014d503177cd383ff459128e081700",
+      "mtime": "2022-02-08T17:18:34.506848Z",
+      "path": "LCM.tif",
+      "size": 2610599
+    },
+    {
+      "checksum": "a60d462a66bceb1715d70e1c19c5af8b676e016a",
+      "mtime": "2022-02-08T17:18:34.506848Z",
+      "path": "Local_Nature_Reserves_England.gpkg",
+      "size": 106496
+    },
+    {
+      "checksum": "1b96b085c19a61d90eab047093e11b2e8bc304d3",
+      "mtime": "2022-02-08T17:18:34.506849Z",
+      "path": "OUTPUT.tif",
+      "size": 7247
+    }
+  ]
+}
