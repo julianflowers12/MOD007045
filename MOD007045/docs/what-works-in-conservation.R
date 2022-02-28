@@ -1,0 +1,42 @@
+### what works in conservation
+
+library(pacman)
+p_load(tidyverse, readtext, pdftools, myScrapers, tidytext, quanteda, here)
+
+here()
+
+path <- glue::glue(here(), "/MOD007045/docs/")
+
+pdfs <- list.files(path, ".pdf", full.names = T)
+
+wwic <- pdfs[4]
+
+wwic_t <- readtext(wwic)
+
+s <- wwic_t %>%
+  unnest_tokens(sent, text, "sentences") %>%
+  mutate(sent = str_squish(sent))
+
+threats <- s %>%
+  filter(str_detect(sent, "threat: residential") ) %>%
+  mutate(split = str_split(sent, pattern = "\\\b")) %>%
+  unnest("split") %>%
+  select(-sent) %>%
+  mutate(split = str_remove(split, "^\\d{1,}"),
+         threat = str_extract(split, "\\d\\.\\d threat.*"),
+         conservation = str_extract(split, ".+\\b\\sconservation$"),
+         threat = ifelse(nchar(threat) > 1, threat, NA),
+         conservation = ifelse(nchar(conservation) > 1, conservation, NA)) %>%
+  fill(threat, .direction = "down") %>%
+  fill(conservation) %>%
+  DT::datatable()
+
+threats
+
+
+
+
+
+
+
+
