@@ -90,3 +90,46 @@ beneficical_interventions <- evidence_db %>%
                         )
 
 beneficical_interventions
+
+
+#######################
+
+ci <- read_csv("~/Dropbox/Mac (2)/Desktop/MOD007045/conservation_interventions.csv")
+
+evidence_db %>%
+  mutate_all(tolower) %>%
+  filter(str_detect(taxon, "mammal"))
+
+ci %>%
+  reactable::reactable(sortable = TRUE, searchable = TRUE, filterable = TRUE,
+                       defaultPageSize = 50, paginationType = "jump",
+                       resizable = TRUE, compact = TRUE, selection = "multiple"
+  )
+
+########################
+library(myScrapers)
+cs <- "https://www.gov.uk/countryside-stewardship-grants/"
+
+cs_links <- get_page_links(cs) %>%
+  enframe() %>%
+  filter(str_detect(value, "^/countryside-steward")) %>%
+  mutate(text = paste0("https://www.gov.uk",  value),
+         text1 = map(text, get_page_text))
+cs_links %>%
+  unnest("text1") %>%
+  select(-value) %>%
+  filter(!str_detect(text1, "cookie")) %>%
+ filter(!str_detect(text1, "^\\\n")) %>%
+  filter(!str_detect(text1, "^Depart")) %>%
+  filter(!str_detect(text1, "^News")) %>%
+  filter(!str_detect(text1, "^Detailed")) %>%
+  filter(!str_detect(text1, "^Reports")) %>%
+  filter(!str_detect(text1, "^Consult")) %>%
+  filter(!str_detect(text1, "^Data,")) %>%
+  filter(!str_detect(text1, "^Find out "))
+
+
+
+
+
+
