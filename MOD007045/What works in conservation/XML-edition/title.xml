@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>title</title>
+            <author>William J. Sutherland</author>
+            <author>Lynn V. Dicks</author>
+            <author>Silviu O. Petrovan</author>
+            <author>Rebecca K. Smith</author>
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence>http://creativecommons.org/licenses/by/4.0</licence>
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="title">
+      <body>
+         <div>
+            <head type="main">What Works in Conservation</head>
+            <head type="sub">2021</head>
+            <docAuthor>Edited by William J. Sutherland, Lynn V. Dicks, Silviu O. Petrovan and Rebecca K. Smith</docAuthor>
+				
+					       <figure xml:id="d10e36">
+               <graphic url="image/OBP_logo_color.png" />
+            </figure>
+				
+			      </div>
+      </body>
+   </text>
+</TEI>

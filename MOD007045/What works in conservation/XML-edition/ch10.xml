@@ -1,0 +1,1790 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch10">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">
+                  <hi rendition="simple:normalstyle">
+                     <anchor xml:id="_idTextAnchor1810" />10.  SOME ASPECTS OF CONTROL OF FRESHWATER INVASIVE SPECIES</hi>
+               </ref>
+            </head>
+				
+					       <byline>&#169; W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.10">https://doi.org/10.11647/OBP.0267.10</ref>
+            </byline>
+				
+			         <hi rendition="simple:bold">David Aldridge, Nancy Ockendon, Ricardo Rocha, Rebecca K. Smith &amp; William J. Sutherland</hi>
+            <p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">David Aldridge</hi>, University of Cambridge, UK<hi rendition="simple:bold">Olaf Booy</hi>, Animal and Plant Health Agency, UK<hi rendition="simple:bold">Manuel A. Duenas</hi>, Centre for Ecology &amp; Hydrology, UK<hi rendition="simple:bold">Alison Dunn</hi>, University of Leeds, UK<hi rendition="simple:bold">Robert Francis</hi>, King&#8217;s College London, UK<hi rendition="simple:bold">Belinda Gallardo</hi>, Pyrenean Institute of Ecology, Spain<hi rendition="simple:bold">Nancy Ockendon</hi>, University of Cambridge, UK<hi rendition="simple:bold">Trevor Renals</hi>, Environment Agency, UK<hi rendition="simple:bold">Emmanuelle Sarat</hi>, International Union for Conservation of Nature, France<hi rendition="simple:bold">Sonal Varia</hi>, The Centre for Agriculture and Bioscience International, UK<hi rendition="simple:bold">Alexandra Zieritz</hi>, University of Nottingham, UK<hi rendition="simple:bold">Ana L. Nunes</hi>, The Centre for Agriculture and Bioscience International, UK<hi rendition="simple:bold">Deborah Hofstra</hi>, National Institute of Water and Atmospheric Research, New Zealand<hi rendition="simple:bold">Jonathan Newman</hi>, Waterland Management Ltd, UK<hi rendition="simple:bold">Johan van Valkenburg</hi>, National Plant Protection Organization, The Netherlands<hi rendition="simple:bold">Ryan Wersal</hi>, Lonza Water Care, Alpharetta, Georgia, US<hi rendition="simple:bold">Ricardo Rocha</hi>, University of Cambridge, UK<p>
+               <hi rendition="simple:bold">Scope of assessment</hi>: for the control of 12 invasive freshwater species.</p>
+            <p>
+               <hi rendition="simple:bold">Assessed: </hi>American bullfrog and <hi rendition="simple:italic">Procambarus</hi> spp. crayfish 2015; parrot&#8217;s feather 2017; all other species 2016.</p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the median % score for effectiveness.</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % certainty of evidence for effectiveness, determined by the quantity and quality of the evidence in the synopsis.</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>is the median % score for negative side-effects to non-target native species. This was not assessed for some species in this chapter. </p>
+            <p>
+               <hi rendition="simple:italic">Potential impacts on non-target species should be considered carefully before implementing any control action.</hi>
+            </p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target group of species for each intervention. The assessment may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at<ref target="http://www.conservationevidence.com">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor1811" />10.1  Threat: Invasive plants </head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1812" />10.1.1 Parrot&#8217;s feather<hi rendition="simple:italic"> Myriophyllum aquaticum</hi>
+                  </head>
+                  <table xml:id="d20e196">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling parrot&#8217;s feather?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Che<ref target="https://www.conservationevidence.com/actions/1606">mical control using the herbicide 2,4-D</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Che<ref target="http://www.conservationevidence.com/actions/1676">mical control using the herbicide carfentrazone-ethyl</ref>
+                              </item>
+								                      <item>Che<ref target="http://www.conservationevidence.com/actions/1689">mical control using the herbicide triclopyr</ref>
+                              </item>
+								                      <item>Che<ref target="http://www.conservationevidence.com/actions/1680">mical control using the herbicide diquat</ref>
+                              </item>
+								                      <item>Che<ref target="https://www.conservationevidence.com/actions/1681">mical control using the herbicide endohall</ref>
+                              </item>
+								                      <item>Che<ref target="https://www.conservationevidence.com/actions/1699">mical control using other herbicides</ref>
+                              </item>
+								                      <item>Red<ref target="https://www.conservationevidence.com/actions/1604">uction of trade through legislation and codes of conduct</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-offs between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="https://www.conservationevidence.com/actions/1599">logical control using herbivores</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Wat<ref target="https://www.conservationevidence.com/actions/1585">er level drawdown</ref>
+                              </item>
+								                      <item>Bio<ref target="https://www.conservationevidence.com/actions/1601">logical control using plant pathogens</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Mec<ref target="https://www.conservationevidence.com/actions/1568">hanical harvesting or cutting</ref>
+                              </item>
+								                      <item>Mec<ref target="https://www.conservationevidence.com/actions/1570">hanical excavation</ref>
+                              </item>
+								                      <item>Rem<ref target="https://www.conservationevidence.com/actions/1572">oval using water jets</ref>
+                              </item>
+								                      <item>Suc<ref target="https://www.conservationevidence.com/actions/1573">tion dredging and diver-assisted suction removal</ref>
+                              </item>
+								                      <item>Man<ref target="https://www.conservationevidence.com/actions/1575">ual harvesting (hand-weeding)</ref>
+                              </item>
+								                      <item>Use<ref target="https://www.conservationevidence.com/actions/1576"> of lightproof barriers</ref>
+                              </item>
+								                      <item>Dye<ref target="https://www.conservationevidence.com/actions/1587"> application</ref>
+                              </item>
+								                      <item>Bio<ref target="https://www.conservationevidence.com/actions/1598">logical control using fungal-based herbicides</ref>
+                              </item>
+								                      <item>Use<ref target="https://www.conservationevidence.com/actions/1605"> of salt</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell />
+						                  <cell>
+							                    <list>
+								                      <item>Dec<ref target="https://www.conservationevidence.com/actions/1602">ontamination / preventing further spread</ref>
+                              </item>
+								                      <item>Pub<ref target="https://www.conservationevidence.com/actions/1603">lic education</ref>
+                              </item>
+								                      <item>Mul<ref target="https://www.conservationevidence.com/actions/1709">tiple integrated measures</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1813" />
+                  <ref target="https://www.conservationevidence.com/actions/1606">Chemical control using the herbicide 2,4-D</ref>Five laboratory studies (three replicated, controlled and two randomized, controlled) in the USA and Brazil and two replicated, randomized, field studies in Portugal reported that treatment with 2,4-D reduced growth, biomass or cover of parrot&#8217;s feather. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 80%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1606">https://www.conservationevidence.com/actions/1606</ref>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1814" />
+                  <ref target="http://www.conservationevidence.com/actions/1676">Chemical control using the herbicide carfentrazone-ethyl</ref>Five laboratory studies (one replicated, controlled, before-and-after, three replicated, controlled and one randomized, controlled) in the USA reported that treatment with carfentrazone-ethyl reduced growth. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 5%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1676">https://www.conservationevidence.com/actions/1676</ref>
+                  <anchor xml:id="_idTextAnchor1815" />
+                  <ref target="http://www.conservationevidence.com/actions/1689">Chemical control using the herbicide triclopyr</ref>Three replicated, controlled laboratory studies in the USA and New Zealand reported that treatment with triclopyr reduced growth or that cover was lower than that of plants treated with glyphosate. One replicated, controlled field study and one replicated, before-and-after field study in New Zealand reported that cover was reduced after treatment with triclopyr but one of these studies reported that cover later increased to near pre-treatment levels. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 55%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1689">https://www.conservationevidence.com/actions/1689</ref>
+                  <anchor xml:id="_idTextAnchor1816" />
+                  <ref target="http://www.conservationevidence.com/actions/1680">Chemical control using the herbicide diquat</ref>Two replicated, controlled laboratory studies in the USA reported reduced growth after exposure to diquat. However, one replicated, randomized, controlled field study in Portugal reported no reduction in biomass following treatment with diquat. <hi rendition="simple:italic">Assessment: likely to be</hi>
+                  <hi rendition="simple:italic"> beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1680">https://www.conservationevidence.com/actions/1680</ref>
+                  <anchor xml:id="_idTextAnchor1817" />
+                  <ref target="https://www.conservationevidence.com/actions/1681">Chemical control using the herbicide endohall</ref>Two replicated, controlled laboratory studies in the USA and New Zealand reported a reduction in biomass after treatment with endothall. However, one replicated, controlled field study in New Zealand found that cover declined after treatment with endothall but later cover increased close to pre-treatment levels. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1681">https://www.conservationevidence.com/actions/1681</ref>
+                  <anchor xml:id="_idTextAnchor1818" />
+                  <ref target="https://www.conservationevidence.com/actions/1699">Chemical control using other herbicides</ref>One replicated, randomized, controlled field study in Portugal and one replicated, controlled, laboratory study in the USA reported reduced growth or vegetation cover after treatment with glyphosate. Two replicated, randomized, controlled laboratory studies (one of which was randomized) in the USA have found that the herbicide imazapyr reduced growth. Four replicated, controlled (one of which was randomized) laboratory studies in the USA and New Zealand reported reduced growth after treatment with the herbicides imazamox, flumioxazin, dichlobenil and florpyrauxifen-benzyl. Two replicated, controlled (one of which was randomized) field studies in Portugal and New Zealand reported a decrease in cover after treatment with dichlobenil followed by recovery. One replicated, randomized, controlled field study in Portugal reported reduced biomass after treatment with gluphosinate-ammonium. Three replicated, controlled laboratory studies in New Zealand and the USA found no reduction in growth after treatment with clopyralid, copper chelate or fluridone. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1699">https://www.conservationevidence.com/actions/1699</ref>
+                  <anchor xml:id="_idTextAnchor1819" />
+                  <ref target="https://www.conservationevidence.com/actions/1604">Reduction of trade through legislation and codes of conduct</ref>One randomized, before-and-after trial in the Netherlands reported that the implementation of a code of conduct reduced the trade of invasive aquatic plants banned from sale. One study in the USA found that despite a state-wide trade ban on parrot&#8217;s feather plants, these could still be purchased in some stores. <hi rendition="simple:italic">Assessment: likely</hi>
+                  <hi rendition="simple:italic"> to be beneficial (effectiveness 60%; certainty 45%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1604">https://www.conservationevidence.com/actions/1604</ref>
+                  <hi rendition="simple:bold">
+                     <anchor xml:id="_idTextAnchor1820" />Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor1821" />
+                  <ref target="https://www.conservationevidence.com/actions/1599">Biological control using herbivores</ref>Two replicated, randomized studies in Argentina and the USA found that stocking with grass carp reduced the biomass or abundance of parrot&#8217;s feather. However, one controlled laboratory study in Portugal found that grass carp did not reduce biomass or cover of parrot&#8217;s feather. One field study in South Africa found that one <hi rendition="simple:italic">Lysathia</hi> beetle species retarded the growth of parrot&#8217;s feather. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 50%; certainty 40%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1599">https://www.conservationevidence.com/actions/1599</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1822" />
+                  <ref target="https://www.conservationevidence.com/actions/1585">Water level drawdown</ref>One replicated, randomized, controlled laboratory study in the USA found that water removal to expose plants to drying during the summer led to lower survival of parrot&#8217;s feather plants<hi rendition="simple:italic"> </hi>than water removal during winter. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 60%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1585">https://www.conservationevidence.com/actions/1585</ref>
+                  <anchor xml:id="_idTextAnchor1823" />
+                  <ref target="https://www.conservationevidence.com/actions/1601">Biological control using plant pathogens</ref>One study in South Africa found that exposure to a strain of the bacterium <hi rendition="simple:italic">Xanthomonas campestris </hi>did not affect the survival of parrot&#8217;s feather. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 5%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1601">https://www.conservationevidence.com/actions/1601</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1824" />
+                        <ref target="https://www.conservationevidence.com/actions/1568">Mechanical harvesting or cutting</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1825" />
+                        <ref target="https://www.conservationevidence.com/actions/1570">Mechanical excavation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1826" />
+                        <ref target="https://www.conservationevidence.com/actions/1572">Removal using water jets</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1827" />
+                        <ref target="https://www.conservationevidence.com/actions/1573">Suction dredging and diver-assisted suction removal</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1828" />
+                        <ref target="https://www.conservationevidence.com/actions/1575">Manual harvesting (hand-weeding)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1829" />
+                        <ref target="https://www.conservationevidence.com/actions/1576">Use of lightproof barriers</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1830" />
+                        <ref target="https://www.conservationevidence.com/actions/1587">Dye application</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1831" />
+                        <ref target="https://www.conservationevidence.com/actions/1598">Biological control using fungal-based herbicides</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1832" />
+                        <ref target="https://www.conservationevidence.com/actions/1605">Use of salt</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1833" />
+                        <ref target="https://www.conservationevidence.com/actions/1602">Decontamination / preventing further spread</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1834" />
+                        <ref target="https://www.conservationevidence.com/actions/1603">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1835" />
+                        <ref target="https://www.conservationevidence.com/actions/1709">Multiple integrated measures</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1836" />10.1.2 Floating pennywort <hi rendition="simple:italic">Hydrocotyle ranunculoides</hi>
+                  </head>
+                  <table xml:id="d20e678">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling floating pennywort?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Che<ref target="http://www.conservationevidence.com/actions/1127">mical control using herbicides</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Fla<ref target="http://www.conservationevidence.com/actions/1131">me treatment</ref>
+                              </item>
+								                      <item>Phy<ref target="http://www.conservationevidence.com/actions/1126">sical removal</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Com<ref target="http://www.conservationevidence.com/actions/1128">bination treatment using herbicides and physical removal</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1123">logical control using co-evolved, host-specific herbivores</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1129"> of hydrogen peroxide</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1125">logical control using fungal-based herbicides</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1124">logical control using native herbivores</ref>
+                              </item>
+								                      <item>Env<ref target="http://www.conservationevidence.com/actions/1133">ironmental control (e.g. shading, reduced flow, reduction of rooting depth, or dredging)</ref>
+                              </item>
+								                      <item>Ex<ref target="http://www.conservationevidence.com/actions/1132">cavation of banks</ref>
+                              </item>
+								                      <item>Pu<ref target="http://www.conservationevidence.com/actions/1134">blic education</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1130"> of liquid nitrogen</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1837" />
+                  <ref target="http://www.conservationevidence.com/actions/1127">Chemical control using herbicides </ref>A controlled, replicated field study in the UK found that the herbicide 2,4-D amine achieved almost 100% mortality of floating pennywort, compared with the herbicide glyphosate (applied without an adjuvant) which achieved negligible mortality. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 70%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1127">https://www.conservationevidence.com/actions/1127</ref>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1838" />
+                  <ref target="http://www.conservationevidence.com/actions/1131">Flame treatment</ref>A controlled, replicated study in the Netherlands found that floating pennywort plants were killed by a three second flame treatment with a three second repeat treatment 11 days later.<hi rendition="simple:italic"> Assessment: likely to be beneficial (effectiveness 60%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1131">https://www.conservationevidence.com/actions/1131</ref>
+                  <anchor xml:id="_idTextAnchor1839" />
+                  <ref target="http://www.conservationevidence.com/actions/1126">Physical removal</ref>Two studies, one in Western Australia and one in the UK, found physical removal did not completely eradicate floating pennywort. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1126">https://www.conservationevidence.com/actions/1126</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1840" />
+                  <ref target="http://www.conservationevidence.com/actions/1128">Combination treatment using herbicides and physical removal</ref>A before-and-after study in Western Australia found that a combination of cutting followed by a glyphosate chemical treatment, removed floating pennywort. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 70%; certainty 35%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1128">https://www.conservationevidence.com/actions/1128</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1841" />
+                  <ref target="http://www.conservationevidence.com/actions/1123">Biological control using co-evolved, host-specific herbivores</ref>A replicated laboratory and field study in South America found that the South American weevil fed on water pennywort but did not reduce the biomass. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 20%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1123">https://www.conservationevidence.com/actions/1123</ref>
+                  <anchor xml:id="_idTextAnchor1842" />
+                  <ref target="http://www.conservationevidence.com/actions/1129">Use of hydrogen peroxide</ref>A controlled, replicated study in the Netherlands found that hydrogen peroxide sprayed on potted floating pennywort plants at 30% concentration resulted in curling and transparency of the leaves but did not kill the plants. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 10%; certainty 60%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1129">https://www.conservationevidence.com/actions/1129</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1843" />
+                        <ref target="http://www.conservationevidence.com/actions/1125">Biological control using fungal-based herbicides</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1844" />
+                        <ref target="http://www.conservationevidence.com/actions/1124">Biological control using native herbivores</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1845" />
+                        <ref target="http://www.conservationevidence.com/actions/1133">Environmental control (e.g. shading, reduced flow, reduction of rooting depth, or dredging)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1846" />
+                        <ref target="http://www.conservationevidence.com/actions/1132">Excavation of banks</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1847" />
+                        <ref target="http://www.conservationevidence.com/actions/1134">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1848" />
+                        <ref target="http://www.conservationevidence.com/actions/1130">Use of liquid nitrogen.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1849" />10.1.3 Water primrose <hi rendition="simple:italic">Ludwigia spp.</hi>
+                  </head>
+                  <table xml:id="d20e994">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling water primrose?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1135">logical control using co-evolved, host specific herbivores</ref>
+                              </item>
+								                      <item>Che<ref target="http://www.conservationevidence.com/actions/1139">mical control using herbicides</ref>
+                              </item>
+								                      <item>Com<ref target="http://www.conservationevidence.com/actions/1140">bination treatment using herbicides and physical removal</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Phy<ref target="http://www.conservationevidence.com/actions/1138">sical removal</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1137">logical control using fungal-based herbicides</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1136">logical control using native herbivores</ref>
+                              </item>
+								                      <item>Env<ref target="http://www.conservationevidence.com/actions/1147">ironmental control (e.g. shading, altered flow, altered rooting depth, or dredging)</ref>
+                              </item>
+								                      <item>Exc<ref target="http://www.conservationevidence.com/actions/1146">avation of banks</ref>
+                              </item>
+								                      <item>Pub<ref target="http://www.conservationevidence.com/actions/1148">lic education</ref>
+                              </item>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1145">e of a tarpaulin</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1143"> of flame treatment</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1141"> of hydrogen peroxide</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1142"> of liquid nitrogen</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1144"> of mats placed on the bottom of the water body</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1850" />
+                  <ref target="http://www.conservationevidence.com/actions/1135">Biological control using co-evolved, host specific herbivores</ref>A controlled, replicated study in China, found a flea beetle caused heavy feeding destruction to the prostrate water primrose. A before-and-after study in the USA found that the introduction of flea beetles to a pond significantly reduced the abundance of large-flower primrose-willow. <hi rendition="simple:italic">Assessment:</hi> 
+                  <hi rendition="simple:italic">likely to be beneficial (effectiveness 60%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1135">https://www.conservationevidence.com/actions/1135</ref>
+                  <anchor xml:id="_idTextAnchor1851" />
+                  <ref target="http://www.conservationevidence.com/actions/1139">Chemical control using herbicides</ref>A controlled, replicated laboratory study in the USA found that the herbicide triclopyr TEA applied at concentrations of 0.25% killed 100% of young cultivated water primrose within two months. A before-and-after field study in the UK found that the herbicide glyphosate caused 97% mortality when mixed with a non-oil based sticking agent and 100% mortality when combined with TopFilm. A controlled, replicated, randomized study in Venezuela, found that use of the herbicide halosulfuron-methyl (Sempra) resulted in a significant reduction in water primrose coverage without apparent toxicity to rice plants. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 60%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1139">https://www.conservationevidence.com/actions/1139</ref>
+                  <anchor xml:id="_idTextAnchor1852" />
+                  <ref target="http://www.conservationevidence.com/actions/1140">Combination treatment using herbicides and physical removal</ref>A study in the USA found that application of glyphosate and a surface active agent called Cygnet-Plus followed by removal by mechanical means killed 75% of a long-standing population of water primrose. A study in Australia found that a combination of herbicide application, physical removal, and other actions such as promotion of native plants and mulching reduced the cover of Peruvian primrose-willow by 85&#8211;90%. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 55%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1140">https://www.conservationevidence.com/actions/1140</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1853" />
+                  <ref target="http://www.conservationevidence.com/actions/1138">Physical removal</ref>A study in the USA found that hand pulling and raking water primrose failed to reduce its abundance at one site, whereas hand-pulling from the margins of a pond eradicated a smaller population of water primrose at a second site. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 30%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1138">https://www.conservationevidence.com/actions/1138</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1854" />
+                        <ref target="http://www.conservationevidence.com/actions/1137">Biological control using fungal-based herbicides</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1855" />
+                        <ref target="http://www.conservationevidence.com/actions/1136">Biological control using native herbivores</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1856" />
+                        <ref target="http://www.conservationevidence.com/actions/1147">Environmental control (e.g. shading, reduced flow, reduction of rooting depth, or dredging)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1857" />
+                        <ref target="http://www.conservationevidence.com/actions/1146">Excavation of banks</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1858" />
+                        <ref target="http://www.conservationevidence.com/actions/1148">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1859" />
+                        <ref target="http://www.conservationevidence.com/actions/1145">Use of a tarpaulin</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1860" />
+                        <ref target="http://www.conservationevidence.com/actions/1143">Use of flame treatment</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1861" />
+                        <ref target="http://www.conservationevidence.com/actions/1141">Use of hydrogen peroxide</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1862" />
+                        <ref target="http://www.conservationevidence.com/actions/1142">Use of liquid nitrogen</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1863" />
+                        <ref target="http://www.conservationevidence.com/actions/1144">Use of mats placed on the bottom of the waterbody.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1864" />10.1.4 Skunk cabbage <hi rendition="simple:italic">Lysichiton americanus</hi>
+                  </head>
+                  <table xml:id="d20e1273">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling skunk cabbage?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Che<ref target="http://www.conservationevidence.com/actions/1102">mical control using herbicides</ref>
+                              </item>
+								                      <item>Phy<ref target="http://www.conservationevidence.com/actions/1101">sical removal</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1098">logical control using co-evolved, host-specific herbivores</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1100">logical control using fungal-based herbicides</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1099">logical control using native herbivores</ref>
+                              </item>
+								                      <item>Com<ref target="http://www.conservationevidence.com/actions/1103">bination treatment using herbicides and physical removal</ref>
+                              </item>
+								                      <item>Env<ref target="http://www.conservationevidence.com/actions/1108">ironmental control (e.g. shading, or promotion of native plants)</ref>
+                              </item>
+								                      <item>Pub<ref target="http://www.conservationevidence.com/actions/1109">lic education</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1107"> of a tarpaulin</ref>
+                              </item>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1106">e of flame treatment</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1104"> of hydrogen peroxide</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1105"> of liquid nitrogen</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1865" />
+                  <ref target="http://www.conservationevidence.com/actions/1102">Chemical control using herbicides </ref>Two studies in the UK found that application of the chemical 2,4-D amine appeared to be successful in eradicating skunk cabbage stands. One of these studies also found glyphosate eradicated skunk cabbage. However, a study in the UK found that glyphosate did not eradicate skunk cabbage, but resulted in only limited reduced growth of plants. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1102">https://www.conservationevidence.com/actions/1102</ref>
+                  <anchor xml:id="_idTextAnchor1866" />
+                  <ref target="http://www.conservationevidence.com/actions/1101">Physical removal</ref>Two studies in Switzerland and the Netherlands, reported effective removal of recently established skunk cabbage plants using physical removal, one reporting removal of the entire stock within five years. A third study in Germany reported that after four years of a twice yearly full removal programme, a large number of plants still needed to be removed each year. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 65%; certainty 55%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1101">https://www.conservationevidence.com/actions/1101</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1867" />
+                        <ref target="http://www.conservationevidence.com/actions/1098">Biological control using co-evolved, host-specific herbivores</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1868" />
+                        <ref target="http://www.conservationevidence.com/actions/1100">Biological control using fungal-based herbicides</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1869" />
+                        <ref target="http://www.conservationevidence.com/actions/1099">Biological control using native herbivores</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1870" />
+                        <ref target="http://www.conservationevidence.com/actions/1103">Combination treatment using herbicides and physical removal</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1871" />
+                        <ref target="http://www.conservationevidence.com/actions/1108">Environmental control (e.g. shading, or promotion of native plants)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1872" />
+                        <ref target="http://www.conservationevidence.com/actions/1109">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1873" />
+                        <ref target="http://www.conservationevidence.com/actions/1107">Use of a tarpaulin</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1874" />
+                        <ref target="http://www.conservationevidence.com/actions/1106">Use of flame treatment</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1875" />
+                        <ref target="http://www.conservationevidence.com/actions/1104">Use of hydrogen peroxide</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1876" />
+                        <ref target="http://www.conservationevidence.com/actions/1105">Use of liquid nitrogen.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1877" />10.1.5 New Zealand pigmyweed <hi rendition="simple:italic">Crassula helmsii</hi>
+                  </head>
+                  <table xml:id="d20e1490">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling </hi>
+                              <hi rendition="simple:bold">
+                                 <hi rendition="simple:italic">Crassula helmsii</hi>
+                              </hi>
+                              <hi rendition="simple:bold">?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Che<ref target="http://www.conservationevidence.com/actions/1279">mical control using herbicides</ref>
+                              </item>
+								                      <item>Dec<ref target="http://www.conservationevidence.com/actions/1308">ontamination to prevent further spread</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1294"> lightproof barriers to control plants</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1288"> salt water to kill plants</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1313"> a combination of control measures</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1293"> dyes to reduce light levels</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1301"> grazing to control plants</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1286"> hot foam to control plants</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1281"> hydrogen peroxide to control plants</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Alt<ref target="http://www.conservationevidence.com/actions/1296">er environmental conditions to control plants (e.g. shading by succession, increasing turbidity, re-profiling or dredging)</ref>
+                              </item>
+								                      <item>Bi<ref target="http://www.conservationevidence.com/actions/1276">ological control using fungal-based herbicides</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1277">logical control using herbivores</ref>
+                              </item>
+								                      <item>Bur<ref target="http://www.conservationevidence.com/actions/1305">y plants</ref>
+                              </item>
+								                      <item>Dry<ref target="http://www.conservationevidence.com/actions/1303"> out waterbodies</ref>
+                              </item>
+								                      <item>Phy<ref target="http://www.conservationevidence.com/actions/1278">sical control using manual/mechanical control or dredging</ref>
+                              </item>
+								                      <item>Pl<ref target="http://www.conservationevidence.com/actions/1299">ant other species to suppress growth</ref>
+                              </item>
+								                      <item>Pub<ref target="http://www.conservationevidence.com/actions/1311">lic education</ref>
+                              </item>
+								                      <item>Sur<ref target="http://www.conservationevidence.com/actions/1307">round with wire mesh</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1291"> flame throwers</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1275"> hot water</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1282"> of liquid nitrogen</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1878" />
+                  <ref target="http://www.conservationevidence.com/actions/1279">Chemical control using herbicides</ref>Seven studies in the UK, including one replicated, controlled study, found that applying glyphosate reduced <hi rendition="simple:italic">Crassula helmsii</hi>. Three out of four studies in the UK, including one controlled study, found that applying diquat or diquat alginate reduced or eradicated <hi rendition="simple:italic">C. helmsii</hi>. One small trial found no effect of diquat on <hi rendition="simple:italic">C. helmsii</hi> cover. One replicated, controlled study in the UK found dichlobenil reduced biomass of submerged <hi rendition="simple:italic">C. helmsii</hi> but one small before-and-after study found no effect of dichlobenil on <hi rendition="simple:italic">C. helmsii</hi>. A replicated, controlled study found that treatment with terbutryne partially reduced biomass of submerged <hi rendition="simple:italic">C. helmsii</hi> and that asulam, 2,4-D amine and dalapon reduced emergent <hi rendition="simple:italic">C. helmsii</hi>. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 78%; certainty 75%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1279">https://www.conservationevidence.com/actions/1279</ref>
+                  <anchor xml:id="_idTextAnchor1879" />
+                  <ref target="http://www.conservationevidence.com/actions/1308">Decontamination to prevent further spread</ref>One controlled, replicated container trial in the UK found that submerging <hi rendition="simple:italic">Crassula helmsii</hi> fragments in hot water led to higher mortality than drying out plants or a control. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 70%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1308">https://www.conservationevidence.com/actions/1308</ref>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1880" />
+                  <ref target="http://www.conservationevidence.com/actions/1294">Use lightproof barriers to control plants</ref>Five before-and-after studies in the UK found that covering with black sheeting or carpet eradicated or severely reduced cover of <hi rendition="simple:italic">Crassula helmsii</hi>. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 65%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1294">https://www.conservationevidence.com/actions/1294</ref>
+                  <anchor xml:id="_idTextAnchor1881" />
+                  <ref target="http://www.conservationevidence.com/actions/1288">Use salt water to kill plants</ref>Two replicated, controlled container trials and two before-and-after field trials in the UK found that seawater eradicated <hi rendition="simple:italic">Crassula helmsii</hi>. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 45%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1288">https://www.conservationevidence.com/actions/1288</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1882" />
+                  <ref target="http://www.conservationevidence.com/actions/1313">Use a combination of control methods</ref>One before-and-after study in the UK found that covering <hi rendition="simple:italic">Crassula helmsii</hi> with carpet followed by treatment with glyphosate killed 80% of the plant. <hi rendition="simple:italic">Assessment:</hi> 
+                  <hi rendition="simple:italic">unknown effectiveness (effectiveness 75%; certainty 30%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1313">https://www.conservationevidence.com/actions/1313</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1883" />
+                  <ref target="http://www.conservationevidence.com/actions/1293">Use dyes to reduce light levels</ref>One replicated, controlled study in the UK found that applying aquatic dye, along with other treatments, did not reduce cover of <hi rendition="simple:italic">Crassula helmsii</hi>. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 0%; certainty 53%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1293">https://www.conservationevidence.com/actions/1293</ref>
+                  <anchor xml:id="_idTextAnchor1884" />
+                  <ref target="http://www.conservationevidence.com/actions/1301">Use grazing to control plants</ref>One of two replicated, controlled studies in the UK found that excluding grazing reduce abundance and coverage of <hi rendition="simple:italic">Crassula helmsii</hi>. The other study found that ungrazed areas had higher coverage of <hi rendition="simple:italic">C. helmsii</hi> than grazed plots. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 23%; certainty 43%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1301">https://www.conservationevidence.com/actions/1301</ref>
+                  <anchor xml:id="_idTextAnchor1885" />
+                  <ref target="http://www.conservationevidence.com/actions/1286">Use hot foam to control plants</ref>One replicated, controlled study in the UK found that treatment with hot foam, along with other treatments, did not control <hi rendition="simple:italic">Crassula helmsii</hi>. A before-and-after study in the UK found that treatment with hot foam partially destroyed <hi rendition="simple:italic">C. helmsii</hi>. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 20%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1286">https://www.conservationevidence.com/actions/1286</ref>
+                  <anchor xml:id="_idTextAnchor1886" />
+                  <ref target="http://www.conservationevidence.com/actions/1281">Use hydrogen peroxide to control plants</ref>One controlled tank trial in the UK found that hydrogen peroxide did not control <hi rendition="simple:italic">Crassula helmsii</hi>. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 0%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1281">https://www.conservationevidence.com/actions/1281</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1887" />
+                        <ref target="http://www.conservationevidence.com/actions/1296">Alter environmental conditions to control plants (e.g. shading by succession, increasing turbidity, re-profiling or dredging)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1888" />
+                        <ref target="http://www.conservationevidence.com/actions/1276">Biological control using fungal-based herbicides</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1889" />
+                        <ref target="http://www.conservationevidence.com/actions/1277">Biological control using herbivores</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1890" />
+                        <ref target="http://www.conservationevidence.com/actions/1305">Bury plants</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1891" />
+                        <ref target="http://www.conservationevidence.com/actions/1303">Dry out waterbodies</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1892" />
+                        <ref target="http://www.conservationevidence.com/actions/1278">Physical control using manual/mechanical control or dredging</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1893" />
+                        <ref target="http://www.conservationevidence.com/actions/1299">Plant other species to suppress growth</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1894" />
+                        <ref target="http://www.conservationevidence.com/actions/1311">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1895" />
+                        <ref target="http://www.conservationevidence.com/actions/1307">Surround with wire mesh</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1896" />
+                        <ref target="http://www.conservationevidence.com/actions/1291">Use flame throwers</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1897" />
+                        <ref target="http://www.conservationevidence.com/actions/1275">Use hot water</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1898" />
+                        <ref target="http://www.conservationevidence.com/actions/1282">Use of liquid nitrogen.</ref>
+                     </item>
+			               </list>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor1899" />10.2  Threat: Invasive molluscs</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1900" />10.2.1 Asian clams</head>
+                  <table xml:id="d20e1989">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling Asian clams?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/1118"> chemicals to the water</ref>
+                              </item>
+								                      <item>Cha<ref target="http://www.conservationevidence.com/actions/1115">nge salinity of the water</ref>
+                              </item>
+								                      <item>Mec<ref target="http://www.conservationevidence.com/actions/1120">hanical removal</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cha<ref target="http://www.conservationevidence.com/actions/1116">nge temperature of water</ref>
+                              </item>
+								                      <item>Cle<ref target="http://www.conservationevidence.com/actions/1119">an equipment</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1117"> of gas-impermeable barriers</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Red<ref target="http://www.conservationevidence.com/actions/1113">uce oxygen in water</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ch<ref target="http://www.conservationevidence.com/actions/1114">ange pH of water</ref>
+                              </item>
+								                      <item>Dra<ref target="http://www.conservationevidence.com/actions/1110">in the invaded waterbody</ref>
+                              </item>
+								                      <item>Exp<ref target="http://www.conservationevidence.com/actions/1112">osure to disease-causing organisms</ref>
+                              </item>
+								                      <item>Exp<ref target="http://www.conservationevidence.com/actions/1111">osure to parasites</ref>
+                              </item>
+								                      <item>Han<ref target="http://www.conservationevidence.com/actions/1121">d removal</ref>
+                              </item>
+								                      <item>Pub<ref target="http://www.conservationevidence.com/actions/1122">lic awareness and education</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1901" />
+                  <ref target="http://www.conservationevidence.com/actions/1118">Add chemicals to the water</ref>Two replicated laboratory studies and one controlled, replicated field study found that chlorine, potassium and copper killed Asian clams. Increasing chemical concentration and water temperature killed more clams in less time. One controlled field trial achieved 80% and 100% mortality of Asian clams using encapsulated control agents (SB1000 and SB2000 respectively) in irrigation systems. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 75%; certainty 70%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1118">https://www.conservationevidence.com/actions/1118</ref>
+                  <anchor xml:id="_idTextAnchor1902" />
+                  <ref target="http://www.conservationevidence.com/actions/1115">Change salinity of water</ref>A controlled, replicated laboratory study from the USA found that exposure to saline water killed all Asian clams. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 65%; certainty 68%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1115">https://www.conservationevidence.com/actions/1115</ref>
+                  <anchor xml:id="_idTextAnchor1903" />
+                  <ref target="http://www.conservationevidence.com/actions/1120">Mechanical removal</ref>A controlled before-and-after study from North America found suction dredging of sediment reduced an Asian clam population by 96%, and these effects persisted for a year. A replicated, controlled, before-and-after field trial in Ireland showed that three types of dredges were effective at removing between 74% and &gt;95% of the Asian clam biomass. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 78%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1120">https://www.conservationevidence.com/actions/1120</ref>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1904" />
+                  <ref target="http://www.conservationevidence.com/actions/1116">Change temperature of water</ref>A controlled laboratory study from the USA found that exposure to water at temperatures of 37&#176;C and 36&#176;C killed all Asian clams within 2 and 4 days, respectively. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 55%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1116">https://www.conservationevidence.com/actions/1116</ref>
+                  <anchor xml:id="_idTextAnchor1905" />
+                  <ref target="http://www.conservationevidence.com/actions/1119">Clean equipment</ref>A field study from Portugal found that mechanical removal, followed by regular cleaning and maintenance of industrial pipes at a power plant permanently removed an Asian clam population. A field study from Portugal found that adding a sand filter to a water treatment plant reduced an Asian clam population. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 75%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1119">https://www.conservationevidence.com/actions/1119</ref>
+                  <anchor xml:id="_idTextAnchor1906" />
+                  <ref target="http://www.conservationevidence.com/actions/1117">Use of gas-impermeable barriers</ref>One controlled study from North America found that placing gas impermeable fabric barriers on a lake bottom (several small and one large area) reduced populations of Asian clams. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 78%; certainty 60%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1117">https://www.conservationevidence.com/actions/1117</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1907" />
+                  <ref target="http://www.conservationevidence.com/actions/1113">Reduce oxygen in water</ref>A controlled laboratory study from the USA found that Asian clams were not susceptible to low oxygen levels in the water. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 10%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1113">https://www.conservationevidence.com/actions/1113</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1908" />
+                        <ref target="http://www.conservationevidence.com/actions/1114">Change pH of water</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1909" />
+                        <ref target="http://www.conservationevidence.com/actions/1110">Drain the invaded waterbody</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1910" />
+                        <ref target="http://www.conservationevidence.com/actions/1112">Exposure to disease-causing organisms</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1911" />
+                        <ref target="http://www.conservationevidence.com/actions/1111">Exposure to parasites</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1912" />
+                        <ref target="http://www.conservationevidence.com/actions/1121">Hand removal</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1913" />
+                        <ref target="http://www.conservationevidence.com/actions/1122">Public awareness and education. </ref>
+                        <anchor xml:id="_idTextAnchor1914" />10.3  Threat: Invasive crustaceans</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1915" />10.3.1 Ponto-Caspian gammarids</head>
+                  <table xml:id="d20e2304">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling Ponto-Caspian gammarids?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cha<ref target="http://www.conservationevidence.com/actions/1091">nge salinity of the water</ref>
+                              </item>
+								                      <item>Ch<ref target="http://www.conservationevidence.com/actions/1092">ange water temperature</ref>
+                              </item>
+								                      <item>De<ref target="http://www.conservationevidence.com/actions/1094">watering (drying out) habitat</ref>
+                              </item>
+								                      <item>Exp<ref target="http://www.conservationevidence.com/actions/1089">osure to parasites</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/1095"> chemicals to water</ref>
+                              </item>
+								                      <item>Change water pH</item>
+								                      <item>Con<ref target="http://www.conservationevidence.com/actions/1088">trol movement of gammarids</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1087">logical control using predatory fish</ref>
+                              </item>
+								                      <item>Cle<ref target="http://www.conservationevidence.com/actions/1096">aning equipment</ref>
+                              </item>
+								                      <item>Exc<ref target="http://www.conservationevidence.com/actions/1097">hange ballast water</ref>
+                              </item>
+								                      <item>Exp<ref target="http://www.conservationevidence.com/actions/1090">osure to disease-causing organisms</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1916" />
+                  <ref target="http://www.conservationevidence.com/actions/1091">Change salinity of the water</ref>One of two replicated studies, including one controlled study, in Canada and the UK found that increasing the salinity level of water killed the majority of invasive shrimp within five hours. One found that increased salinity did not kill invasive killer shrimp. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1091">https://www.conservationevidence.com/actions/1091</ref>
+                  <anchor xml:id="_idTextAnchor1917" />
+                  <ref target="http://www.conservationevidence.com/actions/1092">Change water temperature</ref>A controlled laboratory study from the UK found that heating water in excess of 40&#176;C killed invasive killer shrimps. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1092">https://www.conservationevidence.com/actions/1092</ref>
+                  <anchor xml:id="_idTextAnchor1918" />
+                  <ref target="http://www.conservationevidence.com/actions/1094">Dewatering (drying out) habitat</ref>A replicated, controlled laboratory study from Poland found that lowering water levels in sand (dewatering) killed three species of invasive freshwater shrimp, although one species required water content levels of 4% and below before it was killed. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1094">https://www.conservationevidence.com/actions/1094</ref>
+                  <anchor xml:id="_idTextAnchor1919" />
+                  <ref target="http://www.conservationevidence.com/actions/1089">Exposure to parasites</ref>A replicated, controlled experimental study in Canada found that a parasitic mould reduced populations of freshwater invasive shrimp. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1089">https://www.conservationevidence.com/actions/1089</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1920" />
+                  <ref target="http://www.conservationevidence.com/actions/1095">Add chemicals to water</ref>A controlled laboratory study from the UK found that four of nine substances added to freshwater killed invasive killer shrimp, but were impractical (iodine solution, acetic acid, Virkon S and sodium hypochlorite). Five substances did not kill invasive killer shrimp (methanol, citric acid, urea, hydrogen peroxide and sucrose). <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 35%; certainty 60%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1095">https://www.conservationevidence.com/actions/1095</ref>
+                  <anchor xml:id="_idTextAnchor1921" />
+                  <ref target="http://www.conservationevidence.com/actions/1093">Change water pH</ref>A controlled laboratory study from the UK found that lowering the pH of water did not kill invasive killer shrimp. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 0%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1093">https://www.conservationevidence.com/actions/1093</ref>
+                  <anchor xml:id="_idTextAnchor1922" />
+                  <ref target="http://www.conservationevidence.com/actions/1088">Control movement of gammarids</ref>Two replicated studies, including one controlled study, in the USA and UK found that movements of invasive freshwater shrimp slowed down or were stopped when shrimp were placed in water that had been exposed to predatory fish or was carbonated. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 20%; certainty 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1088">https://www.conservationevidence.com/actions/1088</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1923" />
+                        <ref target="http://www.conservationevidence.com/actions/1087">Biological control using predatory fish</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1924" />
+                        <ref target="http://www.conservationevidence.com/actions/1096">Cleaning equipment</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1925" />
+                        <ref target="http://www.conservationevidence.com/actions/1097">Exchange ballast water</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1926" />
+                        <ref target="http://www.conservationevidence.com/actions/1090">Exposure to disease-causing organisms.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1927" />10.3.2 <hi rendition="simple:italic">Procambarus </hi>spp. crayfish</head>
+                  <table xml:id="d20e2576">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling </hi>
+                              <hi rendition="simple:bold">
+                                 <hi rendition="simple:italic">Procambarus </hi>
+                              </hi>
+                              <hi rendition="simple:bold">spp. crayfish?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/1036"> chemicals to the water</ref>
+                              </item>
+								                      <item>Ste<ref target="http://www.conservationevidence.com/actions/1032">rilization of males</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/1029">pping and removal</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/1031">pping combined with encouragement of predators</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/1037">ate barriers</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Enc<ref target="http://www.conservationevidence.com/actions/1030">ouraging predators</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Dra<ref target="http://www.conservationevidence.com/actions/1034">ining the waterway</ref>
+                              </item>
+								                      <item>Fo<ref target="http://www.conservationevidence.com/actions/1033">od source removal</ref>
+                              </item>
+								                      <item>Rel<ref target="http://www.conservationevidence.com/actions/1038">ocate vulnerable crayfish</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/1035">ove the crayfish by electrofishing</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1928" />
+                  <ref target="http://www.conservationevidence.com/actions/1036">Add chemicals to the water</ref>One replicated study in Italy found that natural pyrethrum at concentrations of 0.05 mg/l and above was effective at killing red swamp crayfish both in the laboratory and in a river, but not in drained burrows. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 50%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1036">https://www.conservationevidence.com/actions/1036</ref>
+                  <anchor xml:id="_idTextAnchor1929" />
+                  <ref target="http://www.conservationevidence.com/actions/1032">Sterilization of males</ref>One replicated laboratory study from Italy found that exposing male red swamp crayfish to X-rays reduced the number of offspring they produced. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1032">https://www.conservationevidence.com/actions/1032</ref>
+                  <anchor xml:id="_idTextAnchor1930" />
+                  <ref target="http://www.conservationevidence.com/actions/1029">Trapping and removal</ref>One controlled, replicated study from Italy found that food (tinned meat) was a more effective bait in trapping red swamp crayfish, than using pheromone treatments or no bait (control). Baiting with food increased trapping success compared to trapping without bait. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 60%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1029">https://www.conservationevidence.com/actions/1029</ref>
+                  <anchor xml:id="_idTextAnchor1931" />
+                  <ref target="http://www.conservationevidence.com/actions/1031">Trapping combined with encouragement of predators</ref>One before-and-after study in Switzerland and a replicated, paired site study from Italy found that a combination of trapping and predation was more effective at reducing red swamp crayfish populations than predation alone. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 50%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1031">https://www.conservationevidence.com/actions/1031</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1932" />
+                  <ref target="http://www.conservationevidence.com/actions/1037">Create barriers</ref>One before-and-after study from Italy found that the use of concrete dams across a stream was effective at containing spread of the population upstream. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 30%; certainty 30%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1037">https://www.conservationevidence.com/actions/1037</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1933" />
+                  <ref target="http://www.conservationevidence.com/actions/1030">Encouraging predators</ref>Two replicated, controlled studies in Italy found that eels fed on the red swamp crayfish and reduced population size. One replicated, controlled study found that pike predated red swamp crayfish. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 30%; certainty 60%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1030">https://www.conservationevidence.com/actions/1030</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1934" />
+                        <ref target="http://www.conservationevidence.com/actions/1034">Draining the waterway</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1935" />
+                        <ref target="http://www.conservationevidence.com/actions/1033">Food source removal</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1936" />
+                        <ref target="http://www.conservationevidence.com/actions/1038">Relocate vulnerable crayfish</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1937" />
+                        <ref target="http://www.conservationevidence.com/actions/1035">Remove the crayfish by electrofishing.</ref>
+                        <anchor xml:id="_idTextAnchor1938" />10.4  Threat: Invasive fish</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1939" />10.4.1 Brown and black bullheads</head>
+                  <table xml:id="d20e2854">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling brown and black bullheads?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>App<ref target="http://www.conservationevidence.com/actions/1050">lication of a biocide</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ne<ref target="http://www.conservationevidence.com/actions/1051">tting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1076">logical control of beneficial species</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1053">logical control using native predators</ref>
+                              </item>
+								                      <item>Cha<ref target="http://www.conservationevidence.com/actions/1084">nging salinity</ref>
+                              </item>
+								                      <item>Cha<ref target="http://www.conservationevidence.com/actions/1085">nging pH</ref>
+                              </item>
+								                      <item>Dra<ref target="http://www.conservationevidence.com/actions/1078">ining invaded waterbodies</ref>
+                              </item>
+								                      <item>El<ref target="http://www.conservationevidence.com/actions/1079">ectrofishing</ref>
+                              </item>
+								                      <item>Hab<ref target="http://www.conservationevidence.com/actions/1077">itat manipulation</ref>
+                              </item>
+								                      <item>Inc<ref target="http://www.conservationevidence.com/actions/1082">reasing carbon dioxide concentrations</ref>
+                              </item>
+								                      <item>Pub<ref target="http://www.conservationevidence.com/actions/1086">lic education</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/1081">pping using sound or pheromonal lures</ref>
+                              </item>
+								                      <item>Usi<ref target="http://www.conservationevidence.com/actions/1080">ng a combination of netting and electrofishing</ref>
+                              </item>
+								                      <item>UV <ref target="http://www.conservationevidence.com/actions/1083">radiation</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1940" />
+                  <ref target="http://www.conservationevidence.com/actions/1050">Application of a biocide </ref>Two studies in the UK and USA found that rotenone successfully eradicated black bullhead. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 80%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1050">https://www.conservationevidence.com/actions/1050</ref>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1941" />
+                  <ref target="http://www.conservationevidence.com/actions/1051">Netting</ref>A replicated study in a nature reserve in Belgium found that double fyke nets could be used to significantly reduce the population of large brown bullheads. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 55%; certainty 55%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1051">https://www.conservationevidence.com/actions/1051</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1942" />
+                        <ref target="http://www.conservationevidence.com/actions/1076">Biological control of beneficial species</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1943" />
+                        <ref target="http://www.conservationevidence.com/actions/1053">Biological control using native predators</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1944" />
+                        <ref target="http://www.conservationevidence.com/actions/1084">Changing salinity</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1945" />
+                        <ref target="http://www.conservationevidence.com/actions/1085">Changing pH</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1946" />
+                        <ref target="http://www.conservationevidence.com/actions/1078">Draining invaded waterbodies</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1947" />
+                        <ref target="http://www.conservationevidence.com/actions/1079">Electrofishing</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1948" />
+                        <ref target="http://www.conservationevidence.com/actions/1077">Habitat manipulation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1949" />
+                        <ref target="http://www.conservationevidence.com/actions/1082">Increasing carbon dioxide concentrations</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1950" />
+                        <ref target="http://www.conservationevidence.com/actions/1086">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1951" />
+                        <ref target="http://www.conservationevidence.com/actions/1081">Trapping using sound or pheromonal lures</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1952" />
+                        <ref target="http://www.conservationevidence.com/actions/1080">Using a combination of netting and electrofishing</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1953" />
+                        <ref target="http://www.conservationevidence.com/actions/1083">UV radiation.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1954" />10.4.2 Ponto-Caspian gobies</head>
+                  <table xml:id="d20e3112">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling Ponto-Caspian gobies?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cha<ref target="http://www.conservationevidence.com/actions/1072">nging salinity</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1074"> of barriers to prevent migration</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>App<ref target="http://www.conservationevidence.com/actions/1063">lication of a biocide</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1062">logical control of beneficial species</ref>
+                              </item>
+								                      <item>Bio<ref target="http://www.conservationevidence.com/actions/1061">logical control using native predators</ref>
+                              </item>
+								                      <item>Ch<ref target="http://www.conservationevidence.com/actions/1073">anging pH</ref>
+                              </item>
+								                      <item>Dra<ref target="http://www.conservationevidence.com/actions/1065">ining invaded waterbodies</ref>
+                              </item>
+								                      <item>El<ref target="http://www.conservationevidence.com/actions/1067">ectrofishing</ref>
+                              </item>
+								                      <item>Hab<ref target="http://www.conservationevidence.com/actions/1064">itat manipulation</ref>
+                              </item>
+								                      <item>Inc<ref target="http://www.conservationevidence.com/actions/1070">reasing carbon dioxide concentrations</ref>
+                              </item>
+								                      <item>Ne<ref target="http://www.conservationevidence.com/actions/1066">tting</ref>
+                              </item>
+								                      <item>Pu<ref target="http://www.conservationevidence.com/actions/1075">blic education</ref>
+                              </item>
+								                      <item>Tr<ref target="http://www.conservationevidence.com/actions/1069">apping using visual, sound and pheromonal lures</ref>
+                              </item>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1068">ing a combination of netting and electrofishing</ref>
+                              </item>
+								                      <item>UV <ref target="http://www.conservationevidence.com/actions/1071">radiation</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1955" />
+                  <ref target="http://www.conservationevidence.com/actions/1072">Changing salinity</ref>A replicated controlled laboratory study in Canada found 100% mortality of round gobies within 48 hours of exposure to water of 30% salinity. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 90%; certainty 75%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1072">https://www.conservationevidence.com/actions/1072</ref>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1956" />
+                  <ref target="http://www.conservationevidence.com/actions/1074">Use of barriers to prevent migration</ref>A controlled, replicated field study in the USA found that an electrical barrier prevented movement of round gobies across it, and that increasing electrical pulse duration and voltage increased the effectiveness of the barrier. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 45%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1074">https://www.conservationevidence.com/actions/1074</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1957" />
+                        <ref target="http://www.conservationevidence.com/actions/1063">Application of a biocide</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1958" />
+                        <ref target="http://www.conservationevidence.com/actions/1062">Biological control of beneficial species</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1959" />
+                        <ref target="http://www.conservationevidence.com/actions/1061">Biological control using native predators</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1960" />
+                        <ref target="http://www.conservationevidence.com/actions/1073">Changing pH</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1961" />
+                        <ref target="http://www.conservationevidence.com/actions/1065">Draining invaded waterbodies</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1962" />
+                        <ref target="http://www.conservationevidence.com/actions/1067">Electrofishing</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1963" />
+                        <ref target="http://www.conservationevidence.com/actions/1064">Habitat manipulation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1964" />
+                        <ref target="http://www.conservationevidence.com/actions/1070">Increasing carbon dioxide concentrations</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1965" />
+                        <ref target="http://www.conservationevidence.com/actions/1066">Netting</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1966" />
+                        <ref target="http://www.conservationevidence.com/actions/1075">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1967" />
+                        <ref target="http://www.conservationevidence.com/actions/1069">Trapping using visual, sound and pheromonal lures</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1968" />
+                        <ref target="http://www.conservationevidence.com/actions/1068">Using a combination of netting and electrofishing</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1969" />
+                        <ref target="http://www.conservationevidence.com/actions/1071">UV radiation.</ref>
+                        <anchor xml:id="_idTextAnchor1970" />10.5  Threat: Invasive reptiles</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1971" />10.5.1 Red-eared terrapin <hi rendition="simple:italic">Trachemys scripta</hi>
+                  </head>
+                  <table xml:id="d20e3384">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling red-eared terrapin?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Dir<ref target="http://www.conservationevidence.com/actions/1055">ect removal of adults</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>App<ref target="http://www.conservationevidence.com/actions/1059">lication of a biocide</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bi<ref target="http://www.conservationevidence.com/actions/1056">ological control using native predators</ref>
+                              </item>
+								                      <item>Dr<ref target="http://www.conservationevidence.com/actions/1057">aining invaded waterbodies</ref>
+                              </item>
+								                      <item>Pu<ref target="http://www.conservationevidence.com/actions/1060">blic education</ref>
+                              </item>
+								                      <item>Se<ref target="http://www.conservationevidence.com/actions/1058">arch and removal using sniffer dogs</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1972" />
+                  <ref target="http://www.conservationevidence.com/actions/1055">Direct removal of adults</ref>Two studies, a replicated study from Spain using Aranzadi turtle traps, and an un-replicated study in the British Virgin Islands using sein netting, successfully captured but did not eradicate red-eared terrapin populations. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1055">https://www.conservationevidence.com/actions/1055</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1973" />
+                  <ref target="http://www.conservationevidence.com/actions/1059">Application of a biocide</ref>A replicated, controlled laboratory study in the USA, found that application of glyphosate to the eggs of red-eared terrapins reduced hatching success to 73% but only at the highest experimental concentration of glyphosate and a surface active agent. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 15%; certainty 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1059">https://www.conservationevidence.com/actions/1059</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1974" />
+                        <ref target="http://www.conservationevidence.com/actions/1056">Biological control using native predators</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1975" />
+                        <ref target="http://www.conservationevidence.com/actions/1057">Draining invaded waterbodies</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1976" />
+                        <ref target="http://www.conservationevidence.com/actions/1060">Public education</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1977" />
+                        <ref target="http://www.conservationevidence.com/actions/1058">Search and removal using sniffer dogs.</ref>
+                     </item>
+			               </list>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor1978" />10.6  Threat: Invasive amphibians</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1979" />10.6.1 American bullfrog <hi rendition="simple:italic">Lithobates catesbeiana</hi>
+                  </head>
+                  <table xml:id="d20e3563">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for controlling American bullfrogs?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bi<ref target="http://www.conservationevidence.com/actions/1039">ological control using native predators</ref>
+                              </item>
+								                      <item>D<ref target="http://www.conservationevidence.com/actions/1045">irect removal of adults</ref>
+                              </item>
+								                      <item>Dir<ref target="http://www.conservationevidence.com/actions/1046">ect removal of juveniles</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>App<ref target="http://www.conservationevidence.com/actions/1048">lication of a biocide</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bi<ref target="http://www.conservationevidence.com/actions/1040">ological control of co-occurring beneficial species</ref>
+                              </item>
+								                      <item>Co<ref target="http://www.conservationevidence.com/actions/1047">llection of egg clutches</ref>
+                              </item>
+								                      <item>Dr<ref target="http://www.conservationevidence.com/actions/1042">aining ponds</ref>
+                              </item>
+								                      <item>Fe<ref target="http://www.conservationevidence.com/actions/1044">ncing</ref>
+                              </item>
+								                      <item>Ha<ref target="http://www.conservationevidence.com/actions/1041">bitat modification</ref>
+                              </item>
+								                      <item>Po<ref target="http://www.conservationevidence.com/actions/1043">nd destruction</ref>
+                              </item>
+								                      <item>Pu<ref target="http://www.conservationevidence.com/actions/1049">blic education</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1980" />Biological control using native predatorsOne replicated, controlled study conducted in northeast Belgium found the introduction of the northern pike led to a strong decline in bullfrog tadpole numbers. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1039">https://www.conservationevidence.com/actions/1039</ref>
+                  <anchor xml:id="_idTextAnchor1981" />
+                  <ref target="http://www.conservationevidence.com/actions/1045">Direct removal of adults</ref>One replicated study in Belgium found catchability of adult bullfrogs in small shallow ponds using a double fyke net to be very low. One small study in the USA found that adult bullfrogs can be captured overnight in a single trap floating on the water surface. One replicated, controlled study in the USA found that bullfrog populations rapidly rebounded following intensive removal of the adults. One study in France found a significant reduction in the number of recorded adults and juveniles following the shooting of metamorphosed individuals before reproduction, when carried out as part of a combination treatment. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 70%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1045">https://www.conservationevidence.com/actions/1045</ref>
+                  <anchor xml:id="_idTextAnchor1982" />
+                  <ref target="http://www.conservationevidence.com/actions/1046">Direct removal of juveniles</ref>One replicated study in Belgium found double fyke nets were effective in catching bullfrog tadpoles in small shallow ponds. One study in France found a significant reduction in the number of recorded adults and juveniles following the removal of juveniles by trapping, when carried out as part of a combination treatment. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 60%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1046">https://www.conservationevidence.com/actions/1046</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1983" />
+                  <ref target="http://www.conservationevidence.com/actions/1048">Application of a biocide</ref>One replicated, controlled study in the USA reported a number of chemicals killed American bullfrogs, including caffeine (10% solution), chloroxylenol (5% solution), and a combined treatment of Permethrin (4.6% solution) and Rotenone (1% solution). <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 20%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1048">https://www.conservationevidence.com/actions/1048</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1984" />
+                        <ref target="http://www.conservationevidence.com/actions/1040">Biological control of co-occurring beneficial species</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1985" />
+                        <ref target="http://www.conservationevidence.com/actions/1047">Collection of egg clutches</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1986" />
+                        <ref target="http://www.conservationevidence.com/actions/1042">Draining ponds</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1987" />
+                        <ref target="http://www.conservationevidence.com/actions/1044">Fencing</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1988" />
+                        <ref target="http://www.conservationevidence.com/actions/1041">Habitat modification</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1989" />
+                        <ref target="http://www.conservationevidence.com/actions/1043">Pond destruction</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1990" />
+                        <ref target="http://www.conservationevidence.com/actions/1049">Public education</ref>.</item>
+			               </list>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

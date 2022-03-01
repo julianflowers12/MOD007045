@@ -1,0 +1,864 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch12">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">
+                  <anchor xml:id="_idTextAnchor2154" />12. ENHANCING SOIL FERTILITY</ref>
+            </head>
+				
+					       <byline>&#169; W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.12">https://doi.org/10.11647/OBP.0267.12</ref>
+            </byline>
+				
+			         <hi rendition="simple:bold">Georgina Key, Mike Whitfield, Lynn V. Dicks, William J. Sutherland &amp; Richard D. Bardgett</hi>
+            <p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">Martin Collison</hi>,<hi rendition="simple:bold"> </hi>Collison and Associates Limited, UK<hi rendition="simple:bold">Julia Cooper</hi>,<hi rendition="simple:bold"> </hi>Newcastle University, UK<hi rendition="simple:bold">Thanasis Dedousis</hi>,<hi rendition="simple:bold"> </hi>PepsiCo Europe<hi rendition="simple:bold">Richard Heathcote</hi>,<hi rendition="simple:bold"> </hi>Heineken, S&amp;N UK Ltd<hi rendition="simple:bold">Shamal Mohammed</hi>,<hi rendition="simple:bold"> </hi>Agriculture and Horticulture Development Board, Cranfield University, UK<hi rendition="simple:bold">Andrew Molyneux</hi>,<hi rendition="simple:bold"> </hi>Huntapac Produce Ltd, UK<hi rendition="simple:bold">Wim van der Putten</hi>,<hi rendition="simple:bold"> </hi>Netherlands Institute of Ecology <hi rendition="simple:bold">Brendan Roth</hi>,<hi rendition="simple:bold"> </hi>Department for Environment, Food &amp; Rural Affairs, UK <hi rendition="simple:bold">Franciska de Vries</hi>,<hi rendition="simple:bold"> </hi>University of Manchester, UK<p>
+               <hi rendition="simple:bold">Scope of assessment</hi>: actions to enhance soil fertility for agricultural systems across the world.</p>
+            <p>
+               <hi rendition="simple:bold">Assessed: </hi>2014.</p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the median % score.</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % certainty of evidence, determined by the quantity and quality of the evidence in the synopsis.</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>is the median % score for negative side-effects for the farmer such as reduced yield, crop quality or profits, or increased costs.</p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target group of species for each intervention. The assessment may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at<ref target="http://www.conservationevidence.com">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2155" />12.1  Reducing agricultural pollution</head>
+               <table xml:id="d16e168">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions to reduce agricultural pollution for enhancing soil fertility?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cha<ref target="http://www.conservationevidence.com/actions/893">nge the timing of manure application</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/904">uce fertilizer, pesticide or herbicide use generally</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor2156" />
+               <ref target="http://www.conservationevidence.com/actions/893">Change the timing of manure application</ref>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor2157" />One controlled, randomized, replicated, site comparison study from the UK found less nitrate was lost from the soil when manure application was delayed from autumn until December or January.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2158" />Soil types covered</hi>: sandy loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2159" />Assessment: unknown effectiveness (effectiveness 50%; certainty 33%; harms 24%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/893">http://www.conservationevidence.com/actions/893</ref>
+               <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+               <anchor xml:id="_idTextAnchor2160" />
+               <ref target="http://www.conservationevidence.com/actions/904">Reduce fertilizer, pesticide or herbicide use generally</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2161" />Biodiversity</hi>: Two site comparison studies from Italy and Pakistan (one also replicated) found a higher diversity of soil invertebrates and microorganisms in low chemical-input systems.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2162" />Nutrient loss</hi>: One study from Canada found lower nutrient levels and yields in low-input systems.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2163" />Soil types covered</hi>: course sandy, loam, sandy loam, and silt.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2164" />Assessment: likely to be ineffective or harmful (effectiveness 26%; certainty 40%; harms 48%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/904">http://www.conservationevidence.com/actions/904</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2165" />12.2  All farming systems</head>
+               <table xml:id="d16e308">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions on all farming systems for enhancing soil fertility?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/899">trol traffic and traffic timing</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cha<ref target="http://www.conservationevidence.com/actions/906">nge tillage practices</ref>
+                           </item>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/895">vert to organic farming</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/744">nt new hedges</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cha<ref target="http://www.conservationevidence.com/actions/712">nge the timing of ploughing</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor2166" />
+               <ref target="http://www.conservationevidence.com/actions/899">Control traffic and traffic timing</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2167" />Biodiversity</hi>: One randomised, replicated study from Poland found higher numbers and bacterial activity under controlled traffic. One replicated site comparison study from Denmark found higher microbial biomass when farm traffic was not controlled.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2168" />Erosion</hi>: Five trials from Europe and Australia (including three replicated trials, one controlled before-and-after trial, and one review) found a higher number of pores in the soil, less compaction, reduced runoff and increased water filtration into soil under controlled traffic. One controlled, replicated trial in India found increased soil crack width when traffic was not controlled.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2169" />Yield</hi>: One replicated trial from Australia found increased yield under controlled traffic.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2170" />Soil types covered</hi>: clay, loamy silt, sandy loam, silty, silty clay, silt-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2171" />Assessment: likely to be beneficial (effectiveness 55%; certainty 62%; harms 18%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/899">http://www.conservationevidence.com/actions/899</ref>
+               <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+               <anchor xml:id="_idTextAnchor2172" />
+               <ref target="http://www.conservationevidence.com/actions/906">Change tillage practices</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2173" />Biodiversity loss</hi>: Nine studies from Canada, Europe, Mexico, or the USA measured effects of reduced tillage on soil animals or microbes. Of these, six (including three replicated trials (two also randomized and one also controlled) found more microbes, more species of earthworm, or higher microbe activity under reduced tillage. One replicated trial found increased numbers of soil animals and earthworms under reduced tillage. Two (including one controlled, replicated trial), found no effect of reduced tillage on earthworm activity or microbe activity.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2174" />Compaction</hi>: Five studies from Australia, Canada, and Europe measured the effect of controlled traffic and reduced tillage on compacted soils. Of these, two (including one before-and-after trial and one replicated trial) found reduced compaction and subsequent effects (reduced water runoff, for example) under controlled traffic, and one also found that crop yields increased under no-tillage. Three replicated trials, including one site comparison study, found higher compaction under reduced tillage.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2175" />Drought</hi>: Three replicated trials from Europe and India (one randomized) found the size of soil cracks decreased, and ability of soil to absorb water and soil water content increased with conventional tillage and sub-soiling.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2176" />Erosion</hi>: Ten replicated trials from Brazil, Europe, India, Nigeria and the USA, and one review showed mixed results of tillage on soil erosion. Seven trials (one also controlled and randomized) showed reduced soil loss and runoff under reduced tillage compared to conventional ploughing. One trial showed no differences between tillage systems, but demonstrated that across-slope cultivation reduced soil loss compared to up-and-downslope cultivation. Two trials, showed that no-tillage increased soil loss in the absence of crop cover.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2177" />Soil organic carbon</hi>: Twelve studies from Australia, Canada, China, Europe, Japan and the USA compared the effect of no-tillage and conventionally tilled systems on soil organic carbon. All (including two randomized, five replicated, two randomized, replicated, and one controlled, randomized, replicated) found higher soil organic carbon in soils under a no-tillage or reduced tillage system compared to conventionally tilled soil. One review showed that no-tillage with cover cropping plus manure application increased soil organic carbon. One randomized, replicated trial from Spain found greater soil organic carbon in conventionally tilled soil.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2178" />Soil organic matter</hi>: Twelve studies from Canada, China, Europe, Morocco, and the USA measured effects of reduced tillage on soil organic matter content and nutrient retention. Of these, six studies (including three replicated, two site comparisons (one also replicated) and one controlled) found maintained or increased soil organic matter and improved soil structure under reduced tillage. Four trials (including two replicated and two site comparison studies) found higher nutrient retention under reduced tillage. One controlled, replicated trial from the USA found less carbon and nitrate in no-till compared to conventionally tilled soil, but conventionally tilled soil lost more carbon and nitrate.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2179" />Soil types covered</hi>: anthrosol, calcareous silt-loam, chalky, clay, clay-loam, fine sandy loam, loam, loamy clay, loam/sandy loam, loam silt-loam, loamy silt, non-chalky clay, sandy, sandy clay-loam, sandy loam, sandy silt-loam, silt-loam, silty, silty clay, silty clay-loam, silty loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2180" />Assessment: trade-offs between benefit and harms (effectiveness 61%; certainty 72%; harms 46%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/906">http://www.conservationevidence.com/actions/906</ref>
+               <anchor xml:id="_idTextAnchor2181" />
+               <ref target="http://www.conservationevidence.com/actions/895">Convert to organic farming</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2182" />Biodiversity</hi>: Four studies in Asia, Europe, and the USA (including two site comparison studies and three replicated trials) found higher numbers, diversity, functional diversity (see background) or activity of soil organisms under organic management.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2183" />Soil organic carbon</hi>: Two replicated trials in Italy and the USA showed that organically managed orchards had higher soil carbon levels compared to conventionally managed orchards. One randomised, replicated trial in the USA found soil carbon was lower under organic management compared to alley cropping.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2184" />Soil organic matter</hi>: One replicated trial in Canada found that soil nutrients were lower in organically managed soils.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2185" />Yield</hi>: One replicated trial in Canada found lower yields in organically managed soils. Two replicated trials in the USA (one also randomised) found that fruit was of a higher quality and more resistant to disease, though smaller or that organic management had mixed effects on yield.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2186" />Soil types covered</hi>: clay, clay-loam, fine sandy loam, loam, sandy loam, sandy clay-loam, silt, silty clay, silt-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2187" />Assessment: trade-offs between benefit and harms (effectiveness 55%; certainty 52%; harms 64%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/895">http://www.conservationevidence.com/actions/895</ref>
+               <anchor xml:id="_idTextAnchor2188" />
+               <ref target="http://www.conservationevidence.com/actions/744">Plant new hedges</ref>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor2189" />Five studies in Slovakia, Kenya and Thailand measured the effects of planting grass or shrub hedgerows on soil animals and soil fertility. All five found hedgerows to maintain or improve soil fertility and soil animal activity. Of these, three replicated studies found reduced soil erosion and higher soil organic matter levels. Another replicated trial found a higher diversity of soil animals near to the hedgerows. One of the replicated studies and one review found that adding woody species to the hedgerows improved many factors contributing to soil fertility.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2190" />Soil types covered</hi>: alluvial, clay, sandy loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2191" />Assessment: trade-offs between benefit and harms (effectiveness 49%; certainty 45%; harms 20%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/744">http://www.conservationevidence.com/actions/744</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor2192" />
+               <ref target="http://www.conservationevidence.com/actions/712">Change the timing of ploughing</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2193" />Nutrient loss</hi>: Two replicated site comparison studies from Denmark and Norway (one also randomised) found reduced erosion soil loss and nitrate leaching when ploughing was delayed until spring.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2194" />Soil types covered</hi>: Sandy, sandy loam, silty clay loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2195" />Assessment: unknown effectiveness (effectiveness 46%; certainty 38%; harms 33%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/712">http://www.conservationevidence.com/actions/712</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2196" />12.3  Arable farming</head>
+               <table xml:id="d16e629">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions on arable farming systems for enhancing soil fertility?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/902">nd the soil using a mix of organic and inorganic amendments</ref>
+                           </item>
+								                   <item>Gro<ref target="http://www.conservationevidence.com/actions/898">w cover crops when the field is empty</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/857"> crop rotation</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Am<ref target="http://www.conservationevidence.com/actions/909">end the soil with formulated chemical compounds</ref>
+                           </item>
+								                   <item>Gro<ref target="http://www.conservationevidence.com/actions/897">w cover crops beneath the main crop (living mulches) or between crop rows</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Add<ref target="http://www.conservationevidence.com/actions/887"> mulch to crops</ref>
+                           </item>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/910">nd the soil with fresh plant material or crop remains</ref>
+                           </item>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/911">nd the soil with manures and agricultural composts</ref>
+                           </item>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/890">nd the soil with municipal wastes or their composts</ref>
+                           </item>
+								                   <item>Inc<ref target="http://www.conservationevidence.com/actions/900">orporate leys into crop rotation</ref>
+                           </item>
+								                   <item>Ret<ref target="http://www.conservationevidence.com/actions/907">ain crop residues</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/888">nd the soil with bacteria or fungi</ref>
+                           </item>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/889">nd the soil with composts not otherwise specified</ref>
+                           </item>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/908">nd the soil with crops grown as green manures</ref>
+                           </item>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/892">nd the soil with non-chemical minerals and mineral wastes</ref>
+                           </item>
+								                   <item>Ame<ref target="http://www.conservationevidence.com/actions/891">nd the soil with organic processing wastes or their composts</ref>
+                           </item>
+								                   <item>Enc<ref target="http://www.conservationevidence.com/actions/711">ourage foraging waterfowl</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/903"> alley cropping</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor2197" />
+               <ref target="http://www.conservationevidence.com/actions/902">Amend the soil using a mix of organic and inorganic amendments</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2198" />Biodiversity</hi>: Five controlled trials from China and India (four also randomized and replicated), and one study from Japan found higher microbial biomass and activity in soils with a mix of manure and inorganic fertilizers. Manure alone also increased microbial biomass. One trial found increased microbial diversity.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2199" />Erosion</hi>: One controlled, replicated trial from India found that mixed amendments were more effective at reducing the size of cracks in dry soil than inorganic fertilizers alone or no fertilizer.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2200" />Soil organic carbon loss</hi>: Four controlled, randomized, replicated trials and one controlled trial all from China and India found more organic carbon in soils with mixed fertilizers. Manure alone also increased organic carbon. One trial also found more carbon in soil amended with inorganic fertilizers and lime.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2201" />Soil organic matter loss</hi>: Three randomized, replicated trials from China and India (two also controlled), found more nutrients in soils with manure and inorganic fertilizers. One controlled, randomized, replicated trial from China found inconsistent effects of using mixed manure and inorganic fertilizers.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2202" />Yield</hi>: Two randomized, replicated trials from China (one also controlled) found increased maize or rice and wheat yields in soils with mixed manure and inorganic fertilizer amendments. One study found lower yields of rice and wheat under mixed fertilizers.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2203" />Soil types covered</hi>: clay, clay-loam, sandy loam, silt clay-loam, silty loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2204" />Assessment: beneficial (effectiveness 69%; certainty 64%; harms 15%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/902">http://www.conservationevidence.com/actions/902</ref>
+               <anchor xml:id="_idTextAnchor2205" />
+               <ref target="http://www.conservationevidence.com/actions/898">Grow cover crops when the field is empty</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2206" />Biodiversity</hi>: One controlled, randomized, replicated experiment in Martinique found that growing cover crops resulted in more diverse nematode communities. One replicated trial from the USA found greater microbial biomass under ryegrass compared to a ryegrass/vetch cover crop mix.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2207" />Soil structure: </hi>Three randomized, replicated studies from Denmark, Turkey and the UK found that growing cover crops improved soil structure and nutrient retention. One trial found higher soil porosity, interconnectivity and one lower resistance in soil under cover crops, and one found reduced nitrate leaching.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2208" />Soil organic carbon: </hi>One replicated study from Denmark and one review based mainly in Japan found increased soil carbon levels under cover crops. One study also found soil carbon levels increased further when legumes were included in cover crops.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2209" />Soil organic matter: </hi>Two controlled, randomized, replicated studies from Australia and the USA found increased carbon and nitrogen levels under cover crops, with one showing that they increased regardless of whether those crops were legumes or not. Two studies from Europe (including one controlled, replicated trial) found no marked effect on soil organic matter levels.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2210" />Yield: </hi>One replicated trial from the USA found higher tomato yield from soils which had been under a ryegrass cover crop.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2211" />Soil types covered</hi>: clay, loam, sandy clay, sandy loam, silty clay, silty loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2212" />Assessment: beneficial (effectiveness 75%; certainty 67%; harms 16%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/898">http://www.conservationevidence.com/actions/898</ref>
+               <anchor xml:id="_idTextAnchor2213" />
+               <ref target="http://www.conservationevidence.com/actions/857">Use crop rotation</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2214" />Biodiversity: </hi>Three randomized, replicated trials from Canada and Zambia measured the effect of including legumes in crop rotations and found the number of microbes and diversity of different soil animals increased.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2215" />Erosion: </hi>One randomized, replicated trial from Canada found that including forage crops in crop rotations reduced rainwater runoff and soil loss, and one replicated trial from Syria showed that including legumes in rotation increased water infiltration (movement of water into the soil).</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2216" />Soil organic carbon</hi>: Three studies from Australia, Canada, and Denmark (including one controlled replicated trial and one replicated site comparison study), found increased soil organic carbon under crop rotation, particularly when some legumes were included.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2217" />Soil organic matter: </hi>Two of four replicated trials from Canada and Syria (one also controlled and randomized) found increased soil organic matter, particularly when legumes were included in the rotation. One study found lower soil organic matter levels when longer crop rotations were used. One randomized, replicated study found no effect on soil particle size.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2218" />Soil types covered</hi>: clay, clay-loam, fine clay, loam, loam/silt loam, sandy clay, sandy loam, silty loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2219" />Assessment: beneficial (effectiveness 66%; certainty 75%; harms 8%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/857">http://www.conservationevidence.com/actions/857</ref>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor2220" />
+               <ref target="http://www.conservationevidence.com/actions/909">Amend the soil with formulated chemical compounds</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2221" />Nutrient loss</hi>: Three of five replicated trials from New Zealand and the UK measured the effect of applying nitrification inhibitors to the soil and three found reduced nitrate losses and nitrous oxide emissions, although one of these found that the method of application influenced its effect. One trial found no effect on nitrate loss. One trial found reduced nutrient and soil loss when aluminium sulphate was applied to the soil.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2222" />Soil organic matter</hi>: Four of five studies (including two controlled, randomised and replicated and one randomised and replicated) in Australia, China, India, Syria and the UK testing the effects of adding chemical compounds to the soil showed an increase in soil organic matter or carbon when nitrogen or phosphorus fertilizer was applied. One site comparison study showed that a slow-release fertilizer resulted in higher nutrient retention. One study found higher carbon levels when NPK fertilizers were applied with straw, than when applied alone, and one replicated study from France found higher soil carbon when manure rather than chemical compounds were applied.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2223" />Yield</hi>: One replicated experiment from India showed that maize and wheat yield increased with increased fertilizer application.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2224" />Soil types covered</hi>: clay, fine loamy, gravelly sandy loam, loam, sandy loam, silty, silty clay, silt-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2225" />Assessment: likely to be beneficial (effectiveness 64%; certainty 46%; harms 19%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/909">http://www.conservationevidence.com/actions/909</ref>
+               <anchor xml:id="_idTextAnchor2226" />
+               <ref target="http://www.conservationevidence.com/actions/897">Grow cover crops beneath the main crop (living mulches) or between crop rows</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2227" />Biodiversity: </hi>One randomized, replicated study from Spain found that cover crops increased bacterial numbers and activity.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2228" />Erosion: </hi>Two studies from France and the USA showed reduced erosion under cover crops. One controlled study showed that soil stability was highest under a grass cover, and one randomized replicated study found that cover crops reduced soil loss.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2229" />Soil organic matter: </hi>Two controlled trials from India and South Africa (one also randomized and replicated) found that soil organic matter increased under cover crops, and one trial from Germany found no effect on soil organic matter levels.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2230" />Soil types covered</hi>: gravelly sandy loam, sandy loam, sandy, silty loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2231" />Assessment: likely to be beneficial (effectiveness 65%; certainty 54%; harms 19%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/897">http://www.conservationevidence.com/actions/897</ref>
+               <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+               <anchor xml:id="_idTextAnchor2232" />
+               <ref target="http://www.conservationevidence.com/actions/887">Add mulch to crops</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2233" />Biodiversity</hi>: Three replicated trials from Canada, Poland and Spain (including one also controlled, one also randomised and one also controlled and randomised) showed that adding mulch to crops (whether shredded paper, municipal compost or straw) increased soil animal and fungal numbers, diversity and activity. Of these, one trial also showed that mulch improved soil structure and increased soil organic matter.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2234" />Nutrient loss</hi>: One replicated study from Nigeria found higher nutrient levels in continually cropped soil.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2235" />Erosion</hi>: Five studies from India, France, Nigeria and the UK (including one controlled, randomised, replicated trial, one randomised, replicated trial, two replicated (one also controlled), and one controlled trial) found that mulches increased soil stability, and reduced soil erosion and runoff. One trial found that some mulches are more effective than others.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2236" />Drought</hi>: Two replicated trials from India found that adding mulch to crops increased soil moisture.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2237" />Yield</hi>: Two replicated trials from India found that yields increased when either a live mulch or vegetation barrier combined with mulch was used.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2238" />Soil types covered</hi>: clay, fine loam, gravelly sandy loam, sandy, sandy clay, sandy loam, sandy silt-loam, silty, silty loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2239" />Assessment: trade-offs between benefit and harms (effectiveness 60%; certainty 64%; harms 23%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/887">http://www.conservationevidence.com/actions/887</ref>
+               <anchor xml:id="_idTextAnchor2240" />
+               <ref target="http://www.conservationevidence.com/actions/910">Amend the soil with fresh plant material or crop remains</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2241" />Biodiversity</hi>: One randomized, replicated experiment from Belgium found increased microbial biomass when crop remains and straw were added.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2242" />Compaction</hi>: One before-and-after trial from the UK found that incorporating straw residues by discing (reduced tillage) did not improve anaerobic soils (low oxygen levels) in compacted soils.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2243" />Erosion</hi>: Two randomized, replicated studies from Canada and India measured the effect of incorporating straw on erosion. One found straw addition reduced soil loss, and one found mixed effects depending on soil type.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2244" />Nutrient loss</hi>: Two replicated studies from Belgium and the UK (one also controlled and one also randomized) reported higher soil nitrogen levels when compost or straw was applied, but mixed results when processed wastes were added.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2245" />Soil organic carbon</hi>: Three randomized, replicated studies (two also controlled) from China and India, and one controlled before-and-after site comparison study from Denmark found higher carbon levels when plant material was added. One found higher carbon levels when straw was applied along with NPK fertilizers. One also found larger soil aggregates.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2246" />Soil types covered</hi>: clay, clay-loam, loam/sandy loam, loamy sand, sandy, sandy clay-loam, sandy loam, silt-loam, silty, silty clay.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2247" />Assessment: trade-offs between benefit and harms (effectiveness 53%; certainty 53%; harms 34%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/910">http://www.conservationevidence.com/actions/910</ref>
+               <anchor xml:id="_idTextAnchor2248" />
+               <ref target="http://www.conservationevidence.com/actions/911">Amend the soil with manures and agricultural composts</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2249" />Biodiversity loss</hi>: Three controlled, replicated studies from the UK and USA found higher microbial biomass when manure or compost was applied, and higher microbial respiration when poultry manure was applied.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2250" />Erosion</hi>: One controlled, randomized, replicated study from India found lower soil loss and water runoff with manure application in combination with other treatments.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2251" />Nutrient management</hi>: Two randomized, replicated studies from Canada and the UK (one also controlled) found lower nitrate loss or larger soil aggregates (which hold more nutrients) when manure was applied, compared to broiler (poultry) litter, slurry or synthetic fertilizers. One study found that treatment in winter was more effective than in autumn and that farmyard manure was more effective than broiler (poultry) litter or slurry in reducing nutrient loss. One controlled, replicated study from Spain found higher nitrate leaching.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2252" />Soil organic carbon</hi>: Three studies (including two controlled, replicated studies and a review) from India, Japan and the UK found higher carbon levels when manures were applied.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2253" />Soil organic matter</hi>: One controlled, randomized, replicated study from Turkey found higher organic matter, larger soil aggregations and a positive effect on soil physical properties when manure and compost were applied. One study from Germany found no effect of manure on organic matter levels.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2254" />Yield</hi>: Four controlled, replicated studies (including four also randomized) from India, Spain and Turkey found higher crop yields when manures or compost were applied. One study found higher yields when manure were applied in combination with cover crops.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2255" />Soil types covered</hi>: clay-loam, loam, loamy, sandy loam, sandy clay-loam, silty loam, sandy silt-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2256" />Assessment: trade-offs between benefit and harms (effectiveness 70%; certainty 59%; harms 26%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/911">http://www.conservationevidence.com/actions/911</ref>
+               <anchor xml:id="_idTextAnchor2257" />
+               <ref target="http://www.conservationevidence.com/actions/890">Amend the soil with municipal wastes or their composts</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2258" />Erosion</hi>: Two controlled, replicated trials in Spain and the UK measured the effect of adding wastes to the soil. One trial found that adding municipal compost to semi-arid soils greatly reduced soil loss and water runoff. One found mixed results of adding composts and wastes.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2259" />Soil types covered</hi>: coarse loamy, sandy loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2260" />Assessment: trade-offs between benefit and harms (effectiveness 45%; certainty 44%; harms 54%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/890">http://www.conservationevidence.com/actions/890</ref>
+               <anchor xml:id="_idTextAnchor2261" />
+               <ref target="http://www.conservationevidence.com/actions/900">Incorporate leys into crop rotation</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2262" />Nutrient loss</hi>: One replicated study from Denmark showed that reducing the extent of grass pasture in leys reduced the undesirable uptake of nitrogen by grasses, therefore requiring lower rates of fertilizer for subsequent crops.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2263" />Soil types covered</hi>: sandy loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2264" />Assessment: trade-offs between benefit and harms (effectiveness 46%; certainty 45%; harms 36%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/900">http://www.conservationevidence.com/actions/900</ref>
+               <anchor xml:id="_idTextAnchor2265" />
+               <ref target="http://www.conservationevidence.com/actions/907">Retain crop residues</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2266" />Biodiversity: </hi>One replicated study from Mexico found higher microbial biomass when crop residues were retained.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2267" />Erosion</hi>: One review found reduced water runoff, increased water storage and reduced soil erosion. One replicated site comparison from Canada found mixed effects on soil physical properties, including penetration resistance and the size of soil aggregates. One replicated study from the USA found that tillage can have mixed results on soil erosion when crop remains are removed.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2268" />Soil organic matter: </hi>One randomized, replicated trial from Australia found higher soil organic carbon and nitrogen when residues were retained, but only when fertilizer was also applied.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2269" />Yield: </hi>One randomized, replicated trial from Australia found higher yields when residues were retained in combination with fertilizer application and no-tillage.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2270" />Soil types covered: </hi>clay, loam, sandy loam, silt-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2271" />Assessment: trade-offs between benefit and harms (effectiveness 63%; certainty 54%; harms 29%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/907">http://www.conservationevidence.com/actions/907</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor2272" />
+               <ref target="http://www.conservationevidence.com/actions/888">Amend the soil with bacteria or fungi</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2273" />Biodiversity</hi>: One randomised, replicated trial from India showed that adding soil bacteria and arbuscular mycorrhizal fungi resulted in higher microbial diversity.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2274" />Soil organic matter</hi>: One controlled, randomised, replicated trial from Turkey found increased soil organic matter content in soil under mycorrhizal-inoculated compost applications.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2275" />Yield</hi>: Two randomised, replicated trials (including one also controlled) from India and Turkey found higher crop yields.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2276" />Soil types covered</hi>: clay-loam, sandy loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2277" />Assessment: unknown effectiveness (effectiveness 40%; certainty 31%; harms 17%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/888">http://www.conservationevidence.com/actions/888</ref>
+               <anchor xml:id="_idTextAnchor2278" />
+               <ref target="http://www.conservationevidence.com/actions/889">Amend the soil with composts not otherwise specified</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2279" />Soil organic matter</hi>: One controlled, randomised, replicated trial in Italy found that applying a high rate of compost increased soil organic matter levels, microbial biomass and fruit yield.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2280" />Soil types covered</hi>: silty clay.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2281" />Assessment: unknown effectiveness (effectiveness 54%; certainty 29%; harms 19%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/889">http://www.conservationevidence.com/actions/889</ref>
+               <anchor xml:id="_idTextAnchor2282" />
+               <ref target="http://www.conservationevidence.com/actions/908">Amend the soil with crops grown as green manures</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2283" />Soil organic matter</hi>: Two controlled, randomized, replicated studies from India and Pakistan found higher soil organic carbon, and one found increased grain yields when green manures were grown.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2284" />Soil types covered</hi>: clay-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2285" />Assessment: unknown effectiveness (effectiveness 53%; certainty 36%; harms 16%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/908">http://www.conservationevidence.com/actions/908</ref>
+               <anchor xml:id="_idTextAnchor2286" />
+               <ref target="http://www.conservationevidence.com/actions/892">Amend the soil with non-chemical minerals and mineral wastes</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2287" />Nutrient loss</hi>: Two replicated studies from Australia and New Zealand measured the effects of adding minerals and mineral wastes to the soil. Both found reduced nutrient loss and one study found reduced erosion.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2288" />Soil types covered</hi>: sandy clay, silt-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2289" />Assessment: unknown effectiveness (effectiveness 35%; certainty 37%; harms 23%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/892">http://www.conservationevidence.com/actions/892</ref>
+               <anchor xml:id="_idTextAnchor2290" />
+               <ref target="http://www.conservationevidence.com/actions/891">Amend the soil with organic processing wastes or their composts</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2291" />Nutrient loss</hi>: Two controlled, replicated trials from Spain and the UK (one also randomized) measured the effect of adding composts to soil. One trial found applying high rates of cotton gin compost and poultry manure improved soil structure and reduced soil loss, but increased nutrient loss. One trial found improved nutrient retention and increased barley <hi rendition="simple:italic">Hordeum vulgare </hi>yield when molasses were added.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2292" />Soil types covered</hi>: sandy clay, sandy loam, silty clay.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2293" />Assessment: unknown effectiveness (effectiveness 58%; certainty 35%; harms 20%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/891">http://www.conservationevidence.com/actions/891</ref>
+               <anchor xml:id="_idTextAnchor2294" />
+               <ref target="http://www.conservationevidence.com/actions/711">Encourage foraging waterfowl</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2295" />Soil organic matter: </hi>One controlled, replicated experiment from the USA found increased straw decomposition when ducks were allowed to forage.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2296" />Soil types covered: </hi>silty clay.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2297" />Assessment: unknown effectiveness (effectiveness 14%; certainty 34%; harms 20%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/711">http://www.conservationevidence.com/actions/711</ref>
+               <anchor xml:id="_idTextAnchor2298" />
+               <ref target="http://www.conservationevidence.com/actions/903">Use alley cropping</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2299" />Biodiversity</hi>: A controlled, randomized, replicated study from Canada found that intercropping with trees resulted in a higher diversity of arbuscular mycorrhizal fungi.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2300" />Soil types covered</hi>: sandy loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2301" />Assessment: unknown effectiveness (effectiveness 36%; certainty 23%; harms 19%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/903">http://www.conservationevidence.com/actions/903</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2302" />12.4  Livestock and pasture farming</head>
+               <table xml:id="d16e1568">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions on livestock and pasture farming systems for enhancing soil fertility?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/901">uce grazing intensity</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/905">tore or create low input grasslands</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor2303" />
+               <ref target="http://www.conservationevidence.com/actions/901">Reduce grazing intensity</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2304" />Compaction</hi>: One replicated study from Australia found compacted soils recovered when sheep were excluded for 2.5 years.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2305" />Erosion</hi>: Two replicated studies from New Zealand, and Syria (one also controlled) measured the effect of grazing animals on soil nutrient and sediment loss. Of these, one trial found increased soil carbon and nitrogen when grazing animals were excluded. One trial found higher soil phosphate levels, and less sediment erosion when grazing time in forage crops was reduced.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2306" />Soil types covered</hi>: clay, clay-loam, loamy, silt-loam.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2307" />Assessment: likely to be beneficial (effectiveness 51%; certainty 58%; harms 14%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/901">http://www.conservationevidence.com/actions/901</ref>
+               <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+               <anchor xml:id="_idTextAnchor2308" />
+               <ref target="http://www.conservationevidence.com/actions/905">Restore or create low input grasslands</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2309" />Biodiversity</hi>: One randomized, replicated trial in the Netherlands and one controlled trial from France found that restoring grasslands increased the diversity of soil animals. One trial also found higher microbial biomass, activity and carbon under grassland.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2310" />Soil types covered</hi>: sandy loam, silty.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2311" />Assessment: trade-offs between benefit and harms (effectiveness 53%; certainty 59%; harms 32%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/905">http://www.conservationevidence.com/actions/905</ref>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

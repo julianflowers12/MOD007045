@@ -1,0 +1,1369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch4">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">
+                  <anchor xml:id="_idTextAnchor670" />4.  FARMLAND CONSERVATION</ref>
+            </head>
+				
+					       <byline>&#169; 2021 W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.04">https://doi.org/10.11647/OBP.0267.04</ref>
+            </byline>
+				
+			         <hi rendition="simple:bold">Lynn V. Dicks, Joscelyne E. Ashpole, Juliana D&#228;nhardt, Katy James, Annelie J&#246;nsson, Nicola Randall, David A. Showler, Rebecca K. Smith, Susan Turpie, David R. Williams &amp; William J. Sutherland</hi>
+            <p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">Lynn V. Dicks</hi>,<hi rendition="simple:bold"> </hi>University of Cambridge, UK<hi rendition="simple:bold">Ian Hodge</hi>,<hi rendition="simple:bold"> </hi>University of Cambridge, UK<hi rendition="simple:bold">Clunie Keenleyside</hi>, Institute for European Environmental Policy, UK<hi rendition="simple:bold">Will Peach</hi>,<hi rendition="simple:bold"> </hi>Royal Society for the Protection of Birds, UK<hi rendition="simple:bold">Nicola Randall</hi>, Harper Adams University, UK<hi rendition="simple:bold">J&#246;rn Scharlemann</hi>,<hi rendition="simple:bold"> </hi>United Nations Environment Programme<hi rendition="simple:italic">&#160;&#8212;&#160;</hi>World Conservation Monitoring Centre, UK<hi rendition="simple:bold">Gavin Siriwardena</hi>, British Trust for Ornithology, UK<hi rendition="simple:bold">Henrik Smith</hi>,<hi rendition="simple:bold"> </hi>Lund University, Sweden<hi rendition="simple:bold">Rebecca K. Smith</hi>,<hi rendition="simple:bold"> </hi>University of Cambridge, UK<hi rendition="simple:bold">William J. Sutherland</hi>,<hi rendition="simple:bold"> </hi>University of Cambridge, UK<p>
+               <hi rendition="simple:bold">Scope</hi>
+               <hi rendition="simple:bold"> of assessment</hi>: for native farmland wildlife in northern and western Europe (European countries west of Russia, but not south of France, Switzerland, Austria, Hungary and Romania).</p>
+            <p>
+               <hi rendition="simple:bold">Assessed:</hi> 2014.</p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the % of experts that answered yes to the question: based on the evidence presented does this intervention benefit wildlife? (Yes, no or don&#8217;t know).</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % score for the question: how much do we understand the extent to which this intervention benefits wildlife on farmland? (0 = no evidence, 100% = certainty).</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>was not scored for this synopsis.</p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target group of species for each intervention. The assessment may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at<ref target="http://www.conservationevidence.com">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor671" />4.1  All farming systems</head>
+               <table xml:id="d18e172">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for all farming systems?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cre<ref target="http://www.conservationevidence.com/actions/63">ate uncultivated margins around intensive arable or pasture fields</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/246">nt grass buffer strips/margins around arable or pasture fields</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/442">nt nectar flower mixture/wildflower strips</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/594">nt wild bird seed or cover mixture</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/156">vide or retain set-aside areas in farmland</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/135">age ditches to benefit wildlife</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/116">age hedgerows to benefit wildlife (includes no spray, gap-filling and laying)</ref>
+                           </item>
+								                   <item>Pay<ref target="http://www.conservationevidence.com/actions/700"> farmers to cover the costs of conservation measures</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/648">vide supplementary food for birds or mammals</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/579">nect areas of natural or semi-natural habitat</ref>
+                           </item>
+								                   <item>Inc<ref target="http://www.conservationevidence.com/actions/145">rease the proportion of natural or semi-natural habitat in the farmed landscape</ref>
+                           </item>
+								                   <item>Mak<ref target="http://www.conservationevidence.com/actions/146">e direct payments per clutch for farmland birds</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/362">age the agricultural landscape to enhance floral resources</ref>
+                           </item>
+								                   <item>Ma<ref target="http://www.conservationevidence.com/actions/148">rk bird nests during harvest or mowing</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/538">nt new hedges</ref>
+                           </item>
+								                   <item>Pr<ref target="http://www.conservationevidence.com/actions/80">ovide nest boxes for bees (solitary bees or bumblebees)</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/155">vide nest boxes for birds</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/117">vide other resources for birds (water, sand for bathing)</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/147">vide refuges during harvest or mowing</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>App<ref target="http://www.conservationevidence.com/actions/70">ly &#8216;cross compliance&#8217; environmental standards linked to all subsidy payments</ref>
+                           </item>
+								                   <item>Imp<ref target="http://www.conservationevidence.com/actions/71">lement food labelling schemes relating to biodiversity-friendly farming (organic, LEAF marque)</ref>
+                           </item>
+								                   <item>Int<ref target="http://www.conservationevidence.com/actions/81">roduce nest boxes stocked with solitary bees</ref>
+                           </item>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/77">ntain in-field elements such as field islands and rockpiles</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/73">age stone-faced hedge banks to benefit wildlife</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/140">age woodland edges to benefit wildlife</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/76">nt in-field trees (not farm woodland)</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/75">tect in-field trees (includes management such as pollarding and surgery)</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/84">vide badger gates</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/79">vide foraging perches (e</ref>.g. for shrikes)</item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/83">vide otter holts</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/82">vide red squirrel feeders</ref>
+                           </item>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/72">uce field size (or maintain small fields)</ref>
+                           </item>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/74">tore or maintain dry stone walls</ref>
+                           </item>
+								                   <item>Sup<ref target="http://www.conservationevidence.com/actions/141">port or maintain low-intensity agricultural systems</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor672" />
+               <ref target="http://www.conservationevidence.com/actions/63">Create uncultivated margins around intensive arable or pasture fields</ref>Twenty studies (including one randomized, replicated, controlled trial) from seven countries found uncultivated margins support more invertebrates, small mammal species or higher plant diversity than other habitats. Four studies (including two replicated studies from the UK) found positive associations between birds and uncultivated margins. Fifteen studies (including one randomized, replicated, controlled trial) from four countries found naturally regenerated margins had lower invertebrate or plant abundance or diversity than conventional fields or sown margins. Six studies (one randomized, replicated, controlled) from three countries found uncultivated margins did not have higher plant or invertebrate abundance or diversity than cropped or sown margins. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 63%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/63">http://www.conservationevidence.com/actions/63</ref>
+               <anchor xml:id="_idTextAnchor673" />
+               <ref target="http://www.conservationevidence.com/actions/246">Plant grass buffer strips/margins around arable or pasture fields</ref>Twenty studies (including two randomized, replicated, controlled studies) from four countries found grass margins benefited invertebrates, including increases in abundance or diversity. Nine studies (including two replicated, controlled trials) from the UK found grass buffer strips benefit birds, with increased numbers, diversity or use. Seven replicated studies (four controlled, two randomized) from two countries found grass buffer strips increased plant cover and species richness, a review found benefits to plants. Five studies (two replicated, controlled) from two countries found benefits to small mammals. Six (including three replicated, controlled trials) from two countries found no clear effect on invertebrate or bird numbers. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 90%; certainty 65%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/246">http://www.conservationevidence.com/actions/246</ref>
+               <anchor xml:id="_idTextAnchor674" />
+               <ref target="http://www.conservationevidence.com/actions/442">Plant nectar flower mixture/wildflower strips</ref>Forty-one studies (including one randomized, replicated, controlled trial) from eight countries found flower strips increased invertebrate numbers or diversity. Ten studies (two replicated, controlled) found invertebrates visited flower strips. Fifteen studies (two randomized, replicated, controlled) found mixed or negative effects on invertebrates. Seventeen studies (one randomized, replicated, controlled) from seven countries found more plants or plant species on flower strips, four did not. Five studies (two randomized, replicated, controlled) from two countries found bird numbers, diversity or use increased in flower strips, two studies did not. Five studies (four replicated) found increases in small mammal abundance or diversity in flower strips. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 75%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/442">http://www.conservationevidence.com/actions/442</ref>
+               <anchor xml:id="_idTextAnchor675" />
+               <ref target="http://www.conservationevidence.com/actions/594">Plant wild bird seed or cover mixture</ref>Fifteen studies (including a systematic review) from the UK found fields sown with wild bird cover mix had more birds or bird species than other farmland habitats. Six studies (including two replicated trials) from the UK found birds used wild bird cover more than other habitats. Nine replicated studies from France and the UK found mixed or negative effects on birds. Eight studies (including two randomized, replicated, controlled studies) from the UK found wild bird cover had more invertebrates, four (including two replicated trials) found mixed or negative effects on invertebrate numbers. Six studies (including two replicated, controlled trials) from the UK found wild bird cover mix benefited plants, two replicated studies did not. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 65%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/594">http://www.conservationevidence.com/actions/594</ref>
+               <anchor xml:id="_idTextAnchor676" />
+               <ref target="http://www.conservationevidence.com/actions/156">Provide or retain set-aside areas in farmland</ref>Thirty-seven studies (one systematic review, no randomized, replicated, controlled trials) compared use of set-aside areas with control farmed fields. Twenty-one (including the systematic review) showed benefits to, or higher use by, all wildlife groups considered. Thirteen studies found some species or groups used set-aside more than crops; others did not. Two found higher Eurasian skylark reproductive success and one study found lower success on set-aside than control fields. Four studies found set-aside had no effect on wildlife, one found an adverse effect. Two studies found neither insects nor small mammals preferred set-aside. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 90%; certainty 70%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/156">http://www.conservationevidence.com/actions/156</ref>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor677" />
+               <ref target="http://www.conservationevidence.com/actions/135">Manage ditches to benefit wildlife</ref>Five studies (including one replicated, controlled study) from the UK and the Netherlands found ditch management had positive effects on numbers, diversity or biomass of some or all invertebrates, amphibians, birds or plants studied. Three studies from the Netherlands and the UK (including two replicated site comparisons) found negative or no clear effects on plants or some birds. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 45%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/135">http://www.conservationevidence.com/actions/135</ref>
+               <anchor xml:id="_idTextAnchor678" />
+               <ref target="http://www.conservationevidence.com/actions/116">Manage hedgerows to benefit wildlife (includes no spray, gap-filling and laying)</ref>Ten studies from the UK and Switzerland (including one randomized, replicated, controlled trial) found managing hedges for wildlife increased berry yields, diversity or abundance of plants, invertebrates or birds. Five UK studies (including one randomized, replicated, controlled trial) found plants, bees and farmland birds were unaffected by hedge management. Two replicated studies found hedge management had mixed effects on invertebrates or reduced hawthorn berry yield. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/116">http://www.conservationevidence.com/actions/116</ref>
+               <anchor xml:id="_idTextAnchor679" />
+               <ref target="http://www.conservationevidence.com/actions/700">Pay farmers to cover the cost of conservation measures (as in agri-environment schemes)</ref>For birds, twenty-four studies (including one systematic review) found increases or more favourable trends in bird populations, while eleven studies (including one systematic review) found negative or no effects of agri-environment schemes. For plants, three studies found more plant species, two found fewer plant species and seven found little or no effect of agri-environment schemes. For invertebrates, five studies found increases in abundance or species richness, while six studies found little or no effect of agri-environment schemes. For mammals, one replicated study found positive effects of agri-environment schemes and three studies found mixed effects in different regions or for different species. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/700">http://www.conservationevidence.com/actions/700</ref>
+               <anchor xml:id="_idTextAnchor680" />
+               <ref target="http://www.conservationevidence.com/actions/648">Provide supplementary food for birds or mammals</ref>Nine studies (two randomized, replicated, controlled) from France, Sweden and the UK found providing supplementary food increased abundance, overwinter survival or productivity of some birds. Two of the studies did not separate the effects of several interventions. Four studies (one replicated, controlled and one randomized, replicated) from Finland and the UK found some birds or mammals used supplementary food. Six replicated studies (three controlled) from Sweden and the UK found no clear effect on some birds or plants. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 90%; certainty 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/648">http://www.conservationevidence.com/actions/648</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor681" />
+               <ref target="http://www.conservationevidence.com/actions/579">Connect areas of natural or semi-natural habitat</ref>All four studies (including two replicated trials) from the Czech Republic, Germany and the Netherlands investigating the effects of linking patches of natural or semi-natural habitat found some colonization by invertebrates or mammals. Colonization by invertebrates was slow or its extent varied between taxa. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 15%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/579">http://www.conservationevidence.com/actions/579</ref>
+               <anchor xml:id="_idTextAnchor682" />
+               <ref target="http://www.conservationevidence.com/actions/145">Increase the proportion of semi-natural habitat in the farmed landscape</ref>Of five studies monitoring the effects of the Swiss Ecological Compensation Areas scheme at a landscape scale (including three replicated site comparisons), one found an increase in numbers of birds of some species, two found no effect on birds and three found some species or groups increasing and others decreasing. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 20%; certainty 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/145">http://www.conservationevidence.com/actions/145</ref>
+               <anchor xml:id="_idTextAnchor683" />
+               <ref target="http://www.conservationevidence.com/actions/146">Make direct payments per clutch for farmland birds</ref>Two replicated, controlled studies from the Netherlands found per clutch payments did not increase overall bird numbers. A replicated site comparison from the Netherlands found more birds bred on 12.5 ha plots under management including per-clutch payments but there were no differences at the field-scale. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/146">http://www.conservationevidence.com/actions/146</ref>
+               <anchor xml:id="_idTextAnchor684" />
+               <ref target="http://www.conservationevidence.com/actions/362">Manage the agricultural landscape to enhance floral resources</ref>A large replicated, controlled study from the UK found the number of long-tongued bumblebees on field margins was positively correlated with the number of &#8216;pollen and nectar&#8217; agri-environment agreements in a 10 km square. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/362">http://www.conservationevidence.com/actions/362</ref>
+               <anchor xml:id="_idTextAnchor685" />
+               <ref target="http://www.conservationevidence.com/actions/148">Mark bird nests during harvest or mowing</ref>A replicated study from the Netherlands found that marked northern lapwing nests were less likely to fail as a result of farming operations than unmarked nests. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 20%; certainty 15%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/148">http://www.conservationevidence.com/actions/148</ref>
+               <anchor xml:id="_idTextAnchor686" />
+               <ref target="http://www.conservationevidence.com/actions/538">Plant new hedges</ref>Two studies (including one replicated trial) from France and the UK found new hedges had more invertebrates or plant species than fields or field margins. A review found new hedges had more ground beetles than older hedges. However, an unreplicated site comparison from Germany found only two out of 85 ground beetle species dispersed along new hedges. A review found lower pest outbreaks in areas with new hedges. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 60%; certainty 25%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/538">http://www.conservationevidence.com/actions/538</ref>
+               <anchor xml:id="_idTextAnchor687" />
+               <ref target="http://www.conservationevidence.com/actions/80">Provide nest boxes for bees (solitary bees or bumblebees)</ref>Ten studies (nine replicated) from Germany, Poland and the UK found solitary bee nest boxes were used by bees. Two replicated trials from the UK found bumblebee nest boxes had very low uptake. Two replicated studies found the local population size or number of emerging red mason bees increased when nest boxes were provided. A replicated trial in Germany found the number of occupied solitary bee nests almost doubled over three years with repeated nest box provision. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 90%; certainty 38%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/80">http://www.conservationevidence.com/actions/80</ref>
+               <anchor xml:id="_idTextAnchor688" />
+               <ref target="http://www.conservationevidence.com/actions/155">Provide nest boxes for birds</ref>Two studies (including one before-and-after trial) from the Netherlands and the UK found providing nest boxes increased the number of clutches or breeding adults of two bird species. A replicated study from Switzerland found nest boxes had mixed effects on the number of broods produced by two species. Eight studies (six replicated) from five countries found nest boxes were used by birds. A controlled study from the UK found one species did not use artificial nest sites. Three replicated studies (one paired) from the UK and Sweden found box location influenced use or nesting success. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 30%; certainty 23%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/155">http://www.conservationevidence.com/actions/155</ref>
+               <anchor xml:id="_idTextAnchor689" />
+               <ref target="http://www.conservationevidence.com/actions/117">Provide other resources for birds (water, sand for bathing)</ref>A small study in France found grey partridge density was higher in areas where water, shelter, sand and food were provided. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 1%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/117">http://www.conservationevidence.com/actions/117</ref>
+               <anchor xml:id="_idTextAnchor690" />
+               <ref target="http://www.conservationevidence.com/actions/147">Provide refuges during harvest or mowing</ref>A replicated study from France found mowing refuges reduced contact between mowing machinery and unfledged quails and corncrakes. A replicated controlled study and a review from the UK found Eurasian skylark did not use nesting refuges more than other areas. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 20%; certainty 11%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/147">http://www.conservationevidence.com/actions/147</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor691" />
+                     <ref target="http://www.conservationevidence.com/actions/70">Apply &#8216;cross compliance&#8217; environmental standards linked to all subsidy payments</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor692" />
+                     <ref target="http://www.conservationevidence.com/actions/71">Implement food labelling schemes relating to biodiversity-friendly farming (organic, LEAF marque)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor693" />
+                     <ref target="http://www.conservationevidence.com/actions/81">Introduce nest boxes stocked with solitary bees</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor694" />
+                     <ref target="http://www.conservationevidence.com/actions/77">Maintain in-field elements such as field islands and rockpiles</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor695" />
+                     <ref target="http://www.conservationevidence.com/actions/73">Manage stone-faced hedge banks to benefit wildlife</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor696" />
+                     <ref target="http://www.conservationevidence.com/actions/140">Manage woodland edges to benefit wildlife</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor697" />
+                     <ref target="http://www.conservationevidence.com/actions/76">Plant in-field trees (not farm woodland)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor698" />
+                     <ref target="http://www.conservationevidence.com/actions/75">Protect in-field trees (includes management such as pollarding and surgery)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor699" />
+                     <ref target="http://www.conservationevidence.com/actions/84">Provide badger gates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor700" />
+                     <ref target="http://www.conservationevidence.com/actions/79">Provide foraging perches (e.g. for shrikes)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor701" />
+                     <ref target="http://www.conservationevidence.com/actions/83">Provide otter holts</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor702" />
+                     <ref target="http://www.conservationevidence.com/actions/82">Provide red squirrel feeders</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor703" />
+                     <ref target="http://www.conservationevidence.com/actions/72">Reduce field size (or maintain small fields)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor704" />
+                     <ref target="http://www.conservationevidence.com/actions/74">Restore or maintain dry stone walls</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor705" />
+                     <ref target="http://www.conservationevidence.com/actions/141">Support or maintain low intensity agricultural systems</ref>
+                     <anchor xml:id="_idTextAnchor706" />4.2  Arable farming</item>
+			            </list>
+               <table xml:id="d18e811">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for arable farming systems?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cre<ref target="http://www.conservationevidence.com/actions/540">ate skylark plots</ref>
+                           </item>
+								                   <item>Lea<ref target="http://www.conservationevidence.com/actions/562">ve cultivated, uncropped margins or plots (includes &#8216;lapwing plots&#8217;)</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cr<ref target="http://www.conservationevidence.com/actions/651">eate beetle banks</ref>
+                           </item>
+								                   <item>Lea<ref target="http://www.conservationevidence.com/actions/695">ve overwinter stubbles</ref>
+                           </item>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/126">uce tillage</ref>
+                           </item>
+								                   <item>Und<ref target="http://www.conservationevidence.com/actions/136">ersow spring cereals, with clover for example</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/561">vert or revert arable land to permanent grassland</ref>
+                           </item>
+								                   <item>Cre<ref target="http://www.conservationevidence.com/actions/643">ate rotational grass or clover leys</ref>
+                           </item>
+								                   <item>In<ref target="http://www.conservationevidence.com/actions/560">crease crop diversity</ref>
+                           </item>
+								                   <item>Pl<ref target="http://www.conservationevidence.com/actions/564">ant cereals in wide-spaced rows</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/137">nt crops in spring rather than autumn</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/118">nt nettle strips</ref>
+                           </item>
+								                   <item>Sow<ref target="http://www.conservationevidence.com/actions/642"> rare or declining arable weeds</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Add<ref target="http://www.conservationevidence.com/actions/87"> 1% barley into wheat crop for corn buntings</ref>
+                           </item>
+								                   <item>Cre<ref target="http://www.conservationevidence.com/actions/88">ate corn bunting plots</ref>
+                           </item>
+								                   <item>Lea<ref target="http://www.conservationevidence.com/actions/646">ve unharvested cereal headlands within arable fields</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/89"> new crop types to benefit wildlife (such as perennial cereal crops)</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Imp<ref target="http://www.conservationevidence.com/actions/130">lement &#8216;mosaic management&#8217;, a Dutch agri-environment option</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/124">nt more than one crop per field (intercropping)</ref>
+                           </item>
+								                   <item>Ta<ref target="http://www.conservationevidence.com/actions/128">ke field corners out of management</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor707" />
+               <ref target="http://www.conservationevidence.com/actions/540">Create skylark plots</ref>All four studies (two replicated, controlled trials) from Switzerland and the UK investigating the effect of skylark plots on Eurasian skylarks found positive effects, including increases in population size. A replicated study from Denmark found skylarks used undrilled patches in cereal fields. Three studies (one replicated, controlled) from the UK found benefits to plants and invertebrates. Two replicated studies (one controlled) from the UK found no significant differences in numbers of invertebrates or seed-eating songbirds. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 80%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/540">http://www.conservationevidence.com/actions/540</ref>
+               <anchor xml:id="_idTextAnchor708" />
+               <ref target="http://www.conservationevidence.com/actions/562">Leave cultivated, uncropped margins or plots (includes &#8216;lapwing plots&#8217;)</ref>Seventeen of nineteen individual studies looking at uncropped, cultivated margins or plots (including one replicated, randomized, controlled trial) primarily from the UK found benefits to some or all target farmland bird species, plants, invertebrates or mammals. Two studies (one replicated) from the UK found no effect on ground beetles or most farmland birds. Two replicated site comparisons from the UK found cultivated, uncropped margins were associated with lower numbers of some bird species or age groups in some areas. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 65%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/562">http://www.conservationevidence.com/actions/562</ref>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor709" />
+               <ref target="http://www.conservationevidence.com/actions/651">Create beetle banks</ref>Five reports from two replicated studies (one controlled) and a review from Denmark and the UK found beetle banks had positive effects on invertebrate numbers, diversity or distributions. Five replicated studies (two controlled) found lower or no difference in invertebrate numbers. Three studies (including a replicated, controlled trial) from the UK found beetle banks, alongside other management, had positive effects on bird numbers or usage. Three studies (one replicated site comparison) from the UK found mixed or no effects on birds, two found negative on no clear effects on plants. Two studies (one controlled) from the UK found harvest mice nested on beetle banks. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 60%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/651">http://www.conservationevidence.com/actions/651</ref>
+               <anchor xml:id="_idTextAnchor710" />
+               <ref target="http://www.conservationevidence.com/actions/695">Leave overwinter stubbles</ref>Eighteen studies investigated the effects of overwinter stubbles. Thirteen studies (including two replicated site comparisons and a systematic review) from Finland, Switzerland and the UK found leaving overwinter stubbles benefits some plants, invertebrates, mammals or birds. Three UK studies (one randomized, replicated, controlled) found only certain birds were positively associated with overwinter stubbles. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 90%; certainty 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/695">http://www.conservationevidence.com/actions/695</ref>
+               <anchor xml:id="_idTextAnchor711" />
+               <ref target="http://www.conservationevidence.com/actions/126">Reduce tillage</ref>Thirty-four studies (including seven randomized, replicated, controlled trials) from nine countries found reducing tillage had some positive effects on invertebrates, weeds or birds. Twenty-seven studies (including three randomized, replicated, controlled trials) from nine countries found reducing tillage had negative or no clear effects on some invertebrates, plants, mammals or birds. Three of the studies did not distinguish between the effects of reducing tillage and reducing chemical inputs. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 60%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/126">http://www.conservationevidence.com/actions/126</ref>
+               <anchor xml:id="_idTextAnchor712" />
+               <ref target="http://www.conservationevidence.com/actions/136">Undersow spring cereals, with clover for example</ref>Eleven studies (including three randomized, replicated, controlled trials) from Denmark, Finland, Switzerland and the UK found undersowing spring cereals benefited some birds, plants or invertebrates, including increases in numbers or species richness. Five studies (including one replicated, randomized, controlled trial) from Austria, Finland and the UK found no benefits to invertebrates, plants or some birds. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 43%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/136">http://www.conservationevidence.com/actions/136</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor713" />
+               <ref target="http://www.conservationevidence.com/actions/561">Convert or revert arable land to permanent grassland</ref>All seven individual studies (including two replicated, controlled trials) from the Czech Republic, Denmark and the UK looking at the effects of reverting arable land to grassland found no clear benefits to birds, mammals or plants. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/561">http://www.conservationevidence.com/actions/561</ref>
+               <anchor xml:id="_idTextAnchor714" />
+               <ref target="http://www.conservationevidence.com/actions/643">Create rotational grass or clover leys</ref>A controlled study from Finland found more spiders and fewer pest insects in clover leys than the crop. A replicated study from the UK found grass leys had fewer plant species than other conservation habitats. A UK study found newer leys had lower earthworm abundance and species richness than older leys. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/643">http://www.conservationevidence.com/actions/643</ref>
+               <anchor xml:id="_idTextAnchor715" />
+               <ref target="http://www.conservationevidence.com/actions/560">Increase crop diversity</ref>Four studies (including one replicated, controlled trial) from Belgium, Germany and Hungary found more ground beetle or plant species or individuals in fields with crop rotations or on farms with more crops in rotation than monoculture fields. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 9%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/560">http://www.conservationevidence.com/actions/560</ref>
+               <anchor xml:id="_idTextAnchor716" />
+               <ref target="http://www.conservationevidence.com/actions/564">Plant cereals in wide-spaced rows</ref>Two studies (one randomized, replicated, controlled) from the UK found planting cereals in wide-spaced rows had inconsistent, negative or no effects on plant and invertebrate abundance or species richness. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 18%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/564">http://www.conservationevidence.com/actions/564</ref>
+               <anchor xml:id="_idTextAnchor717" />
+               <ref target="http://www.conservationevidence.com/actions/137">Plant crops in spring rather than autumn</ref>Seven studies (including two replicated, controlled trials) from Denmark, Sweden and the UK found sowing crops in spring had positive effects on farmland bird numbers or nesting rates, invertebrate numbers or weed diversity or density. Three of the studies found the effects were seasonal. A review of European studies found fewer invertebrates in spring wheat than winter wheat. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 35%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/137">http://www.conservationevidence.com/actions/137</ref>
+               <anchor xml:id="_idTextAnchor718" />
+               <ref target="http://www.conservationevidence.com/actions/118">Plant nettle strips</ref>A small study from Belgium found nettle strips in field margins had more predatory invertebrate species than the crop, but fewer individuals than the crop or natural nettle stands. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 50%; certainty 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/118">http://www.conservationevidence.com/actions/118</ref>
+               <anchor xml:id="_idTextAnchor719" />
+               <ref target="http://www.conservationevidence.com/actions/642">Sow rare or declining arable weeds</ref>Two randomized, replicated, controlled studies from the UK identified factors important in establishing rare or declining arable weeds, including type of cover crop, cultivation and herbicide treatment. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 15%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/642">http://www.conservationevidence.com/actions/642</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor720" />
+                     <ref target="http://www.conservationevidence.com/actions/87">Add 1% barley into wheat crop for corn buntings</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor721" />
+                     <ref target="http://www.conservationevidence.com/actions/88">Create corn bunting plots</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor722" />
+                     <ref target="http://www.conservationevidence.com/actions/646">Leave unharvested cereal headlands in arable fields</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor723" />
+                     <ref target="http://www.conservationevidence.com/actions/89">Use new crop types to benefit wildlife (such as perennial cereal crops)</ref>
+                  </item>
+			            </list>
+               <hi rendition="simple:bold">
+                  <anchor xml:id="_idTextAnchor724" />Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor725" />
+               <ref target="http://www.conservationevidence.com/actions/130">Implement &#8216;mosaic management&#8217;, a Dutch agri-environment option</ref>A replicated, controlled before-and-after study from the Netherlands found mosaic management had mixed effects on population trends of wading bird species. A replicated, paired sites study from the Netherlands found one bird species had higher productivity under mosaic management. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/130">http://www.conservationevidence.com/actions/130</ref>
+               <anchor xml:id="_idTextAnchor726" />
+               <ref target="http://www.conservationevidence.com/actions/124">Plant more than one crop per field (intercropping)</ref>All five studies (including three randomized, replicated, controlled trials) from the Netherlands, Poland, Switzerland and the UK looking at the effects of planting more than one crop per field found increases in the number of earthworms or ground beetles. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/124">http://www.conservationevidence.com/actions/124</ref>
+               <anchor xml:id="_idTextAnchor727" />
+               <ref target="http://www.conservationevidence.com/actions/128">Take field corners out of management</ref>A replicated site comparison from the UK found a positive correlation between grey partridge overwinter survival and taking field corners out of management. Brood size, ratio of young to old birds and density changes were unaffected. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/128">http://www.conservationevidence.com/actions/128</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor728" />4.3  Perennial (non-timber) crops</head>
+               <table xml:id="d18e1301">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for perennial (non-timber) crops?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/703">ntain traditional orchards</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/90">age short-rotation coppice to benefit wildlife (includes 8m rides)</ref>
+                           </item>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/701">tore or create traditional orchards</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor729" />
+               <ref target="http://www.conservationevidence.com/actions/703">Maintain traditional orchards</ref>A replicated, controlled site comparison from Germany found more plant species in mown orchards than grazed or abandoned ones, but found no effects on wasps or bees. Two replicated site comparisons from Germany and Switzerland found traditional orchards managed under agri-environment schemes either did not have more plant species than controls or offered no clear benefits to birds. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 15%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/703">http://www.conservationevidence.com/actions/703</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor730" />
+                     <ref target="http://www.conservationevidence.com/actions/90">Manage short-rotation coppice to benefit wildlife (includes 8 m rides)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor731" />
+                     <ref target="http://www.conservationevidence.com/actions/701">Restore or create traditional orchards</ref>
+                     <anchor xml:id="_idTextAnchor732" />4.4  Livestock farming</item>
+			            </list>
+               <table xml:id="d18e1413">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for livestock farming?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/133">tore or create species-rich semi-natural grassland</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/698"> mowing techniques to reduce mortality</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Del<ref target="http://www.conservationevidence.com/actions/131">ay mowing or first grazing date on grasslands</ref>
+                           </item>
+								                   <item>Lea<ref target="http://www.conservationevidence.com/actions/132">ve uncut strips of rye grass on silage fields</ref>
+                           </item>
+								                   <item>Ma<ref target="http://www.conservationevidence.com/actions/702">intain species-rich, semi-natural grassland</ref>
+                           </item>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/696">ntain traditional water meadows (includes management for breeding and/or wintering waders/waterfowl)</ref>
+                           </item>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/647">ntain upland heath/moorland</ref>
+                           </item>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/69">uce management intensity on permanent grasslands (several interventions at once)</ref>
+                           </item>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/119">tore or create traditional water meadows</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Add<ref target="http://www.conservationevidence.com/actions/129"> yellow rattle seed Rhi<hi rendition="simple:italic">nanthus minor to</hi> hay meadows</ref>
+                           </item>
+								                   <item>Em<ref target="http://www.conservationevidence.com/actions/697">ploy areas of semi-natural habitat for rough grazing (includes salt marsh, lowland heath, bog, fen)</ref>
+                           </item>
+								                   <item>Exc<ref target="http://www.conservationevidence.com/actions/150">lude livestock from semi-natural habitat (including woodland)</ref>
+                           </item>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/649">ntain wood pasture and parkland</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/149">nt cereals for whole crop silage</ref>
+                           </item>
+								                   <item>Rai<ref target="http://www.conservationevidence.com/actions/138">se mowing height on grasslands</ref>
+                           </item>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/650">tore or create upland heath/moorland</ref>
+                           </item>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/644">tore or create wood pasture</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/539"> traditional breeds of livestock</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/704">uce grazing intensity on grassland (including seasonal removal of livestock)</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/91">ntain rush pastures</ref>
+                           </item>
+								                   <item>Mar<ref target="http://www.conservationevidence.com/actions/706">k fencing to avoid bird mortality</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/92">nt Brassica fodder crops (grazed in <hi rendition="simple:italic">situ)</hi>
+                              </ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cre<ref target="http://www.conservationevidence.com/actions/563">ate open patches or strips in permanent grassland</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/115">vide short grass for birds</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/93"> mixed stocking</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor733" />
+               <ref target="http://www.conservationevidence.com/actions/133">Restore or create species-rich, semi-natural grassland</ref>Twenty studies (including three randomized, replicated, controlled trials) from six countries found restored species-rich, semi-natural grasslands had similar invertebrate, plant or bird diversity or abundance to other grasslands. Seven studies (two randomized, replicated, controlled trials) from five countries found no clear effect on plant or invertebrate numbers, three replicated studies (of which two site comparisons) from two countries found negative effects. Forty studies (including six randomized, replicated, controlled trials) from nine countries identified effective techniques for restoring species-rich grassland. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 73%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/133">http://www.conservationevidence.com/actions/133</ref>
+               <anchor xml:id="_idTextAnchor734" />
+               <ref target="http://www.conservationevidence.com/actions/698">Use mowing techniques to reduce mortality</ref>Seven studies (including two replicated trials, one controlled and one randomized) from Germany, Ireland, Switzerland and the UK found mowing techniques that reduced mortality or injury in amphibians, birds, invertebrates or mammals. A review found the UK corncrake population increased around the same time that Corncrake Friendly Mowing was introduced and a replicated trial found mowing from the field centre outwards reduced corncrake chick mortality. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 78%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/698">http://www.conservationevidence.com/actions/698</ref>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor735" />
+               <ref target="http://www.conservationevidence.com/actions/131">Delay mowing or first grazing date on grasslands</ref>Eight studies (including a European systematic review) from the Netherlands, Sweden and the UK found delaying mowing or grazing benefited some or all plants, invertebrates or birds, including increases in numbers or productivity. Three reviews found the UK corncrake population increased following management that included delayed mowing. Six studies (including a European systematic review) from five countries found no clear effect on some plants, invertebrates or birds. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 45%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/131">http://www.conservationevidence.com/actions/131</ref>
+               <anchor xml:id="_idTextAnchor736" />
+               <ref target="http://www.conservationevidence.com/actions/132">Leave uncut strips of rye grass on silage fields</ref>Four studies (including two replicated, controlled trials) from the UK found uncut strips of rye grass benefited some birds, with increased numbers. A randomized, replicated, controlled study from the UK found higher ground beetle diversity on uncut silage plots, but only in the third study year. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 49%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/132">http://www.conservationevidence.com/actions/132</ref>
+               <anchor xml:id="_idTextAnchor737" />
+               <ref target="http://www.conservationevidence.com/actions/702">Maintain species-rich, semi-natural grassland</ref>Nine studies (including two randomized, replicated before-and-after trials) from Switzerland and the UK looked at the effectiveness of agri-environment schemes in maintaining species-rich grassland and all except one found mixed results. All twelve studies (including a systematic review) from six countries looking at grassland management options found techniques that improved or maintained vegetation quality. A site comparison from Finland and Russia found butterfly communities were more affected by grassland age and origin than present management. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 60%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/702">http://www.conservationevidence.com/actions/702</ref>
+               <anchor xml:id="_idTextAnchor738" />
+               <ref target="http://www.conservationevidence.com/actions/696">Maintain traditional water meadows (includes management for breeding and/or wintering waders/waterfowl)</ref>Four studies (including a replicated site comparison) from Belgium, Germany, the Netherlands and the UK found maintaining traditional water meadows increased numbers of some birds or plant diversity. One bird species declined. Two studies (including a replicated site comparison from the Netherlands) found mixed or inconclusive effects on birds, plants or wildlife generally. A replicated study from the UK found productivity of one wading bird was too low to sustain populations in some areas of wet grassland managed for wildlife. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 56%; certainty 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/696">http://www.conservationevidence.com/actions/696</ref>
+               <anchor xml:id="_idTextAnchor739" />
+               <ref target="http://www.conservationevidence.com/actions/647">Maintain upland heath/moorland</ref>Eight studies (including one randomized, replicated, controlled trial) from the UK found management, including reducing grazing, can help to maintain the conservation value of upland heath or moorland. Benefits included increased numbers of plants or invertebrates. Three studies (including a before-and-after trial) from the UK found management to maintain upland heath or moorland had mixed effects on some wildlife groups. Four studies (including a controlled site comparison) from the UK found reducing grazing had negative impacts on soil organisms, but a randomized, replicated before-and-after study found heather cover declined where grazing intensity had increased. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 90%; certainty 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/647">http://www.conservationevidence.com/actions/647</ref>
+               <anchor xml:id="_idTextAnchor740" />
+               <ref target="http://www.conservationevidence.com/actions/69">Reduce management intensity on permanent grasslands (several interventions at once)</ref>Eleven studies (including four replicated site comparisons) from three countries found reducing management intensity benefited plants. Sixteen studies (including four paired site comparisons) from four countries found benefits to some or all invertebrates. Five studies (including one paired, replicated site comparison) from four countries found positive effects on some or all birds. Twenty-one studies (including two randomized, replicated, controlled trials) from six countries found no clear effects of reducing management intensity on some or all plants, invertebrates or birds. Five studies (including two paired site comparisons) from four countries found negative effects on plants, invertebrates or birds. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 100%; certainty 60%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/69">http://www.conservationevidence.com/actions/69</ref>
+               <anchor xml:id="_idTextAnchor741" />
+               <ref target="http://www.conservationevidence.com/actions/119">Restore or create traditional water meadows</ref>Three studies (two before-and-after trials) from Sweden and the UK looked at bird numbers following water meadow restoration, one found increases, one found increases and decreases, one found no increases. Seventeen studies (two randomized, replicated, controlled) from six countries found successful techniques for restoring wet meadow plant communities. Three studies (one replicated, controlled) from four countries found restoration of wet meadow plant communities had reduced or limited success. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 100%; certainty 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/119">http://www.conservationevidence.com/actions/119</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor742" />
+               <ref target="http://www.conservationevidence.com/actions/129">Add yellow rattle seed <hi rendition="simple:bold">
+                     <hi rendition="simple:italic">Rhinanthus minor </hi>
+                  </hi>to hay meadows</ref>A review from the UK reported that hay meadows had more plant species when yellow rattle was present. A randomized, replicated controlled trial in the UK found yellow rattle could be established by &#8216;slot seeding&#8217;. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 70%; certainty 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/129">http://www.conservationevidence.com/actions/129</ref>
+               <anchor xml:id="_idTextAnchor743" />
+               <ref target="http://www.conservationevidence.com/actions/697">Employ areas of semi-natural habitat for rough grazing (includes salt marsh, lowland heath, bog, fen)</ref>Three studies (two replicated) from the UK and unspecified European countries found grazing had positive effects on birds, butterflies or biodiversity generally. A series of site comparisons from the UK found one bird species used heathland managed for grazing as feeding but not nesting sites. Two studies (one replicated site comparison) from the UK found grazing had negative effects on two bird species. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 20%; certainty 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/697">http://www.conservationevidence.com/actions/697</ref>
+               <anchor xml:id="_idTextAnchor744" />
+               <ref target="http://www.conservationevidence.com/actions/150">Exclude livestock from semi-natural habitat (including woodland)</ref>Three studies (including one randomized, replicated, controlled trial) from Ireland and the UK found excluding livestock from semi-natural habitats benefited plants and invertebrates. Three studies (one replicated, controlled and one replicated paired sites comparison) from Ireland and the UK did not find benefits to plants or birds. Two studies (one replicated, controlled and a review) from Poland and the UK found limited or mixed effects. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 20%; certainty 15%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/150">http://www.conservationevidence.com/actions/150</ref>
+               <anchor xml:id="_idTextAnchor745" />
+               <ref target="http://www.conservationevidence.com/actions/649">Maintain wood pasture and parkland</ref>A randomized, replicated, controlled trial in Sweden found annual mowing on wood pasture maintained the highest number of plant species. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/649">http://www.conservationevidence.com/actions/649</ref>
+               <anchor xml:id="_idTextAnchor746" />
+               <ref target="http://www.conservationevidence.com/actions/149">Plant cereals for whole crop silage</ref>A replicated study from the UK found cereal-based whole crop silage had higher numbers of some birds than other crops. A review from the UK reported that seed-eating birds avoided cereal-based whole crop silage in winter, but used it as much as spring barley in summer. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 80%; certainty 28%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/149">http://www.conservationevidence.com/actions/149</ref>
+               <anchor xml:id="_idTextAnchor747" />
+               <ref target="http://www.conservationevidence.com/actions/138">Raise mowing height on grasslands</ref>Three studies (including one replicated, controlled trial) from the UK or unspecified European countries found raised mowing heights caused less damage to amphibians and invertebrates or increased Eurasian skylark productivity. Two studies (one randomized, replicated, controlled) from the UK found no effect on bird or invertebrate numbers and a replicated study from the UK found young birds had greater foraging success in shorter grass. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 35%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/138">http://www.conservationevidence.com/actions/138</ref>
+               <anchor xml:id="_idTextAnchor748" />
+               <ref target="http://www.conservationevidence.com/actions/650">Restore or create upland heath/moorland</ref>A small trial in northern England found moorland restoration increased the number of breeding northern lapwing. A UK review concluded that vegetation changes were slow during the restoration of heather moorland from upland grassland. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 78%; certainty 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/650">http://www.conservationevidence.com/actions/650</ref>
+               <anchor xml:id="_idTextAnchor749" />
+               <ref target="http://www.conservationevidence.com/actions/644">Restore or create wood pasture</ref>A replicated, controlled trial in Belgium found survival and growth of tree seedlings planted in pasture was enhanced when they were protected from grazing. A replicated study in Switzerland found cattle browsing had negative effects on tree saplings. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 5%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/644">http://www.conservationevidence.com/actions/644</ref>
+               <anchor xml:id="_idTextAnchor750" />
+               <ref target="http://www.conservationevidence.com/actions/539">Use traditional breeds of livestock</ref>Three studies (one replicated) from the UK found the breed of livestock affected vegetation structure, invertebrate communities and the amount of plants grazed. A replicated trial from France, Germany and the UK found no difference in the number of plant species or the abundance of birds, invertebrates or mammals between areas grazed by traditional or commercial livestock. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/539">http://www.conservationevidence.com/actions/539</ref>
+               <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+               <anchor xml:id="_idTextAnchor751" />
+               <ref target="http://www.conservationevidence.com/actions/704">Reduce grazing intensity on grassland (including seasonal removal of livestock)</ref>Fifteen studies (including three randomized, replicated, controlled trials) from four countries found reducing grazing intensity benefited birds, invertebrates or plants. Three studies (including one randomized, replicated, controlled trial) from the Netherlands and the UK found no benefit to plants or invertebrates. Nine studies (including a systematic review) from France, Germany and the UK found mixed effects for some or all wildlife groups. The systematic review concluded that intermediate grazing levels are usually optimal but different wildlife groups are likely to have different grazing requirements. <hi rendition="simple:italic">Assessment: likely to be ineffective (effectiveness 30%; certainty 70%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/704">http://www.conservationevidence.com/actions/704</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor752" />
+                     <ref target="http://www.conservationevidence.com/actions/91">Maintain rush pastures</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor753" />
+                     <ref target="http://www.conservationevidence.com/actions/706">Mark fencing to avoid bird mortality</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor754" />
+                     <ref target="http://www.conservationevidence.com/actions/92">Plant brassica fodder crops (grazed <hi rendition="simple:italic">in situ</hi>)</ref>
+                  </item>
+			            </list>
+               <hi rendition="simple:bold">Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor755" />
+               <ref target="http://www.conservationevidence.com/actions/563">Create open patches or strips in permanent grassland</ref>A randomized, replicated, controlled study from the UK found more Eurasian skylarks used fields containing open strips, but numbers varied. A randomized, replicated, controlled study from the UK found insect numbers on grassy headlands initially dropped when strips were cleared. <hi rendition="simple:italic">Assessment:this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/563">http://www.conservationevidence.com/actions/563</ref>
+               <anchor xml:id="_idTextAnchor756" />
+               <ref target="http://www.conservationevidence.com/actions/115">Provide short grass for birds</ref>A replicated UK study found two bird species spent more time foraging on short grass than longer grass. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/115">http://www.conservationevidence.com/actions/115</ref>
+               <anchor xml:id="_idTextAnchor757" />
+               <ref target="http://www.conservationevidence.com/actions/93">Use mixed stocking</ref>A replicated, controlled study in the UK found more spiders, harvestmen and pseudoscorpions in grassland grazed by sheep-only than grassland grazed by sheep and cattle. Differences were only found when suction sampling not pitfall-trapping. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/93">http://www.conservationevidence.com/actions/93</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor758" />4.5  Threat: Residential and commercial development</head>
+               <table xml:id="d18e2041">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for residential and commercial development?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/154">vide owl nest boxes (tawny owl, barn owl)</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/94">ntain traditional farm buildings</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/95">vide bat boxes, bat grilles, improvements to roosts</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor759" />
+               <ref target="http://www.conservationevidence.com/actions/154">Provide owl nest boxes (tawny owl, barn owl)</ref>Two studies (one before-and-after study) from the Netherlands and the UK found providing nest boxes increased barn owl populations. A replicated study from the UK found a decrease in the proportion of breeding barn owls was not associated with the number of nest boxes. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 100%; certainty 33%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/154">http://www.conservationevidence.com/actions/154</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor760" />
+                     <ref target="http://www.conservationevidence.com/actions/94">Maintain traditional farm buildings</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor761" />
+                     <ref target="http://www.conservationevidence.com/actions/95">Provide bat boxes, bat grilles, improvements to roosts</ref>
+                     <anchor xml:id="_idTextAnchor762" />4.6  Threat: Agri-chemicals</item>
+			            </list>
+               <table xml:id="d18e2153">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for agri-chemicals?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Lea<ref target="http://www.conservationevidence.com/actions/652">ve headlands in fields unsprayed (conservation headlands)</ref>
+                           </item>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/139">uce fertilizer, pesticide or herbicide use generally</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/134"> organic rather than mineral fertilisers</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/694">uce chemical inputs in grassland management</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/120">vide buffer strips alongside water courses (rivers and streams)</ref>
+                           </item>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/565">trict certain pesticides</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Buf<ref target="http://www.conservationevidence.com/actions/97">fer in-field ponds</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Ma<ref target="http://www.conservationevidence.com/actions/98">ke selective use of spring herbicides</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor763" />
+               <ref target="http://www.conservationevidence.com/actions/652">Leave headlands in fields unsprayed (conservation headlands)</ref>Twenty-two studies from 14 experiments (including two randomized, replicated, controlled) from five countries found conservation headlands had higher invertebrate or plant diversity than other habitats, twelve studies from ten experiments (three randomized, replicated, controlled) did not. Twenty-seven studies from 15 experiments (of which 13 replicated, controlled) from five countries found positive effects on abundance or behaviour of some wildlife groups. Nineteen studies from 13 experiments<hi rendition="simple:italic"> </hi>(12 replicated, controlled) from four countries found similar, or lower, numbers of birds, invertebrates or plants on conservation headlands than other habitats. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 90%; certainty 75%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/652">http://www.conservationevidence.com/actions/652</ref>
+               <anchor xml:id="_idTextAnchor764" />
+               <ref target="http://www.conservationevidence.com/actions/139">Reduce fertilizer, pesticide or herbicide use generally</ref>Thirty-four studies (including a systematic review) from 10 countries found reducing fertilizer, pesticide or herbicide inputs benefited some invertebrates, plants or birds. Twenty-five studies (including seven randomized, replicated, controlled trials) from eight countries found negative or no clear effects on some invertebrates, plants or birds. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 70%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/139">http://www.conservationevidence.com/actions/139</ref>
+               <anchor xml:id="_idTextAnchor765" />
+               <ref target="http://www.conservationevidence.com/actions/134">Use organic rather than mineral fertilizers</ref>Fourteen studies (including four randomized, replicated, controlled trials) from six countries found areas treated with organic rather than mineral fertilizers had more plants or invertebrates or higher diversity. A randomized, replicated, controlled trial from the UK found no effect on weed numbers. Two studies (including a small trial from Belgium) found organic fertilizers benefited invertebrates, a UK review found that in large quantities they did not. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 100%; certainty 70%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/134">http://www.conservationevidence.com/actions/134</ref>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor766" />
+               <ref target="http://www.conservationevidence.com/actions/694">Reduce chemical inputs in grassland management</ref>Six studies (including a randomized, replicated, controlled before-and-after trial) from three countries found stopping fertilizer inputs on grassland improved plant or invertebrate species richness or abundance. Two reviews from the Netherlands and the UK found no or low fertilizer input grasslands favour some birds and invertebrates. Five studies (two replicated trials of which one randomized and one replicated) from three countries found no clear effects on invertebrates or plants. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 90%; certainty 60%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/694">http://www.conservationevidence.com/actions/694</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor767" />
+               <ref target="http://www.conservationevidence.com/actions/120">Provide buffer strips alongside water courses (rivers and streams)</ref>Three studies (including one replicated site comparison) from the Netherlands and the UK found riparian buffer strips increased diversity or abundance of plants, invertebrates or birds and supported vegetation associated with water vole habitats. Two replicated site comparisons from France and Ireland found farms with buffer strips did not have more plant species than farms without strips. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 15%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/120">http://www.conservationevidence.com/actions/120</ref>
+               <anchor xml:id="_idTextAnchor768" />
+               <ref target="http://www.conservationevidence.com/actions/565">Restrict certain pesticides</ref>A small UK study found two fungicides that reduced insect abundance less than an alternative. A replicated, controlled trial in Switzerland found applying slug pellets in a band at the field edge was as effective as spreading the pellets across the field. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 50%; certainty 5%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/565">http://www.conservationevidence.com/actions/565</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following intervention:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor769" />
+                     <ref target="http://www.conservationevidence.com/actions/97">Buffer in-field ponds</ref>
+                  </item>
+			            </list>
+               <hi rendition="simple:bold">Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor770" />
+               <ref target="http://www.conservationevidence.com/actions/98">Make selective use of spring herbicides</ref>A randomized, replicated, controlled study from the UK found spring herbicides had some benefits for beneficial weeds and arthropods. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/98">http://www.conservationevidence.com/actions/98</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor771" />4.7  Threat: Transport and service corridors</head>
+               <table xml:id="d18e2438">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for transport and service corridors?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/99">age land under power lines to benefit wildlife</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following intervention:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor772" />
+                     <ref target="http://www.conservationevidence.com/actions/99">Manage land under power lines to benefit wildlife</ref>
+                  </item>
+			            </list>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor773" />4.8  Threat: Hunting and trapping (for pest control, food or sport)</head>
+               <table xml:id="d18e2502">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for hunting and trapping (for pest control, food or sport)?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Enf<ref target="http://www.conservationevidence.com/actions/101">orce legislation to protect birds against persecution</ref>
+                           </item>
+								                   <item>Pr<ref target="http://www.conservationevidence.com/actions/641">ovide &#8216;sacrificial&#8217; grasslands to reduce the impact of wild geese on crops</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Avo<ref target="http://www.conservationevidence.com/actions/100">id use of lead shot</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/102"> alerts to reduce grey partridge by-catch during shoots</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/645"> scaring devices (e.g. gas guns) and other deterrents to reduce persecution of native species</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor774" />
+               <ref target="http://www.conservationevidence.com/actions/101">Enforce legislation to protect birds against persecution</ref>Two before-and-after studies from Denmark and the UK found increased numbers or survival of raptors under legislative protection. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 90%; certainty 18%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/101">http://www.conservationevidence.com/actions/101</ref>
+               <anchor xml:id="_idTextAnchor775" />
+               <ref target="http://www.conservationevidence.com/actions/641">Provide &#8216;sacrificial&#8217; grasslands to reduce the impact of wild geese on crops</ref>All six studies from the UK (including four replicated, controlled trials) found that managing grasslands for geese increased the number of geese using these areas. Four of these studies found geese were moving within the study sites. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 20%; certainty 5%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/641">http://www.conservationevidence.com/actions/641</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor776" />
+                     <ref target="http://www.conservationevidence.com/actions/100">Avoid use of lead shot</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor777" />
+                     <ref target="http://www.conservationevidence.com/actions/102">Use alerts to reduce grey partridge by-catch during shoots</ref>
+                  </item>
+			            </list>
+               <hi rendition="simple:bold">Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor778" />
+               <ref target="http://www.conservationevidence.com/actions/645">Use scaring devices (e.g. gas guns) and other deterrents to reduce persecution of native species</ref>A replicated, controlled trial in Germany found phosphorescent tape was more effective than normal yellow tape at deterring one of three mammal species. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/645">http://www.conservationevidence.com/actions/645</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor779" />4.9  Threat: Natural system modification</head>
+               <table xml:id="d18e2675">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for natural system modification?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Rai<ref target="http://www.conservationevidence.com/actions/121">se water levels in ditches or grassland</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cre<ref target="http://www.conservationevidence.com/actions/153">ate scrapes and pools</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/151">age heather by swiping to simulate burning</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/152">ge heather, gorse or grass by burning</ref>
+                           </item>
+								                   <item>Rem<ref target="http://www.conservationevidence.com/actions/122">ove flood defence banks to allow inundation</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Re-<ref target="http://www.conservationevidence.com/actions/103">wet moorland</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor780" />
+               <ref target="http://www.conservationevidence.com/actions/121">Raise water levels in ditches or grassland</ref>Eight studies (including two replicated, controlled trials) from Denmark, the Netherlands and the UK found raising water levels increased numbers of birds, invertebrates or plants or allowed wet grassland plant species to establish more rapidly. Three studies (two replicated) from the Netherlands and the UK found raising water levels had negative, limited or no effects on plants or birds. A replicated study from the UK found unflooded pastures had a greater weight of soil invertebrates than flooded pastures. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 100%; certainty 55%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/121">http://www.conservationevidence.com/actions/121</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor781" />
+               <ref target="http://www.conservationevidence.com/actions/153">Create scrapes and pools</ref>Five studies (including a replicated, controlled, paired trial) from Sweden and the UK found creating scrapes and pools provided habitat for birds, invertebrates or plants or increased invertebrate diversity. Two replicated studies (one controlled, paired) from Ireland and the UK found mixed or no differences in invertebrate numbers between created ponds and controls or natural ponds. A study in Sweden found fewer fish species in constructed than natural wetlands. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 100%; certainty 28%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/153">http://www.conservationevidence.com/actions/153</ref>
+               <anchor xml:id="_idTextAnchor782" />
+               <ref target="http://www.conservationevidence.com/actions/151">Manage heather by swiping to simulate burning</ref>A replicated, controlled trial from the UK found heather moorland subject to flailing had fewer plant species than burned plots but more species than unflailed plots. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 9%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/151">http://www.conservationevidence.com/actions/151</ref>
+               <anchor xml:id="_idTextAnchor783" />
+               <ref target="http://www.conservationevidence.com/actions/152">Manage heather, gorse or grass by burning</ref>A long-term replicated, controlled trial in Switzerland found burning of chalk grassland did not increase the number of plant species. A replicated, controlled trial in the UK found more plant species on burned than unburned heather moorland. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 5%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/152">http://www.conservationevidence.com/actions/152</ref>
+               <anchor xml:id="_idTextAnchor784" />
+               <ref target="http://www.conservationevidence.com/actions/122">Remove flood defence banks to allow inundation</ref>A controlled before-and-after study from the UK found a stretch of river that was allowed to flood had more bird species and territories than a channelized section. A study from Belgium found flooding and mowing increased plant species richness in meadow plots. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 80%; certainty 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/122">http://www.conservationevidence.com/actions/122</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following intervention:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor785" />
+                     <ref target="http://www.conservationevidence.com/actions/103">Re-wet moorland</ref>
+                     <anchor xml:id="_idTextAnchor786" />4.10  Threat: Invasive and other problematic species</item>
+			            </list>
+               <table xml:id="d18e2875">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for invasive and other problematic species?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/699">trol predatory mammals and birds (foxes, crows, stoats and weasels)</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/127">trol scrub</ref>
+                           </item>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/123">trol weeds without damaging other plants in conservation areas</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/108">tect individual nests of ground-nesting birds</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/106">trol grey squirrels</ref>
+                           </item>
+								                   <item>Ere<ref target="http://www.conservationevidence.com/actions/109">ct predator-proof fencing around important breeding sites for waders</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/111">age wild deer numbers</ref>
+                           </item>
+								                   <item>Rem<ref target="http://www.conservationevidence.com/actions/110">ove coarse fish</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/105">trol bracken</ref>
+                           </item>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/104">trol invasive non-native plants on farmland (such as Himalayan balsam, Japanese knotweed)</ref>
+                           </item>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/107">trol mink</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/112">vide medicated grit for grouse</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor787" />
+               <ref target="http://www.conservationevidence.com/actions/699">Control predatory mammals and birds (foxes, crows, stoats and weasels)</ref>Eight studies (including a systematic review) from France and the UK found predator control (sometimes alongside other interventions) increased the abundance, population size or productivity of some birds. A randomized, replicated, controlled study from the UK did not. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 90%; certainty 60%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/699">http://www.conservationevidence.com/actions/699</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor788" />
+               <ref target="http://www.conservationevidence.com/actions/127">Control scrub</ref>A replicated site comparison from the UK found the number of young grey partridge per adult was negatively associated with management that included scrub control. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 2%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/127">http://www.conservationevidence.com/actions/127</ref>
+               <anchor xml:id="_idTextAnchor789" />
+               <ref target="http://www.conservationevidence.com/actions/123">Control weeds without damaging other plants in conservation areas</ref>Two studies (one randomized, replicated, controlled) from the UK found that after specific plants were controlled, new plants established or diversity increased. A replicated, controlled laboratory and grassland study found a specific herbicide had negative impacts on one beetle species. Eleven studies investigated different methods of controlling plants. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 90%; certainty 28%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/123">http://www.conservationevidence.com/actions/123</ref>
+               <anchor xml:id="_idTextAnchor790" />
+               <ref target="http://www.conservationevidence.com/actions/108">Protect individual nests of ground-nesting birds</ref>Two randomized, replicated, controlled studies from Sweden found nest exclosures increased measures of ground-nesting bird productivity, however both found bird numbers or adult predation rates were unaffected or negatively affected by exclosures. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 30%; certainty 13%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/108">http://www.conservationevidence.com/actions/108</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor791" />
+                     <ref target="http://www.conservationevidence.com/actions/106">Control grey squirrels</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor792" />
+                     <ref target="http://www.conservationevidence.com/actions/109">Erect predator-proof fencing around important breeding sites for waders</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor793" />
+                     <ref target="http://www.conservationevidence.com/actions/111">Manage wild deer numbers</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor794" />
+                     <ref target="http://www.conservationevidence.com/actions/110">Remove coarse fish</ref>
+                  </item>
+			            </list>
+               <hi rendition="simple:bold">Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor795" />
+               <ref target="http://www.conservationevidence.com/actions/105">Control bracken</ref>A systematic review found repeated herbicide applications reduced bracken abundance but cutting may be equally effective. A laboratory trial found the same herbicide could inhibit the growth of mosses under certain conditions. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/105">http://www.conservationevidence.com/actions/105</ref>
+               <anchor xml:id="_idTextAnchor796" />
+               <ref target="http://www.conservationevidence.com/actions/104">Control invasive non-native plants on farmland (such as Himalayan balsam, Japanese knotweed)</ref>Two randomized, replicated, controlled trials in the Czech Republic found removing all giant hogweed flower heads at peak flowering time reduced seed production. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/104">http://www.conservationevidence.com/actions/104</ref>
+               <anchor xml:id="_idTextAnchor797" />
+               <ref target="http://www.conservationevidence.com/actions/107">Control mink</ref>A systematic review found trapping may be an effective method of reducing American mink populations. A study in the UK found mink were successfully eradicated from a large area by systematic trapping. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/107">http://www.conservationevidence.com/actions/107</ref>
+               <anchor xml:id="_idTextAnchor798" />
+               <ref target="http://www.conservationevidence.com/actions/112">Provide medicated grit for grouse</ref>A controlled study from the UK found higher red grouse productivity where medicated grit was provided. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/112">http://www.conservationevidence.com/actions/112</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor799" />4.11  Threat: Education and awareness</head>
+               <table xml:id="d18e3186">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for education and awareness?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/114">vide specialist advice, assistance preparing conservation plans</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/113">vide training for land managers, farmers and farm advisers</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following intervention:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor800" />
+                     <ref target="http://www.conservationevidence.com/actions/114">Provide specialist advice, assistance preparing conservation plans</ref>
+                  </item>
+			            </list>
+               <hi rendition="simple:bold">Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor801" />
+               <ref target="http://www.conservationevidence.com/actions/113">Provide training for land managers, farmers and farm advisers</ref>A study from the UK found farmers who were trained in how to implement agri-environment schemes created better quality wildlife habitat over five years. <hi rendition="simple:italic">Assessment: this intervention has not been assessed.</hi>
+               <ref target="http://www.conservationevidence.com/actions/113">http://www.conservationevidence.com/actions/113</ref>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

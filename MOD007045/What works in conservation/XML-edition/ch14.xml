@@ -1,0 +1,2501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch14">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">14.  Marine and Freshwater Mammal Conservation</ref>
+            </head>
+				
+					       <byline>&#169; W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.14">https://doi.org/10.11647/OBP.0267.14</ref>
+            </byline>
+				
+			Anna Berthinussen, Rebecca K. Smith <hi rendition="simple:bold">&amp;</hi> William J. Sutherland<p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">Jay Barlow</hi>, NOAA / UC San Diego, United States<hi rendition="simple:bold">Andrew Bladon</hi>, University of Cambridge, United Kingdom<hi rendition="simple:bold">Elizabeth Campbell</hi>, ProDelphinus, Peru<hi rendition="simple:bold">Vera da Silva</hi>, Projeto Boto, Brazil<hi rendition="simple:bold">Jos&#233; Martins da Silva-Jr</hi>, Spinner Dolphin project, Brazil<hi rendition="simple:bold">Nico de Bruyn</hi>, University of Pretoria, South Africa<hi rendition="simple:bold">Frances Gulland</hi>, University of California, Davis, United States<hi rendition="simple:bold">Lucy Keith-Diagne</hi>, African Aquatic Conservation Fund, Senegal<hi rendition="simple:bold">Nachiket Kelkar</hi>, Ashoka Trust for Research in Ecology &amp; the Environment, India<hi rendition="simple:bold">Giuseppe Notarbartolo di Sciara</hi>, Tethys Research Institute, Italy<hi rendition="simple:bold">Silviu Petrovan</hi>, University of Cambridge, United Kingdom<hi rendition="simple:bold">Nikki Taylor</hi>, JNCC, United Kingdom<hi rendition="simple:bold">Paul Thompson</hi>, Lighthouse Field Station, Aberdeen, United Kingdom<hi rendition="simple:bold">Razvan Zaharia</hi>, SEOPMM Oceanic Club, Romania<p>
+               <hi rendition="simple:bold">Scope of assessment: </hi>for native wild marine species across the world.</p>
+            <p>
+               <hi rendition="simple:bold">Assessed: </hi>2021. </p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the median % score for effectiveness.</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % certainty of evidence for effectiveness, determined by the quantity and quality of the evidence in the synopsis.</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>is the median % score for negative side-effects to the group of species of concern.</p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target group of species for each intervention. The assessment may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at <ref target="http://www.conservationevidence.com">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">14.1  Threat: Aquaculture and agriculture</head>
+               <table xml:id="d14e164">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for aquaculture and agriculture?</hi>
+                        </p>
+						               </cell>
+					             </row>
+				
+				
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2775">Use acoustic devices at aquaculture systems</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2774">Replace or repair damaged anti-predator nets around aquaculture systems</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2776">Translocate mammals away from aquaculture systems to reduce human-wildlife conflict</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2745">Introduce and enforce legislation to prevent intentional killing of mammals at aquaculture systems</ref>
+                           </item>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2746">Introduce and enforce regulations to prevent the use of harmful deterrents on mammals at aquaculture systems</ref>
+                           </item>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2744">Minimize food waste at aquaculture systems</ref>
+                           </item>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2743">Modify anti-predator nets around aquaculture systems</ref>
+                           </item>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2742">Modify aquaculture gear</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>Trade-off between benefit and harms<list>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2775">Use acoustic devices at aquaculture systems</ref>
+                  </item>
+			            </list>Six studies evaluated the effects on marine and freshwater mammals of using acoustic devices at aquaculture systems. Four studies were in the North Atlantic Ocean (USA, UK), one was in the Reloncav&#237; fjord (Chile) and one in the Mediterranean Sea (Italy).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (6 STUDIES)Human-wildlife conflict (6 studies): Four of six studies (including five before-and-after and/or site comparison studies and one controlled study) in the North Atlantic Ocean, the Reloncav&#237; fjord and the Mediterranean Sea found that using acoustic devices at salmon farms reduced predation on caged salmon by grey seals, harbour seals and South American sea lions, or reduced the number of harbour seals approaching a fish cage. The two other studies found that using acoustic devices did not reduce harbour seal predation at salmon farms, or reduce the presence, approach distances, groups sizes or time spent around fin-fish farms by common bottlenose dolphins.<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 45%; certainty 45%; harms 45%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/2775">https://www.conservationevidence.com/actions/2775</ref>Unknown effectiveness<list>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2774">Replace or repair damaged anti-predator nets around aquaculture systems</ref>
+                  </item>
+			            </list>One study evaluated the effects on marine mammals of replacing anti-predator nets around aquaculture systems. The study was in the North Atlantic Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)      OTHER (1 STUDY)Human-wildlife conflict (1 study): One site comparison study in the North Atlantic Ocean found that replacing anti-predator nets more frequently at salmon farms resulted in fewer salmon losses to harbour seal predation.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 28%; harms 10%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/2774">https://www.conservationevidence.com/actions/2774</ref>Likely to be ineffective or harmful<list>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2776">Translocate mammals away from aquaculture systems to reduce human-wildlife conflict</ref>
+                  </item>
+			            </list>Two studies evaluated the effects of translocating mammals away from aquaculture systems to reduce human-wildlife conflict. Both studies were in the Tasman Sea and one was also in the Southern Ocean (Tasmania).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)      OTHER (2 STUDIES)Human-wildlife conflict (2 studies): Two studies (including one site comparison study) in the Tasman Sea (one also in the Southern Ocean) found that more than half or nearly all of Australian and New Zealand fur seals translocated away from salmon farms returned.<hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 10%; certainty 40%; harms 40%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/2776">https://www.conservationevidence.com/actions/2776</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2745">Introduce and enforce legislation to prevent intentional killing of mammals at aquaculture systems</ref>
+                  </item>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2746">Introduce and enforce regulations to prevent the use of harmful deterrents on mammals at aquaculture systems</ref>
+                  </item>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2744">Minimize food waste at aquaculture systems</ref>
+                  </item>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2743">Modify anti-predator nets around aquaculture systems</ref>
+                  </item>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2742">Modify aquaculture gear.</ref>14.2  Threat: Energy production and mining</item>
+			            </list>
+               <div>
+                  <head type="section-lev2">14.2.1 Renewable energy</head>
+                  <table xml:id="d14e434">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for renewable energy?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2747">Modify design of underwater turbines</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2748">Use acoustic devices at renewable energy sites</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2749">Use real-time automated tools at renewable energy sites to detect marine and freshwater mammals and allow operations to be stopped or modified</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2747">Modify design of underwater turbines</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2748">Use acoustic devices at renewable energy sites</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2749">Use real-time automated tools at renewable energy sites to detect marine and freshwater mammals and allow operations to be stopped or modified.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.2.2 Power plants</head>
+                  <table xml:id="d14e513">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for power plants?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2750">Install diversion or return systems on cooling water intake structures</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2752">Reduce capacity of cooling water intake structures</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2751">Use acoustic devices at cooling water intake structures</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2753">Use cooling towers instead of once-through cooling systems</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2750">Install diversion or return systems on cooling water intake structures</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2752">Reduce capacity of cooling water intake structures</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2751">Use acoustic devices at cooling water intake structures</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2753">Use cooling towers instead of once-through cooling systems.</ref>14.3  Threat: Transportation and service corridors</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.3.1 Shipping lanes</head>
+                  <table xml:id="d14e602">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for shipping lanes?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2777">Set and enforce vessel speed limits</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2758">Develop and implement regulations for operating vessels around mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2754">Divert shipping routes</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2764">Limit vessel traffic in shallow rivers</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2762">Modify vessels to reduce risk of physical injury to mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2760">Provide educational materials at marinas and ports to encourage vessel operators to carry out safe practices around mammals (e.g. signs, leaflets)</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2759">Provide training to vessel operators on mammal behaviour and appropriate avoidance techniques</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2763">Reduce shipping along inland waterways</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2761">Use acoustic devices on moving vessels</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2755">Use observers on board vessels to detect mammals and allow vessel course or speed to be altered</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2756">Use real-time automated tools on board vessels to detect mammals and allow vessel course or speed to be altered</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2757">Use remote tools to detect mammals in an area and allow vessel course or speed to be altered</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2777">Set and enforce vessel speed limits</ref>
+                     </item>
+			               </list>Two studies evaluated the effects on marine and freshwater mammals of setting and enforcing vessel speed limits. One study was in the Indian River estuarine system (USA) and the other in the North Atlantic Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (2 STUDIES)Survival (2 studies): One before-and-after study in the Indian River estuarine system found similar numbers of manatee deaths before and after vessel speed limits were set in &#8216;zones&#8217;, but fewer deaths were recorded after speed limits were set and enforced in all areas. One before-and-after study in the North Atlantic Ocean found that setting vessel speed limits during specific periods in key habitats resulted in fewer North Atlantic right whale deaths caused by collisions.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 60%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2777">https://www.conservationevidence.com/actions/2777</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2758">Develop and implement regulations for operating vessels around mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2754">Divert shipping routes</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2764">Limit vessel traffic in shallow rivers</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2762">Modify vessels to reduce risk of physical injury to mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2760">Provide educational materials at marinas and ports to encourage vessel operators to carry out safe practices around mammals (e.g. signs, leaflets)</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2759">Provide training to vessel operators on mammal behaviour and appropriate avoidance techniques</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2763">Reduce shipping along inland waterways</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2761">Use acoustic devices on moving vessels</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2755">Use observers on board vessels to detect mammals and allow vessel course or speed to be altered</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2756">Use real-time automated tools on board vessels to detect mammals and allow vessel course or speed to be altered</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2757">Use remote tools to detect mammals in an area and allow vessel course or speed to be altered.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.3.2 Flight paths</head>
+                  <table xml:id="d14e801">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for flight paths?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2765">Introduce regulations for flying aircraft over marine and freshwater mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2765">Introduce regulations for flying aircraft over marine and freshwater mammals.</ref>
+                     </item>
+			               </list>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">14.4  Threat: Biological resource use</head>
+               <div>
+                  <head type="section-lev2">14.4.1 Reduce hunting and persecution</head>
+                  <table xml:id="d14e867">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for reduce hunting and persecution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2780">Prohibit or restrict hunting of marine and freshwater mammal species</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2788">Educate local communities and fishers on mammal protection laws to reduce killing of marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2781">Enforce legislation to prevent the trafficking and trade of marine and freshwater mammal products</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2787">Inform local communities and fishers about the negative impacts of hunting to reduce the killing of marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2784">Introduce alternative food sources to replace marine and freshwater mammal meat</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2785">Introduce alternative income sources to reduce marine and freshwater mammal exploitation and trade</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2786">Introduce alternative sources of bait to replace the use of marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2783">Introduce alternative treatments to reduce the use of marine and freshwater mammals in traditional medicine</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2778">Introduce and enforce legislation to prevent intentional killing of mammals at wild fisheries</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2789">Introduce and enforce regulations for sustainable hunting of marine and freshwater mammals for traditional subsistence and handicrafts</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2779">Introduce and enforce regulations to prevent the use of harmful deterrents on mammals at wild fisheries</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2782">Restrict capture of marine and freshwater mammals for research or aquariums and zoos</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2780">Prohibit or restrict hunting of marine and freshwater mammal species</ref>
+                     </item>
+			               </list>Five studies evaluated the effects of prohibiting hunting of marine mammal species. One study was in each of the Kattegat and Skagerrak seas (Denmark and Sweden), the North Atlantic Ocean, North Pacific Ocean and the Southern Hemisphere, the South Pacific Ocean (Australia), the North Atlantic Ocean (Greenland) and the Southern Ocean (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (5 STUDIES)Abundance (5 studies): Four of five studies (including three before-and-after studies) in the Kattegat and Skagerrak Seas, the South Pacific Ocean, the North Atlantic Ocean and the Southern Ocean found that after hunting was prohibited, the abundance of harbour seals and humpback whales increased over 7&#8211;30 years. The other study found that numbers of mature male sperm whales did not differ significantly before or 31 years after hunting was prohibited. One review in the North Atlantic Ocean, North Pacific Ocean and the Southern Hemisphere found significant increase rates for 10 of 12 baleen whale populations during 7&#8211;21 years after legislation to prohibit hunting was introduced.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: beneficial (effectiveness 84%; certainty 70%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2780">https://www.conservationevidence.com/actions/2780</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2788">Educate local communities and fishers on mammal protection laws to reduce killing of marine and freshwater mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2781">Enforce legislation to prevent the trafficking and trade of marine and freshwater mammal products</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2787">Inform local communities and fishers about the negative impacts of hunting to reduce the killing of marine and freshwater mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2784">Introduce alternative food sources to replace marine and freshwater mammal meat</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2785">Introduce alternative income sources to reduce marine and freshwater mammal exploitation and trade</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2786">Introduce alternative sources of bait to replace the use of marine and freshwater mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2783">Introduce alternative treatments to reduce the use of marine and freshwater mammals in traditional medicine</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2778">Introduce and enforce legislation to prevent intentional killing of mammals at wild fisheries</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2789">Introduce and enforce regulations for sustainable hunting of marine and freshwater mammals for traditional subsistence and handicrafts</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2779">Introduce and enforce regulations to prevent the use of harmful deterrents on mammals at wild fisheries</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2782">Restrict capture of marine and freshwater mammals for research or aquariums and zoos</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.4.2 Reduce unwanted catch ('bycatch') of mammals and improve survival of released or escaped mammals</head>
+                  <table xml:id="d14e1068">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for reduce unwanted catch ('bycatch') of mammals and improve survival of released or escaped mammals?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2805">Increase visual detectability of fishing gear for mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2823">Install exclusion and/or escape devices for mammals on fishing nets</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2822">Modify fishing pots and traps to exclude mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2807">Use acoustically reflective fishing gear materials</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2821">Use catch and hook protection devices on fishing gear</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2808">Use acoustic devices on fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2815">Use acoustic devices on fishing vessels</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2816">Use acoustic devices on moorings</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2793">Deploy fishing gear at different depths</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2829">Establish handling and release protocols for mammals captured by fisheries</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2790">Establish &#8216;move-on rules&#8217; for fishing vessels if mammals are encountered</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2824">Install barriers at wild fisheries</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2817">Play predator calls to deter mammals from fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2825">Switch off artificial lighting at wild fisheries</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2803">Use a larger mesh size for fishing trap-nets</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2820">Use acoustic decoys to divert mammals away from fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2818">Use an electric current to deter mammals from fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2819">Use noise aversive conditioning to deter mammals from fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2801">Use stiffened materials or increase tension of fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2828">Use &#8216;mammal-safe&#8217; nets to capture and release mammals trapped in fishing structures</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2806">Attach acoustically reflective objects to fishing gear</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2792">Deploy fishing gear at times when mammals are less active</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2837">Educate the public to reduce consumer demand for fisheries that threaten mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2832">Enforce legislation to control illegal fishing using gear or methods that are harmful to mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2835">Finance low interest loans to convert to fishing gear that reduces unwanted catch of mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2834">Introduce fishing gear exchange programmes to encourage fishers to use gear that reduces unwanted catch of mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2831">Introduce legislation to prohibit or restrict the use of fishing gear types or methods that are harmful to mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell />
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2833">Involve fishers in designing and trialling new fishing gear types to encourage uptake of gear that reduces unwanted catch of mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2804">Limit size of trawl net openings</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2795">Limit the length of fishing gear in an area</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2794">Limit the number of fishing vessels or fishing days in an area</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2836">Promote fish and seafood certification (e.g. ecolabels) to reduce consumer demand for fisheries that threaten mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2830">Provide training and tools for safe release of mammals captured by fisheries</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2796">Reduce duration of time fishing gear is in the water</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2798">Retain buoys and lines at the sea floor or river bed when not hauling</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2827">Retain offal on fishing vessels instead of discarding overboard</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2802">Use a smaller mesh size for fishing nets</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2800">Use bindings to keep trawl nets closed until they have sunk below the water surface</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2826">Use different bait species for fishing that are less attractive to mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2791">Use passive listening devices to detect mammals and prompt fishing vessels to move away</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2799">Use sinking lines instead of floating lines</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2797">Use weakened fishing gear</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2805">Increase visual detectability of fishing gear for mammals</ref>
+                     </item>
+			               </list>Two studies evaluated the effects on marine mammals of increasing the visual detectability of fishing gear for mammals. One study was in the Gulf of St. Lawrence (Canada) and one was in Cape Cod Bay (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (2 STUDIES)Behaviour change (2 studies): One study in the Gulf of St. Lawrence found that minke whales approached white ropes more slowly and changed their bearing more when approaching black ropes compared to ropes of other colours. One study in Cape Cod Bay found that simulated ropes painted red or orange were detected by North Atlantic right whales at greater distances than green but not black ropes, and more whales collided with green ropes than the other three rope colours.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 55%; certainty 45%; harms 5%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2805">https://www.conservationevidence.com/actions/2805</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2823">Install exclusion and/or escape devices for mammals on fishing nets</ref>
+                     </item>
+			               </list>Seven studies evaluated the effects on marine mammals of installing exclusion and/or escape devices on fishing nets. Four studies were in the Indian Ocean (Australia, Tasmania) and/or Tasman Sea (Tasmania) and three studies were in the South Atlantic Ocean (South Georgia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (2 STUDIES)Survival (2 studies): One study in the Indian Ocean found that less than one third of common bottlenose dolphins exited escape hatches on trawl nets alive. One replicated study in the Tasman Sea and Indian Ocean found that fewer fur seals died in exclusion devices with large escape openings than in those with small openings.BEHAVIOUR (0 STUDIES)OTHER (5 STUDIES)Reduction in entanglements/unwanted catch (5 studies): Three studies (including two controlled studies) in the South Atlantic Ocean and Indian Ocean found that installing exclusion and/or escape devices on trawl nets reduced the number of trapped or entangled Antarctic fur seals and common bottlenose dolphins. One before-and-after study in the Indian Ocean found that installing exclusion and escape devices on trawl nets reduced common bottlenose dolphin entanglements for three of four fishing vessels. One study in the South Atlantic Ocean found that modifying an exclusion and escape device by enlarging and relocating the escape panel resulted in fewer Antarctic fur seal entanglements.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 60%; harms 15%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2823">https://www.conservationevidence.com/actions/2823</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2822">Modify fishing pots and traps to exclude mammals</ref>
+                     </item>
+			               </list>Six studies evaluated the effects on marine mammals of modifying fishing pots and traps to exclude mammals. Two studies were in the North Sea (UK, Sweden) and one study was in each of the Indian River Lagoon (USA), the Gulf of Finland (Finland), the Bothnian Sea (Finland), the Indian Ocean (Australia) and the Baltic Sea (Sweden).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (6 STUDIES)Reduction in entanglements/unwanted catch (2 studies): Two controlled studies (including one replicated study) in the Indian Ocean, and the Baltic Sea and North Sea found that installing steel rods on lobster pots or metal frames on fishing pots reduced the number of Australian sea lion pups or grey seals and harbour seals that entered or became trapped in pots.Human wildlife conflict (4 studies): Two controlled studies (including one replicated study) in the Bothnian Sea and the North Sea found that installing wire grids or steel bars on fishing trap-nets or bag-nets, along with strengthened netting or other modifications to prevent seal access, reduced damage to salmon catches by seals. One controlled study in the Indian River Lagoon found that one of two methods of securing crab pot doors with a bungee cord reduced the number of common bottlenose dolphin interactions. One controlled study in the Gulf of Finland found that installing wire grids on trap-nets, along with strengthened netting, resulted in higher catches of undamaged salmon but not whitefish, likely due to reduced seal predation.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 56%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2822">https://www.conservationevidence.com/actions/2822</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2807">Use acoustically reflective fishing gear materials</ref>
+                     </item>
+			               </list>Five studies evaluated the effects on marine mammals of using acoustically reflective fishing gear materials. Two studies were in the Bay of Fundy (Canada) and one study was in each of the Fortune Channel (Canada), the North Sea (Denmark) and the South Atlantic Ocean (Argentina).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (2 STUDIES)Behaviour change (2 studies): One controlled study in the Fortune Channel found that harbour porpoises approached nets made from acoustically reflective material (barium sulfate) and conventional nets to similar distances and for similar durations, but porpoises used fewer echolocation clicks at barium sulfate nets. One controlled study in the Bay of Fundy found that harbour porpoise echolocation activity was similar at barium sulfate and conventional nets.OTHER (3 STUDIES)Reduction in entanglements/unwanted catch (3 studies): Two of three controlled studies (including two replicated studies) in the North Sea, the Bay of Fundy and the South Atlantic Ocean found that fishing nets made from acoustically reflective materials (iron-oxide or barium sulfate) had fewer entanglements of harbour porpoises than conventional fishing nets. The other study found that nets made from barium sulfate did not reduce the number of dolphin entanglements.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 45%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2807">https://www.conservationevidence.com/actions/2807</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2821">Use catch and hook protection devices on fishing gear</ref>
+                     </item>
+			               </list>Five studies evaluated the effects on marine mammals of using catch and hook protection devices on fishing gear. Two studies were in the South Pacific Ocean (Chile, Australia and Fiji), two were in the Indian Ocean (Seychelles, Madagascar) and one was in the Southwest Atlantic Ocean.COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (5 STUDIES)Reduction in entanglements/unwanted catch (1 study): One study in the South Pacific Ocean found that using cage or chain devices on fishing hooks resulted in fewer unwanted catches of toothed whales.Human-wildlife conflict (5 studies): Two of four studies (including three controlled and one before-and-after study) in the South Pacific Ocean, the Southwest Atlantic Ocean and the Indian Ocean found that net sleeves or cage and chain devices on fishing hooks reduced damage to fish catches by sperm whales, killer whales and toothed whales. The two other studies found that attaching &#8216;umbrella&#8217; or &#8216;spider&#8217; devices on fishing hooks did not reduce predation and/or damage to fish catches by sperm whales or toothed whales. One controlled study in the Indian Ocean found that attaching catch protection devices made from streamers to fishing lines reduced Indo-Pacific bottlenose and spinner dolphin predation on fish bait, but only during the first two trials.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 43%; certainty 42%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2821">https://www.conservationevidence.com/actions/2821</ref>Trade-off between benefit and harms<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2808">Use acoustic devices on fishing gear</ref>
+                     </item>
+			               </list>Thirty-three studies evaluated the effects on marine mammals of using acoustic devices on fishing gear. Eight studies were in the North Atlantic Ocean (Canada, USA, UK), four studies were in each of the North Pacific Ocean (USA) and the North Sea (Germany, Denmark, UK), three studies were in the Mediterranean Sea (Spain, Italy), two studies were in each of the Fortune Channel (Canada), the South Atlantic Ocean (Argentina, Brazil) and the Baltic Sea (Denmark, Germany, Sweden), and one study was in each of Moreton Bay (Australia), the Black Sea (Turkey), the Celtic Sea (UK), the South Pacific Ocean (Peru), the Rainbow Channel (Australia), the UK (water body not stated), the Great Belt (Denmark), Omura Bay (Japan), and the Indian Ocean (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (16 STUDIES)Behaviour change (16 studies): Twelve of 16 controlled studies (including three replicated studies) in the North Atlantic Ocean, the Fortune Channel, the South Atlantic Ocean, Moreton Bay, the Mediterranean Sea, the Celtic Sea, the Rainbow Channel, a coastal site in the UK, the Great Belt, the North Sea, Omura Bay and the Indian Ocean found that using acoustic devices on fishing nets, float lines or simulated fishing nets resulted in harbour porpoises, common bottlenose dolphins, tuxuci dolphins, finless porpoises and seals approaching nets or lines less closely, having fewer encounters or interactions with nets, or activity and sightings were reduced in the surrounding area. The other four studies found that using acoustic devices on trawl nets, float lines or simulated fishing nets did not have a significant effect on the behaviour of common bottlenose dolphins, harbour porpoises, Indo-Pacific humpback dolphins or dugongs.OTHER (19 STUDIES)Reduction in entanglements/unwanted catch (14 studies): Nine studies (including seven controlled studies and two before-and after studies) in the North Atlantic Ocean, the North Sea, the South Atlantic Ocean, the North Pacific Ocean, the Black Sea, and the South Pacific Ocean found that using acoustic devices on cod traps or fishing nets resulted in fewer collisions of humpback whales or entanglements of harbour porpoises, Franciscana dolphins, beaked whales and small cetaceans. Three studies (including two controlled studies and one before-and-after study) in the North Pacific Ocean found that using acoustic devices on fishing nets resulted in fewer entanglements of some species but not others. One controlled study in the North Atlantic Ocean found that fishing nets with a &#8216;complete&#8217; set of acoustic devices had fewer entanglements of harbour porpoises, but those with an &#8216;incomplete&#8217; set did not. One replicated, controlled study in the North Sea and Baltic Sea found that using acoustic devices on fishing nets reduced harbour porpoise entanglements in one fishing area but not the other.Human-wildlife conflict (6 studies): Five of six studies (including six controlled studies, one of which was replicated) in the Baltic Sea, the Mediterranean Sea, the North Pacific Ocean, a coastal site in the UK and the North Sea found that using acoustic devices reduced damage to fish catches and/or fishing nets caused by common bottlenose dolphins and seals. The other study found that acoustic devices did not reduce damage to swordfish catches by California sea lions.<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 70%; certainty 65%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2808">https://www.conservationevidence.com/actions/2808</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2815">Use acoustic devices on fishing vessels</ref>
+                     </item>
+			               </list>Five studies evaluated the effects on marine mammals of using acoustic devices on vessels. One study was in each of the Shannon Estuary (Ireland), the Rainbow Channel (Australia), Keppel Bay (Australia), the North Atlantic Ocean (Azores) and the Indian Ocean (Crozet Islands).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (4 STUDIES)Behaviour change (4 studies): One controlled study in the Shannon Estuary found that common bottlenose dolphins avoided a boat more frequently when acoustic devices of two types were deployed alongside it. One controlled study in the Indian Ocean found that killer whales were recorded further from a fishing vessel when an acoustic device was used during hauls, but distances decreased after the first exposure to the device. Two before-and-after studies in the Rainbow Channel and Keppel Bay found that an acoustic device deployed alongside a vessel reduced surfacing and echolocation rates and time spent foraging or socializing of Indo-Pacific humpback dolphins and Australian snubfin dolphins but there was no effect on 8&#8211;10 other types of behaviour (e.g. vocalizing, diving, travelling etc.).OTHER (1 STUDY)Human-wildlife conflict (1 study): One randomized, controlled study in the North Atlantic Ocean found that using acoustic devices of two types did not reduce predation of squid catches by Risso&#8217;s dolphins.<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 40%; certainty 50%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2815">https://www.conservationevidence.com/actions/2815</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2816">Use acoustic devices on moorings</ref>
+                     </item>
+			               </list>Eight studies evaluated the effects on marine and freshwater mammals of using acoustic devices on moorings. Two studies were in the South Pacific Ocean and one study was in each of the Puntledge River (Canada), the Bay of Fundy (Canada), the Shannon Estuary (Ireland), the Rivers Conon and Esk (UK), the Kyle of Sutherland estuary (UK) and the North Atlantic Ocean (UK).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (7 STUDIES)Behaviour change (7 studies): Two of four controlled studies in the South Pacific Ocean, the Kyle of Sutherland estuary and the North Atlantic Ocean found that deploying acoustic devices on moorings reduced numbers of grey and harbour seals, and the activity of harbour porpoises, short-beaked common dolphins and common bottlenose dolphins. The two other studies found that using an acoustic device on a mooring did not have a significant effect on the number, direction of movement, speed, or dive durations of migrating humpback whales. One controlled study in the Bay of Fundy found that using an acoustic device on a mooring reduced harbour porpoise echolocation activity, but the probability of porpoises approaching within 125 m of the device increased over 10&#8211;11 days. One controlled study in the Shannon Estuary found that one of two types of acoustic device reduced the activity of common bottlenose dolphins. One replicated, controlled study in the Rivers Conon and Esk found that using acoustic devices reduced the number of grey and harbour seals upstream of the device but did not reduce seal numbers overall.OTHER (1 STUDY)Human-wildlife conflict (1 study): One randomized controlled study in the Puntledge River found that deploying an acoustic device on a mooring reduced the number of harbour seals feeding on migrating juvenile salmon.<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 42%; certainty 50%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2816">https://www.conservationevidence.com/actions/2816</ref>Unknown effectiveness<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2793">Deploy fishing gear at different depths</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of deploying fishing gear at different depths. The study was in the Arafura Sea (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Reduction in entanglements/unwanted catch (1 study): One controlled study in the Arafura Sea found that fishing nets deployed 4.5 m below the water surface had fewer entanglements of dolphins than surface nets.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 35%; harms 15%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2793">https://www.conservationevidence.com/actions/2793</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2829">Establish handling and release protocols for mammals captured by fisheries</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of establishing handling and release protocols for mammals captured by wild fisheries. The study was in the Great Australian Bight (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Survival (1 study): One before-and-after study in the Great Australian Bight found that introducing a code of conduct for releasing dolphins trapped in nets, along with avoiding dolphins during fishing, resulted in lower mortality of short-beaked common dolphins.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 67%; certainty 27%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2829">https://www.conservationevidence.com/actions/2829</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2790">Establish &#8216;move-on rules&#8217; for fishing vessels if mammals are encountered</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of establishing move-on rules for fishing vessels if mammals are encountered. The study was in the Great Australian Bight (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Survival (1 study): One before-and-after study in the Great Australian Bight found that introducing measures to delay or relocate fishing if dolphins were encountered, along with releasing trapped dolphins, resulted in fewer short-beaked common dolphins being encircled and killed.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 70%; certainty 27%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2790">https://www.conservationevidence.com/actions/2790</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2824">Install barriers at wild fisheries</ref>
+                     </item>
+			               </list>One study evaluated the effects on freshwater mammals of installing a barrier at a wild fishery. The study was in the Puntledge River (Canada).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Human-wildlife conflict (1 study): One randomized, controlled study in the Puntledge River found that installing a &#8216;cork line&#8217; barrier did not deter harbour seals from feeding on salmon released from a hatchery.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 0%; certainty 20%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2824">https://www.conservationevidence.com/actions/2824</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2817">Play predator calls to deter mammals from fishing gear</ref>
+                     </item>
+			               </list>One study evaluated the effects of playing predator calls to deter mammals from fishing gear. The study was in the South Atlantic Ocean (Africa).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Human-wildlife conflict (1 study): One study in the South Atlantic Ocean found that playing killer whale vocalisations did not deter Cape fur seals from feeding on fish catches in a purse-seine net or trawl net.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 0%; certainty 20%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2817">https://www.conservationevidence.com/actions/2817</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2825">Switch off artificial lighting at wild fisheries</ref>
+                     </item>
+			               </list>One study evaluated the effects on freshwater mammals of switching off artificial lights at a wild fishery. The study was in the Puntledge River (Canada).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Human-wildlife conflict (1 study): One randomized, controlled study in the Puntledge River found that switching off artificial lights on a bridge did not deter harbour seals from feeding on salmon released from a hatchery.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 5%; certainty 25%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2825">https://www.conservationevidence.com/actions/2825</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2803">Use a larger mesh size for fishing trap-nets</ref>
+                     </item>
+			               </list>One study evaluated the effects on freshwater mammals of using a larger mesh size for fishing trap-nets. The study was in the River Indal (Sweden).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Human-wildlife conflict (1 study): One controlled study in the River Indal found that a fishing trap-net with a larger mesh size in the first two sections had fewer grey seals feeding around it and less damage caused by seals.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 30%; harms 15%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2803">https://www.conservationevidence.com/actions/2803</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2820">Use acoustic decoys to divert mammals away from fishing gear</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of using acoustic decoys to divert mammals away from fishing gear. The study was in the Gulf of Alaska (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (1 STUDY)Behaviour change (1 study): One study in the Gulf of Alaska found that increasing the distance between an acoustic decoy device and fishing lines resulted in fewer sperm whales at the lines, but sperm whale presence and time of arrival did not differ.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 37%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2820">https://www.conservationevidence.com/actions/2820</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2818">Use an electric current to deter mammals from fishing gear</ref>
+                     </item>
+			               </list>One study evaluated the effects of using an electric current to deter mammals from fishing gear. The study was in the Fraser River (Canada).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Human-wildlife conflict (1 study): One controlled study in the Fraser River found that using an electric current on a fishing net reduced Pacific harbour seal predation on salmon catches.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 30%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2818">https://www.conservationevidence.com/actions/2818</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2819">Use noise aversive conditioning to deter mammals from fishing gear</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of using noise aversive conditioning to deter mammals from fishing gear. The study was in the North Pacific Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Human-wildlife conflict (1 study): One study in the North Pacific Ocean found that noise aversive conditioning did not reduce bait foraging behaviour by California sea lions.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 20%; certainty 30%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2819">https://www.conservationevidence.com/actions/2819</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2801">Use stiffened materials or increase tension of fishing gear</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of using stiffened materials in fishing nets. The study was in the South Atlantic Ocean (Argentina).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Reduction in entanglements/unwanted catch (1 study): One controlled study in the South Atlantic Ocean found that using stiffened fishing nets did not reduce the number of Franciscana dolphin entanglements.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 0%; certainty 28%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2801">https://www.conservationevidence.com/actions/2801</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2828">Use &#8216;mammal-safe&#8217; nets to capture and release mammals trapped in fishing structures</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of using &#8216;mammal-safe&#8217; nets to capture and release mammals trapped in fishing structures. The study was in the Bay of Fundy (Canada).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Survival (1 study): One controlled study in the Bay of Fundy found that using &#8216;marine mammal nets&#8217; with a larger mesh size to release harbour porpoises from herring weirs resulted in lower porpoise mortality compared to using conventional herring nets.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 65%; certainty 32%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2828">https://www.conservationevidence.com/actions/2828</ref>Unlikely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2806">Attach acoustically reflective objects to fishing gear</ref>
+                     </item>
+			               </list>Two studies evaluated the effects on marine mammals of attaching acoustically reflective objects to fishing gear. One study was in the Timor Sea and Arafura Sea (Australia) and one was in the Gulf of Alaska (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (2 STUDIES)Reduction in entanglements/unwanted catch (1 study): One controlled study in the Timor Sea and Arafura Sea found that attaching metallic bead chains to fishing nets did not reduce the number of dolphin entanglements.Human-wildlife conflict (1 study): One controlled study in the Gulf of Alaska found that attaching acrylic beads next to fishing hooks did not reduce predation on fish catches by sperm whales.<hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 10%; certainty 41%; harms 15%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2806">https://www.conservationevidence.com/actions/2806</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2792">Deploy fishing gear at times when mammals are less active</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2837">Educate the public to reduce consumer demand for fisheries that threaten mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2832">Enforce legislation to control illegal fishing using gear or methods that are harmful to mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2835">Finance low interest loans to convert to fishing gear that reduces unwanted catch of mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2834">Introduce fishing gear exchange programmes to encourage fishers to use gear that reduces unwanted catch of mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2831">Introduce legislation to prohibit or restrict the use of fishing gear types or methods that are harmful to mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2833">Involve fishers in designing and trialling new fishing gear types to encourage uptake of gear that reduces unwanted catch of mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2804">Limit size of trawl net openings</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2795">Limit the length of fishing gear in an area</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2794">Limit the number of fishing vessels or fishing days in an area</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2836">Promote fish and seafood certification (e.g. ecolabels) to reduce consumer demand for fisheries that threaten mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2830">Provide training and tools for safe release of mammals captured by fisheries</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2796">Reduce duration of time fishing gear is in the water</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2798">Retain buoys and lines at the sea floor or river bed when not hauling</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2827">Retain offal on fishing vessels instead of discarding overboard</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2802">Use a smaller mesh size for fishing nets</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2800">Use bindings to keep trawl nets closed until they have sunk below the water surface</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2826">Use different bait species for fishing that are less attractive to mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2791">Use passive listening devices to detect mammals and prompt fishing vessels to move away</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2799">Use sinking lines instead of floating lines</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2797">Use weakened fishing gear</ref>.14.5  Threat: Human intrusions and disturbance</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.5.1 Recreational activities and tourism</head>
+                  <table xml:id="d14e2211">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for recreational activities and tourism?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2838">Introduce and enforce regulations for marine and freshwater mammal watching tours</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2845">Limit, cease or prohibit feeding of marine and freshwater mammals by tourists</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2844">Use volunteers to deter tourists from harassing marine and freshwater mammals at wildlife-viewing sites</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2843">Inform the public of ways to reduce disturbance to marine and freshwater mammals (e.g. use educational signs)</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2840">Train tourist guides to minimize disturbance and promote marine and freshwater mammal conservation</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2842">Create designated areas or access points for recreational activities</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2839">Introduce permits or licences for marine and freshwater mammal watching tours</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2841">Introduce permits or licences for recreational watersports</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2838">Introduce and enforce regulations for marine and freshwater mammal watching tours</ref>
+                     </item>
+			               </list>Four studies evaluated the effects of introducing regulations for marine and freshwater mammal watching tours on marine mammals. One study was in each of the North Atlantic Ocean (the Azores), the Canan&#233;ia estuary (Brazil), the South Pacific Ocean (Australia) and the Bass Strait (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (4 STUDIES)Behaviour change (4 studies): Two controlled studies in the North Atlantic Ocean and South Pacific Ocean found that when whale-watching vessels followed approach regulations, fewer sperm whales and humpback whale pods changed their behaviours (e.g. swimming speed, aerial displays) or avoided the vessels compared to when regulations were not followed, but direction of movement and diving patterns or diving behaviours did not differ. One replicated, controlled study in the Canan&#233;ia estuary found that when tour boats followed approach regulations, fewer Guiana dolphins displayed negative behaviours (e.g. moving away, diving, groups separating). One study in the Bass Strait found that when boats approached a seal colony to 75 m, more seals remained on shore than when boats approached to 25 m.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 60%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2838">https://www.conservationevidence.com/actions/2838</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2845">Limit, cease or prohibit feeding of marine and freshwater mammals by tourists</ref>
+                     </item>
+			               </list>One study evaluated the effects of setting limits on feeding of marine mammals by tourists. The study was in Shark Bay (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Survival (1 study): One controlled, before-and-after study in Shark Bay found that after setting limits on feeding of bottlenose dolphins by tourists, the survival of calves born to females being fed increased and was similar to calves of non-fed mothers.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2845">https://www.conservationevidence.com/actions/2845</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2844">Use volunteers to deter tourists from harassing marine and freshwater mammals at wildlife-viewing sites</ref>
+                     </item>
+			               </list>One study evaluated the effects of using volunteers to deter tourists from harassing marine and freshwater mammals at wildlife-viewing sites. The study was at the Ohau Stream waterfall (New Zealand).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Change in human behaviour (1 study): One randomized, controlled study at the Ohau Stream waterfall found that the presence of an official-looking volunteer resulted in fewer tourists harassing New Zealand fur seals at a waterfall.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2844">https://www.conservationevidence.com/actions/2844</ref>Unknown effectiveness<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2843">Inform the public of ways to reduce disturbance to marine and freshwater mammals (e.g. use educational signs)</ref>
+                     </item>
+			               </list>One study evaluated the effects of informing the public of ways to reduce disturbance to marine and freshwater mammals. The study was in the South Pacific Ocean (New Zealand).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (0 STUDIES)OTHER (1 STUDY)Change in human behaviour (1 study): One controlled study in the South Pacific Ocean found that tourist groups that observed information signs approached and disturbed New Zealand fur seals in similar numbers to those that did not.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 20%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2843">https://www.conservationevidence.com/actions/2843</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2840">Train tourist guides to minimize disturbance and promote marine and freshwater mammal conservation</ref>
+                     </item>
+			               </list>One study evaluated the effects of training tourist guides to minimize disturbance and promote marine and freshwater mammal conservation. The study was in the Kenai Fjords (Alaska).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (1 STUDY)Behaviour change (1 study): One before-and-after study in the Kenai Fjords found that fewer harbour seals were disturbed during kayak excursions after training was provided to kayak guides.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 60%; certainty 27%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2840">https://www.conservationevidence.com/actions/2840</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2842">Create designated areas or access points for recreational activities</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2839">Introduce permits or licences for marine and freshwater mammal watching tours</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2841">Introduce permits or licences for recreational watersports</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.5.2 Work and other activities</head>
+                  <table xml:id="d14e2512">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for work and other activities?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2847">Introduce regulations for flying drones over marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2846">Introduce regulations for the use of underwater drones in proximity to marine and freshwater mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2847">Introduce regulations for flying drones over marine and freshwater mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2846">Introduce regulations for the use of underwater drones in proximity to marine and freshwater mammals.</ref>14.6  Threat: Natural system modifications</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.6.1 Dams and water management/use</head>
+                  <table xml:id="d14e2585">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for dams and water management/use?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2848">Install bypass channels in dams</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2850">Maintain water level and flow along regulated rivers</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2849">Use automated detection systems to prevent flood gates and locks from closing when mammals are present</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2848">Install bypass channels in dams</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2850">Maintain water level and flow along regulated rivers</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2849">Use automated detection systems to prevent flood gates and locks from closing when mammals are present.</ref>
+                     </item>
+			               </list>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">14.7  Threat: Invasive or problematic species and disease</head>
+               <div>
+                  <head type="section-lev2">14.7.1 Invasive or problematic species</head>
+                  <table xml:id="d14e2667">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for invasive or problematic species?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2856">Use baited lines instead of nets for shark control</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2855">Use deterrents to reduce predation on marine and freshwater mammals by native species</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2853">Limit, cease or prohibit ballast water exchange in specific areas</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2851">Physically remove invasive or problematic species</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2854">Treat ballast water before release</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2937">Use biocides or other chemicals to control invasive or problematic species</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2852">Use biological control to manage invasive or problematic species</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2856">Use baited lines instead of nets for shark control</ref>
+                     </item>
+			               </list>Two studies evaluated the effects on marine mammals of using baited lines instead of nets for shark control. One study was in the Indian Ocean (South Africa) and one in the South Pacific Ocean (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Survival (1 study): One site comparison study in the South Pacific Ocean found that using baited lines instead of nets increased the survival of entangled common and bottlenose dolphins.BEHAVIOUR (0 STUDIES)OTHER (2 STUDIES)Reduction in entanglements/unwanted catch (2 studies): Two site comparison studies in the Indian Ocean and South Pacific Ocean found that baited lines used for shark control had fewer entanglements of dolphins, whales and dugongs than nets.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 50%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2856">https://www.conservationevidence.com/actions/2856</ref>Unknown effectiveness<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2855">Use deterrents to reduce predation on marine and freshwater mammals by native species</ref>
+                     </item>
+			               </list>One study evaluated the effects of using deterrents to reduce predation by native species on marine mammals. The study was in the North Pacific Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Survival (1 study): One controlled study in the North Pacific Ocean found that neither boat motor sounds nor the presence of humans reduced Galapagos shark predation on Hawaiian monk seal pups, although shark presence was low throughout the study.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 30%; certainty 27%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2855">https://www.conservationevidence.com/actions/2855</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2853">Limit, cease or prohibit ballast water exchange in specific areas</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2851">Physically remove invasive or problematic species</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2854">Treat ballast water before release</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2937">Use biocides or other chemicals to control invasive or problematic species</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2852">Use biological control to manage invasive or problematic species</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.7.2 Disease</head>
+                  <table xml:id="d14e2878">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for disease?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2861">Use drugs to treat parasites</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2857">Carry out surveillance for diseases</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2859">Translocate or temporarily bring marine and freshwater mammals into captivity to reduce exposure to disease</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2860">Treat disease in wild marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2858">Vaccinate against disease</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2861">Use drugs to treat parasites</ref>
+                     </item>
+			               </list>Two studies evaluated the effects on marine mammals of using drugs to treat parasites. Both studies were in the North Pacific Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (2 STUDIES)Survival (2 studies): One of two controlled studies (including one before-and-after study) in the North Pacific Ocean found that treating northern fur seal pups with an anti-parasitic drug (ivermectin) reduced mortality rates. The other study found that Hawaiian monk seal pups treated with an anti-parasitic drug (praziquantel) had similar survival rates to untreated pups.Condition (2 studies): One of two controlled studies (including one before-and-after study) in the North Pacific Ocean found that northern fur seal pups treated with an anti-parasitic drug (ivermectin) had reduced hookworm infections and greater growth rates than untreated pups. The other study found that Hawaiian monk seal pups treated with an anti-parasitic drug (praziquantel) had similar parasite loads to untreated pups.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2861">https://www.conservationevidence.com/actions/2861</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2857">Carry out surveillance for diseases</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2859">Translocate or temporarily bring marine and freshwater mammals into captivity to reduce exposure to disease</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2860">Treat disease in wild marine and freshwater mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2858">Vaccinate against disease</ref>.14.8  Threat: Pollution</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.1 General</head>
+                  <table xml:id="d14e3026">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for pollution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2864">Add chemicals or minerals to sediment to remove or neutralize pollutants</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2862">Establish pollution emergency plans</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2863">Use &#8216;bioremediating&#8217; organisms to remove or neutralize pollutants</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2864">Add chemicals or minerals to sediment to remove or neutralize pollutants</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2862">Establish pollution emergency plans</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2863">Use &#8216;bioremediating&#8217; organisms to remove or neutralize pollutants</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.2 Domestic and urban wastewater</head>
+                  <table xml:id="d14e3106">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for domestic and urban wastewater?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2868">Limit the amount of storm wastewater overflow</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2866">Limit, cease or prohibit dumping of sewage sludge</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2865">Limit, cease or prohibit dumping of untreated sewage</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2867">Set or improve minimum sewage treatment standards</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2868">Limit the amount of storm wastewater overflow</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2866">Limit, cease or prohibit dumping of sewage sludge</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2865">Limit, cease or prohibit dumping of untreated sewage</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2867">Set or improve minimum sewage treatment standards</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.3 Industrial and military effluents</head>
+                  <table xml:id="d14e3194">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for industrial and military effluents?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2874">Cease or prohibit the disposal of drill cuttings at sea or in rivers</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2873">Cease or prohibit the disposal of mining waste (tailings) at sea or in rivers</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2871">Rehabilitate and release marine and freshwater mammals following oil spills</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2872">Relocate marine and freshwater mammals following oil spills</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2870">Remove or clean-up oil pollution following a spill</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2875">Set regulatory ban on marine burial of nuclear waste</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2869">Use double hulls to prevent oil spills</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2874">Cease or prohibit the disposal of drill cuttings at sea or in rivers</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2873">Cease or prohibit the disposal of mining waste (tailings) at sea or in rivers</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2871">Rehabilitate and release marine and freshwater mammals following oil spills</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2872">Relocate marine and freshwater mammals following oil spills</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2870">Remove or clean-up oil pollution following a spill</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2875">Set regulatory ban on marine burial of nuclear waste</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2869">Use double hulls to prevent oil spills</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.4 Aquaculture effluents</head>
+                  <table xml:id="d14e3307">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for aquaculture effluents?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2876">Introduce and enforce water quality regulations for aquaculture systems</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2878">Reduce the amount of antibiotics used in aquaculture systems</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2877">Reduce the amount of pesticides used in aquaculture systems</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2876">Introduce and enforce water quality regulations for aquaculture systems</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2878">Reduce the amount of antibiotics used in aquaculture systems</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2877">Reduce the amount of pesticides used in aquaculture systems</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.5 Agricultural and forestry effluents</head>
+                  <table xml:id="d14e3387">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for agricultural and forestry effluents?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2881">Create artificial wetlands to reduce the amount of pollutants reaching rivers and the sea</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2883">Establish aquaculture to extract the nutrients from run-offs</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2882">Establish riparian buffers to reduce the amount of pollutants reaching rivers and the sea</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2879">Reduce pesticide, herbicide or fertilizer use</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2880">Treat wastewater from intensive livestock holdings</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2881">Create artificial wetlands to reduce the amount of pollutants reaching rivers and the sea</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2883">Establish aquaculture to extract the nutrients from run-offs</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2882">Establish riparian buffers to reduce the amount of pollutants reaching rivers and the sea</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2879">Reduce pesticide, herbicide or fertilizer use</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2880">Treat wastewater from intensive livestock holdings</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.6 Other pollution</head>
+                  <table xml:id="d14e3483">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for other pollution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2907">Limit, cease or prohibit discharge of waste effluents overboard from vessels</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2909">Remove and clean-up shoreline waste disposal sites</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2906">Use methods to reduce sediment disturbance during dredging (e.g. curtains, screens)</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2908">Use non-toxic antifouling coatings on surfaces</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2907">Limit, cease or prohibit discharge of waste effluents overboard from vessels</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2909">Remove and clean-up shoreline waste disposal sites</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2906">Use methods to reduce sediment disturbance during dredging (e.g. curtains, screens)</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2908">Use non-toxic antifouling coatings on surfaces</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.7 Fishing gear</head>
+                  <table xml:id="d14e3571">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for fishing gear?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2892">Remove derelict fishing gear from mammals found entangled</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2888">Equip ports with dedicated fishing gear disposal facilities</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2890">Establish fishing gear registration programmes</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2889">Improve methods for locating fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2891">Inform fishers of the impacts of derelict fishing gear on mammals to encourage responsible disposal</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2887">Offer incentives to fishers for recovering, reusing or recycling fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2886">Recover lost or discarded fishing gear</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2885">Use biodegradable fishing gear</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2892">Remove derelict fishing gear from mammals found entangled</ref>
+                     </item>
+			               </list>Two studies evaluated the effects of removing derelict fishing gear from mammals found entangled. One study was in the North Pacific Ocean (USA) and one in the North Atlantic Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (2 STUDIES)Reproductive success (1 study): One review in the North Pacific Ocean found that after removing derelict fishing gear from Hawaiian monk seals, along with at least seven other interventions to enhance survival, more than a quarter of the seals reproduced.Survival (2 studies): One review in the North Pacific Ocean found that removing derelict fishing gear from Hawaiian monk seals, along with at least seven other interventions to enhance survival, resulted in more than a quarter of the seals surviving. One review in the North Atlantic Ocean found that three common bottlenose dolphins survived for at least 1&#8211;4 years after they were disentangled from derelict fishing gear and released.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: beneficial (effectiveness 70%; certainty 70%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2892">https://www.conservationevidence.com/actions/2892</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2888">Equip ports with dedicated fishing gear disposal facilities</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2890">Establish fishing gear registration programmes</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2889">Improve methods for locating fishing gear</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2891">Inform fishers of the impacts of derelict fishing gear on mammals to encourage responsible disposal</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2887">Offer incentives to fishers for recovering, reusing or recycling fishing gear</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2886">Recover lost or discarded fishing gear</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2885">Use biodegradable fishing gear</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.8 Other garbage and solid waste</head>
+                  <table xml:id="d14e3742">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for other garbage and solid waste?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2894">Install stormwater traps or grids</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2893">Limit, cease or prohibit discharge of solid waste overboard from vessels</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2895">Remove litter from marine and freshwater environments</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2894">Install stormwater traps or grids</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2893">Limit, cease or prohibit discharge of solid waste overboard from vessels</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2895">Remove litter from marine and freshwater environments</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.9 Noise pollution</head>
+                  <table xml:id="d14e3822">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for noise pollution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2896">Use acoustic devices to deter marine and freshwater mammals from an area to reduce noise exposure</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2901">Use methods to dampen underwater noise emissions (e.g. bubble curtains, screens)</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2897">Use &#8216;soft start&#8217; procedures to deter marine and freshwater mammals to reduce noise exposure</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2898">Delay or cease operations if marine and freshwater mammals are detected within a specified zone</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2902">Limit, cease or prohibit the use of sonars</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2903">Limit, cease or prohibit the use of underwater explosives</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2904">Modify vessels to reduce noise disturbance</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2900">Reduce hammer energy during pile driving</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2899">Use alternative methods instead of airguns for seismic surveys</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Trade-off between benefit and harms<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2896">Use acoustic devices to deter marine and freshwater mammals from an area to reduce noise exposure</ref>
+                     </item>
+			               </list>Four studies evaluated the effects of using acoustic devices to deter marine and freshwater mammals from an area to reduce noise exposure. Two studies were in the North Sea (Germany), one study was in the Great Belt (Denmark) and one was in Faxafl&#243;i Bay (Iceland).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (4 STUDIES)Behaviour change (4 studies): Three studies (including two controlled and one before-and-after study) in the North Sea and the Great Belt found that using acoustic devices to deter mammals from an area at a wind farm construction site or pelagic sites reduced the activity and sightings of harbour porpoises at distances of 1&#8211;18 km from the devices. One before-and-after study in Faxafl&#243;i Bay found that when an acoustic device was deployed from a boat, minke whales swam away from the device, increased their swimming speed, and swam more directly.<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 65%; certainty 60%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2896">https://www.conservationevidence.com/actions/2896</ref>Unknown effectiveness<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2901">Use methods to dampen underwater noise emissions (e.g. bubble curtains, screens)</ref>
+                     </item>
+			               </list>One study evaluated the effects on marine mammals of using bubble curtains or screens to dampen underwater noise emissions. The study was in the North Sea (Germany).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (1 STUDY)Behaviour change (1 study): One before-and-after, site comparison study in the North Sea found that using bubble curtains or screens during pile driving resulted in harbour porpoise detections within 15 km decreasing less compared to before pile driving than at sites without bubble curtains or screens.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2901">https://www.conservationevidence.com/actions/2901</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2897">Use &#8216;soft start&#8217; procedures to deter marine and freshwater mammals to reduce noise exposure</ref>
+                     </item>
+			               </list>Three studies evaluated the effects of using &#8216;soft start&#8217; procedures to deter marine and freshwater mammals to reduce noise exposure. One study was in each of the South Atlantic Ocean (Gabon), the South Pacific Ocean (Australia) and various water bodies (UK).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (3 STUDIES)Behaviour change (3 studies): One study in various water bodies around the UK found that a greater proportion of cetaceans (including whales, dolphins and porpoise) avoided or moved away from vessels during &#8216;soft start&#8217; procedures with seismic airguns compared to when airguns were not firing. One study in the South Atlantic Ocean found that during &#8216;soft start&#8217; procedures using seismic airguns, a pod of short-finned whales initially moved away but remained within 900 m of the vessel as it passed by. One study in the South Pacific Ocean found that during &#8216;soft-start&#8217; procedures with a small experimental airgun array, migrating humpback whales slowed their speed towards the vessel but did not significantly alter their course.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 55%; certainty 36%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2897">https://www.conservationevidence.com/actions/2897</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2898">Delay or cease operations if marine and freshwater mammals are detected within a specified zone</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2902">Limit, cease or prohibit the use of sonars</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2903">Limit, cease or prohibit the use of underwater explosives</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2904">Modify vessels to reduce noise disturbance</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2900">Reduce hammer energy during pile driving</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2899">Use alternative methods instead of airguns for seismic surveys</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.8.10 Thermal pollution</head>
+                  <table xml:id="d14e4072">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for thermal pollution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2905">Limit, cease or prohibit the discharge of cooling effluents from power stations</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2905">Limit, cease or prohibit the discharge of cooling effluents from power stations.</ref>14.9  Threat: Climate change and severe weather</item>
+			               </list>
+                  <table xml:id="d14e4134">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for climate change and severe weather?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2913">Establish a network of legally protected areas</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2911">Implement rapid response plans for stranded mammals following extreme events</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2912">Legally protect areas where climate change impacts are predicted to be less severe</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2914">Manage water levels and flow in rivers to maintain deep pools and connectivity</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2913">Establish a network of legally protected areas</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2911">Implement rapid response plans for stranded mammals following extreme events</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2912">Legally protect areas where climate change impacts are predicted to be less severe</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2914">Manage water levels and flow in rivers to maintain deep pools and connectivity</ref>.14.10  Habitat protection</item>
+			               </list>
+                  <table xml:id="d14e4221">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for habitat protection?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2917">Cease or prohibit activities that cause disturbance in sensitive areas for marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2915">Legally protect habitat for marine and freshwater mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2918">Cease or prohibit activities that cause disturbance during sensitive periods for marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2916">Enforce existing legislation for habitat protection</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2919">Retain or create buffer zones around important habitats</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2917">Cease or prohibit activities that cause disturbance in sensitive areas for marine and freshwater mammals</ref>
+                     </item>
+			               </list>Two studies evaluated the effects of prohibiting activities that cause disturbance in sensitive areas for marine mammals. One study was in the Kattegat Sea (Denmark) and one in the Indian Ocean (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Abundance (1 study): One before-and-after study in the Kattegat sea found that harbour porpoise activity increased at a stony reef after fishing was prohibited and the reef was restored with boulders.BEHAVIOUR (1 STUDY)Behaviour change (1 study): One site comparison study in the Indian Ocean found that a beach where human access was fully prohibited had fewer Australian sea lions showing aggression or retreating compared to a beach where access was partly prohibited.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2917">https://www.conservationevidence.com/actions/2917</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2915">Legally protect habitat for marine and freshwater mammals</ref>
+                     </item>
+			               </list>Four studies evaluated the effects of legally protecting habitat for marine and freshwater mammals. One study was in each of the North Atlantic Ocean (Portugal), the South Pacific Ocean (New Zealand), the North Sea (UK) and the Port River estuary (Australia).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (4 STUDIES)Abundance (2 studies): One before-and-after study in the North Atlantic Ocean found that a population of Mediterranean monk seals increased during eight years after the islands they inhabited were legally protected. One before-and-after study in the North Sea found that a population of bottlenose dolphins was estimated to be a similar size before and after part of its range was protected.Survival (2 studies): One before-and-after study in the South Pacific Ocean found that the survival rate of Hector&#8217;s dolphins was higher after a coastal area was legally protected than before. One before-and-after study in the Port River estuary found that after the area became legally protected a similar number of Indo-Pacific bottlenose dolphin strandings were recorded compared to before protection, but the number of strandings caused by humans decreased.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 60%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2915">https://www.conservationevidence.com/actions/2915</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2918">Cease or prohibit activities that cause disturbance during sensitive periods for marine and freshwater mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2916">Enforce existing legislation for habitat protection</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2919">Retain or create buffer zones around important habitats</ref>.14.11  Habitat restoration and creation</item>
+			               </list>
+                  <table xml:id="d14e4396">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for habitat restoration and creation?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2920">Restore habitat for marine and freshwater mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2921">Create artificial habitat for marine and freshwater mammals</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2922">Leave anthropogenic structures in place after decommissioning</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Unknown effectiveness<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2920">Restore habitat for marine and freshwater mammals</ref>
+                     </item>
+			               </list>One study evaluated the effects of restoring habitat for marine mammals. The study was in the Kattegat sea (Denmark).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Abundance (1 study): One before-and-after study in the Kattegat sea found that harbour porpoise activity increased at a stony reef after it was restored with boulders and fishing was prohibited.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 55%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2920">https://www.conservationevidence.com/actions/2920</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2921">Create artificial habitat for marine and freshwater mammals</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2922">Leave anthropogenic structures in place after decommissioning</ref>.14.12  Species management</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.12.1 Species recovery</head>
+                  <table xml:id="d14e4524">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for species recovery?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2924">Rescue and release stranded or trapped marine and freshwater mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2925">Rehabilitate and release injured, sick or weak marine and freshwater mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2926">Hand-rear orphaned or abandoned marine and freshwater mammal young</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2929">Remove individual marine and freshwater mammals exhibiting aggressive behaviours that may limit population recovery</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2927">Reunite abandoned marine and freshwater mammal young with parents</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2923">Legally protect marine and freshwater mammal species</ref>
+                              </item>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2928">Place orphaned or abandoned marine and freshwater mammal young with foster parents</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2924">Rescue and release stranded or trapped marine and freshwater mammals</ref>
+                     </item>
+			               </list>Eleven studies evaluated the effects of rescuing and releasing stranded or trapped marine and freshwater mammals. Five studies were in the North Atlantic Ocean (USA), two studies were in the Indian Ocean (Tasmania, South Africa), and one study was in each of the South Atlantic Ocean (Brazil), the Cachoeira River estuary (Brazil), the North Pacific Ocean (USA) and the Shannon Estuary (Ireland).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (11 STUDIES)Reproductive success (2 studies): One review in the North Pacific Ocean found that after rescuing and releasing stranded or trapped Hawaiian monk seals, along with at least seven other interventions to enhance survival, more than a quarter of the seals reproduced. One study in the Shannon Estuary found that a stranded common bottlenose dolphin that was rescued and released was observed with a calf a year later.Survival (11 studies): Seven studies (including one review) in the North Atlantic Ocean, Indian Ocean and the Shannon Estuary found that 17&#8211;100% of rescued and released Atlantic white-sided dolphins, short-beaked common dolphins, common bottlenose dolphins, long-finned pilot whales, short-finned pilot whales, and Cape fur seals survived during post-release monitoring periods, which ranged in length from three weeks to three years. Three studies in the South Atlantic Ocean, the Cachoeira estuary and the Indian Ocean found that a trapped rough-toothed dolphin, two stranded tucuxi dolphins and seven stranded sperm whales were successfully rescued and released, although long-term survival was not reported. One review in the North Pacific Ocean found that rescuing and releasing stranded or trapped Hawaiian monk seals, along with at least seven other interventions to enhance survival, resulted in more than a quarter of the seals surviving.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: beneficial (effectiveness 70%; certainty 64%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2924">https://www.conservationevidence.com/actions/2924</ref>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2925">Rehabilitate and release injured, sick or weak marine and freshwater mammals</ref>
+                     </item>
+			               </list>Twenty-seven studies evaluated the effects of rehabilitating and releasing injured, sick or weak marine and freshwater mammals. Nine studies were in the North Atlantic Ocean (USA, UK, France), six studies were in the North Pacific Ocean (USA), four studies were in the Gulf of Mexico (USA), two studies were in each of the North Sea (the Netherlands) and the Gulf of Maine (USA), and one study was in each of the Indian River Lagoon (USA), Bohai Bay (China), The Wash estuary (UK), water bodies in Florida (USA), El Dorado Lake (Peru), and the Gulf of California (Mexico).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (26 STUDIES)Reproductive success (1 study): One replicated study in the North Pacific Ocean found that more than a quarter of rehabilitated and released Hawaiian monk seals reproduced.Survival (26 studies): Twenty-one studies (including two controlled studies, four replicated studies and one review) in the North Atlantic Ocean, the Gulf of Maine, the Gulf of Mexico, the North Pacific Ocean, the Indian River Lagoon, The Wash estuary, water bodies in Florida, El Dorado Lake, and the Gulf of California found that 10&#8211;100% of dolphins, porpoises, whales, seals, sea lions and manatees released after rehabilitation in captivity survived during post-release monitoring periods, which ranged in length from three days to five years. Five studies (including one replicated study) in the North Sea, the North Atlantic Ocean, Bohai Bay and the North Pacific Ocean found that two of three harbour porpoises, 152 of 188 grey seal pups, a common seal, a west Pacific finless porpoise and 14 of 35 California sea lions were successfully rehabilitated and released but survival after release was not reported. One controlled study in the North Pacific Ocean found that at least a quarter of California sea lions treated for toxic algae poisoning and released back into the wild died or had to be euthanized.BEHAVIOUR (3 STUDIES)Behaviour change (3 studies): Two of three controlled studies in the North Atlantic Ocean, the North Pacific Ocean and The Wash estuary found that a harbour porpoise and six harbour seals that were rehabilitated and released had similar movements and/or behaviours to wild mammals. The other study found that California sea lions treated for toxic algae poisoning and released travelled further from the shore, spent less time diving or hauled out and made shorter, shallower dives than wild sea lions without poisoning.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 70%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2925">https://www.conservationevidence.com/actions/2925</ref>Trade-off between benefit and harms<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2926">Hand-rear orphaned or abandoned marine and freshwater mammal young</ref>
+                     </item>
+			               </list>Twelve studies evaluated the effects of hand-rearing orphaned or abandoned marine and freshwater mammal young. Four studies were in the North Pacific Ocean (USA), two studies were in captive facilities (USA), and one study was in each of the North Atlantic Ocean (USA), the Indian River Lagoon (USA), the Salish Sea (USA), the Guerrero Lagoon (USA), the South Atlantic Ocean (Brazil) and water bodies in Florida (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (11 STUDIES)Reproductive success (1 study): One replicated study in the South Atlantic Ocean found that most captive-reared Antillean manatees released back into the wild reproduced.Survival (11 studies): Three studies (including one replicated and controlled study) in the North Pacific Ocean, and the Indian River Lagoon found that a gray whale calf, three Steller sea lion pups, and a common bottlenose dolphin calf that were released after being reared in captivity survived during post-release monitoring periods of between three days to three months. Two replicated studies in the South Atlantic Ocean and water bodies in Florida found that approximately three-quarters of Antillean manatees and two-thirds of Florida manatees that were captive-reared and released were known to survive for at least one year, and some survived for more than seven years. Three studies in the North Atlantic Ocean, the North Pacific Ocean and the Guerrero Lagoon found that three West Indian manatee calves, seven Hawaiian monk seal pups and one Antillean manatee calf that were captive-reared either died before or after release, had to be returned to captivity after release, or survived in the wild only with supplemental feeding. Two studies at captive facilities found that a captive-reared grey whale calf and five pygmy and dwarf sperm whale calves increased in body weight but were either not released or died in captivity. One controlled study in the North Pacific Ocean found that captive-reared, released Pacific harbour seal pups had similar survival estimates to wild pups.BEHAVIOUR (3 STUDIES)Behaviour change (3 studies): Two controlled studies (including one replicated study) in the North Pacific Ocean found that captive-reared and released Pacific harbour seal pups and Steller sea lion pups had similar diving behaviour to wild pups. One controlled study in the Salish Sea found that captive-reared and released harbour seal pups travelled greater distances and further from the release site than wild pups born at the same site and in the same season.<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 60%; certainty 50%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2926">https://www.conservationevidence.com/actions/2926</ref>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2929">Remove individual marine and freshwater mammals exhibiting aggressive behaviours that may limit population recovery</ref>
+                     </item>
+			               </list>One study evaluated the effects of removing individual marine mammals exhibiting aggressive behaviours that may limit population recovery. The study was in the North Pacific Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Survival (1 study): One before-and-after study in the North Pacific Ocean found that after removing aggressive male Hawaiian monk seals, the survival of adult female Hawaiian monk seals increased.Condition (1 study): One before-and-after study in the North Pacific Ocean found that fewer female Hawaiian monk seals were injured after aggressive male Hawaiian monk seals were removed.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 60%; certainty 40%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2929">https://www.conservationevidence.com/actions/2929</ref>Unknown effectiveness<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2927">Reunite abandoned marine and freshwater mammal young with parents</ref>
+                     </item>
+			               </list>One study evaluated the effects of reuniting abandoned marine and freshwater mammal young with parents. The study was in the North Pacific Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (1 STUDY)Reproductive success (1 study): One review in the North Pacific Ocean found that after reuniting Hawaiian monk seal pups with their mothers, along with at least seven other interventions to enhance survival, more than a quarter of the seals reproduced.Survival (1 study): One review in the North Pacific Ocean found that after reuniting Hawaiian monk seal pups with their mothers, along with at least seven other interventions to enhance survival, more than a quarter of the seals survived.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 25%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2927">https://www.conservationevidence.com/actions/2927</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2923">Legally protect marine and freshwater mammal species</ref>
+                     </item>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2928">Place orphaned or abandoned marine and freshwater mammal young with foster parents</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.12.2 Translocation</head>
+                  <table xml:id="d14e4871">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for translocation?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2930">Translocate marine and freshwater mammals to re-establish or boost native populations</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2931">Translocate marine and freshwater mammal species before onset of impactful activities</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2930">Translocate marine and freshwater mammals to re-establish or boost native populations</ref>
+                     </item>
+			               </list>Four studies evaluated the effects of translocating marine mammals to re-establish or boost native populations. The four studies were in the North Pacific Ocean (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (4 STUDIES)Reproductive success (2 studies): One replicated study and one review in the North Pacific Ocean found that after translocating Hawaiian monk seals, along with rehabilitation or at least seven other interventions to enhance survival, more than a quarter of the seals reproduced.Survival (4 studies): Two studies (including one replicated and one controlled study) in the North Pacific Ocean found that 50&#8211;83% of translocated, and 52% of rehabilitated and translocated, Hawaiian monk seal pups survived for at least one year. One of the studies and one review in the North Pacific Ocean found that translocated seal pups had similar survival rates to non-translocated pups born at release sites or greater survival rates than non-translocated pups remaining at the original site. One review in the North Pacific Ocean found that translocating Hawaiian monk seals, along with at least seven other interventions to enhance survival, resulted in more than a quarter of the seals surviving.BEHAVIOUR (1 STUDY)Behaviour change (1 study): One review in the North Pacific Ocean found that translocated Hawaiian monk seal pups had similar dispersal times to non-translocated seal pups born at release sites.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 50%; harms 15%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2930">https://www.conservationevidence.com/actions/2930</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2931">Translocate marine and freshwater mammal species before onset of impactful activities.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">14.12.3 Captive breeding, rearing and releases (ex-situ conservation)</head>
+                  <table xml:id="d14e4995">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for captive breeding, rearing and releases (ex-situ conservation)?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2932">Breed marine and freshwater mammals in captivity</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>
+                                 <ref target="https://www.conservationevidence.com/actions/2933">Release captive-bred marine and freshwater mammals to re-establish or boost native populations</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Trade-off between benefit and harms<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2932">Breed marine and freshwater mammals in captivity</ref>
+                     </item>
+			               </list>Six studies evaluated the effects of breeding marine and freshwater mammals in captivity. Three studies were in the USA, one study was also in China, Indonesia and Venezuela, and one study was in each of South Africa, Hong Kong and China.COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (6 STUDIES)Reproductive success (2 studies): One study in Hong Kong found that four of six female Indo-Pacific dolphins successfully conceived during a controlled captive breeding programme and gave birth to a total of nine calves. One study in China found that wild-caught Yangtze finless porpoises successfully reproduced in semi-captive conditions.Survival (4 studies): Two studies in South Africa and the USA found that a captive-born common bottlenose dolphin, and a captive-born and hand-reared common bottlenose dolphin, survived in captivity for at least two and a half years and four years respectively. One review in the USA found that 80% of common bottlenose dolphins born in captivity over two decades survived, and survival increased with improved husbandry techniques. One review in the USA, China, Indonesia and Venezuela found that most captive-born Amazon river dolphins, narrow-ridged finless porpoises and Irrawaddy dolphins did not survive in captivity.Condition (1 study): One study in China found that a population of Yangtze finless porpoises breeding in semi-captive conditions had low genetic diversity.BEHAVIOUR (1 STUDY)Behaviour change (1 study): One study in the USA found that a captive-born and hand-reared common bottlenose dolphin displayed normal behaviour for the species and joined a dolphin social group in captivity.<hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 40%; certainty 40%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2932">https://www.conservationevidence.com/actions/2932</ref>Unknown effectiveness<list>
+				                 <item>
+                        <ref target="https://www.conservationevidence.com/actions/2933">Release captive-bred marine and freshwater mammals to re-establish or boost native populations</ref>
+                     </item>
+			               </list>Two studies evaluated the effects of releasing captive-bred marine and freshwater mammals to re-establish or boost native populations. One study was in the Porto de Pedras estuary (Brazil) and one in water bodies in Florida (USA).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (2 STUDIES)Survival (2 studies): Two studies in the Porto de Pedras estuary and water bodies in Florida found that two of three Antillean manatees and two of 14 Florida manatees born in captivity and released into the wild survived for at least one year without further intervention.BEHAVIOUR (0 STUDIES)<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 30%; certainty 30%; harms 20%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/2933">https://www.conservationevidence.com/actions/2933</ref>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">14.13  Education and awareness raising</head>
+               <table xml:id="d14e5143">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for education and awareness raising?</hi>
+                        </p>
+						               </cell>
+					             </row>
+				
+				
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2935">Educate the public to improve behaviour towards marine and freshwater mammals</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2934">Engage policymakers to make policy changes beneficial to marine and freshwater mammals</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>
+                              <ref target="https://www.conservationevidence.com/actions/2936">Involve local communities in marine and freshwater mammal conservation projects</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>Likely to be beneficial<list>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2935">Educate the public to improve behaviour towards marine and freshwater mammals</ref>
+                  </item>
+			            </list>Three studies evaluated the effects of educating the public to improve behaviour towards marine and freshwater mammals. One study was in each of the North Atlantic Ocean (USA), the Sundarbans mangroves (Bangladesh) and the South Pacific Ocean (Peru).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (3 STUDIES)Change in human behaviour (3 studies): Three before-and-after studies in the North Atlantic Ocean, the Sundarbans mangroves and the South Pacific Ocean found that after educational whale-watching tours or an educational exhibition, participants were more willing to change their behaviour to support marine conservation, to donate money to marine conservation, or to cut their fishing nets to save entangled dolphins.<hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/2935">https://www.conservationevidence.com/actions/2935</ref>Unknown effectiveness<list>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2934">Engage policymakers to make policy changes beneficial to marine and freshwater mammals</ref>
+                  </item>
+			            </list>One study evaluated the effects of engaging policymakers to make changes beneficial to marine and freshwater mammals. The study was in the Catazaj&#225; wetlands (Mexico).COMMUNITY RESPONSE (0 STUDIES)POPULATION RESPONSE (0 STUDIES)BEHAVIOUR (1 STUDY)Change in human behaviour (1 study): One study in the Catazaj&#225; wetlands reported that engaging policymakers resulted in the designation of a protected area for West Indian manatees.<hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 75%; certainty 25%; harms 0%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/2934">https://www.conservationevidence.com/actions/2934</ref>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <ref target="https://www.conservationevidence.com/actions/2936">Involve local communities in marine and freshwater mammal conservation projects.</ref>
+                  </item>
+			            </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

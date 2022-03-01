@@ -1,0 +1,915 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch11">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">
+                  <hi rendition="simple:normalstyle">
+                     <anchor xml:id="_idTextAnchor1991" />11.  SOME ASPECTS OF ENHANCING NATURAL PEST CONTROL</hi>
+               </ref>
+            </head>
+				
+					       <byline>&#169; W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.11">https://doi.org/10.11647/OBP.0267.11</ref>
+            </byline>
+				
+			         <hi rendition="simple:bold">Hugh L. Wright, Joscelyne E. Ashpole, Lynn V. Dicks, James Hutchison, Caitlin G. McCormack &amp; William J. Sutherland</hi>
+            <p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">Barbara Smith</hi>, Game and Wildlife Conservation Trust, UK<hi rendition="simple:bold">Tony Harding</hi>, Rothamsted Research, UK<hi rendition="simple:bold">Anthony Goggin</hi>, Linking Environment and Farming (LEAF), UK <hi rendition="simple:bold">Felix Wackers</hi>, BioBest/University of Lancaster, Belgium/UK <hi rendition="simple:bold">Melvyn Fidgett</hi>, Syngenta, UK<hi rendition="simple:bold">Michael Garratt</hi>, University of Reading, UK <hi rendition="simple:bold">Michelle Fountain</hi>, East Malling Research, UK <hi rendition="simple:bold">Phillip Effingham</hi>, Greentech Consultants, UK<hi rendition="simple:bold">Stephanie Williamson</hi>, Pesticides Action Network, UK<hi rendition="simple:bold">Toby Bruce</hi>, Rothamsted Research, UK<hi rendition="simple:bold">Andrew Wilby</hi>, University of Lancaster, UK<hi rendition="simple:bold">Eve Veromann</hi>, Estonian University of Life Sciences, Estonia<hi rendition="simple:bold">Mattias Jonsson</hi>,<hi rendition="simple:bold"> </hi>Swedish University of Agricultural Sciences, Sweden<hi rendition="simple:bold">Vicky Kindemba</hi>, Buglife, UK<hi rendition="simple:bold">Steve Sait</hi>, University of Leeds, UK<p>
+               <hi rendition="simple:bold">Scope of assessment</hi>: 22 of 92 possible actions to enhance natural regulation of pests (including animals, plants, fungi, bacteria and viruses) in agricultural systems across the world.</p>
+            <p>
+               <hi rendition="simple:bold">Assessed: </hi>2014.</p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the median % score.</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % certainty of evidence, determined by the quantity and quality of the evidence in the synopsis.</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>is the median % score for negative side-effects for the farmer such as reduced yield and profits or increased costs.</p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target group of species for each intervention. The assessment may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at<ref target="http://www.conservationevidence.com">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor1992" />11.1  Reducing agricultural pollution</head>
+               <table xml:id="d17e176">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions that reduce agricultural pollution for enhancing natural pest regulation?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Alt<ref target="http://www.conservationevidence.com/actions/723">er the timing of insecticide use</ref>
+                           </item>
+								                   <item>Del<ref target="http://www.conservationevidence.com/actions/774">ay herbicide use</ref>
+                           </item>
+								                   <item>Inc<ref target="http://www.conservationevidence.com/actions/726">orporate parasitism rates when setting thresholds for insecticide use</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/750"> pesticides only when pests or crop damage reach threshold levels</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Con<ref target="http://www.conservationevidence.com/actions/717">vert to organic farming</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor1993" />
+               <ref target="http://www.conservationevidence.com/actions/723">Alter the timing of insecticide use</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor1994" />Natural enemies</hi>:<hi rendition="simple:bold">
+                        <hi rendition="simple:italic"> </hi>
+                     </hi>One controlled study from the UK reported more natural enemies when insecticides were sprayed earlier rather than later in the growing season.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor1995" />Pests</hi>: Two of four studies from Mozambique, the UK and the USA found fewer pests or less disease damage when insecticides were applied early rather than late. Effects on a disease-carrying pest varied with insecticide type. Two studies (including one randomized, replicated, controlled test) found no effect on pests or pest damage.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor1996" />Yield</hi>: Four studies (including one randomized, replicated, controlled test) from Mozambique, the Philippines, the UK and the USA measured yields. Two studies found mixed effects and one study found no effect on yield when insecticides were applied early. One study found higher yields when insecticides were applied at times of suspected crop susceptibility.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor1997" />Profit and costs: </hi>One controlled study from the Philippines found higher profits and similar costs when insecticides were only applied at times of suspected crop susceptibility.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor1998" />Crops studied: </hi>aubergine, barley, maize, pear, stringbean.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor1999" />Assessment: unknown effectiveness (effectiveness 40%; certainty 28%; harms 13%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/723">http://www.conservationevidence.com/actions/723</ref>
+               <anchor xml:id="_idTextAnchor2000" />
+               <ref target="http://www.conservationevidence.com/actions/774">Delay herbicide use</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2001" />Natural enemies: </hi>Two randomized, replicated, controlled trials from Australia and Denmark found more natural enemies when herbicide treatments were delayed. One of the studies found some but not all natural enemy groups benefited and fewer groups benefitted early in the season.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2002" />Weeds: </hi>One randomized, replicated, controlled study found more weeds when herbicide treatments were delayed.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2003" />Insect pests and damage: </hi>One of two randomized, replicated, controlled studies from Canada and Denmark found more insect pests, but only for some pest groups, and one study found fewer pests in one of two experiments and for one of two crop varieties. One study found lower crop damage in some but not all varieties and study years.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2004" />Yield: </hi>One randomized, replicated, controlled study found lower yields.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2005" />Crops studied: </hi>beet and oilseed.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2006" />Assessment: unknown effectiveness (effectiveness 20%; certainty 25%; harms 50%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/774">http://www.conservationevidence.com/actions/774</ref>
+               <anchor xml:id="_idTextAnchor2007" />
+               <ref target="http://www.conservationevidence.com/actions/726">Incorporate parasitism rates when setting thresholds for insecticide use</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2008" />Pest damage: </hi>One controlled study from New Zealand found using parasitism rates to inform spraying decisions resulted in acceptable levels of crop damage from pests. Effects on natural enemy populations were not monitored.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2009" />The crop studied </hi>was tomato<hi rendition="simple:italic">.</hi>
+                  </item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2010" />Assessment: unknown effectiveness (effectiveness 50%; certainty 10%; harms 5%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/726">http://www.conservationevidence.com/actions/726</ref>
+               <anchor xml:id="_idTextAnchor2011" />
+               <ref target="http://www.conservationevidence.com/actions/750">Use pesticides only when pests or crop damage reach threshold levels</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2012" />Natural enemies</hi>: One randomized, replicated, controlled study from Finland found that threshold-based spraying regimes increased numbers of natural enemies in two of three years but effects lasted for as little as three weeks.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2013" />Pests and disease</hi>: Two of four studies from France, Malaysia and the USA reported that pests were satisfactorily controlled. One randomized, replicated, controlled study found pest numbers were similar under threshold-based and conventional spraying regimes and one study reported that pest control was inadequate. A randomized, replicated, controlled study found mixed effects on disease severity.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2014" />Crop damage</hi>: Four of five randomized, replicated, controlled studies from New Zealand, the Philippines and the USA found similar crop damage under threshold-based and conventional, preventative spraying regimes, but one study found damage increased. Another study found slightly less crop damage compared to unsprayed controls.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2015" />Yield: </hi>Two of four randomized, replicated, controlled studies found similar yields under threshold-based and conventional spraying regimes. Two studies found mixed effects depending on site, year, pest stage/type or control treatment.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2016" />Profit: </hi>Two of three randomized, replicated, controlled studies found similar profits using threshold-based and conventional spraying regimes. One study found effects varied between sites and years.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2017" />Costs: </hi>Nine studies found fewer pesticide applications were needed and three studies found or predicted lower production costs.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2018" />Crops studied: </hi>barley, broccoli, cabbages, cauliflower, celery, cocoa, cotton, grape, peanut, potato, rice, tomato, and wheat.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2019" />Assessment: unknown effectiveness (effectiveness 39%; certainty 30%; harms 20%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/750">http://www.conservationevidence.com/actions/750</ref>
+               <hi rendition="simple:bold">
+                  <anchor xml:id="_idTextAnchor2020" />Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor2021" />
+               <ref target="http://www.conservationevidence.com/actions/717">Convert to organic farming</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2022" />Parasitism and mortality (caused by natural enemies)</hi>: One of five studies (three replicated, controlled tests and two also randomized) from Europe, North America, Asia and Australasia found that organic farming increased parasitism or natural enemy-induced mortality of pests. Two studies found mixed effects of organic farming and two randomized, replicated, controlled studies found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2023" />Natural enemies: </hi>Eight of 12 studies (including six randomized, replicated, controlled tests) from Europe, North America Asia and Australasia found more natural enemies under organic farming, although seven of these found effects varied over time or between natural enemy species or groups and/or crops or management practices. Three studies (one randomized, replicated, controlled) found no or inconsistent effects on natural enemies and one study found a negative effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2024" />Pests and diseases: </hi>One of eight studies (including five randomized, replicated, controlled tests) found that organic farming reduced pests or disease, but two studies found more pests. Three studies found mixed effects and two studies found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2025" />Crop damage: </hi>One of seven studies (including five randomized, replicated, controlled tests) found less crop damage in organic fields but two studies found more. One study found a mixed response and three studies found no or inconsistent effects.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2026" />Weed seed predation and weed abundance: </hi>One randomized, replicated, controlled study from the USA found mixed effects of organic farming on weed seed predation by natural enemies. Two of three randomized, replicated, controlled studies from the USA found more weeds in organically farmed fields, but in one of these studies this effect varied between crops and years. One study found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2027" />Yield and profit: </hi>Six randomized, replicated, controlled studies measured yields and found one positive effect, one negative effect and one mixed effect, plus no or inconsistent effects in three studies. One study found net profit increased if produce received a premium, but otherwise profit decreased. Another study found a negative or no effect on profit.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2028" />Crops studied: </hi>apple, barley, beans, cabbage, carrot, gourd, maize, mixed vegetables, pea, pepper, safflower, soybean, tomato and wheat.</item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/717">http://www.conservationevidence.com/actions/717</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2029" />11.2  All farming systems</head>
+               <table xml:id="d17e517">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions on all farming systems for enhancing natural pest regulation?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Gr<ref target="http://www.conservationevidence.com/actions/724">ow non-crop plants that produce chemicals that attract natural enemies</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/754"> chemicals to attract natural enemies</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-offs between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Lea<ref target="http://www.conservationevidence.com/actions/725">ve part of the crop or pasture unharvested or uncut</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/752">nt new hedges</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/718"> alley cropping</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Evidence not assessed</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/775"> mass-emergence devices to increase natural enemy populations</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor2030" />
+               <ref target="http://www.conservationevidence.com/actions/724">Grow non-crop plants that produce chemicals that attract natural enemies</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2031" />Natural enemies: </hi>Four studies from China, Germany, India and Kenya tested the effects of growing plants that produce chemicals that attract natural enemies. Three (including one replicated, randomized, controlled trail) found higher numbers of natural enemies in plots with plants that produce attractive chemicals, and one also found that the plant used attracted natural enemies in lab studies. One found no effect on parasitism but the plant used was found not to be attractive to natural enemies in lab studies.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2032" />Pests: </hi>All four studies found a decrease in either pest population or pest damage in plots with plants that produce chemicals that attract natural enemies.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2033" />Yield: </hi>One replicated, randomized, controlled study found an increase in crop yield in plots with plants that produce attractive chemicals.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2034" />Crops studied: </hi>sorghum, safflower, orange and lettuce.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2035" />Assessment: likely to be beneficial (effectiveness 68%; certainty 40%; harms 0%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/724">http://www.conservationevidence.com/actions/724</ref>
+               <anchor xml:id="_idTextAnchor2036" />
+               <ref target="http://www.conservationevidence.com/actions/754">Use chemicals to attract natural enemies</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2037" />Parasitism and predation (by natural enemies)</hi>
+                     <hi rendition="simple:bold">
+                        <hi rendition="simple:italic">: </hi>
+                     </hi>One review and two of five studies from Asia, Europe and North America found that attractive chemicals increased parasitism. Two studies, including one randomized, replicated, controlled trial, found greater parasitism for some but not all chemicals, crops, sites or years and one study found no effect. One study showed that parasites found pests more rapidly. One study found lower egg predation by natural predators.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2038" />Natural enemies: </hi>Five of 13 studies from Africa, Asia, Australasia, Europe and North America found more natural enemies while eight (including seven randomized, replicated, controlled trials) found positive effects varied between enemy groups, sites or study dates. Four of 13 studies (including a meta-analysis) found more natural enemies with some but not all test chemicals. Two of four studies (including a review) found higher chemical doses attracted more enemies, but one study found lower doses were more effective and one found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2039" />Pests: </hi>Three of nine studies (seven randomized, replicated, controlled) from Asia, Australasia, Europe and North America found fewer pests, although the effect occurred only in the egg stage in one study. Two studies found more pests and four found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2040" />Crop damage: </hi>One study found reduced damage with some chemicals but not others, and one study found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2041" />Yield: </hi>One study found higher wheat yields.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2042" />Crops studied: </hi>apple, banana, bean, broccoli, Chinese cabbage, cotton, cowpea, cranberry, grape, grapefruit, hop, maize, oilseed, orange, tomato, turnip and wheat.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2043" />Assessment: likely to be beneficial (effectiveness 40%; certainty 50%; harms 15%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/754">http://www.conservationevidence.com/actions/754</ref>
+               <hi rendition="simple:bold">
+                  <anchor xml:id="_idTextAnchor2044" />Trade-off between benefit and harms</hi>
+               <anchor xml:id="_idTextAnchor2045" />
+               <ref target="http://www.conservationevidence.com/actions/725">Leave part of the crop or pasture unharvested or uncut</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2046" />Natural enemies: </hi>We found eight studies from Australia, Germany, Hungary, New Zealand, Switzerland and the USA that tested leaving part of the crop or pasture unharvested or unmown. Three (including one replicated, controlled trial) found an increase in abundance of predatory insects or spiders in the crop field or pasture that was partly uncut, while four (including three replicated, controlled trials), found more predators in the unharvested or unmown area itself. Two studies (one replicated and controlled) found that the ratio of predators to pests was higher in partially cut plots and one replicated, controlled study found the same result in the uncut area. Two replicated, controlled studies found differing effects between species or groups of natural enemies.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2047" />Predation and parasitism: </hi>One replicated, controlled study from Australia found an increase in predation and parasitism rates of pest eggs in unharvested strips.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2048" />Pests: </hi>Two studies (including one replicated, controlled study) found a decrease in pest numbers in partially cut plots, one of them only for one species out of two. Two studies (one replicated, the other controlled) found an increase in pest numbers in partially cut plots, and two studies (including one replicated, controlled study) found more pests in uncut areas.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2049" />Crops studied: </hi>alfalfa and meadow pastures.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2050" />Assessment: trade-offs between benefits and harms (effectiveness 45%; certainty 50%; harms 25%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/725">http://www.conservationevidence.com/actions/725</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor2051" />
+               <ref target="http://www.conservationevidence.com/actions/752">Plant new hedges</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2052" />Natural enemies: </hi>One randomized, replicated, controlled study from China compared plots with and without hedges and found no effect on spiders in crops. One of two studies from France and China found more natural enemies in a hedge than in adjacent crops while one study found this effect varied between crop types, hedge species and years. Two randomized, replicated, controlled studies from France and Kenya found natural enemy abundance in hedges was affected by the type of hedge shrub/ tree planted and one also found this effect varied between natural enemy groups.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2053" />Pests: </hi>One randomized, replicated, controlled study from Kenya compared fallow plots with and without hedges and found effects varied between nematode (roundworm) groups.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2054" />Crops studied: </hi>barley, beans, maize and wheat.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2055" />Assessment: unknown effectiveness (effectiveness 20%; certainty 19%; harms 20%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/752">http://www.conservationevidence.com/actions/752</ref>
+               <anchor xml:id="_idTextAnchor2056" />
+               <ref target="http://www.conservationevidence.com/actions/718">Use alley cropping</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2057" />Parasitism, infection and predation: </hi>Two of four studies from Kenya and the USA (including three randomized, replicated, controlled trials) found that effects of alley cropping on parasitism varied between study sites, sampling dates, pest life stages or the width of crop alleys. Two studies found no effect on parasitism. One study found mixed effects on fungal infections in pests and one study found lower egg predation.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2058" />Natural enemies: </hi>One randomized, replicated, controlled study from Kenya found more wasps and spiders but fewer ladybirds. Some natural enemy groups were affected by the types of trees used in hedges.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2059" />Pests and crop damage: </hi>Two of four replicated, controlled studies (two also randomized) from Kenya, the Philippines and the UK found more pests in alley cropped plots. One study found fewer pests and one study found effects varied with pest group and between years. One study found more pest damage to crops but another study found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2060" />Weeds: </hi>One randomized, replicated, controlled study from the Philippines found mixed effects on weeds, with more grasses in alley cropped than conventional fields under some soil conditions.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2061" />Yield: </hi>One controlled study from the USA found lower yield and one study from the Philippines reported similar or lower yields.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2062" />Costs and profit: </hi>One study from the USA found lower costs but also lower profit in alley cropped plots.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2063" />Crops studied: </hi>alfalfa, barley, cowpea, maize, pea, rice and wheat.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2064" />Assessment: unknown effectiveness (effectiveness 15%; certainty 35%; harms 50%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/718">http://www.conservationevidence.com/actions/718</ref>
+               <hi rendition="simple:bold">
+                  <anchor xml:id="_idTextAnchor2065" />Evidence not assessed</hi>
+               <anchor xml:id="_idTextAnchor2066" />
+               <ref target="http://www.conservationevidence.com/actions/775">Use mass-emergence devices to increase natural enemy populations</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2067" />Parasitism: </hi>One randomized, replicated, controlled study in Switzerland found higher parasitism at one site but no effect at another site when mass-emergence devices were used in urban areas<hi rendition="simple:italic">.</hi>
+                  </item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2068" />Pest damage: </hi>The same study found no effect on pest damage to horse chestnut trees.</item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/775">http://www.conservationevidence.com/actions/775</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2069" />11.3  Arable farming</head>
+               <table xml:id="d17e919">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions on arable farming systems for enhancing natural pest regulation?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Com<ref target="http://www.conservationevidence.com/actions/753">bine trap and repellent crops in a push-pull system</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-offs between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Us<ref target="http://www.conservationevidence.com/actions/719">e crop rotation in potato farming systems</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cre<ref target="http://www.conservationevidence.com/actions/729">ate beetle banks</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>In<ref target="http://www.conservationevidence.com/actions/728">corporate plant remains into the soil that produce weed-controlling chemicals</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor2070" />
+               <ref target="http://www.conservationevidence.com/actions/753">Combine trap and repellent crops in a push-pull system</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2071" />Parasitism: </hi>Two randomized, replicated, controlled studies from Kenya found that push-pull cropping systems increased parasitism of stem borer larvae. One of the studies found no effect on egg parasitism.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2072" />Natural enemies: </hi>Two randomized, replicated, controlled studies from Kenya and South Africa found push-pull systems had more natural predators, both in overall totals and the abundance of different predator groups.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2073" />Pests: </hi>Two of three studies (two randomized, replicated, controlled) in Ethiopia, Kenya and South Africa found fewer pests. One study found no effect on pest infestation, but pests were scarce throughout. Two replicated, controlled studies (one also randomized) found fewer witchweeds.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2074" />Crop damage</hi>: Two of three replicated, controlled studies (one randomized) found less pest damage, but one study (where pest numbers were low) found effects varied between years and types of damage symptom.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2075" />Yield: </hi>Four of five replicated, controlled studies (two also randomized) found higher yields and one found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2076" />Profit and cost: </hi>Two studies in Kenya and a review found greater economic benefits. One study found higher production costs in the first year, but equal or lower costs in the following five years.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2077" />Crops studied: </hi>maize and beans.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2078" />Assessment: beneficial (effectiveness 70%; certainty 68%; harms 5%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/753">http://www.conservationevidence.com/actions/753</ref>
+               <hi rendition="simple:bold">
+                  <anchor xml:id="_idTextAnchor2079" />Trade-off between benefit and harms</hi>
+               <anchor xml:id="_idTextAnchor2080" />
+               <ref target="http://www.conservationevidence.com/actions/719">Use crop rotation in potato farming systems</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2081" />Pests: </hi>Nine studies from Canada and the USA and one review investigated the effect of crop rotation on pest or pathogen populations in potato. Three studies (including two replicated studies of which one randomized and one controlled) and a review found crop rotation reduced pest populations and crop diseases in at least one year or at least one site. One paired study found pest populations increased in crop rotation. Four studies (including one replicated, randomized, controlled trial) found increases and decreases in pest populations depending on rotation crops used and other treatments. One replicated, randomized, controlled study found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2082" />Yield: </hi>Three out of five studies (all replicated, controlled, two also randomized) from Canada and the USA, found that crop rotation increased crop yield in some years or with certain rotation crops. The two other studies (both replicated, one also randomized and one replicated) found yield increases and decreases depending on rotation crops used.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2083" />Profit: </hi>One replicated, controlled study found that crop rotation increased profit.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2084" />Insecticides: </hi>Two studies (one replicated, controlled) found that fewer insecticide treatments were needed on rotated plots.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2085" />Crops studied: </hi>alfalfa, barley, broccoli, brown mustard, buckwheat, cotton, lupins, maize, oats, pearl millet, peas, potato, rye, sorghum, soybean, sugar beet, timothy grass, wheat and yellow sweet clover.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2086" />Assessment: trade-offs between benefits and harms (effectiveness 50%; certainty 50%; harms 25%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/719">http://www.conservationevidence.com/actions/719</ref>
+               <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor2087" />
+               <ref target="http://www.conservationevidence.com/actions/729">Create beetle banks</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2088" />Natural enemies in fields: </hi>Six studies from Canada, the UK and USA (three replicated, controlled, of which two were also randomized) examined the effects on predator numbers in adjacent crops. A review found that predators increased in adjacent crops, but one study found effects varied with time and another found no effect. Two studies found small or slow movements of predators from banks to crops. One study found greater beetle activity in fields but this did not improve pest predation.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2089" />Natural enemies on banks: </hi>Four studies and a review found more invertebrate predators on beetle banks than in surrounding crops, but one of these found that effects varied with time.</item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor2090" />Eight studies from the UK and USA (including two randomized, replicated, controlled trials and two reviews) compared numbers of predatory invertebrates on beetle banks with other refuge habitats. Two studies found more natural enemies on beetle banks, but one of these found only seasonal effects. One review found similar or higher numbers of predators on beetle banks and four studies found similar or lower numbers.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2091" />Pests: </hi>A replicated, randomized, controlled study and a review found the largest pest reductions in areas closest to a beetle bank or on the beetle bank itself. One review found fewer pests in fields with than without a beetle bank.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2092" />Economics: </hi>One replicated, randomized, controlled trial and a review showed that beetle banks could make economic savings if they prevented pests from reaching a spray threshold or causing 5% yield loss.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2093" />Beetle bank design: </hi>Two studies from the UK found certain grass species held higher numbers of predatory invertebrates than others.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2094" />Crops studied: </hi>barley, field bean, maize, oats, pasture, pea, radish, rapeseed, soybean and wheat.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2095" />Assessment: unlikely to be beneficial (effectiveness 25%; certainty 60%; harms 10%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/729">http://www.conservationevidence.com/actions/729</ref>
+               <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+               <anchor xml:id="_idTextAnchor2096" />
+               <ref target="http://www.conservationevidence.com/actions/728">Incorporate plant remains into the soil that produce weed-controlling chemicals</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2097" />Weeds: </hi>Six studies (including six randomized, replicated, controlled tests) from Asia, Europe and North America examined the effect of allelopathic plant residues on weeds by comparing amended soils with weeded controls. Three studies found a reduction in weed growth, and three found effects varied between years, weed groups, or type of weeding method in controls.</item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor2098" />Four studies from Asia and North America examined the effect on weeds by comparing amended soils with unweeded controls. Two studies found a reduction in weed growth, but one found that residues applied too far in advance of crop planting had the reverse effect.</item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor2099" />Two studies found that effects varied between trials, weed species or the type of residue used.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2100" />Weed control: </hi>Two studies, including one randomized, replicated, controlled laboratory study, found that the decrease in weeds did not last beyond a few days or weeks after residue incorporation.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2101" />Pests: </hi>One randomized, replicated, controlled study in the Philippines found mixed effects on pests.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2102" />Crop growth: </hi>Two of three studies found that crop growth was inhibited by allelopathic residues, but these effects could be minimized by changing the timing of application. One study found effects varied between years.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2103" />Yield: </hi>Three randomized, replicated, controlled studies compared crop yields in amended plots with weeded controls and found positive, negative and mixed effects. Three studies compared amended plots with unweeded controls, two found positive effects on yield and one found mixed effects (depending on crop type).</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2104" />Profit: </hi>One study found that amending soils increased profit compared to unweeded controls, but not compared to weeded controls.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2105" />Crops studied: </hi>beans, cotton, maize, rice and wheat.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2106" />Assessment: likely to be ineffective or harmful (effectiveness 39%; certainty 47%; harms 30%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/728">http://www.conservationevidence.com/actions/728</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2107" />11.4  Perennial farming</head>
+               <table xml:id="d17e1284">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions on perennial farming systems for enhancing natural pest regulation?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Ex<ref target="http://www.conservationevidence.com/actions/886">clude ants that protect pests</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>All<ref target="http://www.conservationevidence.com/actions/720">ow natural regeneration of ground cover beneath perennial crops</ref>
+                           </item>
+								                   <item>Iso<ref target="http://www.conservationevidence.com/actions/773">late colonies of beneficial ants</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor2108" />
+               <ref target="http://www.conservationevidence.com/actions/886">Exclude ants that protect pests</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2109" />Parasitism: </hi>One of two replicated, controlled studies (one also randomized) from Japan and the USA found greater parasitism of pests by natural enemies when ants were excluded from trees. The other study found greater parasitism at one site but no effect at another.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2110" />Natural enemies: </hi>Five studies (including four randomized, replicated, controlled trials) from Japan, Switzerland and the USA found effects varied between natural enemy species and groups, sampling dates, sites, crop varieties and ground cover types beneath trees.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2111" />Pests: </hi>Three of seven studies (including four randomized, replicated, controlled trials) found fewer pests and another found fewer pests at times of peak abundance only. One study found mixed effects depending on date and other actions taken simultaneously (predator attractant and ground cover treatments). One study found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2112" />Damage and tree growth: </hi>One study found no effect on damage to tree foliage but one study found greater tree growth.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2113" />Ants: </hi>Six studies found that glue or pesticide barriers reduced ant numbers in tree or vine canopies. One study found that citrus oil barriers had no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2114" />Crops studied: </hi>cherimoyas, cherry, grape, grapefruit, orange, pecan and satsuma mandarin.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2115" />Assessment: likely to be beneficial (effectiveness 40%; certainty 50%; harms 12%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/886">http://www.conservationevidence.com/actions/886</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor2116" />
+               <ref target="http://www.conservationevidence.com/actions/720">Allow natural regeneration of ground cover beneath perennial crops</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2117" />Natural enemies on crop trees and vines: </hi>Five studies (including one replicated, randomized, controlled test) from Australia, China, Italy and Portugal compared natural and bare ground covers by measuring numbers of natural enemies in fruit tree or vine canopies. Three found effects varied between groups of natural enemies, two found no difference. Two studies from Australia and France compared natural to sown ground cover and found no effect on enemies in crop canopies.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2118" />Natural enemies on the ground: </hi>Five studies (including three replicated, randomized, controlled trials) from Australia, Canada, China, France, and Spain compared natural and bare ground covers by measuring natural enemies on the ground. Two studies found more natural enemies in natural ground cover, but in one the effects were only short-term for most natural enemy groups. Three studies found mixed effects, with higher numbers of some natural enemy groups but not others. Two studies compared natural and sown ground covers, one study found more natural enemies and one found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2119" />Pests and crop damage: </hi>Four studies (three controlled, one also replicated and randomized) from Italy, Australia and China measured pests and crop damage in regenerated and bare ground covers. Two studies found fewer pests, whilst two studies found effects on pests and crop damage varied for different pest or disease groups. One study found more pests in natural than in sown ground covers.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2120" />Crops studied: </hi>apple, grape, lemon, olive and pear.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2121" />Assessment: unknown effectiveness (effectiveness 35%; certainty 29%; harms 20%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/720">http://www.conservationevidence.com/actions/720</ref>
+               <anchor xml:id="_idTextAnchor2122" />
+               <ref target="http://www.conservationevidence.com/actions/773">Isolate colonies of beneficial ants</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2123" />Natural enemies: </hi>One replicated, controlled study from Australia found predatory ants occupied more cashew trees when colonies were kept isolated.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2124" />Pest damage and yield: </hi>The same study found lower pest damage to cashews and higher yields.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2125" />The crop studied </hi>was cashew.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2126" />Assessment: unknown effectiveness (effectiveness 60%; certainty 19%; harms 0%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/773">http://www.conservationevidence.com/actions/773</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor2127" />11.5  Livestock farming and pasture</head>
+               <table xml:id="d17e1498">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions on livestock and pasture farming systems for enhancing natural pest regulation?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Gro<ref target="http://www.conservationevidence.com/actions/722">w plants that compete with damaging weeds</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Del<ref target="http://www.conservationevidence.com/actions/727">ay mowing or first grazing date on pasture or grassland</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/885"> grazing instead of cutting for pasture or grassland management</ref>
+                           </item>
+								                   <item>Us<ref target="http://www.conservationevidence.com/actions/721">e mixed pasture</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor2128" />
+               <ref target="http://www.conservationevidence.com/actions/722">Grow plants that compete with damaging weeds</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2129" />Weed weight and cover</hi>: Nine studies from Australia, Slovakia, the UK and the USA tested the effects of planting species to compete with weeds. All (including four replicated, randomized, controlled trials) found reduced weed plant weight or ground cover, although two found this only in some years or conditions.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2130" />Weed reproduction and survival: </hi>Five studies (including three replicated, randomized, controlled trials) also found that competition reduced weed reproduction, survival or both. One of these found an effect only in one year only.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2131" />Crops studied</hi>: clovers, fescues, ryegrass, other grasses and turnip.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2132" />Assessment: likely to be beneficial (effectiveness 70%; certainty 60%; harms 5%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/722">http://www.conservationevidence.com/actions/722</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor2133" />
+               <ref target="http://www.conservationevidence.com/actions/727">Delay mowing or first grazing date on pasture or grassland</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2134" />Natural enemy abundance: </hi>One replicated, randomized, controlled study found fewer predatory spiders with delayed cutting. Three studies from the UK (two of them replicated, randomized and controlled) found no change in insect predator numbers and one replicated study from Sweden found mixed effects between different predator groups.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2135" />Natural enemy diversity: </hi>One replicated study from Sweden found a decrease in ant diversity with delayed cutting and one replicated, randomized, controlled study from the UK found no effect on spider and beetle diversity.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2136" />Pests: </hi>One of two replicated, randomized, controlled studies from the UK and USA found more pest insects in late-cut plots and one found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2137" />Insects in general: </hi>Four replicated, randomized, controlled studies measured the abundance of insect groups without classifying them as pests or natural enemies. One UK study found lower numbers in late-cut plots, while two found effects varied between groups. Two studies from the UK and USA found no effect on insect numbers.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2138" />Crops studied: </hi>barley, bird&#8217;s-foot trefoil, clovers, fescues, rapeseed, ryegrass, other grasses and wheat.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2139" />Assessment: unknown effectiveness (effectiveness 5%; certainty 20%; harms 15%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/727">http://www.conservationevidence.com/actions/727</ref>
+               <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+               <anchor xml:id="_idTextAnchor2140" />
+               <ref target="http://www.conservationevidence.com/actions/885">Use grazing instead of cutting for pasture or grassland management</ref>
+               <list>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2141" />Natural enemies: </hi>Two studies (one before-and-after and one replicated trial) from Australia and the UK found grazing instead of cutting had mixed effects on natural enemies, with some species and groups affected on some dates but not others. One replicated study from New Zealand found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2142" />Pests and diseases: </hi>One of five studies (including three replicated trials) from Australia, New Zealand, the UK and the USA found more pests, and two studies found effects varied between pest groups and sampling dates. Two studies found no effect on pests. One study found no effect on disease when grazing was used in addition to cutting.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2143" />Pasture damage and plant survival: </hi>One randomized study found more ryegrass shoots were attacked by pests. One study found lower survival of alfalfa plants but another found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2144" />Yield: </hi>One of four randomized, replicated studies (one also controlled) found lower yields and two found no effect. One study found lower ryegrass and higher clover yields, but no difference between clover varieties. Another randomized study found more ryegrass shoots.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2145" />Crops studied: </hi>alfalfa, cock&#8217;s-foot, perennial ryegrass, other grasses and white clover.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2146" />Assessment: likely to be ineffective or harmful (effectiveness 10%; certainty 45%; harms 40%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/885">http://www.conservationevidence.com/actions/885</ref>
+               <anchor xml:id="_idTextAnchor2147" />
+               <ref target="http://www.conservationevidence.com/actions/721">Use mixed pasture</ref>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor2148" />W<hi rendition="simple:italic">eeds: </hi>Two of two studies (randomized and replicated and one also controlled) from the USA found weeds were negatively affected by mixed compared to monoculture pasture.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2149" />Pests: </hi>Five studies from North America measured pests including four randomized, replicated, controlled tests. One study found fewer pests and two studies found negative or mixed effects depending on different pests groups or pasture mixes. One study found no effect ad another found more pests, although the effect was potentially inseparable from grazing treatments.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2150" />Crop mortality: </hi>One randomized, replicated study from the USA found no effect on forage crop mortality caused by nematodes.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2151" />Yield: </hi>Two of five studies (including two randomized, replicated, controlled tests) from North America found increased forage crop yields and two studies found mixed effects depending on the crop type and year. One study found no effect.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2152" />Crops studied: </hi>alfalfa, bird&#8217;s-foot trefoil, chicory, cicer milkvetch, clovers, fescues, oats, plantain, ryegrass, other grasses, other legumes, rapeseed and turnip.</item>
+				              <item>
+                     <hi rendition="simple:italic">
+                        <anchor xml:id="_idTextAnchor2153" />Assessment: likely to be ineffective or harmful (effectiveness 35%; certainty 45%; harms 20%).</hi>
+                  </item>
+			            </list>
+               <ref target="http://www.conservationevidence.com/actions/721">http://www.conservationevidence.com/actions/721</ref>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

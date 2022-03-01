@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="introduction">
+      <body>
+         <div>
+            <div>
+               <head type="section-lev1">
+                  <ref target="contents.xml#_idTextAnchor000">
+                     <anchor xml:id="_idTextAnchor001" />Introduction</ref>
+               </head>
+				
+					          <byline>&#169; 2021 W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.16">https://doi.org/10.11647/OBP.0267.16</ref>
+               </byline>
+				
+			            <p>This book has been created to help you make decisions about practical conservation management by providing an assessment, from the available scientific evidence, of what works and what does not work in conservation. It also tells you if no evidence has been found about whether or not a conservation intervention is effective. This is the 2021 edition of <hi rendition="simple:italic">What Works in Conservation</hi>, which was first published in 2015 and is updated annually.</p>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor002" />Who is <hi rendition="simple:italic">What Works in Conservation </hi>for?</head>
+                  <p>This book is for people who have to make decisions about how best to support or conserve biodiversity. These include land managers, conservationists in the public or private sector, farmers, campaigners, advisors or consultants, policymakers, researchers or people taking action to protect local wildlife. <hi rendition="simple:italic">What Works in Conservation </hi>and the associated synopses summarize scientific evidence relevant to conservation objectives and the actions that could be taken to achieve them. <hi rendition="simple:italic">What Works in Conservation </hi>also provides an assessment of the effectiveness of interventions based on available evidence.</p>
+                  <p>We do not aim to make decisions for people, but to support decision-making by providing what evidence there is (or is not) about the effects that your planned actions could have. It is important that you read the full details of the evidence, freely available online at <ref target="http://www.conservationevidence.com">www.conservationevidence.com</ref>, before making any decisions about implementing an intervention.</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor003" />The Conservation Evidence project</head>
+                  <p>The Conservation Evidence project has four parts, all of which are available from our website <ref target="http://www.conservationevidence.com">conservationevidence.com</ref>:</p>
+                  <list type="ordered">
+				                 <item>An ever-expanding searchable <hi rendition="simple:bold">database of over 7,800 summaries </hi>of previously published scientific papers, reports, reviews or systematic reviews that document the effects of interventions.</item>
+				                 <item>
+                        <hi rendition="simple:bold">Synopses </hi>of the evidence captured in part 1) relating to particular species groups, habitats or conservation issues. Synopses bring together the evidence and background for all possible interventions. Most synopses are also available to purchase in printed book form, and all of them can be downloaded for free as electronic material.</item>
+				                 <item>
+                        <hi rendition="simple:bold">
+                           <hi rendition="simple:italic">What Works in Conservation </hi>
+                        </hi>provides an assessment of the effectiveness of interventions based on available evidence. It contains both the key messages from the evidence for each conservation intervention from the relevant synopses, and an assessment of the effectiveness of each intervention by expert panels.</item>
+				                 <item>An online, <hi rendition="simple:bold">open access journal</hi>, the <hi rendition="simple:italic">Conservation Evidence Journal </hi>that publishes new pieces of research on the effects of conservation management interventions. All our papers are written by, or in conjunction with, those who carried out the conservation work and include some monitoring of its effects.</item>
+			               </list>
+                  <p>Alongside this project, the Centre for Evidence-Based Conservation (<ref target="http://www.cebc.bangor.ac.uk">http://www.cebc.bangor.ac.uk</ref>) and the Collaboration for Environmental Evidence (<ref target="http://www.environmentalevidence.org">http://www.environmentalevidence.org</ref>) carry out and compile systematic reviews of evidence on the effectiveness of particular conservation interventions. We recommend carrying out a systematic review, which is more comprehensive than our summaries of evidence, when decisions have to be made with particularly important consequences. Systematic reviews are included in the Conservation Evidence database.</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor004" />Which conservation interventions are included?</head>
+                  <p>Lists of interventions for each synopsis are developed and agreed in partnership with an advisory board made up of international conservationists and academics with expertise in the subject. We aim to include all actions that have been carried out or advised for the conservation of the specific group of species or habitat or for the specific conservation issue.</p>
+                  <p>The lists of interventions are organized into categories based on the International Union for the Conservation of Nature (IUCN) classifications of direct threats and conservation actions (https://www.iucnredlist.org/resources/classification-schemes). Interventions are primarily grouped according to the relevant direct threats. However, some interventions can be used in response to many different threats and so these have been grouped according to conservation action.</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor005" />How we review the literature</head>
+                  <p>We gather evidence by searching relevant scientific journals from volume one through to the most recent volume. Thirty general conservation journals are regularly searched by Conservation Evidence. Specialist journals are also searched for each synopsis (330 have been searched so far) as well as over 300 non-English journals. We also search reports, unpublished literature and evidence provided by our advisory boards. Two of the synopses used systematic mapping exercises undertaken by, or in partnership with, other institutions. Systematic mapping uses a rigorous search protocol (involving an array of specified search terms) to retrieve studies from several scientific databases. Evidence published in languages other than English is included when it is identified. Evidence from all around the world is included in synopses. One exception is farmland conservation, which only covers northern Europe (all European countries west of Russia, but not those south of France, Switzerland, Austria, Hungary and Romania). Any apparent bias towards evidence from some regions in a particular synopsis reflects the current biases in published research papers available to Conservation Evidence.</p>
+                  <p>The criteria for inclusion of studies in the Conservation Evidence database are as follows:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor006" />A conservation intervention must have been carried out.</item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor007" />The effects of the intervention must have been monitored quantitatively.</item>
+			               </list>
+                  <p>These criteria exclude studies examining the effects of specific interventions without actually doing them. For example, predictive modelling studies and studies looking at species distributions in areas with long-standing management histories (correlative studies) are excluded. Such studies can suggest that an intervention could be effective, but do not provide direct evidence of a causal relationship between the intervention and the observed biodiversity pattern.</p>
+                  <p>For each study we summarise the results that are relevant to each intervention. Unless specifically stated, results reflect statistical tests performed on the data within the papers.</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor008" />What does <hi rendition="simple:italic">What Works in Conservation </hi>include?</head>
+                  <p>
+                     <hi rendition="simple:italic">What Works in Conservation </hi>includes <hi rendition="simple:bold">only the key messages from each synopsis</hi>, which provide a rapid overview of the evidence. These messages are condensed from the summary text for each intervention within each synopsis. <hi rendition="simple:bold">For the full text and references see </hi>
+                     <ref target="http://www.conservationevidence.com">
+                        <hi rendition="simple:bold">www.conservationevidence.com</hi>
+                     </ref>
+                  </p>
+                  <p>Panels of experts have assessed the collated evidence for each intervention to determine effectiveness, certainty of the evidence and, in most cases, whether there are negative side-effects (harms). Using these assessments, interventions are categorized based on a combination of effectiveness (the size of benefit or harm) and certainty (the strength of the evidence). The following categories are used: Beneficial, Likely to be beneficial, Trade-off between benefit and harms, Unknown effectiveness, Unlikely to be beneficial, Likely to be ineffective or harmful (for more details see below).</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor009" />Expert assessment of the evidence</head>
+                  <p>The average of several experts&#8217; opinions has been shown to be a more reliable and accurate assessment than the opinion of a single expert. We therefore ask a panel of experts to use their judgement to assess whether evidence within the synopsis indicates that an intervention is effective or not. They are also asked to assess how certain they are of the effectiveness given the quality of evidence available for that intervention (certainty of the evidence). Negative side-effects described in the collated evidence are also assessed (harms). They base their assessment solely on the evidence in the synopsis. We use a modified Delphi method to quantify the effectiveness and certainty of evidence of each intervention, based on the summarized evidence. The Delphi method is a structured process that involves asking a panel of experts to state their individual opinion on a subject by scoring anonymously. They can then revise their own scores after seeing a summary of scores and comments from the rest of the panel. Final scores are then collated. Scores and comments are kept anonymous throughout the process so that participants are not overly influenced by any single member of the panel.</p>
+                  <p>For each intervention, experts are asked to read the summarized evidence in the synopsis and then score to indicate their assessment of the following:</p>
+                  <p>
+                     <hi rendition="simple:bold">Effectiveness: </hi>0 = no effect, 100% = always effective.</p>
+                  <p>The score uses an assessment by independent experts of the effectiveness of this action based on the summarized evidence (0% = not effective, 100% = highly effective). This score is based on the direction and size of the effects reported in each study. Actions with high scores typically have large, desirable effects on the target species/habitat in each study. There is some variation between actions, e.g. 100% effectiveness in adding underpasses under roads for bat conservation will likely have different impacts to 100% effectiveness in restoring marsh habitat. The effectiveness score does not consider the quantity or quality of studies; a single, poorly designed study could generate a high effectiveness score. The effectiveness score is combined with the certainty and harms scores to determine the overall effectiveness category (for more details see https://www.conservationevidence.com/content/page/79) </p>
+                  <p>
+                     <hi rendition="simple:bold">Certainty of the evidence</hi>: 0 = no evidence, 100% = high quality evidence; complete certainty. This is certainty of effectiveness of intervention, not of harms.</p>
+                  <p>An assessment by independent experts of the certainty of the evidence for this action based on the summarized evidence (0% = no evidence, 100% = high quality evidence). How certain can we be that the effectiveness score applies to all targets of the intervention (e.g. all birds for an action in the bird synopsis)? This score is based on the number, quality and coverage (species, habitats, geographical locations) of studies. Actions with high scores are supported by lots of well-designed studies with a broad coverage relative to the scope of the intervention. However, the definition of &#8220;lots&#8221; and &#8220;well-designed&#8221; will vary between interventions and synopses depending on the breadth of the subject. The certainty score is combined with the effectiveness and harms scores to determine the overall effectiveness category.</p>
+                  <p>
+                     <hi rendition="simple:bold">Harms</hi>: 0 = none, 100% = major negative side-effects to the group of species/ habitat of concern.</p>
+                  <p>An assessment by independent experts of the harms of this action to the target group of species/habitat, based on the summarized evidence (0%&#160;=&#160;none, 100% = major undesirable effects). Undesirable effects on other groups of species/habitats are not considered in this score. The harms score is combined with the effectiveness and certainty scores to determine the overall effectiveness category.</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor010" />Categorization of interventions</head>
+                  <p>After one or two rounds of initial scoring, interventions are categorized by their effectiveness, as assessed by the expert panel. The median score from all the experts&#8217; assessments is calculated for the effectiveness, certainty and harms for each intervention. Categorization is based on these median values i.e. on a combination of the size of the benefit and harm and the strength of the evidence. The table and figure overleaf show how interventions are categorized using the median scores. There is an important distinction between lack of benefit and lack of evidence of benefit.</p>
+                  <p>Once interventions are categorized, experts are given the chance to object if they believe an intervention has been categorized incorrectly. Interventions that receive a specified number (depending on the size of the panel) of strong objections from experts are re-scored by the expert panel and re-categorized accordingly. Experts did not see the categories for the farmland synopsis or for the &#8216;Reduce predation by other species&#8217; section of the bird synopsis and so those categories are based on the second round of scoring.</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor011" />How to use <hi rendition="simple:italic">What Works in Conservation</hi>
+                  </head>
+                  <p>Please remember that the categories provided in this book are meant as a guide and a starting point in assessing the effectiveness of conservation interventions. The assessments are based on the available evidence for the target group of species for each intervention and may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence, in order to assess their relevance to your species or system. Full details of the evidence are available at <ref target="http://www.conservationevidence.com">www.conservationevidence.com</ref>.</p>
+                  <p>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in our assessment. A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.</p>
+                  <p corresp="#d5e242">
+                     <hi rendition="simple:bold">Table of categories of effectiveness</hi>
+                  </p>
+                  <table xml:id="d5e242">
+				
+					
+					
+					
+					
+				
+				
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Category</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Description</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">General criteria</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Thresholds </hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness has been demonstrated by clear evidence. Expectation of harms is small compared with the benefits</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High median benefit score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High median certainty score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Low median harm score</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: &gt;60%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: &gt;60%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: &lt;20%</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness is less well established than for those listed under &#8216;beneficial&#8217;</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:bold">OR</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">There is clear evidence of medium effectiveness</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High benefit score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Lower certainty score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Low harm score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:bold">OR</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Medium benefit score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High certainty score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Low harm score</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: &gt;60%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: 40&#8211;60%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: &lt;20%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:bold">OR</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: 40&#8211;60%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: &#8805;40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: &lt;20%</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Interventions for which practitioners must weigh up the beneficial and harmful effects according to individual circumstances and priorities</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Medium benefit and medium harm scores </hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:bold">OR</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High benefit and high harm scores</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High certainty score</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: &#8805;40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: &#8805;40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: &#8805;20%</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Currently insufficient data, or data of inadequate quality</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Low certainty score</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: Any</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: &lt;40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: Any</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Lack of effectiveness is less well established than for those listed under &#8216;likely to be ineffective or harmful&#8217;</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Low benefit score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Medium certainty score and/or some variation between experts</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: &lt;40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: 40&#8211;60%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: &lt;20%</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful </hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Ineffectiveness or harmfulness has been demonstrated by clear evidence</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Low benefit score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High certainty score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">(regardless of harms)</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:bold">OR</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Low benefit score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">High harm score</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">(regardless of certainty of effectiveness)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: &lt;40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: &gt;60%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: Any</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:bold">OR</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Effectiveness: &lt;40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Certainty: &#8805; 40%</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:normalstyle">Harm: &#8805;20%</hi>
+                           </p>
+						                  </cell>
+					                </row>
+				
+			               </table>
+				
+					             <figure xml:id="d5e645">
+                     <graphic url="image/fig1-mod.jpg" />
+                  </figure>
+				
+			               <p>Categories of effectiveness based on a combination of effectiveness (the size of the benefit and harm) and certainty (the strength of the evidence). The top graph refers to interventions with harms &lt;20% and the bottom graph to interventions with harms &#8805;20%.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

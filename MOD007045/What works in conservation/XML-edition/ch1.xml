@@ -1,0 +1,1975 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch1">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">
+                  <anchor xml:id="_idTextAnchor012" />
+                  <anchor xml:id="_idTextAnchor013" />1.  AMPHIBIAN CONSERVATION</ref>
+            </head>
+				
+					       <byline>&#169; 2021 W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.01">https://doi.org/10.11647/OBP.0267.01</ref>
+            </byline>
+				
+			         <hi rendition="simple:bold">Rebecca K. Smith, Helen Meredith &amp; William J. Sutherland</hi>
+            <p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">Ariadne Angulo</hi>,<hi rendition="simple:bold"> </hi>Co-Chair of the Amphibian Specialist Group, Peru<hi rendition="simple:bold">Robert Brodman</hi>,<hi rendition="simple:bold"> </hi>Saint Joseph&#8217;s College, Indiana, USA<hi rendition="simple:bold">Andrew Cunningham</hi>,<hi rendition="simple:bold"> </hi>Institute of Zoology, Zoological Society of London, UK<hi rendition="simple:bold">Jeff Dawson</hi>,<hi rendition="simple:bold"> </hi>Durrell Wildlife Conservation Trust, UK<hi rendition="simple:bold">Rob Gandola</hi>,<hi rendition="simple:bold"> </hi>University of Southampton, UK<hi rendition="simple:bold">Jaime Garc&#237;a Moreno</hi>,<hi rendition="simple:bold"> </hi>International Union for Conservation of Nature, The Netherlands<hi rendition="simple:bold">Trent Garner</hi>,<hi rendition="simple:bold"> </hi>Institute of Zoology, Zoological Society of London, UK<hi rendition="simple:bold">Richard Griffiths</hi>,<hi rendition="simple:bold"> </hi>Durrell Institute of Conservation and Ecology, UK<hi rendition="simple:bold">Sergei Kuzmin</hi>,<hi rendition="simple:bold"> </hi>Russian Academy of Sciences<hi rendition="simple:bold">Michael Lanoo</hi>,<hi rendition="simple:bold"> </hi>Indiana University, USA<hi rendition="simple:bold">Michael Lau</hi>,<hi rendition="simple:bold"> </hi>WWF-Hong Kong<hi rendition="simple:bold">James Lewis</hi>,<hi rendition="simple:bold"> </hi>Amphibian Survival Alliance/Global Wildlife Conservation, USA<hi rendition="simple:bold">An Martel</hi>,<hi rendition="simple:bold"> </hi>Ghent University, Belgium<hi rendition="simple:bold">LeGrand Nono Gonwouo</hi>,<hi rendition="simple:bold"> </hi>Cameroon Herpetology-Conservation Biology Foundation<hi rendition="simple:bold">Deanna Olson</hi>,<hi rendition="simple:bold"> </hi>US Forest Service<hi rendition="simple:bold">Timo Paasikunnas</hi>,<hi rendition="simple:bold"> </hi>Curator of Conservation at Helsinki Zoo, Finland<hi rendition="simple:bold">Frank Pasmans</hi>,<hi rendition="simple:bold"> </hi>Ghent University, Belgium<hi rendition="simple:bold">Silviu Petrovan</hi>,<hi rendition="simple:bold"> </hi>Froglife, UK<hi rendition="simple:bold">Carlos Mart&#237;nez Rivera</hi>,<hi rendition="simple:bold"> </hi>Philadelphia Zoo, USA<hi rendition="simple:bold">Gon&#231;alo Rosa</hi>,<hi rendition="simple:bold"> </hi>Institute of Zoology, Zoological Society of London, UK<hi rendition="simple:bold">David Sewell</hi>,<hi rendition="simple:bold"> </hi>Durrell Institute of Conservation and Ecology, UK<hi rendition="simple:bold">Rebecca K. Smith</hi>,<hi rendition="simple:bold"> </hi>University of Cambridge, UK<hi rendition="simple:bold">Ben Tapley</hi>,<hi rendition="simple:bold"> </hi>Herpetology Department, Zoological Society of London, UK<hi rendition="simple:bold">Jeanne Tarrant</hi>,<hi rendition="simple:bold"> </hi>Endangered Wildlife Trust, South Africa<hi rendition="simple:bold">Karthikeyan Vasudevan</hi>,<hi rendition="simple:bold"> </hi>Wildlife Institute of India<hi rendition="simple:bold">Victor Wasonga</hi>,<hi rendition="simple:bold"> </hi>National Museums of Kenya<hi rendition="simple:bold">Ch&#233; Weldon</hi>,<hi rendition="simple:bold"> </hi>North-West University, South Africa<hi rendition="simple:bold">Sally Wren</hi>,<hi rendition="simple:bold"> </hi>Amphibian Specialist Group Programme Officer, New Zealand<p>
+               <hi rendition="simple:bold">Scope of assessment</hi>: for native wild amphibian species across the world.</p>
+            <p>
+               <hi rendition="simple:bold">Assessed: </hi>2014.</p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the median % score for effectiveness.</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % certainty of evidence for effectiveness, determined by the quantity and quality of the evidence in the synopsis.</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>is the median % score for negative side-effects to the group of species of concern.</p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target group of species for each intervention. The assessment may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at<ref target="http://www.conservationevidence.com/">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor014" />
+                  <anchor xml:id="_idTextAnchor015" />1.1  Threat: Residential and commercial development</head>
+               <table xml:id="d13e323">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for residential and commercial development?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Leg<ref target="http://www.conservationevidence.com/actions/779">al protection of species</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/786">tect brownfield or ex-industrial sites</ref>
+                           </item>
+								                   <item>Res<ref target="http://www.conservationevidence.com/actions/787">trict herbicide, fungicide and pesticide use on and around ponds on golf courses</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor016" />
+               <ref target="http://www.conservationevidence.com/actions/779">Legal protection of species</ref>Three reviews, including one systematic review, in the Netherlands and UK found that legal protection of amphibians was not effective at protecting populations during development. Two reviews found that the number of great crested newt mitigation licences issued in England and Wales increased over 10 years. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 35%; harms 7%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/779">http://www.conservationevidence.com/actions/779</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor017" />
+                     <ref target="http://www.conservationevidence.com/actions/786">Protect brownfield or ex-industrial sites</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor018" />
+                     <ref target="http://www.conservationevidence.com/actions/787">Restrict herbicide, fungicide and pesticide use on and around ponds on golf courses</ref>
+                     <anchor xml:id="_idTextAnchor019" />
+                     <anchor xml:id="_idTextAnchor020" />1.2  Threat: Agriculture</item>
+			            </list>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor021" />1.2.1 Engage farmers and other volunteers</head>
+                  <table xml:id="d13e440">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for engaging farmers and other volunteers?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Eng<ref target="http://www.conservationevidence.com/actions/777">age landowners and other volunteers to manage land for amphibians</ref>
+                              </item>
+								                      <item>Pay<ref target="http://www.conservationevidence.com/actions/818"> farmers to cover the costs of conservation measures</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor022" />
+                  <ref target="http://www.conservationevidence.com/actions/777">Engage landowners and other volunteers to manage land for amphibians</ref>Three studies, including one replicated and one controlled study, in Estonia, Mexico and Taiwan found that engaging landowners and other volunteers in habitat management increased amphibian populations and axolotl weight. Six studies in Estonia, the USA and UK found that up to 41,000 volunteers were engaged in habitat restoration programmes for amphibians and restored up to 1,023 ponds or 11,500 km<hi rendition="simple:superscript">2</hi> of habitat. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 55%; harms 5%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/777">http://www.conservationevidence.com/actions/777</ref>
+                  <anchor xml:id="_idTextAnchor023" />
+                  <ref target="http://www.conservationevidence.com/actions/818">Pay farmers to cover the costs of conservation measures</ref>Four of five studies, including two replicated studies, in Denmark, Sweden and Taiwan found that payments to farmers increased amphibian populations, numbers of species or breeding habitat. One found that amphibian habitat was not maintained. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 53%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/818">http://www.conservationevidence.com/actions/818</ref>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor024" />1.2.2 Terrestrial habitat management</head>
+                  <table xml:id="d13e529">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for terrestrial habitat management in agricultural systems?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ma<ref target="http://www.conservationevidence.com/actions/788">nage cutting regime</ref>
+                              </item>
+								                      <item>Man<ref target="http://www.conservationevidence.com/actions/780">age grazing regime</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Mai<ref target="http://www.conservationevidence.com/actions/790">ntain or restore hedges</ref>
+                              </item>
+								                      <item>Pla<ref target="http://www.conservationevidence.com/actions/791">nt new hedges</ref>
+                              </item>
+								                      <item>Red<ref target="http://www.conservationevidence.com/actions/789">uced tillage</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <anchor xml:id="_idTextAnchor025" />Manage silviculture practices in plantationsStudies investigating the effects of silviculture practices are discussed in &#8216;<ref target="ch1.xml#_idTextAnchor052">Threat: Biological resource use&#160;&#8212;&#160;Logging and wood harvesting</ref>&#8217;.<hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor026" />
+                  <ref target="http://www.conservationevidence.com/actions/788">Manage cutting regime</ref>One before-and-after study in Australia found that restoration that included reduced mowing increased numbers of frog species. <hi rendition="simple:italic">Assessment for &#8216;Change mowing regime&#8217; from &#8216;Habitat restoration and creation&#8217; section: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 50%; certainty 30%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/788">http://www.conservationevidence.com/actions/788</ref>
+                  <anchor xml:id="_idTextAnchor027" />
+                  <ref target="http://www.conservationevidence.com/actions/780">Manage grazing regime</ref>Two studies, including one replicated, controlled study, in the UK and USA found that grazed plots had lower numbers of toads than ungrazed plots and that grazing, along with burning, decreased numbers of amphibian species. Five studies, including four replicated studies, in Denmark, Estonia and the UK found that habitat management that included reintroduction of grazing maintained or increased toad populations. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 45%; certainty 39%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/780">http://www.conservationevidence.com/actions/780</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor028" />
+                        <ref target="http://www.conservationevidence.com/actions/790">Maintain or restore hedges</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor029" />
+                        <ref target="http://www.conservationevidence.com/actions/791">Plant new hedges</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor030" />
+                        <ref target="http://www.conservationevidence.com/actions/789">Reduced tillage</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor031" />1.2.3 Aquatic habitat management</head>
+                  <table xml:id="d13e682">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for aquatic habitat management in agricultural systems?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Man<ref target="http://www.conservationevidence.com/actions/749">age ditches</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Exc<ref target="http://www.conservationevidence.com/actions/746">lude domestic animals or wild hogs from ponds by fencing</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor032" />
+                  <ref target="http://www.conservationevidence.com/actions/749">Manage ditches</ref>One controlled, before-and-after study in the UK found that managing ditches increased toad numbers. One replicated, site comparison study in the Netherlands found that numbers of amphibians and species were higher in ditches managed under agri-environment schemes compared to those managed conventionally. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 71%; certainty 60%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/749">http://www.conservationevidence.com/actions/749</ref>
+                  <hi rendition="simple:bold">
+                     <anchor xml:id="_idTextAnchor033" />Likely to be ineffective or harmful</hi>
+                  <anchor xml:id="_idTextAnchor034" />
+                  <ref target="http://www.conservationevidence.com/actions/746">Exclude domestic animals or wild hogs from ponds by fencing</ref>Four replicated studies, including one randomized, controlled, before-and-after study, in the USA found that excluding livestock from streams or ponds did not increase overall numbers of amphibians, species, eggs or larval survival, but did increase larval and metamorph abundance. One before-and-after study in the UK found that pond restoration that included livestock exclusion increased pond use by breeding toads. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 31%; certainty 50%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/746">http://www.conservationevidence.com/actions/746</ref>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor035" />1.3  Threat: Energy production and mining</head>
+               <table xml:id="d13e789">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for energy production and mining?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Art<ref target="http://www.conservationevidence.com/actions/755">ificially mist habitat to keep it damp</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor036" />
+               <ref target="http://www.conservationevidence.com/actions/755">Artificially mist habitat to keep it damp</ref>One before-and-after study in Tanzania found that installing a sprinkler system to mitigate against a reduction of river flow did not maintain a population of Kihansi spray toads. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 24%; certainty 20%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/755">http://www.conservationevidence.com/actions/755</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor037" />
+                  <anchor xml:id="_idTextAnchor038" />1.4  Threat: Transportation and service corridors</head>
+               <table xml:id="d13e857">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for transportation and service corridors?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Clo<ref target="http://www.conservationevidence.com/actions/842">se roads during seasonal amphibian migration</ref>
+                           </item>
+								                   <item>Mod<ref target="http://www.conservationevidence.com/actions/782">ify gully pots and kerbs</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Ins<ref target="http://www.conservationevidence.com/actions/756">tall barrier fencing along roads</ref>
+                           </item>
+								                   <item>Ins<ref target="http://www.conservationevidence.com/actions/884">tall culverts or tunnels as road crossings</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/841"> signage to warn motorists</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/784"> humans to assist migrating amphibians across roads</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>Likely to be beneficial<anchor xml:id="_idTextAnchor039" />
+               <ref target="http://www.conservationevidence.com/actions/842">Close roads during seasonal amphibian migration</ref>Two studies, including one replicated study, in Germany found that road closure sites protected large numbers of amphibians from mortality during breeding migrations. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 85%; certainty 50%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/842">http://www.conservationevidence.com/actions/842</ref>
+               <anchor xml:id="_idTextAnchor040" />
+               <ref target="http://www.conservationevidence.com/actions/782">Modify gully pots and kerbs</ref>One before-and-after study in the UK found that moving gully pots 10 cm away from the kerb decreased the number of great crested newts that fell in by 80%. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 80%; certainty 40%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/782">http://www.conservationevidence.com/actions/782</ref>
+               <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+               <anchor xml:id="_idTextAnchor041" />
+               <ref target="http://www.conservationevidence.com/actions/756">Install barrier fencing along roads</ref>Seven of eight studies, including one replicated and two controlled studies, in Germany, Canada and the USA found that barrier fencing with culverts decreased amphibian road deaths, in three cases depending on fence design. One study found that few amphibians were diverted by barriers. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 65%; certainty 68%; harms 23%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/756">http://www.conservationevidence.com/actions/756</ref>
+               <anchor xml:id="_idTextAnchor042" />
+               <ref target="http://www.conservationevidence.com/actions/884">Install culverts or tunnels as road crossings</ref>Thirty-two studies investigated the effectiveness of installing culverts or tunnels as road crossings for amphibians. Six of seven studies, including three replicated studies, in Canada, Europe and the USA found that installing culverts or tunnels decreased amphibian road deaths. One found no effect on road deaths. Fifteen of 24 studies, including one review, in Australia, Canada, Europe and the USA found that tunnels were used by amphibians. Four found mixed effects depending on species, site or culvert type. Five found that culverts were not used or were used by less than 10% of amphibians. Six studies, including one replicated, controlled study, in Canada, Europe and the USA investigated the use of culverts with flowing water. Two found that they were used by amphibians. Three found that they were rarely or not used. Certain culvert designs were found not to be suitable for amphibians. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 60%; certainty 75%; harms 25%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/884">http://www.conservationevidence.com/actions/884</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor043" />
+               <ref target="http://www.conservationevidence.com/actions/841">Use signage to warn motorists</ref>One study in the UK found that despite warning signs and human assistance across roads, some toads were still killed on roads. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 10%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/841">http://www.conservationevidence.com/actions/841</ref>
+               <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor044" />
+               <ref target="http://www.conservationevidence.com/actions/784">Use humans to assist migrating amphibians across roads</ref>Three studies, including one replicated study, in Italy and the UK found that despite assisting toads across roads during breeding migrations, toads were still killed on roads and 64&#8211;70% of populations declined. Five studies in Germany, Italy and the UK found that large numbers of amphibians were moved across roads by up to 400 patrols. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 35%; certainty 40%; harms 3%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/784">http://www.conservationevidence.com/actions/784</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor045" />
+                  <anchor xml:id="_idTextAnchor046" />1.5  Threat: Biological resource use</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor047" />1.5.1 Hunting and collecting terrestrial animals</head>
+                  <table xml:id="d13e1086">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for hunting and collecting terrestrial animals?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Red<ref target="http://www.conservationevidence.com/actions/824">uce impact of amphibian trade</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/785"> legislative regulation to protect wild populations</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Com<ref target="http://www.conservationevidence.com/actions/794">mercially breed amphibians for the pet trade</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/793"> amphibians sustainably</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor048" />
+                  <ref target="http://www.conservationevidence.com/actions/824">Reduce impact of amphibian trade</ref>One review found that reducing trade through legislation allowed frog populations to recover from over-exploitation. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 76%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/824">http://www.conservationevidence.com/actions/824</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor049" />
+                  <ref target="http://www.conservationevidence.com/actions/785">Use legislative regulation to protect wild populations</ref>One review found that legislation to reduce trade resulted in the recovery of frog populations. One study in South Africa found that the number of permits issued for scientific and educational use of amphibians increased from 1987 to 1990. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 60%; certainty 30%; harms 5%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/785">http://www.conservationevidence.com/actions/785</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor050" />
+                        <ref target="http://www.conservationevidence.com/actions/794">Commercially breed amphibians for the pet trade</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor051" />
+                        <ref target="http://www.conservationevidence.com/actions/793">Use amphibians sustainably</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">1.5.2 <anchor xml:id="_idTextAnchor052" />Logging and wood harvesting</head>
+                  <table xml:id="d13e1239">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for logging and wood harvest?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ret<ref target="http://www.conservationevidence.com/actions/747">ain riparian buffer strips during timber harvest</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/851"> shelterwood harvesting instead of clearcutting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Lea<ref target="http://www.conservationevidence.com/actions/843">ve coarse woody debris in forests</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/847"> patch retention harvesting instead of clearcutting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Lea<ref target="http://www.conservationevidence.com/actions/845">ve standing deadwood/snags in forests</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/846"> leave-tree harvesting instead of clearcutting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Har<ref target="http://www.conservationevidence.com/actions/844">vest groups of trees instead of clearcutting</ref>
+                              </item>
+								                      <item>Thi<ref target="http://www.conservationevidence.com/actions/852">n trees within forests</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor053" />
+                  <ref target="http://www.conservationevidence.com/actions/747">Retain riparian buffer strips during timber harvest</ref>Six replicated and/or controlled studies in Canada and the USA compared amphibian numbers following clearcutting with or without riparian buffer strips. Five found mixed effects and one found that abundance was higher with riparian buffers. Two of four replicated studies, including one randomized, controlled, before-and-after study, in Canada and the USA found that numbers of species and abundance were greater in wider buffer strips. Two found no effect of buffer width. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 61%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/747">http://www.conservationevidence.com/actions/747</ref>
+                  <anchor xml:id="_idTextAnchor054" />
+                  <ref target="http://www.conservationevidence.com/actions/851">Use shelterwood harvesting instead of clearcutting</ref>Three studies, including two randomized, replicated, controlled, before-and-after studies, in the USA found that compared to clearcutting, shelterwood harvesting resulted in higher or similar salamander abundance. One meta-analysis of studies in North America found that partial harvest, which included shelterwood harvesting, resulted in smaller reductions in salamander populations than clearcutting. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 57%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/851">http://www.conservationevidence.com/actions/851</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor055" />
+                  <anchor xml:id="_idTextAnchor056" />
+                  <ref target="http://www.conservationevidence.com/actions/843">Leave coarse woody debris in forests</ref>Two replicated, controlled studies in the USA found that abundance was similar in clearcuts with woody debris retained or removed for eight of nine amphibian species, but that the overall response of amphibians was more negative where woody debris was retained. Two replicated, controlled studies in the USA and Indonesia found that the removal of coarse woody debris from standing forest did not affect amphibian diversity or overall amphibian abundance, but did reduce species richness. One replicated, controlled study in the USA found that migrating amphibians used clearcuts where woody debris was retained more than where it was removed. One replicated, site comparison study in the USA found that within clearcut forest, survival of juvenile amphibians was significantly higher within piles of woody debris than in open areas. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 40%; certainty 60%; harms 26%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/843">http://www.conservationevidence.com/actions/843</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor057" />
+                  <ref target="http://www.conservationevidence.com/actions/847">Use patch retention harvesting instead of clearcutting</ref>We found no evidence for the effect of retaining patches of trees rather than clearcutting on amphibian populations. One replicated study in Canada found that although released red-legged frogs did not move towards retained tree patches, large patches were selected more and moved out of less than small patches. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 20%; certainty 25%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/847">http://www.conservationevidence.com/actions/847</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor058" />
+                  <ref target="http://www.conservationevidence.com/actions/845">Leave standing deadwood/snags in forests</ref>One randomized, replicated, controlled, before-and-after study in the USA found that compared to total clearcutting, leaving dead and wildlife trees did not result in higher abundances of salamanders. One randomized, replicated, controlled study in the USA found that numbers of amphibians and species were similar with removal or creation of dead trees within forest. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 5%; certainty 58%; harms 2%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/845">http://www.conservationevidence.com/actions/845</ref>
+                  <anchor xml:id="_idTextAnchor059" />
+                  <ref target="http://www.conservationevidence.com/actions/846">Use leave-tree harvesting instead of clearcutting</ref>Two studies, including one randomized, replicated, controlled, before-and-after study, in the USA found that compared to clearcutting, leaving a low density of trees during harvest did not result in higher salamander abundance. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 10%; certainty 48%; harms 11%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/846">http://www.conservationevidence.com/actions/846</ref>
+                  <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                  <anchor xml:id="_idTextAnchor060" />
+                  <ref target="http://www.conservationevidence.com/actions/844">Harvest groups of trees instead of clearcutting</ref>Three studies, including two randomized, replicated, controlled, before-and-after studies, in the USA found that harvesting trees in small groups resulted in similar amphibian abundance to clearcutting. One meta-analysis and one randomized, replicated, controlled, before-and-after study in North America and the USA found that harvesting, which included harvesting groups of trees, resulted in smaller reductions in salamander populations than clearcutting. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 33%; certainty 60%; harms 23%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/844">http://www.conservationevidence.com/actions/844</ref>
+                  <anchor xml:id="_idTextAnchor061" />
+                  <ref target="http://www.conservationevidence.com/actions/852">Thin trees within forests</ref>Six studies, including five replicated and/or controlled studies, in the USA compared amphibians in thinned to unharvested forest. Three found that thinning had mixed effects and one found no effect on abundance. One found that amphibian abundance increased following thinning but the body condition of ensatina salamanders decreased. One found a negative overall response of amphibians. Four studies, including two replicated, controlled studies, in the USA compared amphibians in thinned to clearcut forest. Two found that thinning had mixed effects on abundance and two found higher amphibian abundance or a less negative overall response of amphibians following thinning. One meta-analysis of studies in North America found that partial harvest, which included thinning, decreased salamander populations, but resulted in smaller reductions than clearcutting. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 35%; certainty 60%; harms 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/852">http://www.conservationevidence.com/actions/852</ref>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor062" />
+                  <anchor xml:id="_idTextAnchor063" />1.6  Threat: Human intrusions and disturbance</head>
+               <table xml:id="d13e1525">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for human intrusions and disturbance?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/795"> signs and access restrictions to reduce disturbance</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following intervention:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor064" />
+                     <ref target="http://www.conservationevidence.com/actions/795">Use signs and access restrictions to reduce disturbance</ref>
+                     <anchor xml:id="_idTextAnchor065" />
+                     <anchor xml:id="_idTextAnchor066" />1.7  Threat: Natural system modifications</item>
+			            </list>
+               <table xml:id="d13e1589">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for natural system modifications?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Reg<ref target="http://www.conservationevidence.com/actions/833">ulate water levels</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Mec<ref target="http://www.conservationevidence.com/actions/781">hanically remove mid-storey or ground vegetation</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/778"> herbicides to control mid-storey or ground vegetation</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/877"> prescribed fire or modifications to burning regime: forests</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/862"> prescribed fire or modifications to burning regime: grassland</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor067" />
+               <anchor xml:id="_idTextAnchor068" />
+               <ref target="http://www.conservationevidence.com/actions/833">Regulate water levels</ref>Three studies, including one replicated, site comparison study, in the UK and USA found that maintaining pond water levels, in two cases with other habitat management, increased or maintained amphibian populations or increased breeding success. One replicated, controlled study in Brazil found that keeping rice fields flooded after harvest did not change amphibian abundance or numbers of species, but changed species composition. One replicated, controlled study in the USA found that draining ponds increased abundance and numbers of amphibian species. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 70%; certainty 65%; harms 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/833">http://www.conservationevidence.com/actions/833</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor069" />
+               <ref target="http://www.conservationevidence.com/actions/781">Mechanically remove mid-storey or ground vegetation</ref>One randomized, replicated, controlled study in the USA found that mechanical understory reduction increased numbers of amphibian species, but not amphibian abundance. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 30%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/781">http://www.conservationevidence.com/actions/781</ref>
+               <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+               <anchor xml:id="_idTextAnchor070" />
+               <ref target="http://www.conservationevidence.com/actions/778">Use herbicides to control mid-storey or ground vegetation</ref>Three studies, including two randomized, replicated, controlled studies, in the USA found that understory removal using herbicide had no effect or negative effects on amphibian abundance. One replicated, site comparison study in Canada found that following logging, abundance was similar or lower in stands with herbicide treatment and planting compared to those left to regenerate naturally. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 10%; certainty 50%; harms 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/778">http://www.conservationevidence.com/actions/778</ref>
+               <anchor xml:id="_idTextAnchor071" />
+               <ref target="http://www.conservationevidence.com/actions/877">Use prescribed fire or modifications to burning regime (forests)</ref>Eight of 15 studies, including three randomized, replicated, controlled studies, in Australia, North America and the USA found no effect of prescribed forest fires on amphibian abundance or numbers of species. Four found that fires had mixed effects on abundance. Four found that abundance, numbers of species or hatching success increased and one that abundance decreased. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 30%; certainty 58%; harms 40%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/877">http://www.conservationevidence.com/actions/877</ref>
+               <anchor xml:id="_idTextAnchor072" />
+               <ref target="http://www.conservationevidence.com/actions/862">Use prescribed fire or modifications to burning regime (grassland)</ref>Two of three studies, including one replicated, before-and-after study, in the USA and Argentina found that prescribed fires in grassland decreased amphibian abundance or numbers of species. One found that spring, but not autumn or winter burns in grassland, decreased abundance. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 10%; certainty 40%; harms 70%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/862">http://www.conservationevidence.com/actions/862</ref>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor073" />
+                  <anchor xml:id="_idTextAnchor074" />1.8  Threat: Invasive and other problematic species</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor075" />1.8.1 Reduce predation by other species</head>
+                  <table xml:id="d13e1780">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for reducing predation by other species?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/826">ove or control fish by drying out ponds</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/827">ove or control fish population by catching</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/825">ove or control invasive bullfrogs</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/830">ove or control invasive viperine snake</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/839">ove or control mammals</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/828">ove or control fish using Rotenone</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Exc<ref target="http://www.conservationevidence.com/actions/829">lude fish with barriers</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Enc<ref target="http://www.conservationevidence.com/actions/796">ourage aquatic plant growth as refuge against fish predation</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/797">ove or control non-native crayfish</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor076" />
+                  <ref target="http://www.conservationevidence.com/actions/826">Remove or control fish by drying out ponds</ref>One before-and-after study in the USA found that draining ponds to eliminate fish increased numbers of amphibian species. Four studies, including one review, in Estonia, the UK and USA found that pond drying to eliminate fish, along with other management activities, increased amphibian abundance, numbers of species and breeding success. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 66%; harms 3%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/826">http://www.conservationevidence.com/actions/826</ref>Likely to be beneficial<anchor xml:id="_idTextAnchor077" />
+                  <ref target="http://www.conservationevidence.com/actions/827">Remove or control fish population by catching</ref>Four of six studies, including two replicated, controlled studies, in Sweden, the USA and UK found that removing fish by catching them increased amphibian abundance, survival and recruitment. Two found no significant effect on newt populations or toad breeding success. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 52%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/827">http://www.conservationevidence.com/actions/827</ref>
+                  <anchor xml:id="_idTextAnchor078" />
+                  <ref target="http://www.conservationevidence.com/actions/825">Remove or control invasive bullfrogs</ref>Two studies, including one replicated, before-and-after study, in the USA and Mexico found that removing American bullfrogs increased the size and range of frog populations. One replicated, before-and-after study in the USA found that following bullfrog removal, frogs were found out in the open more. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 79%; certainty 60%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/825">http://www.conservationevidence.com/actions/825</ref>
+                  <anchor xml:id="_idTextAnchor079" />
+                  <ref target="http://www.conservationevidence.com/actions/830">Remove or control invasive viperine snake</ref>One before-and-after study in Mallorca found that numbers of Mallorcan midwife toad larvae increased after intensive, but not less intensive, removal of viperine snakes. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/830">http://www.conservationevidence.com/actions/830</ref>
+                  <anchor xml:id="_idTextAnchor080" />
+                  <ref target="http://www.conservationevidence.com/actions/839">Remove or control mammals</ref>One controlled study in New Zealand found that controlling rats had no significant effect on numbers of Hochstetter&#8217;s frog. Two studies, one of which was controlled, in New Zealand found that predator-proof enclosures enabled or increased survival of frog species. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/839">http://www.conservationevidence.com/actions/839</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor081" />
+                  <ref target="http://www.conservationevidence.com/actions/828">Remove or control fish using Rotenone</ref>Three studies, including one replicated study, in Sweden, the UK and USA found that eliminating fish using rotenone increased numbers of amphibians, amphibian species and recruitment. One review in Australia, the UK and USA found that fish control that included using rotenone increased breeding success. Two replicated studies in Pakistan and the UK found that rotenone use resulted in frog deaths and negative effects on newts. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 65%; certainty 60%; harms 52%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/828">http://www.conservationevidence.com/actions/828</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor082" />
+                  <ref target="http://www.conservationevidence.com/actions/829">Exclude fish with barriers</ref>One controlled study in Mexico found that excluding fish using a barrier increased weight gain of axolotls. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 30%; certainty 20%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/829">http://www.conservationevidence.com/actions/829</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor083" />
+                        <ref target="http://www.conservationevidence.com/actions/796">Encourage aquatic plant growth as refuge against fish predation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor084" />
+                        <ref target="http://www.conservationevidence.com/actions/797">Remove or control non-native crayfish</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor085" />1.8.2 Reduce competition with other species</head>
+                  <table xml:id="d13e2072">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for reducing competition with other species?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Red<ref target="http://www.conservationevidence.com/actions/821">uce competition from native amphibians</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/822">ove or control invasive Cuban tree frogs</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/798">ove or control invasive cane toads</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor086" />
+                  <ref target="http://www.conservationevidence.com/actions/821">Reduce competition from native amphibians</ref>One replicated, site comparison study in the UK found that common toad control did not increase natterjack toad populations. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 23%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/821">http://www.conservationevidence.com/actions/821</ref>
+                  <anchor xml:id="_idTextAnchor087" />
+                  <ref target="http://www.conservationevidence.com/actions/822">Remove or control invasive Cuban tree frogs</ref>One before-and-after study in the USA found that removal of invasive Cuban tree frogs increased numbers of native frogs. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 65%; certainty 30%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/822">http://www.conservationevidence.com/actions/822</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor088" />
+                        <ref target="http://www.conservationevidence.com/actions/798">Remove or control invasive cane toads.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor089" />1.8.3 Reduce adverse habitat alteration by other species</head>
+                  <table xml:id="d13e2195">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for reducing adverse habitat alteration by other species?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Con<ref target="http://www.conservationevidence.com/actions/823">trol invasive plants</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pre<ref target="http://www.conservationevidence.com/actions/799">vent heavy usage/exclude wildfowl from aquatic habitat</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor090" />
+                  <ref target="http://www.conservationevidence.com/actions/823">Control invasive plants</ref>One before-and-after study in the UK found that habitat and species management that included controlling swamp stonecrop, increased a population of natterjack toads. One replicated, controlled study in the USA found that more Oregon spotted frogs laid eggs in areas where invasive reed canarygrass was mown. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 47%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/823">http://www.conservationevidence.com/actions/823</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following intervention:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor091" />
+                        <ref target="http://www.conservationevidence.com/actions/799">Prevent heavy usage/exclude wildfowl from aquatic habitat.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor092" />1.8.4 Reduce parasitism and disease&#160;&#8211;&#160;chytridiomycosis</head>
+                  <table xml:id="d13e2298">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for reducing chytridiomycosis?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/770"> temperature treatment to reduce infection</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/882"> antifungal treatment to reduce infection</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/762"> salt to ponds</ref>
+                              </item>
+								                      <item>Imm<ref target="http://www.conservationevidence.com/actions/765">unize amphibians against infection</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/766">ove the chytrid fungus from ponds</ref>
+                              </item>
+								                      <item>Ste<ref target="http://www.conservationevidence.com/actions/768">rilize equipment when moving between amphibian sites</ref>
+                              </item>
+								                      <item>Tre<ref target="http://www.conservationevidence.com/actions/767">ating amphibians in the wild or pre-release</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/769"> gloves to handle amphibians</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/763"> antibacterial treatment to reduce infection</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/764"> antifungal skin bacteria or peptides to reduce infection</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/800"> zooplankton to remove zoospores</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor093" />
+                  <ref target="http://www.conservationevidence.com/actions/770">Use temperature treatment to reduce infection</ref>Four of five studies, including four replicated, controlled studies, in Australia, Switzerland and the USA found that increasing enclosure or water temperature to 30&#8211;37&#176;C for over 16 hours cured amphibians of chytridiomycosis. One found that treatment did not cure frogs. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 70%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/770">http://www.conservationevidence.com/actions/770</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor094" />
+                  <ref target="http://www.conservationevidence.com/actions/882">Use antifungal treatment to reduce infection</ref>Twelve of 16 studies, including four randomized, replicated, controlled studies, in Europe, Australia, Tasmania, Japan and the USA found that antifungal treatment cured or increased survival of amphibians with chytridiomycosis. Four studies found that treatments did not cure chytridiomycosis, but did reduce infection levels or had mixed results. Six of the eight studies testing treatment with itraconazole found that it was effective at curing chytridiomycosis. One found that it reduced infection levels and one found mixed effects. Six studies found that specific fungicides caused death or other negative side effects in amphibians. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 71%; certainty 70%; harms 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/882">http://www.conservationevidence.com/actions/882</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor095" />
+                  <ref target="http://www.conservationevidence.com/actions/762">Add salt to ponds</ref>One study in Australia found that following addition of salt to a pond containing the chytrid fungus, a population of green and golden bell frogs remained free of chytridiomycosis for over six months. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 41%; certainty 25%; harms 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/762">http://www.conservationevidence.com/actions/762</ref>
+                  <anchor xml:id="_idTextAnchor096" />
+                  <ref target="http://www.conservationevidence.com/actions/765">Immunize amphibians against infection</ref>One randomized, replicated, controlled study in the USA found that vaccinating mountain yellow-legged frogs with formalin-killed chytrid fungus did not significantly reduce chytridiomycosis infection rate or mortality. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 25%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/765">http://www.conservationevidence.com/actions/765</ref>
+                  <anchor xml:id="_idTextAnchor097" />
+                  <ref target="http://www.conservationevidence.com/actions/766">Remove the chytrid fungus from ponds</ref>One before-and-after study in Mallorca found that drying out a pond and treating resident midwife toads with fungicide reduced levels of infection but did not eradicate chytridiomycosis. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 25%; certainty 25%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/766">http://www.conservationevidence.com/actions/766</ref>
+                  <anchor xml:id="_idTextAnchor098" />
+                  <ref target="http://www.conservationevidence.com/actions/768">Sterilize equipment when moving between amphibian sites</ref>We found no evidence for the effects of sterilizing equipment when moving between amphibian sites on the spread of disease between amphibian populations or individuals. Two randomized, replicated, controlled study in Switzerland and Sweden found that Virkon S disinfectant did not affect survival, mass or behaviour of eggs, tadpoles or hatchlings. However, one of the studies found that bleach significantly reduced tadpole survival. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 30%; harms 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/768">http://www.conservationevidence.com/actions/768</ref>
+                  <anchor xml:id="_idTextAnchor099" />
+                  <ref target="http://www.conservationevidence.com/actions/767">Treating amphibians in the wild or pre-release</ref>One before-and-after study in Mallorca found that treating wild toads with fungicide and drying out the pond reduced infection levels but did not eradicate chytridiomycosis. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 27%; certainty 30%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/767">http://www.conservationevidence.com/actions/767</ref>
+                  <anchor xml:id="_idTextAnchor100" />
+                  <ref target="http://www.conservationevidence.com/actions/769">Use gloves to handle amphibians</ref>We found no evidence for the effects of using gloves on the spread of disease between amphibian populations or individuals. A review for Canada and the USA found that there were no adverse effects of handling 22 amphibian species using disposable gloves. However, three replicated studies in Australia and Austria found that deaths of tadpoles were caused by latex, vinyl and nitrile gloves for 60&#8211;100% of species tested. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 9%; certainty 35%; harms 65%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/769">http://www.conservationevidence.com/actions/769</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor101" />
+                  <ref target="http://www.conservationevidence.com/actions/763">Use antibacterial treatment to reduce infection</ref>Two studies, including one randomized, replicated, controlled study, in New Zealand and Australia found that treatment with chloramphenicol antibiotic, with other interventions in some cases, cured frogs of chytridiomycosis. One replicated, controlled study found that treatment with trimethoprim-sulfadiazine increased survival time but did not cure infected frogs. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 38%; certainty 45%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/763">http://www.conservationevidence.com/actions/763</ref>
+                  <anchor xml:id="_idTextAnchor102" />
+                  <ref target="http://www.conservationevidence.com/actions/764">Use antifungal skin bacteria or peptides to reduce infection</ref>Three of four randomized, replicated, controlled studies in the USA found that introducing antifungal bacteria to the skin of chytrid infected amphibians did not reduce infection rate or deaths. One found that it prevented infection and death. One randomized, replicated, controlled study in the USA found that adding antifungal skin bacteria to soil significantly reduced chytridiomycosis infection rate in salamanders. One randomized, replicated, controlled study in Switzerland found that treatment with antimicrobial skin peptides before or after infection with chytridiomycosis did not increase toad survival. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 29%; certainty 50%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/764">http://www.conservationevidence.com/actions/764</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following intervention:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor103" />
+                        <ref target="http://www.conservationevidence.com/actions/800">Use zooplankton to remove zoospores</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor104" />1.8.5 Reduce parasitism and disease&#160;&#8211;&#160;ranaviruses</head>
+                  <table xml:id="d13e2638">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for reducing ranaviruses?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ste<ref target="http://www.conservationevidence.com/actions/801">rilize equipment to prevent ranaviruses</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following intervention:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor105" />
+                        <ref target="http://www.conservationevidence.com/actions/801">Sterilize equipment to prevent ranaviruses.</ref>
+                        <anchor xml:id="_idTextAnchor106" />
+                        <anchor xml:id="_idTextAnchor107" />1.9  Threat: Pollution</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor108" />1.9.1 Agricultural pollution</head>
+                  <table xml:id="d13e2706">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for agricultural pollution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/771">ate walls or barriers to exclude pollutants</ref>
+                              </item>
+								                      <item>Pla<ref target="http://www.conservationevidence.com/actions/819">nt riparian buffer strips</ref>
+                              </item>
+								                      <item>Red<ref target="http://www.conservationevidence.com/actions/832">uce pesticide, herbicide or fertilizer use</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pre<ref target="http://www.conservationevidence.com/actions/802">vent pollution from agricultural lands or sewage treatment facilities entering watercourses</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor109" />
+                  <ref target="http://www.conservationevidence.com/actions/771">Create walls or barriers to exclude pollutants</ref>One controlled study in Mexico found that installing filters across canals to improve water quality and exclude fish increased weight gain in axolotls. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 35%; certainty 29%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/771">http://www.conservationevidence.com/actions/771</ref>
+                  <anchor xml:id="_idTextAnchor110" />
+                  <ref target="http://www.conservationevidence.com/actions/819">Plant riparian buffer strips</ref>One replicated, controlled study in the USA found that planting buffer strips along streams did not increase amphibian abundance or numbers of species. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 30%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/819">http://www.conservationevidence.com/actions/819</ref>
+                  <anchor xml:id="_idTextAnchor111" />
+                  <ref target="http://www.conservationevidence.com/actions/832">Reduce pesticide, herbicide or fertilizer use</ref>One study in Taiwan found that halting pesticide use, along with habitat management, increased a population of frogs. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 71%; certainty 26%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/832">http://www.conservationevidence.com/actions/832</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following intervention:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor112" />
+                        <ref target="http://www.conservationevidence.com/actions/802">Prevent pollution from agricultural lands or sewage treatment facilities entering watercourses</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor113" />1.9.2 Industrial pollution</head>
+                  <table xml:id="d13e2849">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for industrial pollution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/748"> limestone to water bodies to reduce acidification</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Aug<ref target="http://www.conservationevidence.com/actions/803">ment ponds with ground water to reduce acidification</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor114" />
+                  <ref target="http://www.conservationevidence.com/actions/748">Add limestone to water bodies to reduce acidification</ref>Five before-and-after studies, including one controlled, replicated study, in the Netherlands and UK found that adding limestone to ponds resulted in establishment of one of three translocated amphibian populations, a temporary increase in breeding and metamorphosis by natterjack toads and increased egg and larval survival of frogs. One replicated, site comparison study in the UK found that habitat management that included adding limestone to ponds increased natterjack toad populations. However, two before-and-after studies, including one controlled study, in the UK found that adding limestone to ponds resulted in increased numbers of abnormal eggs, high tadpole mortality and pond abandonment. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 47%; certainty 50%; harms 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/748">http://www.conservationevidence.com/actions/748</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following intervention:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor115" />
+                        <ref target="http://www.conservationevidence.com/actions/803">Augment ponds with ground water to reduce acidification</ref>.<anchor xml:id="_idTextAnchor116" />
+                        <anchor xml:id="_idTextAnchor117" />1.10  Threat: Climate change and severe weather</item>
+			               </list>
+                  <table xml:id="d13e2953">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for climate change and severe weather?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Dee<ref target="http://www.conservationevidence.com/actions/806">pen ponds to prevent desiccation (deepen, de-silt or re-profile)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/804"> irrigation systems for amphibian sites (artificially mist habitat)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Art<ref target="http://www.conservationevidence.com/actions/808">ificially shade ponds to prevent desiccation</ref>
+                              </item>
+								                      <item>Pro<ref target="http://www.conservationevidence.com/actions/810">tect habitat along elevational gradients</ref>
+                              </item>
+								                      <item>Pro<ref target="http://www.conservationevidence.com/actions/807">vide shelter habitat</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">
+                     <anchor xml:id="_idTextAnchor118" />Create microclimate and microhabitat refuges</hi>Studies investigating the effects of creating refuges are discussed in &#8216;<ref target="ch1.xml#_idTextAnchor132">Habitat restoration and creation</ref>&#8217; and &#8216;<ref target="ch1.xml#_idTextAnchor056">Threat: Biological resource use&#160;&#8212;&#160;Leave coarse woody debris in forests</ref>&#8217;.<hi rendition="simple:bold">
+                     <anchor xml:id="_idTextAnchor119" />Maintain ephemeral ponds</hi>Studies investigating the effects of regulating water levels and deepening ponds are discussed in &#8216;<ref target="ch1.xml#_idTextAnchor068">Threat: Natural system modifications&#160;&#8212;&#160;Regulate water levels</ref>&#8217; and &#8216;<ref target="ch1.xml#_idTextAnchor148">Habitat restoration and creation&#160;&#8212;&#160;Deepen, de-silt or re-profile ponds</ref>&#8217;.<hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor120" />
+                  <ref target="http://www.conservationevidence.com/actions/806">Deepen ponds to prevent desiccation</ref>Four studies, including one replicated, controlled study, in France, Denmark and the UK found that pond deepening and enlarging or re-profiling resulted in establishment or increased populations of amphibians. Four before-and-after studies in Denmark and the UK found that pond deepening, along with other interventions, maintained newt or increased toad populations. <hi rendition="simple:italic">Assessment for &#8216;Deepen, de-silt or re-profie ponds&#8217; from </hi>&#8216;Habitat restoration and creation&#8217; section<hi rendition="simple:italic">: beneficial (effectiveness 71%; certainty 65%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/806">http://www.conservationevidence.com/actions/806</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor121" />
+                  <ref target="http://www.conservationevidence.com/actions/804">Use irrigation systems for amphibian sites</ref>One before-and-after study in Tanzania found that installing a sprinkler system to mitigate against a reduction of river flow did not maintain a population of Kihansi spray toads. <hi rendition="simple:italic">Assessment for &#8216;Artificially mist habitat to keep it damp&#8217; from &#8216;Threat: Energy production and mining&#8217; section: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 24%; certainty 20%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/804">http://www.conservationevidence.com/actions/804</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor122" />
+                        <ref target="http://www.conservationevidence.com/actions/808">Artificially shade ponds to prevent desiccation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor123" />
+                        <ref target="http://www.conservationevidence.com/actions/810">Protect habitat along elevational gradients</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor124" />
+                        <ref target="http://www.conservationevidence.com/actions/807">Provide shelter habitat.</ref>
+                        <anchor xml:id="_idTextAnchor125" />
+                        <anchor xml:id="_idTextAnchor126" />1.11  Habitat protection</item>
+			               </list>
+                  <table xml:id="d13e3148">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for habitat protection?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ret<ref target="http://www.conservationevidence.com/actions/850">ain buffer zones around core habitat</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pro<ref target="http://www.conservationevidence.com/actions/820">tect habitats for amphibians</ref>
+                              </item>
+								                      <item>Ret<ref target="http://www.conservationevidence.com/actions/853">ain connectivity between habitat patches</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor127" />
+                  <ref target="http://www.conservationevidence.com/actions/850">Retain buffer zones around core habitat</ref>Two studies, including one replicated, controlled study, in Australia and the USA found that retaining unmown buffers around ponds increased numbers of frog species, but had mixed effects on tadpole mass and survival. One replicated, site comparison study in the USA found that retaining buffers along ridge tops within harvested forest increased salamander abundance, body condition and genetic diversity. However, one replicated study in the USA found that 30 m buffer zones around wetlands were not sufficient to protect marbled salamanders. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 50%; certainty 50%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/850">http://www.conservationevidence.com/actions/850</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor128" />
+                  <ref target="http://www.conservationevidence.com/actions/820">Protect habitats for amphibians</ref>One replicated, site comparison study in the UK found that statutory level habitat protection helped protect natterjack toad populations. One before-and-after study in the UK found that protecting a pond during development had mixed effects on populations of amphibians. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 51%; certainty 31%; harms 9%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/820">http://www.conservationevidence.com/actions/820</ref>
+                  <anchor xml:id="_idTextAnchor129" />
+                  <ref target="http://www.conservationevidence.com/actions/853">Retain connectivity between habitat patches</ref>One before-and-after study in Australia found that retaining native vegetation corridors maintained populations of frogs over 20 years. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 60%; certainty 31%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/853">http://www.conservationevidence.com/actions/853</ref>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor130" />
+                  <anchor xml:id="_idTextAnchor131" />1.12  <anchor xml:id="_idTextAnchor132" />Habitat restoration and creation</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor133" />1.12.1 Terrestrial habitat</head>
+                  <table xml:id="d13e3281">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for terrestrial habitat restoration and creation?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rep<ref target="http://www.conservationevidence.com/actions/849">lant vegetation</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cle<ref target="http://www.conservationevidence.com/actions/761">ar vegetation</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/759">ate artificial hibernacula or aestivation sites</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/772">ate refuges</ref>
+                              </item>
+								                      <item>Re<ref target="http://www.conservationevidence.com/actions/840">store habitat connectivity</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cha<ref target="http://www.conservationevidence.com/actions/783">nge mowing regime</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/811">ate habitat connectivity</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor134" />
+                  <ref target="http://www.conservationevidence.com/actions/849">Replant vegetation</ref>Four studies, including one replicated study, in Australia, Spain and the USA found that amphibians colonized replanted forest, reseeded grassland and seeded and transplanted upland habitat. Three of four studies, including two replicated studies, in Australia, Canada, Spain and the USA found that areas planted with trees or grass had similar amphibian abundance or community composition to natural sites and one found similar or lower abundance compared to naturally regenerated forest. One found that wetlands within reseeded grasslands were used less than those in natural grasslands. One before-and-after study in Australia found that numbers of frog species increased following restoration that included planting shrubs and trees. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 70%; certainty 63%; harms 3%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/849">http://www.conservationevidence.com/actions/849</ref>Likely to be beneficial<anchor xml:id="_idTextAnchor135" />
+                  <ref target="http://www.conservationevidence.com/actions/761">Clear vegetation</ref>Seven studies, including four replicated studies, in Australia, Estonia and the UK found that vegetation clearance, along with other habitat management and in some cases release of amphibians, increased or maintained amphibian populations or increased numbers of frog species. However, great crested newt populations were only maintained for six years, but not in the longer term. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 54%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/761">http://www.conservationevidence.com/actions/761</ref>
+                  <anchor xml:id="_idTextAnchor136" />
+                  <ref target="http://www.conservationevidence.com/actions/759">Create artificial hibernacula or aestivation sites</ref>Two replicated studies in the UK found that artificial hibernacula were used by two of three amphibian species and along with other terrestrial habitat management maintained populations of great crested newts. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 44%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/759">http://www.conservationevidence.com/actions/759</ref>
+                  <anchor xml:id="_idTextAnchor137" />
+                  <ref target="http://www.conservationevidence.com/actions/772">Create refuges</ref>Two replicated, controlled studies, one of which was randomized, in the USA and Indonesia found that adding coarse woody debris to forest floors had no effect on the number of amphibian species or overall abundance, but had mixed effects on abundance of individual species. One before-and-after study in Australia found that restoration that included reintroducing coarse woody debris to the forest floor increased frog species. Three studies, including two replicated studies, in New Zealand, the UK and USA found that artificial refugia were used by amphibians and, along with other interventions, maintained newt populations. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 45%; certainty 55%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/772">http://www.conservationevidence.com/actions/772</ref>
+                  <anchor xml:id="_idTextAnchor138" />
+                  <ref target="http://www.conservationevidence.com/actions/840">Restore habitat connectivity</ref>One before-and-after study in Italy found that restoring habitat connectivity by raising a road on a viaduct significantly decreased amphibian deaths. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 75%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/840">http://www.conservationevidence.com/actions/840</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor139" />
+                  <ref target="http://www.conservationevidence.com/actions/783">Change mowing regime</ref>One before-and-after study in Australia found that restoration that included reduced mowing increased numbers of frog species. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 50%; certainty 30%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/783">http://www.conservationevidence.com/actions/783</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following intervention:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor140" />
+                        <ref target="http://www.conservationevidence.com/actions/811">Create habitat connectivity</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor141" />1.12.2 Aquatic habitat</head>
+                  <table xml:id="d13e3522">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for aquatic habitat restoration and creation?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/869">ate ponds (amphibians in general)</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/865">ate ponds: frogs</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/866">ate ponds: natterjack toads</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/867">ate ponds: salamanders (including newts)</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/880">ate wetlands</ref>
+                              </item>
+								                      <item>Dee<ref target="http://www.conservationevidence.com/actions/817">pen, de-silt or re-profile ponds</ref>
+                              </item>
+								                      <item>Res<ref target="http://www.conservationevidence.com/actions/879">tore wetlands</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/863">ate ponds: great crested newts</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/863">ate ponds: green toads</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/868">ate ponds: toads</ref>
+                              </item>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/815">ove specific aquatic plants (invasive species)</ref>
+                              </item>
+								                      <item>Res<ref target="http://www.conservationevidence.com/actions/878">tore ponds</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/758">ove tree canopy to reduce pond shading</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/812"> nutrients to new ponds as larvae food source</ref>
+                              </item>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/816"> specific plants to aquatic habitats</ref>
+                              </item>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/814"> woody debris to ponds</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/813">ate refuge areas in aquatic habitats</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor142" />
+                  <ref target="http://www.conservationevidence.com/actions/869">Create ponds (amphibians in general)</ref>Twenty-eight studies investigated the colonization of created ponds by amphibians in general, all of which found that amphibians used all or some of the created ponds. Five of nine studies in Australia, Canada, Spain, the UK and USA found that numbers of species were similar or higher in created compared to natural ponds. Nine studies in Europe and the USA found that amphibians established stable populations, used or reproduced in created ponds. Four found that species composition differed, and abundance, juvenile productivity or size in created ponds depended on species. One study found that numbers of species were similar or lower in created ponds. Sixteen studies in Europe and the USA found that created ponds were used or colonized by up to 15 naturally colonizing species, up to 10 species that reproduced or by captive-bred amphibians. Five studies in Europe and the USA found that pond creation, with restoration in three cases, maintained and increased populations or increased species. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 80%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/869">http://www.conservationevidence.com/actions/869</ref>
+                  <anchor xml:id="_idTextAnchor143" />
+                  <ref target="http://www.conservationevidence.com/actions/865">Create ponds (frogs)</ref>Six of nine studies in Australia, Italy, Spain, the UK and USA found that frogs established breeding populations or reproduced in created ponds. One study in Denmark found that frogs colonized created ponds. One study in the Netherlands found that pond creation, along with vegetation clearance, increased frog populations. One study in the USA found that survival increased with age of created ponds. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 75%; certainty 70%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/865">http://www.conservationevidence.com/actions/865</ref>
+                  <anchor xml:id="_idTextAnchor144" />
+                  <ref target="http://www.conservationevidence.com/actions/866">Create ponds (natterjack toads)</ref>Five studies in the UK and Denmark found that pond creation, along with other interventions, maintained or increased populations at 75&#8211;100% of sites. One study in the UK found that compared to natural ponds, created ponds had lower tadpole mortality from desiccation, but higher mortality from predation by invertebrates. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 75%; certainty 70%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/866">http://www.conservationevidence.com/actions/866</ref>
+                  <anchor xml:id="_idTextAnchor145" />
+                  <ref target="http://www.conservationevidence.com/actions/867">Create ponds (salamanders including newts)</ref>Three studies in France, Germany and the USA found that alpine newts, captive-bred smooth newts and translocated spotted salamanders established stable breeding populations in 20&#8211;100% of created ponds. Three studies in France, China and the USA found that alpine newts, Chinhai salamanders and translocated spotted salamanders, but not tiger salamanders, reproduced in created ponds. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 70%; certainty 65%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/867">http://www.conservationevidence.com/actions/867</ref>
+                  <anchor xml:id="_idTextAnchor146" />
+                  <ref target="http://www.conservationevidence.com/actions/880">Create wetlands</ref>Fifteen studies, including one review and seven replicated studies, in Australia, Kenya and the USA, investigated the effectiveness of creating wetlands for amphibians. Six studies found that created wetlands had similar amphibian abundance, numbers of species or communities as natural wetlands or in one case adjacent forest. Two of those studies found that created wetlands had fewer amphibians, amphibian species and different communities compared to natural wetlands. One global review and two other studies combined created and restored wetlands and found that amphibian abundance and numbers of species were similar or higher compared to natural wetlands. Five of the studies found that up to 15 amphibian species used created wetlands. One study found that captive-bred frogs did not establish in a created wetland. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 75%; certainty 70%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/880">http://www.conservationevidence.com/actions/880</ref>
+                  <anchor xml:id="_idTextAnchor147" />
+                  <anchor xml:id="_idTextAnchor148" />
+                  <ref target="http://www.conservationevidence.com/actions/817">Deepen, de-silt or re-profile ponds</ref>Four studies, including one replicated, controlled study, in France, Denmark and the UK found that pond deepening and enlarging or re-profiling resulted in establishment or increased populations of amphibians. Four before-and-after studies in Denmark and the UK found that pond deepening, along with other interventions, maintained newt or increased toad populations. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 71%; certainty 65%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/817">http://www.conservationevidence.com/actions/817</ref>
+                  <anchor xml:id="_idTextAnchor149" />
+                  <ref target="http://www.conservationevidence.com/actions/879">Restore wetlands</ref>Seventeen studies, including one review and 11 replicated studies, in Canada, Taiwan and the USA, investigated the effectiveness of wetland restoration for amphibians. Seven of ten studies found that amphibian abundance, numbers of species and species composition were similar in restored and natural wetlands. Two found that abundance or numbers of species were lower and species composition different to natural wetlands. One found mixed results. One global review found that in 89% of cases, restored and created wetlands had similar or higher amphibian abundance or numbers of species to natural wetlands. Seven of nine studies found that wetland restoration increased numbers of amphibian species, with breeding populations establishing in some cases, and maintained or increased abundance of individual species. Three found that amphibian abundance or numbers of species did not increase with restoration. Three of the studies found that restored wetlands were colonized by up to eight amphibian species. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 80%; certainty 73%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/879">http://www.conservationevidence.com/actions/879</ref>Likely to be beneficial<anchor xml:id="_idTextAnchor150" />
+                  <ref target="http://www.conservationevidence.com/actions/863">Create ponds (great crested newts)</ref>Three studies in Germany and the UK found that great crested newts established breeding populations in created ponds. One systematic review in the UK found that there was no conclusive evidence that mitigation, which often included pond creation, resulted in self-sustaining populations. Four studies in the UK found that great crested newts colonized up to 88% of, or reproduced in 38% of created ponds. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 61%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/863">http://www.conservationevidence.com/actions/863</ref>
+                  <anchor xml:id="_idTextAnchor151" />
+                  <ref target="http://www.conservationevidence.com/actions/863">Create ponds (green toads)</ref>Two studies in Denmark found that pond creation, along with other interventions, significantly increased green toad populations. One study in Sweden found that green toads used or reproduced in 41&#8211;59% of created ponds. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 73%; certainty 59%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/864">http://www.conservationevidence.com/actions/864</ref>
+                  <anchor xml:id="_idTextAnchor152" />
+                  <ref target="http://www.conservationevidence.com/actions/868">Create ponds (toads)</ref>Five studies in Germany, Switzerland, the UK and USA found that toads established breeding populations or reproduced in 16&#8211;100% of created ponds. Two studies in Denmark and Switzerland found that wild but not captive-bred toads colonized 29&#8211;100% of created ponds. One study in Denmark found that creating ponds, along with other interventions, increased toad populations. <hi rendition="simple:italic">Assessments: likely to be beneficial (effectiveness 70%; certainty 60%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/868">http://www.conservationevidence.com/actions/868</ref>
+                  <anchor xml:id="_idTextAnchor153" />
+                  <ref target="http://www.conservationevidence.com/actions/815">Remove specific aquatic plants</ref>One before-and-after study in the UK found that habitat and species management that included controlling swamp stonecrop, increased a population of natterjack toads. One replicated, controlled study in the USA found that more Oregon spotted frogs laid eggs in areas where invasive reed canarygrass was mown. <hi rendition="simple:italic">Assessment for &#8216;Control invasive plants&#8217; from </hi>&#8216;Threat: Invasive alien and other problematic species&#8217;: <hi rendition="simple:italic">likely to be beneficial (effectiveness 60%; certainty 47%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/815">http://www.conservationevidence.com/actions/815</ref>
+                  <anchor xml:id="_idTextAnchor154" />
+                  <ref target="http://www.conservationevidence.com/actions/878">Restore ponds</ref>Fifteen studies investigated the effectiveness of pond restoration for amphibians. Three studies, including one replicated, controlled, before-and-after study in Denmark, the UK and USA found that pond restoration did not increase or had mixed effects on population numbers and hatching success. One replicated, before-and-after study in the UK found that restoration increased pond use. One replicated study in Sweden found that only 10% of restored ponds were used for breeding. Three before-and-after studies, including one replicated, controlled study, in Denmark and Italy found that restored and created ponds were colonized by up to seven species. Eight of nine studies, including one systematic review, in Denmark, Estonia, Italy and the UK found that pond restoration, along with other habitat management, maintained or increased populations, or increased pond occupancy, ponds with breeding success or numbers of amphibian species. One found that numbers of species did not increase and one found that great crested newt populations did not establish. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 63%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/878">http://www.conservationevidence.com/actions/878</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor155" />
+                  <ref target="http://www.conservationevidence.com/actions/758">Remove tree canopy to reduce pond shading</ref>One before-and-after study in the USA found that canopy removal did not increase hatching success of spotted salamanders. One before-and-after study in Denmark found that following pond restoration that included canopy removal, translocated toads established breeding populations. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 30%; certainty 25%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/758">http://www.conservationevidence.com/actions/758</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor156" />
+                        <ref target="http://www.conservationevidence.com/actions/812">Add nutrients to new ponds as larvae food source</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor157" />
+                        <ref target="http://www.conservationevidence.com/actions/816">Add specific plants to aquatic habitats</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor158" />
+                        <ref target="http://www.conservationevidence.com/actions/814">Add woody debris to ponds</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor159" />
+                        <ref target="http://www.conservationevidence.com/actions/813">Create refuge areas in aquatic habitats.</ref>
+                        <anchor xml:id="_idTextAnchor160" />
+                        <anchor xml:id="_idTextAnchor161" />1.13  Species management</item>
+			               </list>
+                  <p>Strict protocols should be followed when carrying out these interventions to minimise potential spread of disease-causing agents such as chytrid fungi and Ranavirus.</p>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor162" />1.13.1 Translocate amphibians</head>
+                  <table xml:id="d13e3941">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of translocations?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/854">nslocate amphibians (amphibians in general)</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/858">nslocate amphibians (great crested newts)</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/859">nslocate amphibians (natterjack toads)</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/860">nslocate amphibians (salamanders including newts)</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/855">nslocate amphibians (toads)</ref>
+                              </item>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/856">nslocate amphibians (wood frogs)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Tra<ref target="http://www.conservationevidence.com/actions/861">nslocate amphibians (frogs)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor163" />
+                  <ref target="http://www.conservationevidence.com/actions/854">Translocate amphibians (amphibians in general)</ref>Overall, three global reviews and one study in the USA found that 65% of amphibian translocations that could be assessed resulted in established breeding populations or substantial recruitment to the adult population. A further two translocations resulted in breeding and one in survival following release. One review found that translocations of over 1,000 animals were more successful, but that success was not related to the source of animals (wild or captive), life-stage, continent or reason for translocation. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 60%; harms 19%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/854">http://www.conservationevidence.com/actions/854</ref>
+                  <anchor xml:id="_idTextAnchor164" />
+                  <ref target="http://www.conservationevidence.com/actions/858">Translocate amphibians (great crested newts)</ref>Four of six studies in the UK found that translocated great crested newts maintained or established breeding populations. One found that populations survived at least one year in 37% of cases, but one found that within three years breeding failed in 48% of ponds. A systematic review of 31 studies found no conclusive evidence that mitigation that included translocations resulted in self-sustaining populations. One review found that newts reproduced following 56% of translocations, in some cases along with other interventions. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 50%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/858">http://www.conservationevidence.com/actions/858</ref>
+                  <anchor xml:id="_idTextAnchor165" />
+                  <ref target="http://www.conservationevidence.com/actions/859">Translocate amphibians (natterjack toads)</ref>Three studies in France and the UK found that translocated natterjack toad eggs, tadpoles, juveniles or adults established breeding populations at some sites, although head-started or captive-bred animals were also released at some sites. Re-establishing toads on dune or saltmarsh habitat was more successful than on heathland. One study in the UK found that repeated translocations of wild rather than captive-bred toads were more successful. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 56%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/859">http://www.conservationevidence.com/actions/859</ref>
+                  <anchor xml:id="_idTextAnchor166" />
+                  <ref target="http://www.conservationevidence.com/actions/860">Translocate amphibians (salamanders including newts)</ref>Four studies in the UK and USA found that translocated eggs or adults established breeding populations of salamanders or smooth newts. One study in the USA found that one of two salamander species reproduced following translocation of eggs, tadpoles and metamorphs. One study in the USA found that translocated salamander eggs hatched and tadpoles had similar survival rates as in donor ponds. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 55%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/860">http://www.conservationevidence.com/actions/860</ref>
+                  <anchor xml:id="_idTextAnchor167" />
+                  <ref target="http://www.conservationevidence.com/actions/855">Translocate amphibians (toads)</ref>Two of four studies in Denmark, Germany, the UK and USA found that translocating eggs and/or adults established common toad breeding populations. One found populations of garlic toads established at two of four sites and one that breeding populations of boreal toads were not established. One study in Denmark found that translocating green toad eggs to existing populations, along with habitat management, increased population numbers. Four studies in Germany, Italy, South Africa and the USA found that translocated adult toads reproduced, survived up to six or 23 years, or some metamorphs survived over winter. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 56%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/855">http://www.conservationevidence.com/actions/855</ref>
+                  <anchor xml:id="_idTextAnchor168" />
+                  <ref target="http://www.conservationevidence.com/actions/856">Translocate amphibians (wood frogs)</ref>Two studies in the USA found that following translocation of wood frog eggs, breeding populations were established in 25&#8211;50% of created ponds. One study in the USA found that translocated eggs hatched and up to 57% survived as tadpoles in pond enclosures. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 40%; certainty 50%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/856">http://www.conservationevidence.com/actions/856</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor169" />
+                  <ref target="http://www.conservationevidence.com/actions/861">Translocate amphibians (frogs)</ref>Eight of ten studies in New Zealand, Spain, Sweden, the UK and USA found that translocating frog eggs, juveniles or adults established breeding populations. Two found that breeding populations went extinct within five years or did not establish. Five studies in Canada, New Zealand and the USA found that translocations of eggs, juveniles or adults resulted in little or no breeding at some sites. Five studies in Italy, New Zealand and the USA found that translocated juveniles or adults survived the winter or up to eight years. One study in the USA found that survival was lower for Oregon spotted frogs translocated as adults compared to eggs. Two studies in the USA found that 60&#8211;100% of translocated frogs left the release site and 35&#8211;73% returned to their original pond within 32 days. Two studies in found that frogs either lost or gained weight after translocation. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 58%; certainty 65%; harms 20%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/861">http://www.conservationevidence.com/actions/861</ref>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor170" />1.13.2 Captive breeding, rearing and releases</head>
+                  <table xml:id="d13e4146">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of captive breeding, rearing and releases?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rel<ref target="http://www.conservationevidence.com/actions/871">ease captive-bred individuals (amphibians in general)</ref>
+                              </item>
+								                      <item>Rel<ref target="http://www.conservationevidence.com/actions/870">ease captive-bred individuals: frogs</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bre<ref target="http://www.conservationevidence.com/actions/835">ed amphibians in captivity: frogs</ref>
+                              </item>
+								                      <item>Bre<ref target="http://www.conservationevidence.com/actions/836">ed amphibians in captivity: harlequin toads</ref>
+                              </item>
+								                      <item>Bre<ref target="http://www.conservationevidence.com/actions/837">ed amphibians in captivity: Mallorcan midwife toad</ref>
+                              </item>
+								                      <item>Bre<ref target="http://www.conservationevidence.com/actions/838">ed amphibians in captivity: salamanders (including newts)</ref>
+                              </item>
+								                      <item>Bre<ref target="http://www.conservationevidence.com/actions/848">ed amphibians in captivity: toads</ref>
+                              </item>
+								                      <item>Hea<ref target="http://www.conservationevidence.com/actions/881">d-start amphibians for release</ref>
+                              </item>
+								                      <item>Rel<ref target="http://www.conservationevidence.com/actions/873">ease captive-bred individuals: Mallorcan midwife toads</ref>
+                              </item>
+								                      <item>Rel<ref target="http://www.conservationevidence.com/actions/875">ease captive-bred individuals: toads</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/834"> artificial fertilization in captive breeding</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/883"> hormone treatment to induce sperm and egg release</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rel<ref target="http://www.conservationevidence.com/actions/874">ease captive-bred individuals: salamanders (including newts)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Fre<ref target="http://www.conservationevidence.com/actions/876">eze sperm or eggs for future use</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rel<ref target="http://www.conservationevidence.com/actions/872">ease captive-bred individuals: green and golden bell frogs</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>Likely to be beneficial<anchor xml:id="_idTextAnchor171" />
+                  <ref target="http://www.conservationevidence.com/actions/871">Release captive-bred individuals (amphibians in general)</ref>One review found that 41% of release programmes of captive-bred or head-started amphibians showed evidence of breeding in the wild for multiple generations, 29% showed some evidence of breeding and 12% evidence of survival following release. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 55%; certainty 50%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/871">http://www.conservationevidence.com/actions/871</ref>
+                  <anchor xml:id="_idTextAnchor172" />
+                  <ref target="http://www.conservationevidence.com/actions/870">Release captive-bred individuals (frogs)</ref>Five of six studies in Europe, Hong Kong and the USA found that captive-bred frogs released as tadpoles, juveniles or adults established breeding populations and in some cases colonized new sites. Three studies in Australia and the USA found that a high proportion of frogs released as eggs survived to metamorphosis, some released tadpoles survived the first few months, but few released froglets survived. Four studies in Australia, Italy, the UK and USA found that captive-bred frogs reproduced at 31&#8211;100% of release sites, or that breeding was limited. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 60%; harms 15%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/870">http://www.conservationevidence.com/actions/870</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor173" />
+                  <ref target="http://www.conservationevidence.com/actions/835">Breed amphibians in captivity (frogs)</ref>Twenty-three of 33 studies across the world found that amphibians produced eggs in captivity. Seven found mixed results, with some species or populations reproducing successfully, but with other species difficult to maintain or raise to adults. Two found that frogs did not breed successfully or died in captivity. Seventeen of the studies found that captive-bred frogs were raised successfully to hatching, tadpoles, froglets or adults in captivity. Four studies in Canada, Fiji, Hong Kong and Italy found that 30&#8211;88% of eggs hatched, or survival to metamorphosis was 75%, as froglets was 17&#8211;51% or to adults was 50&#8211;90%. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 60%; certainty 68%; harms 30%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/835">http://www.conservationevidence.com/actions/835</ref>
+                  <anchor xml:id="_idTextAnchor174" />
+                  <ref target="http://www.conservationevidence.com/actions/836">Breed amphibians in captivity (harlequin toads)</ref>Four of five studies in Colombia, Ecuador, Germany and the USA found that harlequin toads reproduced in captivity. One found that eggs were only produced by simulating a dry and wet season and one found that breeding was difficult. One found that captive-bred harlequin toads were raised successfully to metamorphosis in captivity and two found that most toads died before or after hatching. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 44%; certainty 50%; harms 28%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/836">http://www.conservationevidence.com/actions/836</ref>
+                  <anchor xml:id="_idTextAnchor175" />
+                  <ref target="http://www.conservationevidence.com/actions/837">Breed amphibians in captivity (Mallorcan midwife toad)</ref>Two studies in the UK found that Mallorcan midwife toads produced eggs that were raised to metamorphs or toadlets in captivity. However, clutches dropped by males were not successfully maintained artificially. One study in the UK found that toads bred in captivity for nine or more generations had slower development, reduced genetic diversity and predator defence traits. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 69%; certainty 55%; harms 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/837">http://www.conservationevidence.com/actions/837</ref>
+                  <anchor xml:id="_idTextAnchor176" />
+                  <ref target="http://www.conservationevidence.com/actions/838">Breed amphibians in captivity (salamanders including newts)</ref>Four of six studies in Japan, Germany, the UK and USA found that eggs were produced successfully in captivity. Captive-bred salamanders were raised to yearlings, larvae or adults. One review found that four of five salamander species bred successfully in captivity. Four studies in Germany, Mexico and the USA found that egg production, larval development, body condition and survival were affected by water temperature, density or enclosure type. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 60%; certainty 50%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/838">http://www.conservationevidence.com/actions/838</ref>
+                  <anchor xml:id="_idTextAnchor177" />
+                  <ref target="http://www.conservationevidence.com/actions/848">Breed amphibians in captivity (toads)</ref>Ten studies in Germany, Italy, Spain, the UK and USA found that toads produced eggs in captivity. Eight found that toads were raised successfully to tadpoles, toadlets or adults in captivity. Two found that most died after hatching or metamorphosis. Two reviews found mixed results with four species of toad or 21% of captive populations of Puerto Rican crested toads breeding successfully. Four studies in Germany, Spain and the USA found that reproductive success was affected by tank location and humidity. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 65%; certainty 60%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/848">http://www.conservationevidence.com/actions/848</ref>
+                  <anchor xml:id="_idTextAnchor178" />
+                  <ref target="http://www.conservationevidence.com/actions/881">Head-start amphibians for release</ref>Twenty-two studies head-started amphibians from eggs and monitored them after release. A global review and six of 10 studies in Europe and the USA found that released head-started tadpoles, metamorphs or juveniles established breeding populations or increased existing populations. Two found mixed results with breeding populations established in 71% of studies reviewed or at 50% of sites. Two found that head-started metamorphs or adults did not establish a breeding population or prevent a population decline. An additional 10 studies in Australia, Canada, Europe and the USA measured aspects of survival or breeding success of released head-started amphibians and found mixed results. Three studies in the USA only provided results for head-starting in captivity. Two of those found that eggs could be reared to tadpoles, but only one successfully reared adults. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 60%; certainty 60%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/881">http://www.conservationevidence.com/actions/881</ref>
+                  <anchor xml:id="_idTextAnchor179" />
+                  <ref target="http://www.conservationevidence.com/actions/873">Release captive-bred individuals (Mallorcan midwife toad)</ref>Three studies in Mallorca found that captive-bred midwife toads released as tadpoles, toadlets or adults established breeding populations at 38&#8211;100% of sites. One study in the UK found that predator defences were maintained, but genetic diversity was reduced in a captive-bred population. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 68%; certainty 58%; harms 20%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/873">http://www.conservationevidence.com/actions/873</ref>
+                  <anchor xml:id="_idTextAnchor180" />
+                  <ref target="http://www.conservationevidence.com/actions/875">Release captive-bred individuals (toads)</ref>Two of three studies in Denmark, Sweden and the USA found that captive-bred toads released as tadpoles, juveniles or metamorphs established populations. The other found that populations were not established. Two studies in Puerto Rico found that survival of released captive-bred Puerto Rican crested toads was low. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 40%; certainty 50%; harms 20%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/875">http://www.conservationevidence.com/actions/875</ref>
+                  <anchor xml:id="_idTextAnchor181" />
+                  <ref target="http://www.conservationevidence.com/actions/834">Use artificial fertilization in captive breeding</ref>Three replicated studies, including two randomized studies, in Australia and the USA found that the success of artificial fertilization depended on the type and number of doses of hormones used to stimulate egg production. One replicated study in Australia found that 55% of eggs were fertilized artificially, but soon died. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 40%; certainty 40%; harms 20%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/834">http://www.conservationevidence.com/actions/834</ref>
+                  <anchor xml:id="_idTextAnchor182" />
+                  <ref target="http://www.conservationevidence.com/actions/883">Use hormone treatment to induce sperm and egg release</ref>One review and nine of 10 replicated studies, including two randomized, controlled studies, in Austria, Australia, China, Latvia, Russia and the USA found that hormone treatment of male amphibians stimulated or increased sperm production, or resulted in successful breeding. One found that hormone treatment of males and females did not result in breeding. One review and nine of 14 replicated studies, including six randomized and/ or controlled studies, in Australia, Canada, China, Ecuador, Latvia and the USA found that hormone treatment of female amphibians had mixed results, with 30&#8211;71% of females producing viable eggs following treatment, or with egg production depending on the combination, amount or number of doses of hormones. Three found that hormone treatment stimulated egg production or successful breeding. Two found that treatment did not stimulate or increase egg production. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 50%; certainty 65%; harms 30%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/883">http://www.conservationevidence.com/actions/883</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor183" />
+                  <ref target="http://www.conservationevidence.com/actions/874">Release captive-bred individuals (salamanders including newts)</ref>One study in Germany found that captive-bred great crested newts and smooth newts released as larvae, juveniles and adults established stable breeding populations. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 70%; certainty 30%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/874">http://www.conservationevidence.com/actions/874</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor184" />
+                  <ref target="http://www.conservationevidence.com/actions/876">Freeze sperm or eggs for future use</ref>Ten replicated studies, including three controlled studies, in Austria, Australia, Russia, the UK and USA found that following freezing, viability of amphibian sperm, and in one case eggs, depended on species, cryoprotectant used, storage temperature or method and freezing or thawing rate. One found that sperm could be frozen for up to 58 weeks. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 35%; certainty 50%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/876">http://www.conservationevidence.com/actions/876</ref>
+                  <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                  <anchor xml:id="_idTextAnchor185" />
+                  <ref target="http://www.conservationevidence.com/actions/872">Release captive-bred individuals (green and golden bell frogs)</ref>Three studies in Australia found that captive-bred green and golden bell frogs released mainly as tadpoles did not established breeding populations, or only established breeding populations in 25% of release programmes. One study in Australia found that some frogs released as tadpoles survived at least 13 months. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 20%; certainty 50%; harms 20%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/872">http://www.conservationevidence.com/actions/872</ref>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor186" />
+                  <anchor xml:id="_idTextAnchor187" />1.14  Education and awareness raising</head>
+               <table xml:id="d13e4568">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for education and awareness raising?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Eng<ref target="http://www.conservationevidence.com/actions/760">age volunteers to collect amphibian data (citizen science)</ref>
+                           </item>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/776">vide education programmes about amphibians</ref>
+                           </item>
+								                   <item>Rai<ref target="http://www.conservationevidence.com/actions/831">se awareness amongst the general public through campaigns and public information</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>Likely to be beneficial<anchor xml:id="_idTextAnchor188" />
+               <ref target="http://www.conservationevidence.com/actions/760">Engage volunteers to collect amphibian data (citizen science)</ref>Five studies in Canada, the UK and USA found that amphibian data collection projects engaged up to 10,506 volunteers and were active in 16&#8211;17 states in the USA. Five studies in the UK and USA found that volunteers surveyed up to 7,872 sites, swabbed almost 6,000 amphibians and submitted thousands of amphibian records. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 66%; certainty 60%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/760">http://www.conservationevidence.com/actions/760</ref>
+               <anchor xml:id="_idTextAnchor189" />
+               <ref target="http://www.conservationevidence.com/actions/776">Provide education programmes about amphibians</ref>One study in Taiwan found that education programmes about wetlands and amphibians, along with other interventions, doubled a population of Taipei frogs. Four studies, including one replicated study, in Germany, Mexico, Slovenia, Zimbabwe and the USA found that education programmes increased the amphibian knowledge of students. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 58%; certainty 55%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/776">http://www.conservationevidence.com/actions/776</ref>
+               <anchor xml:id="_idTextAnchor190" />
+               <ref target="http://www.conservationevidence.com/actions/831">Raise awareness amongst the general public through campaigns and public information</ref>Two studies, including one replicated, before-and-after study, in Estonia and the UK found that raising public awareness, along with other interventions, increased amphibian breeding habitat and numbers of toads. One before-and-after study in Mexico found that raising awareness in tourists increased their knowledge of axolotls. However, one study in Taiwan found that holding press conferences had no effect on a frog conservation project. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 51%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/831">http://www.conservationevidence.com/actions/831</ref>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

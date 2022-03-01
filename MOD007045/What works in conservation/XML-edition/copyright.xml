@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>copyright</title>
+            <author>William J. Sutherland</author>
+            <author>Lynn V. Dicks</author>
+            <author>Silviu O. Petrovan</author>
+            <author>Rebecca K. Smith</author>
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence>http://creativecommons.org/licenses/by/4.0</licence>
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="copyright">
+      <body>
+         <div>
+				
+					       <figure xml:id="d21e23">
+               <graphic url="image/QR_Code12976177801153563875.png" />
+            </figure>
+				
+			         <p>
+               <ref target="http://www.openbookpublishers.com">http://www.openbookpublishers.com</ref>
+            </p>
+            <p>&#169; 2021 William J. Sutherland</p>
+				
+					       <figure xml:id="d21e38">
+               <graphic url="image/Image9047.png" />
+            </figure>
+				
+			         <p>This work is licensed under a Creative Commons Attribution 4.0 International license (CC BY 4.0). This license allows you to share, copy, distribute and transmit the work; to adapt the work and to make commercial use of the work providing attribution is made to the authors (but not in any way that suggests that they endorse you or your use of the work). Attribution should include the following information:</p>
+            <p>Sutherland, W.J., Dicks, L.V., Petrovan, S.O., and Smith, R.K. <hi rendition="simple:italic">What Works in Conservation 2021.</hi> Cambridge, UK: Open Book Publishers, 2021. <ref target="https://doi.org/10.11647/OBP.0267">https://doi.org/10.11647/OBP.0267</ref>
+            </p>
+            <p>In order to access detailed and updated information on the license, please visit <ref target="https://www.openbookpublishers.com/product/1490#copyright">https://www.openbookpublishers.com/product/1490#copyright</ref>
+            </p>
+            <p>Further details about CC BY licenses are available at <ref target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ref>
+            </p>
+            <p>All links were active at the time of publication unless otherwise stated.</p>
+            <p>Digital material and resources associated with this volume are available at <ref target="https://www.openbookpublishers.com/product/1490#resources">https://www.openbookpublishers.com/product/1490#resources</ref> and <ref target="http://www.conservationevidence.com">http://www.conservationevidence.com</ref>
+            </p>
+            <p>What Works in Conservation Series | ISSN: 2059-4232 (Print); 2059-4240 (Online)</p>
+            <p>ISBN Paperback: 978-1-80064-272-0</p>
+            <p>ISBN Hardback: 978-1-80064-273-7</p>
+            <p>ISBN Digital (PDF): 978-1-80064-274-4</p>
+            <p>ISBN Digital ebook (epub): 978-1-80064-275-1</p>
+            <p>ISBN Digital ebook (mobi): 978-1-80064-276-8</p>
+            <p>DOI: 10.11647/OBP.0267</p>
+            <p>Funded by Arcadia, DEFRA, ESRC, MAVA Foundation, NERC, Natural England, Robert Bosch Stiftung, Synchronicity Earth, South West Water and Waitrose Ltd.</p>
+            <p>Cover image: A close up shot of the underside of a Dwarf Cavendish (<hi rendition="simple:italic">Musa acuminata</hi>) by Ben Clough, CC BY-SA 3.0. Wikimedia <ref target="http://commons.wikimedia.org/wiki/File:Dwarf_cavendish_leaf_2.jpg">http://commons.wikimedia.org/wiki/File:Dwarf_cavendish_leaf_2.jpg</ref>. Cover design: Heidi Coburn</p>
+         </div>
+      </body>
+   </text>
+</TEI>

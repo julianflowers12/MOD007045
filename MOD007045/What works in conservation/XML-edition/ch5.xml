@@ -1,0 +1,1972 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch5">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">
+                  <anchor xml:id="_idTextAnchor802" />5.  FOREST CONSERVATION</ref>
+            </head>
+				
+					       <byline>&#169; W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.05">https://doi.org/10.11647/OBP.0267.05</ref>
+            </byline>
+				
+			         <hi rendition="simple:bold">Har&#8217;el Agra, Simon Schowanek, Yohay Carmel, Rebecca K. Smith &amp; Gidi Ne&#8217;eman</hi>
+            <p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">Rhett Harrison</hi>,<hi rendition="simple:bold"> </hi>Consultative Group on International Agricultural Research, Zambia<hi rendition="simple:bold">Keith Kirby</hi>,<hi rendition="simple:bold"> </hi>University of Oxford, UK<hi rendition="simple:bold">Gillian Petrokofsky</hi>,<hi rendition="simple:bold"> </hi>Biodiversity Institute Oxford, UK<hi rendition="simple:bold">Rebecca K. Smith</hi>,<hi rendition="simple:bold"> </hi>University of Cambridge, UK<hi rendition="simple:bold">William J. Sutherland</hi>,<hi rendition="simple:bold"> </hi>University of Cambridge, UK<hi rendition="simple:bold">Tom Swinfield</hi>,<hi rendition="simple:bold"> </hi>Royal Society for the Protection of Birds, UK<p>
+               <hi rendition="simple:bold">Scope of assessment</hi>: for the conservation of forest habitat (not specific species within forests), including tropical forests, temperate forests, woodland, scrubland, shrubland and dry forests.</p>
+            <p>
+               <hi rendition="simple:bold">Assessed: </hi>2016.</p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the median % score.</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % certainty of evidence, determined by the quantity and quality of the evidence in the synopsis.</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>is the median % score for negative side-effects on the forest habitat of concern.</p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target habitat for each intervention. The assessment may therefore refer to different habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at<ref target="http://www.conservationevidence.com">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target habitats or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor803" />5.1  Threat: Residential and commercial development</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor804" />5.1.1 Housing and urban areas</head>
+                  <table xml:id="d9e147">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for residential and commercial development in housing and urban areas?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Com<ref target="http://www.conservationevidence.com/actions/1174">pensate for woodland removal with compensatory planting</ref>
+                              </item>
+								                      <item>Inc<ref target="http://www.conservationevidence.com/actions/1175">orporate existing trees or woods into the landscape of new developments</ref>
+                              </item>
+								                      <item>Pro<ref target="http://www.conservationevidence.com/actions/1169">vide legal protection of forests from development</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor805" />
+                        <ref target="http://www.conservationevidence.com/actions/1174">Compensate for woodland removal with compensatory planting</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor806" />
+                        <ref target="http://www.conservationevidence.com/actions/1175">Incorporate existing trees or woods into the landscape of new developments</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor807" />
+                        <ref target="http://www.conservationevidence.com/actions/1169">Provide legal protection of forests from development</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor808" />5.1.2 Tourism and recreation areas</head>
+                  <table xml:id="d9e231">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for residential and commercial development in tourism and recreation areas?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ado<ref target="http://www.conservationevidence.com/actions/1173">pt ecotourism</ref>
+                              </item>
+								                      <item>Cre<ref target="http://www.conservationevidence.com/actions/1170">ate managed paths/signs to contain disturbance</ref>
+                              </item>
+								                      <item>Re-<ref target="http://www.conservationevidence.com/actions/1171">route paths, control access or close paths</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1172"> warning signs to prevent fire</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>No evidence found (no assessment)<p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor809" />
+                        <ref target="http://www.conservationevidence.com/actions/1173">Adopt ecotourism</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor810" />
+                        <ref target="http://www.conservationevidence.com/actions/1170">Create managed paths/signs to contain disturbance</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor811" />
+                        <ref target="http://www.conservationevidence.com/actions/1171">Re-route paths, control access or close paths</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor812" />
+                        <ref target="http://www.conservationevidence.com/actions/1172">Use warning signs to prevent fire.</ref>
+                        <anchor xml:id="_idTextAnchor813" />5.2  Threat: Agriculture</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor814" />5.2.1 Livestock farming</head>
+                  <table xml:id="d9e327">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for livestock farming?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1205"> wire fences within grazing areas to exclude livestock from specific forest sections</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pre<ref target="http://www.conservationevidence.com/actions/1206">vent livestock grazing in forests</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Red<ref target="http://www.conservationevidence.com/actions/1207">uce the intensity of livestock grazing in forests</ref>
+                              </item>
+								                      <item>Sho<ref target="http://www.conservationevidence.com/actions/1208">rten livestock grazing period or control grazing season in forests</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pro<ref target="http://www.conservationevidence.com/actions/1177">vide financial incentives not to graze</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor815" />
+                  <ref target="http://www.conservationevidence.com/actions/1205">Use wire fences within grazing areas to exclude livestock from specific forest sections</ref>Three of four studies, including one replicated, randomized, controlled study in Kenya, Israel, Mexico and Panama found that excluding livestock using wire fences increased the size, density or number of regenerating trees. One study found no effect on tree size and decreased tree density. Four of eight studies, including two replicated, randomized, controlled studies across the world found that excluding livestock using increased biomass, species richness, density or cover of understory plants. Four studies found mixed or no effects on understory plants. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 58%; certainty 63%; harms 18%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1205">http://www.conservationevidence.com/actions/1205</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor816" />
+                  <ref target="http://www.conservationevidence.com/actions/1206">Prevent livestock grazing in forests</ref>One site comparison study in Israel found that preventing cattle grazing increased the density of seedlings and saplings. Two of three studies, including one replicated, controlled study, in Brazil, Costa Rica and the UK found that preventing livestock grazing increased survival, species richness or diversity of understory plants. One study found mixed effects. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 69%; certainty 45%; harms 20%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1206">http://www.conservationevidence.com/actions/1206</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor817" />
+                  <ref target="http://www.conservationevidence.com/actions/1207">Reduce the intensity of livestock grazing in forests</ref>Two studies, including one replicated, randomized, controlled study, in the UK and Greece found that reducing grazing intensity increased the number of tree saplings or understory total weight.<hi rendition="simple:italic"> Assessment: unknown effectiveness (effectiveness 78%; certainty 34%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1207">http://www.conservationevidence.com/actions/1207</ref>
+                  <anchor xml:id="_idTextAnchor818" />
+                  <ref target="http://www.conservationevidence.com/actions/1208">Shorten livestock grazing period or control grazing season in forests</ref>One of two studies, including one replicated, controlled study, in Spain and Australia found that shortening the grazing period increased the abundance and size of regenerating trees. One found no effect native plant species richness. One replicated study in the UK found that numbers of tree seedlings were higher following summer compared to winter grazing. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 58%; certainty 33%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1208">http://www.conservationevidence.com/actions/1208</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor819" />
+                        <ref target="http://www.conservationevidence.com/actions/1177">Provide financial incentives not to graze.</ref>
+                        <anchor xml:id="_idTextAnchor820" />5.3  Threat: Transport and service corridors</item>
+			               </list>
+                  <table xml:id="d9e528">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for transport and service corridors?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Mai<ref target="http://www.conservationevidence.com/actions/1176">ntain/create habitat corridors</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor821" />
+                        <ref target="http://www.conservationevidence.com/actions/1176">Maintain/create habitat corridors.</ref>
+                     </item>
+			               </list>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor822" />5.4  Threat: Biological resource use</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor823" />5.4.1 Thinning and wood harvesting</head>
+                  <table xml:id="d9e596">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for thinning and wood harvesting?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Log<ref target="http://www.conservationevidence.com/actions/1273">/remove trees within forests: effect on understory plants</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Thi<ref target="http://www.conservationevidence.com/actions/1211">n trees within forests: effects on understory plants</ref>
+                              </item>
+								                      <item>Thi<ref target="http://www.conservationevidence.com/actions/1210">n trees within forests: effects on young trees</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1214"> shelterwood harvest instead of clearcutting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Thi<ref target="http://www.conservationevidence.com/actions/1209">n trees within forests: effects on mature trees</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Log<ref target="http://www.conservationevidence.com/actions/1272">/remove trees within forests: effects on young trees</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1215"> partial retention harvesting instead of clearcutting</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1216"> summer instead of winter harvesting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/1213">ove woody debris after timber harvest</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Log<ref target="http://www.conservationevidence.com/actions/1271">/remove trees within forests: effect on mature trees </ref>
+                              </item>
+								                      <item>Log<ref target="http://www.conservationevidence.com/actions/1270">/remove trees within forests: effect on non-vascular plants</ref>
+                              </item>
+								                      <item>Thi<ref target="http://www.conservationevidence.com/actions/1212">n trees within forests: effect on non-vascular plants</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ado<ref target="http://www.conservationevidence.com/actions/1179">pt continuous cover forestry</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1180"> brash mats during harvesting to avoid soil compaction</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Beneficial</hi>
+                  <anchor xml:id="_idTextAnchor824" />
+                  <ref target="http://www.conservationevidence.com/actions/1273">Log/remove trees within forests: effects on understory plants</ref>Eight of 12 studies, including four replicated, randomized, controlled studies, in India, Australia, Bolivia, Canada and the USA found that logging increased the density and cover or species richness and diversity of understory plants. Two studies found mixed and three found no effect. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 65%; certainty 65%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1273">http://www.conservationevidence.com/actions/1273</ref>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor825" />
+                  <ref target="http://www.conservationevidence.com/actions/1211">Thin trees within forests: effects on understory plants</ref>Twenty five of 38 studies, including 12 replicated, randomized, controlled studies, across the world found that thinning trees increased the density and cover or species richness and diversity of understory plants. Nine studies found mixed and two no effects, and one found a decrease the abundance of herbaceous species. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 58%; certainty 73%; harms 13%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1211">http://www.conservationevidence.com/actions/1211</ref>
+                  <anchor xml:id="_idTextAnchor826" />
+                  <ref target="http://www.conservationevidence.com/actions/1210">Thin trees within forests: effects on young trees</ref>Six of 12 studies, including two replicated, randomized, controlled studies, in Japan and the USA found that thinning increased the density of young trees and a study in Peru found it increased the growth rate of young trees. One study found thinning decreased the density and five found mixed or no effect on young trees. One replicated, controlled study in the USA found no effect on the density of oak acorns. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 65%; harms 15%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1210">http://www.conservationevidence.com/actions/1210</ref>
+                  <anchor xml:id="_idTextAnchor827" />
+                  <ref target="http://www.conservationevidence.com/actions/1214">Use shelterwood harvest instead of clearcutting</ref>Three replicated, controlled studies in Sweden and the USA found that shelterwood harvesting increased density of trees or plant diversity, or decreased grass cover compared with clearcutting. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 75%; certainty 55%; harms 15%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1214">http://www.conservationevidence.com/actions/1214</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor828" />
+                  <ref target="http://www.conservationevidence.com/actions/1209">Thin trees within forests: effects on mature trees</ref>Eleven of 12 studies, including two replicated, randomized, controlled studies, in Brazil, Canada, and the USA found that thinning trees decreased the density and cover of mature trees and in one case tree species diversity. Five of six studies, including one replicated, controlled, before-and-after study, in Australia, Sweden and the USA found that thinning increased mature tree size, the other found mixed effects. One of three studies, including two replicated controlled studies, in the USA found that thinning reduced the number of trees killed by beetles. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 47%; certainty 55%; harms 35%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1209">http://www.conservationevidence.com/actions/1209</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor829" />
+                  <ref target="http://www.conservationevidence.com/actions/1272">Log/remove trees within forests: effects on young trees </ref>One of two replicated controlled studies in Canada and Costa Rica found that logging increased the density of young trees, the other found mixed effects. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 18%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1272">http://www.conservationevidence.com/actions/1272</ref>
+                  <anchor xml:id="_idTextAnchor830" />
+                  <ref target="http://www.conservationevidence.com/actions/1215">Use partial retention harvesting instead of clearcutting </ref>Three studies, including one replicated, randomized, controlled study, in Canada found that using partial retention harvesting instead of clearcutting decreased the density of young trees. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 5%; certainty 35%; harms 45%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1215">http://www.conservationevidence.com/actions/1215</ref>
+                  <anchor xml:id="_idTextAnchor831" />
+                  <ref target="http://www.conservationevidence.com/actions/1216">Use summer instead of winter harvesting</ref>One replicated study in the USA found no effect of logging season on plant species richness and diversity. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 0%; certainty 13%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1216">http://www.conservationevidence.com/actions/1216</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor832" />
+                  <ref target="http://www.conservationevidence.com/actions/1213">Remove woody debris after timber harvest </ref>Two studies, including one replicated, randomized, controlled study, in France and the USA found no effect of woody debris removal on cover or species diversity of trees. One of six studies, including two replicated, randomized, controlled studies, in Ethiopia, Spain, Canada and the USA found that woody debris removal increased young tree density. One found that it decreased young tree density and three found mixed or no effect on density or survival. One of six studies, including two replicated, randomized, controlled studies, in the USA and France found that woody debris removal increased understory vegetation cover. Five studies found mixed or no effects on understory vegetation cover or species richness and diversity. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 23%; certainty 50%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1213">http://www.conservationevidence.com/actions/1213</ref>
+                  <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                  <anchor xml:id="_idTextAnchor833" />
+                  <ref target="http://www.conservationevidence.com/actions/1271">Log/remove trees within forests: effect on mature trees </ref>Three of seven studies, including two replicated, controlled studies, across the world found that logging trees decreased the density and cover of mature trees. Two found it increased tree density and two found no effect. Four of nine studies, including one replicated, randomized, controlled study, across the world found that logging increased mature tree size or diversity. Four found it decreased tree size or species richness and diversity, and two found no effect on mature tree size or diversity. One replicated, controlled study in Canada found that logging increased mature tree mortality rate. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 35%; certainty 50%; harms 30%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1271">http://www.conservationevidence.com/actions/1271</ref>
+                  <anchor xml:id="_idTextAnchor834" />
+                  <ref target="http://www.conservationevidence.com/actions/1270">Log/remove trees within forests: effect on effects on non-vascular plants</ref>Two of three studies, including one replicated, paired sites study, in Australia, Norway and Sweden found that logging decreased epiphytic plant abundance and fern fertility. One found mixed effects depending on species. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 18%; certainty 40%; harms 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1270">http://www.conservationevidence.com/actions/1270</ref>
+                  <anchor xml:id="_idTextAnchor835" />
+                  <ref target="http://www.conservationevidence.com/actions/1212">Thin trees within forests: effects on non-vascular plants</ref>Three of four studies, including one replicated, randomized, controlled study, in Canada, Finland and Sweden found that thinning decreased epiphytic plant abundance and species richness. Three found mixed effects depending on thinning method and species. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 20%; certainty 48%; harms 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1212">http://www.conservationevidence.com/actions/1212</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor836" />
+                        <ref target="http://www.conservationevidence.com/actions/1179">Adopt continuous cover forestry</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor837" />
+                        <ref target="http://www.conservationevidence.com/actions/1180">Use brash mats during harvesting to avoid soil compaction</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor838" />5.4.2 Harvest forest products</head>
+                  <table xml:id="d9e1026">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for harvesting forest products?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ado<ref target="http://www.conservationevidence.com/actions/1150">pt certification</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Sus<ref target="http://www.conservationevidence.com/actions/1182">tainable management of non-timber products</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor839" />
+                  <ref target="http://www.conservationevidence.com/actions/1150">Adopt certification</ref>One replicated, site comparison study in Ethiopia found that deforestation risk was lower in certified than uncertified forests. One controlled, before-and-after trial in Gabon found that, when corrected for logging intensity, although tree damage did not differ, changes in above-ground biomass were smaller in certified than in uncertified forests. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 20%; harms 3%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1150">http://www.conservationevidence.com/actions/1150</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor840" />
+                        <ref target="http://www.conservationevidence.com/actions/1182">Sustainable management of non-timber products </ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor841" />5.4.3 Firewood</head>
+                  <table xml:id="d9e1129">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for firewood?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pro<ref target="http://www.conservationevidence.com/actions/1183">vide fuel efficient stoves</ref>
+                              </item>
+								                      <item>Pro<ref target="http://www.conservationevidence.com/actions/1184">vide paraffin stoves</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor842" />
+                        <ref target="http://www.conservationevidence.com/actions/1183">Provide fuel efficient stoves</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor843" />
+                        <ref target="http://www.conservationevidence.com/actions/1184">Provide paraffin stoves.</ref>
+                        <anchor xml:id="_idTextAnchor844" />5.5  Habitat protection</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor845" />5.5.1 Changing fire frequency</head>
+                  <table xml:id="d9e1206">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for changing fire frequency?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1221">e prescribed fire: effect on understory plants</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1220"> prescribed fire: effect on young trees</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1217"> prescribed fire: effect on mature trees</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Mec<ref target="http://www.conservationevidence.com/actions/1219">hanically remove understory vegetation to reduce wildfires</ref>
+                              </item>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1218">e herbicides to remove understory vegetation to reduce wildfires</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor846" />
+                  <ref target="http://www.conservationevidence.com/actions/1221">Use prescribed fire: effect on understory plants</ref>Eight of 22 studies, including seven replicated, randomized, controlled studies, in Australia, Canada and the USA found that prescribed fire increased the cover, density or biomass of understory plants. Six found it decreased plant cover and eight found mixed or no effect on cover or density. Fourteen of 24 studies, including 10 replicated, randomized, controlled studies, in Australia, France, West Africa and the USA found that fire increased species richness and diversity of understory plants. One found it decreased species richness and nine found mixed or no effect on understory plants. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 55%; certainty 70%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1221">http://www.conservationevidence.com/actions/1221</ref>
+                  <anchor xml:id="_idTextAnchor847" />
+                  <ref target="http://www.conservationevidence.com/actions/1220">Use prescribed fire: effect on young trees</ref>Five of 15 studies, including four replicated, randomized, controlled studies, in France, Canada and the USA found that prescribed fire increased the density and biomass of young trees. Two found that fire decreased young tree density. Eight found mixed or no effect on density and two found mixed effects on species diversity of young trees. Two replicated, controlled studies in the USA found mixed effects of prescribed fire on young tree survival. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 45%; certainty 55%; harms 23%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1220">http://www.conservationevidence.com/actions/1220</ref>
+                  <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                  <anchor xml:id="_idTextAnchor848" />
+                  <ref target="http://www.conservationevidence.com/actions/1217">Use prescribed fire: effect on mature trees</ref>Four of nine studies, including two replicated, randomized, controlled studies, in the USA found that prescribed fire decreased mature tree cover, density or diversity. Two studies found it increased tree cover or size, and four found mixed or no effect. Seven studies, including one replicated, randomized, controlled study, in the USA found that fire increased mature tree mortality. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 25%; certainty 50%; harms 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1217">http://www.conservationevidence.com/actions/1217</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor849" />
+                        <ref target="http://www.conservationevidence.com/actions/1219">Mechanically remove understory vegetation to reduce wildfires</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor850" />
+                        <ref target="http://www.conservationevidence.com/actions/1218">Use herbicides to remove understory vegetation to reduce wildfires</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor851" />5.5.2 Water management</head>
+                  <table xml:id="d9e1379">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for water management?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Con<ref target="http://www.conservationevidence.com/actions/1186">struct water detention areas to slow water flow and restore riparian forests</ref>
+                              </item>
+								                      <item>Int<ref target="http://www.conservationevidence.com/actions/1187">roduce beavers to impede water flow in forest watercourses</ref>
+                              </item>
+								                      <item>Rec<ref target="http://www.conservationevidence.com/actions/1185">harge groundwater to restore wetland forest</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor852" />
+                        <ref target="http://www.conservationevidence.com/actions/1186">Construct water detention areas to slow water flow and restore riparian forests</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor853" />
+                        <ref target="http://www.conservationevidence.com/actions/1187">Introduce beavers to impede water flow in forest watercourses</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor854" />
+                        <ref target="http://www.conservationevidence.com/actions/1185">Recharge groundwater to restore wetland forest</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor855" />5.5.3 Changing disturbance regime</head>
+                  <table xml:id="d9e1463">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for changing the disturbance regime?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1222"> clearcutting to increase understory diversity</ref>
+                              </item>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1224">e group-selection harvesting</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1223"> shelterwood harvesting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Thi<ref target="http://www.conservationevidence.com/actions/1226">n trees by girdling (cutting rings around tree trunks)</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1225"> herbicides to thin trees</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1227"> thinning followed by prescribed fire</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Ado<ref target="http://www.conservationevidence.com/actions/1192">pt conservation grazing of woodland</ref>
+                              </item>
+								                      <item>Cop<ref target="http://www.conservationevidence.com/actions/1190">pice trees</ref>
+                              </item>
+								                      <item>Hal<ref target="http://www.conservationevidence.com/actions/1191">o ancient trees</ref>
+                              </item>
+								                      <item>Imi<ref target="http://www.conservationevidence.com/actions/1194">tate natural disturbances by pushing over trees</ref>
+                              </item>
+								                      <item>Pol<ref target="http://www.conservationevidence.com/actions/1189">lard trees (top cutting or top pruning)</ref>
+                              </item>
+								                      <item>Rei<ref target="http://www.conservationevidence.com/actions/1188">ntroduce large herbivores</ref>
+                              </item>
+								                      <item>Ret<ref target="http://www.conservationevidence.com/actions/1193">ain fallen trees</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor856" />
+                  <ref target="http://www.conservationevidence.com/actions/1222">Use clearcutting to increase understory diversity</ref>Three of nine studies, including four replicated, randomized, controlled studies, in Australia, Japan, Brazil, Canada and the USA found that clearcutting decreased density, species richness or diversity of mature trees. One study found it increased trees species richness and six found mixed or no effect or mixed effect on density, size, species richness or diversity. One replicated, randomized, controlled study in Finland found that clearcutting decreased total forest biomass, particularly of evergreen shrubs. Three of six studies, including five replicated, randomized, controlled studies, in Brazil, Canada and Spain found that clearcutting increased the density and species richness of young trees. One found it decreased young tree density and two found mixed or no effect. Eight of 12 studies, including three replicated, randomized, controlled studies, across the world found that clearcutting increased the cover or species richness of understory plants. Two found it decreased density or species richness, and two found mixed or no effect. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 63%; certainty 65%; harms 30%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1222">http://www.conservationevidence.com/actions/1222</ref>
+                  <anchor xml:id="_idTextAnchor857" />
+                  <ref target="http://www.conservationevidence.com/actions/1224">Use group-selection harvesting</ref>Four of eight studies, including one replicated, controlled study, in Australia, Canada, Costa Rica and the USA found that group-selection harvesting increased cover or diversity of understory plants, or the density of young trees. Two studies found it decreased understory species richness or and biomass. Three studies found no effect on understory species richness or diversity or tree density or growth-rate. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 50%; certainty 58%; harms 30%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1224">http://www.conservationevidence.com/actions/1224</ref>
+                  <anchor xml:id="_idTextAnchor858" />
+                  <ref target="http://www.conservationevidence.com/actions/1223">Use shelterwood harvesting</ref>Six of seven studies, including five replicated, controlled studies, in Australia, Iran, Nepal and the USA found that shelterwood harvesting increased abundance, species richness or diversity or understory plants, as well as the growth and survival rate of young trees. One study found shelterwood harvesting decreased plant species richness and abundance and one found no effect on abundance. One replicated, controlled study in Canada found no effect on oak acorn production. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 78%; certainty 70%; harms 28%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1223">http://www.conservationevidence.com/actions/1223</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor859" />
+                  <ref target="http://www.conservationevidence.com/actions/1226">Thin trees by girdling (cutting rings around tree trunks)</ref>One before-and-after study in Canada found that thinning trees by girdling increased understory plant species richness, diversity and cover. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 58%; certainty 13%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1226">http://www.conservationevidence.com/actions/1226</ref>
+                  <anchor xml:id="_idTextAnchor860" />
+                  <ref target="http://www.conservationevidence.com/actions/1225">Use herbicides to thin trees</ref>One replicated, controlled study in Canada found no effect of using herbicide to thin trees on total plant species richness. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 5%; certainty 13%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1225">http://www.conservationevidence.com/actions/1225</ref>
+                  <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor861" />
+                  <ref target="http://www.conservationevidence.com/actions/1227">Use thinning followed by prescribed fire</ref>Three of six studies, including one replicated, randomized, controlled study, in the USA found that thinning followed by prescribed fire increased cover or abundance of understory plants, and density of deciduous trees. One study found it decreased tree density and species richness. Three studies found mixed or no effect or mixed effect on tree growth rate or density of young trees. One replicated, controlled study Australia found no effect of thinning then burning on the genetic diversity of black ash.<hi rendition="simple:bold"> </hi>
+                  <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 35%; certainty 40%; harms 15%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1227">http://www.conservationevidence.com/actions/1227</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor862" />
+                        <ref target="http://www.conservationevidence.com/actions/1192">Adopt conservation grazing of woodland</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor863" />
+                        <ref target="http://www.conservationevidence.com/actions/1190">Coppice trees</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor864" />
+                        <ref target="http://www.conservationevidence.com/actions/1191">Halo ancient trees</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor865" />
+                        <ref target="http://www.conservationevidence.com/actions/1194">Imitate natural disturbances by pushing over trees</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor866" />
+                        <ref target="http://www.conservationevidence.com/actions/1189">Pollard trees (top cutting or top pruning)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor867" />
+                        <ref target="http://www.conservationevidence.com/actions/1188">Reintroduce large herbivores</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor868" />
+                        <ref target="http://www.conservationevidence.com/actions/1193">Retain fallen trees.</ref>
+                        <anchor xml:id="_idTextAnchor869" />5.6  Threat: Invasive and other problematic species</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor870" />5.6.1 Invasive plants</head>
+                  <table xml:id="d9e1771">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for invasive plants?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Man<ref target="http://www.conservationevidence.com/actions/1228">ually/mechanically remove invasive plants</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1229"> herbicides to remove invasive plant species</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1195">e grazing to remove invasive plant species</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1196"> prescribed fire to remove invasive plant species</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor871" />
+                  <ref target="http://www.conservationevidence.com/actions/1228">Manually/mechanically remove invasive plants</ref>Two replicated, controlled studies in Hawaii and Ghana found that removing invasive grass or weed species increased understory plant biomass or tree seedling height. Two replicated, controlled studies in the USA and Hawaii found no effect of removing invasive shrubs or plants on understory plant diversity or growth rate of native species. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 40%; certainty 33%; harms 15%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1228">http://www.conservationevidence.com/actions/1228</ref>
+                  <anchor xml:id="_idTextAnchor872" />
+                  <ref target="http://www.conservationevidence.com/actions/1229">Use herbicides to remove invasive plant species</ref>One replicated, randomized, controlled study in the USA found no effect of controlling invasive plants using herbicide on native plant species richness. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 5%; certainty 10%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1229">http://www.conservationevidence.com/actions/1229</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor873" />
+                        <ref target="http://www.conservationevidence.com/actions/1195">Use grazing to remove invasive plant species</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor874" />
+                        <ref target="http://www.conservationevidence.com/actions/1196">Use prescribed fire to remove invasive plant species</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor875" />5.6.2 Native plants</head>
+                  <table xml:id="d9e1904">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for native plants?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Man<ref target="http://www.conservationevidence.com/actions/1197">ually/mechanically remove native plants</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor876" />
+                        <ref target="http://www.conservationevidence.com/actions/1197">Manually/mechanically remove native plants</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor877" />5.6.3 Herbivores</head>
+                  <table xml:id="d9e1968">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for herbivores?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1230"> wire fences to exclude large native herbivores</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1231"> electric fencing to exclude large native herbivores</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Con<ref target="http://www.conservationevidence.com/actions/1198">trol large herbivore populations</ref>
+                              </item>
+								                      <item>Con<ref target="http://www.conservationevidence.com/actions/1200">trol medium-sized herbivores </ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1199"> fencing to enclose large herbivores (e.g. deer)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor878" />
+                  <ref target="http://www.conservationevidence.com/actions/1230">Use wire fences to exclude large native herbivores</ref>Two replicated, controlled studies in the USA found that excluding large herbivores increased tree density. One of three studies, including two replicated, paired-sites, before-and-after studies, in Canada, Bhutan and Ireland found that excluding large herbivores increased the biomass of young trees. One found it decreased the density of young trees and one found mixed effects on species. Five of 10 studies, including two replicated, randomized, controlled studies, across the world found that excluding large herbivores increased the cover or and size of understory plants. Six found no effect on the cover, seed density, species richness or diversity of understory plants. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 65%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1230">http://www.conservationevidence.com/actions/1230</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor879" />
+                  <ref target="http://www.conservationevidence.com/actions/1231">Use electric fencing to exclude large native herbivores</ref>One controlled study in South Africa found that using electric fencing to exclude elephants and nyalas increased tree density. <hi rendition="simple:italic">Assessment: Unknown effectiveness (effectiveness 65%; certainty 10%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1231">http://www.conservationevidence.com/actions/1231</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor880" />
+                        <ref target="http://www.conservationevidence.com/actions/1198">Control large herbivore populations</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor881" />
+                        <ref target="http://www.conservationevidence.com/actions/1200">Control medium-sized herbivores</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor882" />
+                        <ref target="http://www.conservationevidence.com/actions/1199">Use fencing to enclose large herbivores (e.g. deer)</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor883" />5.6.4 Rodents</head>
+                  <table xml:id="d9e2131">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for rodents?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Con<ref target="http://www.conservationevidence.com/actions/1232">trol rodents</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor884" />
+                  <ref target="http://www.conservationevidence.com/actions/1232">Control rodents</ref>One controlled study in New Zealand found that rodent control decreased native plant species richness and had no effect on total plant species richness. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 10%; certainty 10%; harms 50%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1232">http://www.conservationevidence.com/actions/1232</ref>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor885" />5.6.5 Birds</head>
+                  <table xml:id="d9e2198">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for birds?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Con<ref target="http://www.conservationevidence.com/actions/1151">trol birds</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor886" />
+                  <ref target="http://www.conservationevidence.com/actions/1151">Control birds</ref>One controlled study in Australia found that removing birds did not improve the health of the trees in a narrow-leaved peppermint forest. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 0%; certainty 15%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1151">http://www.conservationevidence.com/actions/1151</ref>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor887" />5.7  Threat: Pollution</head>
+               <table xml:id="d9e2265">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for pollution?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Mai<ref target="http://www.conservationevidence.com/actions/1168">ntain/create buffer zones</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Rem<ref target="http://www.conservationevidence.com/actions/1166">ove nitrogen and phosphorus using harvested products</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor888" />
+               <ref target="http://www.conservationevidence.com/actions/1168">Maintain/create buffer zones</ref>One site comparison study in Australia found that a forest edge protected by a planted buffer strip had higher canopy cover and lower stem density, but similar understory species richness to an unbuffered forest edge. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 50%; certainty 10%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1168">http://www.conservationevidence.com/actions/1168</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor889" />
+                     <ref target="http://www.conservationevidence.com/actions/1166">Remove nitrogen and phosphorus using harvested products.</ref>
+                     <anchor xml:id="_idTextAnchor890" />5.8  Threat: Climate change and severe weather</item>
+			            </list>
+               <table xml:id="d9e2367">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for climate change and severe weather?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pre<ref target="http://www.conservationevidence.com/actions/1165">vent damage from strong winds</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor891" />
+                     <ref target="http://www.conservationevidence.com/actions/1165">Prevent damage from strong winds.</ref>
+                     <anchor xml:id="_idTextAnchor892" />5.9  Habitat protection</item>
+			            </list>
+               <table xml:id="d9e2430">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for habitat protection?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Ado<ref target="http://www.conservationevidence.com/actions/1152">pt community-based management to protect forests</ref>
+                           </item>
+								                   <item>Legal protection of forests</item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Ado<ref target="http://www.conservationevidence.com/actions/1201">pt Protected Species legislation (impact on forest management)</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor893" />
+               <ref target="http://www.conservationevidence.com/actions/1152">Adopt community-based management to protect forests</ref>Two studies, including one replicated, before-and-after, site comparison, in Ethiopia and Nepal found that forest cover increased more in community-managed forests than in forests not managed by local communities. However, one replicated, site comparison study in Colombia found that deforestation rates in community-managed forests did not differ from deforestation rates in unmanaged forests. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 60%; certainty 35%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1152">http://www.conservationevidence.com/actions/1152</ref>
+               <anchor xml:id="_idTextAnchor894" />
+               <ref target="http://www.conservationevidence.com/actions/1233">Legal protection of forests</ref>Two site comparison studies in Nigeria and Iran found that legal protection of forest increased tree species richness and diversity or the density of young trees. One replicated, paired site study in Mexico found no effect of forest protection on seed density and diversity of trees and shrubs. <hi rendition="simple:italic">Assessment: unknown effectiveness&#160;&#8212;&#160;limited evidence (effectiveness 50%; certainty 20%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1233">http://www.conservationevidence.com/actions/1233</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor895" />
+                     <ref target="http://www.conservationevidence.com/actions/1201">Adopt Protected Species legislation (impact on forest management).</ref>
+                     <anchor xml:id="_idTextAnchor896" />5.10  Habitat restoration and creation</item>
+			            </list>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor897" />5.10.1 Restoration after wildfire</head>
+                  <table xml:id="d9e2554">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for restoration after wildfire?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Th<ref target="http://www.conservationevidence.com/actions/1234">in trees after wildfire</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/1237">ove burned trees</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Sow<ref target="http://www.conservationevidence.com/actions/1236"> tree seeds after wildfire</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pl<ref target="http://www.conservationevidence.com/actions/1235">ant trees after wildfire</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor898" />
+                  <ref target="http://www.conservationevidence.com/actions/1234">Thin trees after wildfire</ref>Four of five replicated, controlled studies in Spain, Israel, Cananda and the USA found that thinning trees in burnt forest areas increased plant species richness, cover or survival of saplings. One study found thinning decreased plant biomass. One paired-site study in Canada found that logging after wildfire decreased species richness and diversity of mosses. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 50%; certainty 50%; harms 38%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1234">http://www.conservationevidence.com/actions/1234</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor899" />
+                  <ref target="http://www.conservationevidence.com/actions/1237">Remove burned trees</ref>Two replicated, controlled studies in Israel and Spain found that removing burned trees increased total plant species richness or the cover and species richness of some plant species. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 60%; certainty 20%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1237">http://www.conservationevidence.com/actions/1237</ref>
+                  <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                  <anchor xml:id="_idTextAnchor900" />
+                  <ref target="http://www.conservationevidence.com/actions/1236">Sow tree seeds after wildfire</ref>Three studies, including one replicated, randomized, controlled study, in the USA found that sowing herbaceous plant seeds in burnt forest areas decreased the density of tree seedlings or the number and cover of native species. All three found no effect of seeding on total plant cover or species richness. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 0%; certainty 43%; harms 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1236">http://www.conservationevidence.com/actions/1236</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor901" />
+                        <ref target="http://www.conservationevidence.com/actions/1235">Plant trees after wildfire</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor902" />5.10.2 Restoration after agriculture</head>
+                  <table xml:id="d9e2737">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for restoration after agriculture?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Res<ref target="http://www.conservationevidence.com/actions/1164">tore wood pasture (e.g. introduce grazing)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor903" />
+                  <ref target="http://www.conservationevidence.com/actions/1164">Restore wood pasture (e.g. introduce grazing)</ref>One replicated paired study in Sweden found that partial harvesting in abandoned wood pastures increased tree seedling density, survival and growth. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 65%; certainty 25%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1164">http://www.conservationevidence.com/actions/1164</ref>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor904" />5.10.3 Manipulate habitat to increase planted tree survival during restoration</head>
+                  <table xml:id="d9e2804">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for manipulating habitat to increase planted tree survival during restoration?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>App<ref target="http://www.conservationevidence.com/actions/1241">ly herbicides after restoration planting </ref>
+                              </item>
+								                      <item>Cov<ref target="http://www.conservationevidence.com/actions/1240">er the ground using techniques other than plastic mats after restoration planting</ref>
+                              </item>
+								                      <item>Cov<ref target="http://www.conservationevidence.com/actions/1239">er the ground with plastic mats after restoration planting</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1238"> selective thinning after restoration planting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor905" />
+                  <ref target="http://www.conservationevidence.com/actions/1241">Apply herbicides after restoration planting</ref>One replicated, randomized, controlled study in the USA found that controlling vegetation using herbicides after restoration planting decreased plant species richness and diversity. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 45%; certainty 25%; harms 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1241">http://www.conservationevidence.com/actions/1241</ref>
+                  <anchor xml:id="_idTextAnchor906" />
+                  <ref target="http://www.conservationevidence.com/actions/1240">Cover the ground using techniques other than plastic mats after restoration planting</ref>One replicated, randomized, controlled study in the USA found that covering the ground with mulch after planting increased total plant cover. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 30%; certainty 15%; harms 10%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1240">http://www.conservationevidence.com/actions/1240</ref>
+                  <anchor xml:id="_idTextAnchor907" />
+                  <ref target="http://www.conservationevidence.com/actions/1239">Cover the ground with plastic mats after restoration planting</ref>One replicated study in Canada found that covering the ground with plastic mats after restoration planting decreased the cover of herbecous plants and grasses. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 40%; certainty 20%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1239">http://www.conservationevidence.com/actions/1239</ref>
+                  <anchor xml:id="_idTextAnchor908" />
+                  <ref target="http://www.conservationevidence.com/actions/1238">Use selective thinning after restoration planting</ref>One replicated, paired sites study in Canada found that selective thinning after restoration planting conifers increased the abundance of herbaceous species. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 43%; certainty 18%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1238">http://www.conservationevidence.com/actions/1238</ref>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor909" />5.10.4 Restore forest community</head>
+                  <table xml:id="d9e2929">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for restoring a forest community?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Bui<ref target="http://www.conservationevidence.com/actions/1245">ld bird-perches to enhance natural seed dispersal</ref>
+                              </item>
+								                      <item>Pla<ref target="http://www.conservationevidence.com/actions/1243">nt a mixture of tree species to enhance diversity</ref>
+                              </item>
+								                      <item>Sow<ref target="http://www.conservationevidence.com/actions/1244"> tree seeds</ref>
+                              </item>
+								                      <item>Wat<ref target="http://www.conservationevidence.com/actions/1242">er plants to preserve dry tropical forest species</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Res<ref target="http://www.conservationevidence.com/actions/1203">tore woodland herbaceous plants using transplants and nursery plugs</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1202"> rotational grazing to restore oak savannas</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor910" />
+                  <ref target="http://www.conservationevidence.com/actions/1245">Build bird-perches to enhance natural seed dispersal</ref>One replicated, randomized, controlled, before-and-after study in Brazil found that sowing tree seeds increased the density and species richness of new trees. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 13%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1245">http://www.conservationevidence.com/actions/1245</ref>
+                  <anchor xml:id="_idTextAnchor911" />
+                  <ref target="http://www.conservationevidence.com/actions/1243">Plant a mixture of tree species to enhance diversity</ref>One replicated, randomized, controlled study in Brazil found that planting various tree species increased species richness, but had no effect on the density of new trees. One replicated, controlled study in Greece found that planting native tree species increased total plant species richness, diversity and cover. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 50%; certainty 28%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1243">http://www.conservationevidence.com/actions/1243</ref>
+                  <anchor xml:id="_idTextAnchor912" />
+                  <ref target="http://www.conservationevidence.com/actions/1244">Sow tree seeds</ref>One replicated, randomized, controlled, before-and-after study in Brazil found that sowing tree seeds increased the density and species richness of new trees. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 60%; certainty 13%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1244">http://www.conservationevidence.com/actions/1244</ref>
+                  <anchor xml:id="_idTextAnchor913" />
+                  <ref target="http://www.conservationevidence.com/actions/1242">Water plants to preserve dry tropical forest species</ref>One replicated, controlled study in Hawaii found that watering plants increased the abundance and biomass of forest plants. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 65%; certainty 18%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1242">http://www.conservationevidence.com/actions/1242</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor914" />
+                        <ref target="http://www.conservationevidence.com/actions/1203">Restore woodland herbaceous plants using transplants and nursery plugs</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor915" />
+                        <ref target="http://www.conservationevidence.com/actions/1202">Use rotational grazing to restore oak savannas</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor916" />5.10.5 Prevent/encourage leaf litter accumulation</head>
+                  <table xml:id="d9e3101">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for preventing/encouraging leaf litter accumulation?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rem<ref target="http://www.conservationevidence.com/actions/1246">ove or disturb leaf litter to enhance germination</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Enc<ref target="http://www.conservationevidence.com/actions/1204">ourage leaf litter development in new planting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor917" />
+                  <ref target="http://www.conservationevidence.com/actions/1246">Remove or disturb leaf litter to enhance germination</ref>One of two replicated, controlled studies in Poland and Costa Rica found that removing leaf litter increased understory plant species richness. The two studies found that removal decreased understory plant cover or the density of new tree seedlings. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 40%; certainty 25%; harms 23%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1246">http://www.conservationevidence.com/actions/1246</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor918" />
+                        <ref target="http://www.conservationevidence.com/actions/1204">Encourage leaf litter development in new planting</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor919" />5.10.6 Increase soil fertility</head>
+                  <table xml:id="d9e3205">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for increasing soil fertility?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1274"> vegetation removal together with mechanical disturbance to the soil</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/1250"> organic matter</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1248"> fertilizer</ref>
+                              </item>
+								                      <item>Use<ref target="http://www.conservationevidence.com/actions/1251"> soil scarification or ploughing to enhance germination</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Add<ref target="http://www.conservationevidence.com/actions/1249"> lime to the soil to increase fertility</ref>
+                              </item>
+								                      <item>Us<ref target="http://www.conservationevidence.com/actions/1252">e soil disturbance to enhance germination (excluding scarification or ploughing)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Enh<ref target="http://www.conservationevidence.com/actions/1253">ance soil compaction</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor920" />
+                  <ref target="http://www.conservationevidence.com/actions/1274">Use vegetation removal together with mechanical disturbance to the soil</ref>Three studies, including one replicated, randomized, controlled study, in Portugal and France found that vegetation removal together with mechanical disturbance of the soil increased the cover or diversity of understory plants, or density of young trees. One of the studies found it decreased understory shrub cover. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 61%; certainty 40%; harms 15%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1274">http://www.conservationevidence.com/actions/1274</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor921" />
+                  <ref target="http://www.conservationevidence.com/actions/1250">Add organic matter</ref>One of two studies, including one replicated, randomized, controlled study, in Brazil and Costa Rica found that adding leaf litter increased species richness of young trees. One found it decreased young tree density in artificial forest gaps and both found no effect on the density of tree regenerations under intact forest canopy. One of two replicated, controlled study in Portugal and the USA found that adding plant material increased total plant cover. One found mixed effects on cover depending on plant group. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 45%; certainty 43%; harms 28%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1250">http://www.conservationevidence.com/actions/1250</ref>
+                  <anchor xml:id="_idTextAnchor922" />
+                  <ref target="http://www.conservationevidence.com/actions/1248">Use fertilizer</ref>Six of eight studies, including five replicated, randomized, controlled, in Europe, Brazil, Australia and the USA found that applying fertilizer increased total plant cover, understory plant biomass, size of young trees, biomass of grasses or cover of artificially seeded plant species. Five of the studies found no effect on plant biomass, cover, seedling abundance, tree growth or tree seedling diversity. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 55%; certainty 65%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1248">http://www.conservationevidence.com/actions/1248</ref>
+                  <anchor xml:id="_idTextAnchor923" />
+                  <ref target="http://www.conservationevidence.com/actions/1251">Use soil scarification or ploughing to enhance germination</ref>Two studies, including one replicated, randomized, controlled study, in Portugal and the USA found that ploughing increased the cover or diversity of understory plants. Two of five studies, including two replicated, randomized, controlled, in Canada, Brazil, Ethiopia and Sweden found that ploughing increased the density of young trees. One found a decrease in density and two found mixed effects depending on tree species. One replicated, before-and-after trial in Finland found that ploughing decreased the cover of plants living on wood surface. One replicated, controlled study in the USA found that ploughing did not decrease the spreading distance and density of invasive grass seedlings. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 60%; certainty 50%; harms 25%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1251">http://www.conservationevidence.com/actions/1251</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor924" />
+                  <ref target="http://www.conservationevidence.com/actions/1249">Add lime to the soil to increase fertility</ref>One replicated, randomized controlled study in the USA found that adding lime increased vegetation cover. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 80%; certainty 18%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1249">http://www.conservationevidence.com/actions/1249</ref>
+                  <anchor xml:id="_idTextAnchor925" />
+                  <ref target="http://www.conservationevidence.com/actions/1252">Use soil disturbance to enhance germination (excluding scarification or ploughing)</ref>Two replicated, controlled studies in Canada and Finland found that disturbance of the forest floor decreased understory vegetation cover. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 30%; certainty 35%; harms 40%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1252">http://www.conservationevidence.com/actions/1252</ref>
+                  <hi rendition="simple:bold">Likely to be ineffective or harmful</hi>
+                  <anchor xml:id="_idTextAnchor926" />
+                  <ref target="http://www.conservationevidence.com/actions/1253">Enhance soil compaction</ref>Two of three studies, including two replicated, randomized, controlled studies in Canada and the USA found that soil compaction increased understory plant cover and density. Two found it decreased tree regeneration height or density and understory plant species richness. <hi rendition="simple:italic">Assessment: likely to be ineffective or harmful (effectiveness 28%; certainty 40%; harms 45%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1253">http://www.conservationevidence.com/actions/1253</ref>
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor927" />5.11  Actions to improve survival and growth rate of planted trees</head>
+               <table xml:id="d9e3449">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions to improve the survival and growth rate of planted trees?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pre<ref target="http://www.conservationevidence.com/actions/1263">pare the ground before tree planting</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1261"> mechanical thinning before or after planting</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Fen<ref target="http://www.conservationevidence.com/actions/1254">ce to prevent grazing after tree planting</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1262"> herbicide after tree planting</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1255"> prescribed fire after tree planting</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>App<ref target="http://www.conservationevidence.com/actions/1149">ly insecticide to protect seedlings from invertebrates</ref>
+                           </item>
+								                   <item>Add<ref target="http://www.conservationevidence.com/actions/1259"> lime to the soil after tree planting</ref>
+                           </item>
+								                   <item>Add<ref target="http://www.conservationevidence.com/actions/1258"> organic matter after tree planting</ref>
+                           </item>
+								                   <item>Cov<ref target="http://www.conservationevidence.com/actions/1266">er the ground with straw after tree planting</ref>
+                           </item>
+								                   <item>Im<ref target="http://www.conservationevidence.com/actions/1153">prove soil quality after tree planting (excluding applying fertilizer)</ref>
+                           </item>
+								                   <item>Man<ref target="http://www.conservationevidence.com/actions/1257">age woody debris before tree planting</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1269"> shading for planted trees</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1268"> tree guards or shelters to protect planted trees</ref>
+                           </item>
+								                   <item>Us<ref target="http://www.conservationevidence.com/actions/1267">e weed mats to protect planted trees</ref>
+                           </item>
+								                   <item>Wat<ref target="http://www.conservationevidence.com/actions/1154">er seedlings</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Mec<ref target="http://www.conservationevidence.com/actions/1256">hanically remove understory vegetation after tree planting</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1264"> different planting or seeding methods</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1260"> fertilizer after tree planting</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>App<ref target="http://www.conservationevidence.com/actions/1156">ly fungicide to protect seedlings from fungal diseases</ref>
+                           </item>
+								                   <item>Inf<ref target="http://www.conservationevidence.com/actions/1160">ect tree seedlings with mycorrhizae</ref>
+                           </item>
+								                   <item>Int<ref target="http://www.conservationevidence.com/actions/1161">roduce leaf litter to forest stands</ref>
+                           </item>
+								                   <item>Pla<ref target="http://www.conservationevidence.com/actions/1159">nt a mixture of tree species to enhance the survival and growth of planted trees </ref>
+                           </item>
+								                   <item>Red<ref target="http://www.conservationevidence.com/actions/1155">uce erosion to increase seedling survival</ref>
+                           </item>
+								                   <item>Tra<ref target="http://www.conservationevidence.com/actions/1162">nsplant trees</ref>
+                           </item>
+								                   <item>Use<ref target="http://www.conservationevidence.com/actions/1163"> pioneer plants or crops as nurse-plants</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">Beneficial</hi>
+               <anchor xml:id="_idTextAnchor928" />
+               <ref target="http://www.conservationevidence.com/actions/1263">Prepare the ground before tree planting</ref>Six of seven studies, including five replicated, randomized, controlled studies, in Canada and Sweden found that ground preparation increased the survival or growth rate of planted trees. One study found no effect of creating mounds on frost damage to seedlings. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 78%; certainty 73%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1263">http://www.conservationevidence.com/actions/1263</ref>
+               <anchor xml:id="_idTextAnchor929" />
+               <ref target="http://www.conservationevidence.com/actions/1261">Use mechanical thinning before or after planting</ref>Five of six studies, including two replicated, randomized, controlled studies, in Brazil, Canada, Finland, France and the USA found that thinning trees after planting increased survival or size of planted trees. One study found mixed effects on survival and size and one found it decreased their density. One replicated study in the USA found that seedling survival rate increased with the size of the thinned area. <hi rendition="simple:italic">Assessment: beneficial (effectiveness 75%; certainty 63%; harms 10%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1261">http://www.conservationevidence.com/actions/1261</ref>
+               <hi rendition="simple:bold">Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor930" />
+               <ref target="http://www.conservationevidence.com/actions/1254">Fence to prevent grazing after tree planting</ref>Four of five studies, including two replicated, randomized, controlled studies, in Finland, Australia, Canada and the USA found that using fences to exclude grazing increased the survival, size or cover of planted trees. Two studies found no effect on survival rate and one found mixed effects on planted tree size. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 50%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1254">http://www.conservationevidence.com/actions/1254</ref>
+               <anchor xml:id="_idTextAnchor931" />
+               <ref target="http://www.conservationevidence.com/actions/1262">Use herbicide after tree planting</ref>Two of three studies, including two replicated, randomized, controlled studies, in Sweden and the USA found that using herbicide increased the size of planted trees. One study found no effect. One replicated, randomized, controlled study in Sweden found no effect of using herbicide on frost damage to seedlings. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 58%; certainty 45%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1262">http://www.conservationevidence.com/actions/1262</ref>
+               <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+               <anchor xml:id="_idTextAnchor932" />
+               <ref target="http://www.conservationevidence.com/actions/1255">Use prescribed fire after tree planting</ref>Two of four studies, including one replicated, randomized, controlled study, in Finland, France and the USA found that using prescribed fire after planting increased the survival and sprouting rate of planted trees. One study found fire decreased planted tree size and one found no effect on the size and survival rate. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 50%; certainty 43%; harms 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1255">http://www.conservationevidence.com/actions/1255</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor933" />
+               <ref target="http://www.conservationevidence.com/actions/1149">Apply insecticide to protect seedlings from invertebrates</ref>One randomized, replicated, controlled study in the USA found that applying insecticide increased tree seedling emergence and survival. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 70%; certainty 13%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1149">http://www.conservationevidence.com/actions/1149</ref>
+               <anchor xml:id="_idTextAnchor934" />
+               <ref target="http://www.conservationevidence.com/actions/1259">Add lime to the soil after tree planting</ref>One of two replicated, randomized, controlled studies in the USA found that adding lime before restoration planting decreased the survival of pine seedlings. One found no effect on seedling growth. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 0%; certainty 30%; harms 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1259">http://www.conservationevidence.com/actions/1259</ref>
+               <anchor xml:id="_idTextAnchor935" />
+               <ref target="http://www.conservationevidence.com/actions/1258">Add organic matter after tree planting</ref>Two replicated, randomized, controlled studies in the USA found that adding organic matter before restoration planting increased seedling biomass, but decreased seedling emergence or survival. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 20%; certainty 25%; harms 50%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1258">http://www.conservationevidence.com/actions/1258</ref>
+               <anchor xml:id="_idTextAnchor936" />
+               <ref target="http://www.conservationevidence.com/actions/1266">Cover the ground with straw after tree planting</ref>One replicated, randomized, controlled study in the Czech Republic found that covering the ground with straw, but not bark or fleece, increased the growth rate of planted trees and shrubs. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 75%; certainty 20%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1266">http://www.conservationevidence.com/actions/1266</ref>
+               <anchor xml:id="_idTextAnchor937" />
+               <ref target="http://www.conservationevidence.com/actions/1153">Improve soil quality after tree planting (excluding applying fertilizer)</ref>Two randomized, replicated, controlled studies in Australia found that different soil enhancers had mixed or no effects on tree seedling survival and height, and no effect on diameter or health. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 25%; certainty 23%; harms 13%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1153">http://www.conservationevidence.com/actions/1153</ref>
+               <anchor xml:id="_idTextAnchor938" />
+               <ref target="http://www.conservationevidence.com/actions/1257">Manage woody debris before tree planting </ref>One replicated, randomized, controlled study in Canada found that removing woody debris increased the survival rate of planted trees. One replicated, controlled study in the USA found mixed effects on the size of planted trees. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 40%; certainty 25%; harms 13%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1257">http://www.conservationevidence.com/actions/1257</ref>
+               <anchor xml:id="_idTextAnchor939" />
+               <ref target="http://www.conservationevidence.com/actions/1269">Use shading for planted trees</ref>One replicated, controlled study in Panama found that shading increased the survival rate of planted native tree seedlings. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 85%; certainty 23%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1269">http://www.conservationevidence.com/actions/1269</ref>
+               <anchor xml:id="_idTextAnchor940" />
+               <ref target="http://www.conservationevidence.com/actions/1268">Use tree guards or shelters to protect planted trees</ref>One replicated, randomized, controlled study in the USA found that using light but not dark coloured plastic tree shelters increased the survival rate of planted tree seedlings. One replicated, controlled study in Hong Kong found that tree guards increased tree height after 37 but not 44 months. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 60%; certainty 28%; harms 20%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1268">http://www.conservationevidence.com/actions/1268</ref>
+               <anchor xml:id="_idTextAnchor941" />
+               <ref target="http://www.conservationevidence.com/actions/1267">Use weed mats to protect planted trees</ref>One replicated, controlled study in Hong Kong found no effect of using weed mats on seedling height. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 0%; certainty 18%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1267">http://www.conservationevidence.com/actions/1267</ref>
+               <anchor xml:id="_idTextAnchor942" />
+               <ref target="http://www.conservationevidence.com/actions/1154">Water seedlings</ref>One replicated, randomized, controlled study in Spain found that watering seedlings increased or had no effect on seedling emergence and survival, depending on habitat and water availability. <hi rendition="simple:italic">Assessment: unknown effectiveness (effectiveness 45%; certainty 20%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1154">http://www.conservationevidence.com/actions/1154</ref>
+               <hi rendition="simple:bold">Unlikely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor943" />
+               <ref target="http://www.conservationevidence.com/actions/1256">Mechanically remove understory vegetation after tree planting</ref>Four of five studies, including three replicated, randomized, controlled studies in France, Sweden, Panama, Canada and the USA found no effect of controlling understory vegetation on the emergence, survival, growth rate or frost damage of planted seedlings. One found that removing shrubs increased the growth rate and height of planted seedlings, and another that removing competing herbs increased seedling biomass. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 20%; certainty 50%; harms 0%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1256">http://www.conservationevidence.com/actions/1256</ref>
+               <anchor xml:id="_idTextAnchor944" />
+               <ref target="http://www.conservationevidence.com/actions/1264">Use different planting or seeding methods</ref>Four studies, including one replicated, randomized study, in Australia, Brazil, Costa Rica and Mexico found no effect of planting or seeding methods on the size and survival rate of seedlings. One replicated, controlled study in Brazil found that planting early succession pioneer tree species decreased the height of other planted species. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 0%; certainty 43%; harms 13%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1264">http://www.conservationevidence.com/actions/1264</ref>
+               <anchor xml:id="_idTextAnchor945" />
+               <ref target="http://www.conservationevidence.com/actions/1260">Use fertilizer after tree planting</ref>Two of five studies, including two randomized, replicated, controlled studies, in Canada, Australia, France and Portugal found that applying fertilizer after planting increased the size of the planted trees. Three studies found no effect on the size, survival rate or health of planted trees. One randomized, replicated, controlled study in Australia found that soil enhancers including fertilizer had mixed effects on seedling survival and height. <hi rendition="simple:italic">Assessment: unlikely to be beneficial (effectiveness 38%; certainty 45%; harms 3%).</hi>
+               <ref target="http://www.conservationevidence.com/actions/1260">http://www.conservationevidence.com/actions/1260</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor946" />
+                     <ref target="http://www.conservationevidence.com/actions/1156">Apply fungicide to protect seedlings from fungal diseases</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor947" />
+                     <ref target="http://www.conservationevidence.com/actions/1160">Infect tree seedlings with mycorrhizae</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor948" />
+                     <ref target="http://www.conservationevidence.com/actions/1161">Introduce leaf litter to forest stands</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor949" />
+                     <ref target="http://www.conservationevidence.com/actions/1159">Plant a mixture of tree species to enhance the survival and growth of planted trees</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor950" />
+                     <ref target="http://www.conservationevidence.com/actions/1155">Reduce erosion to increase seedling survival</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor951" />
+                     <ref target="http://www.conservationevidence.com/actions/1162">Transplant trees</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor952" />
+                     <ref target="http://www.conservationevidence.com/actions/1163">Use pioneer plants or crops as nurse-plants.</ref>
+                     <anchor xml:id="_idTextAnchor953" />5.12  Education and awareness raising</item>
+			            </list>
+               <table xml:id="d9e4028">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions to improve education and awareness raising?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pro<ref target="http://www.conservationevidence.com/actions/1158">vide education programmes about forests </ref>
+                           </item>
+								                   <item>Rai<ref target="http://www.conservationevidence.com/actions/1157">se awareness amongst the general public through campaigns and public information</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor954" />
+                     <ref target="http://www.conservationevidence.com/actions/1158">Provide education programmes about forests</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor955" />
+                     <ref target="http://www.conservationevidence.com/actions/1157">Raise awareness amongst the general public through campaigns and public information.</ref>
+                  </item>
+			            </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

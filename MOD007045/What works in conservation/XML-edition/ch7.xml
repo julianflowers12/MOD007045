@@ -1,0 +1,1873 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title />
+            <respStmt>
+               <resp>This is a section of <title>What Works in Conservation 2021</title> (DOI: <idno type="DOI">10.11647/obp.0267</idno>) edited by </resp>
+               <name>William J. Sutherland</name>
+               <name>Lynn V. Dicks</name>
+               <name>Silviu O. Petrovan</name>
+               <name>Rebecca K. Smith</name>
+            </respStmt>
+         </titleStmt>
+         <extent>Pages - of the printed edition.</extent>
+         <publicationStmt>
+            <publisher>Open Book Publishers</publisher>
+            <date>2021-07</date>
+            <availability>
+               <licence />
+               <p>This licence applies to the content that follows,
+                                                unless otherwise stated. The inclusion of quoted
+                                                passages falls under fair dealing. Images and
+                                                embedded objects may not be covered by this licence,
+                                                in which case their copyright status is specified in
+                                                text.</p>
+            </availability>
+            <idno type="DOI" />
+            <idno type="URI" />
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is original content, published in Open Access.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="ch7">
+      <body>
+         <div>
+            <head type="chapter">
+               <ref target="contents.xml#_idTextAnchor000">
+                  <anchor xml:id="_idTextAnchor1366" />7.  PRIMATE CONSERVATION</ref>
+            </head>
+				
+					       <byline>&#169; W. Sutherland <hi rendition="simple:italic">et al.</hi>,&#160;CC&#160;BY&#160;4.0 <ref target="https://doi.org/10.11647/OBP.0267.07">https://doi.org/10.11647/OBP.0267.07</ref>
+            </byline>
+				
+			         <hi rendition="simple:bold">Jessica Junker, Hjalmar S. K&#252;hl, Lisa Orth, Rebecca K. Smith, Silviu O. Petrovan &amp; William J. Sutherland</hi>
+            <p>
+               <hi rendition="simple:bold">Expert assessors</hi>
+            </p>
+            <hi rendition="simple:bold">Graham L. Banes</hi>, University of Wisconsin-Madison, USA<hi rendition="simple:bold">Sergio Marrocoli</hi>,<hi rendition="simple:bold"> </hi>Max Planck Institute for Evolutionary Anthropology, Germany<hi rendition="simple:bold">Sarah Papworth</hi>, Royal Holloway University of London, UK <hi rendition="simple:bold">Silviu O. Petrovan</hi>, University of Cambridge, UK<hi rendition="simple:bold"> </hi>
+            <hi rendition="simple:bold">Andrew J. Plumptre</hi>, Wildlife Conservation Society, Uganda<hi rendition="simple:bold">Ricardo Rocha</hi>, University of Cambridge, UK<hi rendition="simple:bold"> </hi>
+            <hi rendition="simple:bold">Joanna M. Setchell</hi>, Durham University, UK <hi rendition="simple:bold">Kathy Slater</hi>, Operation Wallacea, UK<hi rendition="simple:bold">Erin Wessling</hi>, Max Planck Institute for Evolutionary Anthropology, Germany<hi rendition="simple:bold">Liz Williamson</hi>, University of Stirling, UK<hi rendition="simple:bold"> </hi>
+            <p>
+               <hi rendition="simple:bold">Scope of assessment</hi>: for wild primate species across the world.</p>
+            <p>
+               <hi rendition="simple:bold">Assessed</hi>:<hi rendition="simple:bold"> </hi>2017.</p>
+            <p>
+               <hi rendition="simple:bold">Effectiveness measure </hi>is the median % score for effectiveness.</p>
+            <p>
+               <hi rendition="simple:bold">Certainty measure </hi>is the median % certainty of evidence for effectiveness, determined by the quantity and quality of the evidence in the synopsis.</p>
+            <p>
+               <hi rendition="simple:bold">Harm measure </hi>is the median % score for negative side-effects to the group of species of concern. </p>This book is meant as a guide to the evidence available for different conservation interventions and as a starting point in assessing their effectiveness. The assessments are based on the available evidence for the target group of species for each intervention. The assessment may therefore refer to different species or habitat to the one(s) you are considering. Before making any decisions about implementing interventions it is vital that you read the more detailed accounts of the evidence in order to assess their relevance for your study species or system.Full details of the evidence are available at<ref target="https://www.conservationevidence.com">
+               <hi rendition="simple:bold">www.conservationevidence.com</hi>
+            </ref>There may also be significant negative side-effects on the target groups or other species or communities that have not been identified in this assessment.A lack of evidence means that we have been unable to assess whether or not an intervention is effective or has any harmful impacts.<div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor1367" />7.1  Threat: Residential and commercial development</head>
+               <table xml:id="d7e158">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for residential and commercial development?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Rem<ref target="https://www.conservationevidence.com/actions/1422">ove and relocate &#8216;problem&#8217; animals</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Rel<ref target="https://www.conservationevidence.com/actions/1423">ocate primates to non-residential areas</ref>
+                           </item>
+								                   <item>Dis<ref target="https://www.conservationevidence.com/actions/1424">courage the planting of fruit trees and vegetable gardens on the urban edge</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>L<hi rendition="simple:bold">ikely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor1368" />
+               <ref target="https://www.conservationevidence.com/actions/1422">Remove and relocate &#8216;problem&#8217; animals</ref>Three studies, including one replicated, before-and-after trial, in India, Kenya, the Republic of Congo and Gabon found that most primates survived the translocation. One study found that all translocated rhesus monkeys remained at the release site for at least four years. Another study showed that after 16 years, 66% of olive baboons survived and survival rate was similar to wild study groups. The third study showed that 84% of gorillas released in the Republic of Congo and Gabon survived for at least four years. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 50%; harms 10%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/1422">https://www.conservationevidence.com/actions/1422</ref> 
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1369" />
+                     <ref target="https://www.conservationevidence.com/actions/1423">Relocate primates to non-residential areas</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1370" />
+                     <ref target="https://www.conservationevidence.com/actions/1424">Discourage the planting of fruit trees and vegetable gardens on the urban edge biodiversity-friendly farming</ref>.<anchor xml:id="_idTextAnchor1371" />7.2  Threat: Agriculture</item>
+			            </list>
+               <table xml:id="d7e273">
+				
+					
+					
+				
+				
+					             <row>
+						               <cell cols="2">
+							                 <p>
+                           <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for agriculture?</hi>
+                        </p>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Likely to be</hi>
+                        </p>
+							                 <p>
+                           <hi rendition="simple:bold">beneficial</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Hum<ref target="http://www.conservationevidence.com/actions/1449">ans chase primates using random loud noises</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">Unknown effectiveness</hi>
+                        </p>
+							                 <p>
+                           <hi rendition="simple:bold">(limited evidence)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Pro<ref target="https://www.conservationevidence.com/actions/1432">hibit (livestock) farmers from entering protected areas</ref>
+                           </item>
+								                   <item>Use<ref target="https://www.conservationevidence.com/actions/1442"> nets to keep primates out of fruit trees</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell>
+							                 <p>
+                           <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                        </p>
+						               </cell>
+						               <cell>
+							                 <list>
+								                   <item>Cre<ref target="https://www.conservationevidence.com/actions/1425">ate natural habitat islands within agricultural land</ref>
+                           </item>
+								                   <item>Use<ref target="https://www.conservationevidence.com/actions/1426"> fences as biological corridors for primates</ref>
+                           </item>
+								                   <item>Pro<ref target="https://www.conservationevidence.com/actions/1427">vide sacrificial rows of crops on outer side of fields</ref>
+                           </item>
+								                   <item>Com<ref target="https://www.conservationevidence.com/actions/1428">pensate farmers for produce loss caused by primates</ref>
+                           </item>
+								                   <item>Pay<ref target="https://www.conservationevidence.com/actions/1429"> farmers to cover the costs of non-harmful strategies to deter primates</ref>
+                           </item>
+								                   <item>Ret<ref target="https://www.conservationevidence.com/actions/1430">ain nesting trees/shelter for primates within agricultural fields</ref>
+                           </item>
+								                   <item>Pla<ref target="https://www.conservationevidence.com/actions/1431">nt nesting trees/shelter for primates within agricultural fields</ref>
+                           </item>
+								                   <item>Reg<ref target="https://www.conservationevidence.com/actions/1433">ularly remove traps and snares around agricultural fields</ref>
+                           </item>
+								                   <item>Cer<ref target="https://www.conservationevidence.com/actions/1434">tify farms and market their products as &#8216;primate friendly&#8217;</ref>
+                           </item>
+								                   <item>Far<ref target="https://www.conservationevidence.com/actions/1435">m more intensively and effectively in selected areas and spare more natural land</ref>
+                           </item>
+								                   <item>Ins<ref target="https://www.conservationevidence.com/actions/1436">tall mechanical barriers to deter primates (e.g. fences, ditches)</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+					             <row>
+						               <cell />
+						               <cell>
+							                 <list>
+								                   <item>Use<ref target="https://www.conservationevidence.com/actions/1437"> of natural hedges to deter primates</ref>
+                           </item>
+								                   <item>Use<ref target="https://www.conservationevidence.com/actions/1438"> of unpalatable buffer crops</ref>
+                           </item>
+								                   <item>Cha<ref target="https://www.conservationevidence.com/actions/1439">nge of crop (i.e. to a crop less palatable to primates)</ref>
+                           </item>
+								                   <item>Pla<ref target="https://www.conservationevidence.com/actions/1440">nt crops favoured by primates away from primate areas</ref>
+                           </item>
+								                   <item>Des<ref target="https://www.conservationevidence.com/actions/1441">troy habitat within buffer zones to make them unusable for primates</ref>
+                           </item>
+								                   <item>Use<ref target="https://www.conservationevidence.com/actions/1443"> GPS and/or VHF tracking devices on individuals of problem troops to provide farmers with early warning of crop raiding</ref>
+                           </item>
+								                   <item>Cha<ref target="https://www.conservationevidence.com/actions/1444">se crop-raiding primates using dogs</ref>
+                           </item>
+								                   <item>Tra<ref target="https://www.conservationevidence.com/actions/1445">in langur monkeys to deter rhesus macaques</ref>
+                           </item>
+								                   <item>Use<ref target="https://www.conservationevidence.com/actions/1446"> loud-speakers to broadcast sounds of potential threats (e.g. barking dogs, explosions, gunshots)</ref>
+                           </item>
+								                   <item>Use<ref target="https://www.conservationevidence.com/actions/1447"> loud-speakers to broadcast primate alarm calls</ref>
+                           </item>
+								                   <item>Str<ref target="https://www.conservationevidence.com/actions/1448">ategically lay out the scent of a primate predator (e.g. leopard, lion)</ref>
+                           </item>
+								                   <item>Hum<ref target="https://www.conservationevidence.com/actions/1450">ans chase primates using bright light</ref>
+                           </item>
+							                 </list>
+						               </cell>
+					             </row>
+				
+			            </table>
+               <hi rendition="simple:bold">
+                  <anchor xml:id="_idTextAnchor1372" />Likely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor1373" />
+               <ref target="https://www.conservationevidence.com/actions/1449">Humans chase primates using random loud noise</ref>One controlled, replicated, before-and-after study in Indonesia found that in areas where noise deterrents were used, along with tree nets, crop raiding by orangutans was reduced. One study in the Democratic Republic Congo found that chasing gorillas and using random noise resulted in the return of gorillas from plantation to areas close to protected forest. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 0%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/1449">https://www.conservationevidence.com/actions/1449</ref>
+               <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+               <anchor xml:id="_idTextAnchor1374" />
+               <ref target="https://www.conservationevidence.com/actions/1432">Prohibit (livestock) farmers from entering protected areas</ref>One before-and-after site comparison study in Rwanda found that numbers of young gorillas increased after removal of cattle from a protected area, alongside other interventions. One before-and-after study in Rwanda, Uganda, and the Democratic Republic of Congo found that gorilla numbers declined following the removal of livestock, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 30%; harms 0%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/1432">https://www.conservationevidence.com/actions/1432</ref>
+               <anchor xml:id="_idTextAnchor1375" />
+               <ref target="https://www.conservationevidence.com/actions/1442">Use nets to keep primates out of fruit trees</ref>A controlled, replicated, before-and-after study in Indonesia found that areas where nets were used to protect crop trees, crop-raiding by orangutans was reduced. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 30%; harms 20%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/1442">https://www.conservationevidence.com/actions/1442</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1376" />
+                     <ref target="https://www.conservationevidence.com/actions/1425">Create natural habitat islands within agricultural land</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1377" />
+                     <ref target="https://www.conservationevidence.com/actions/1426">Use fences as biological corridors for primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1378" />
+                     <ref target="https://www.conservationevidence.com/actions/1427">Provide sacrificial rows of crops on outer side of fields</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1379" />
+                     <ref target="https://www.conservationevidence.com/actions/1428">Compensate farmers for produce loss caused by primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1380" />
+                     <ref target="https://www.conservationevidence.com/actions/1429">Pay farmers to cover the costs of non-harmful strategies to deter primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1381" />
+                     <ref target="https://www.conservationevidence.com/actions/1430">Retain nesting trees/shelter for primates within agricultural fields</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1382" />
+                     <ref target="https://www.conservationevidence.com/actions/1431">Plant nesting trees/shelter for primates within agricultural fields</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1383" />
+                     <ref target="https://www.conservationevidence.com/actions/1433">Regularly remove traps and snares around agricultural fields</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1384" />
+                     <ref target="https://www.conservationevidence.com/actions/1434">Certify farms and market their products as &#8216;primate friendly&#8217;</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1385" />
+                     <ref target="https://www.conservationevidence.com/actions/1435">Farm more intensively and effectively in selected areas and spare more natural land</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1386" />
+                     <ref target="https://www.conservationevidence.com/actions/1436">Install mechanical barriers to deter primates (e.g. fences, ditches)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1387" />
+                     <ref target="https://www.conservationevidence.com/actions/1437">Use of natural hedges to deter primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1388" />
+                     <ref target="https://www.conservationevidence.com/actions/1438">Use of unpalatable buffer crops</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1389" />
+                     <ref target="https://www.conservationevidence.com/actions/1439">Change of crop (i.e. to a crop less palatable to primates)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1390" />
+                     <ref target="https://www.conservationevidence.com/actions/1440">Plant crops favoured by primates away from primate areas</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1391" />
+                     <ref target="https://www.conservationevidence.com/actions/1441">Destroy habitat within buffer zones to make them unusable for primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1392" />
+                     <ref target="https://www.conservationevidence.com/actions/1443">Use GPS and/or VHF tracking devices on individuals of problem troops to provide farmers with early warning of crop raiding</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1393" />
+                     <ref target="https://www.conservationevidence.com/actions/1444">Chase crop-raiding primates using dogs</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1394" />
+                     <ref target="https://www.conservationevidence.com/actions/1445">Train langur monkeys to deter rhesus macaques</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1395" />
+                     <ref target="https://www.conservationevidence.com/actions/1446">Use loud-speakers to broadcast sounds of potential threats (e.g. barking dogs, explosions, gunshots)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1396" />
+                     <ref target="https://www.conservationevidence.com/actions/1447">Use loud-speakers to broadcast primate alarm calls</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1397" />
+                     <ref target="https://www.conservationevidence.com/actions/1448">Strategically lay out the scent of a primate predator (e.g. leopard, lion)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1398" />
+                     <ref target="https://www.conservationevidence.com/actions/1450">Humans chase primates using bright light</ref>.<anchor xml:id="_idTextAnchor1399" />7.3  Threat: Energy production and mining<table xml:id="d7e679">
+                        <row>
+                           <cell cols="2">
+                              <p>
+                                 <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for energy and production mining?</hi>
+                              </p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>
+                                 <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <list>
+                                 <item>Min<ref target="https://www.conservationevidence.com/actions/1451">imize ground vibrations caused by open cast mining activities</ref>
+                                 </item>
+                                 <item>Est<ref target="https://www.conservationevidence.com/actions/1452">ablish no-mining zones in/near watersheds so as to preserve water levels and water quality</ref>
+                                 </item>
+                                 <item>Use<ref target="https://www.conservationevidence.com/actions/1453"> &#8216;set-aside&#8217; areas of natural habitat for primate protection within mining area</ref>
+                                 </item>
+                                 <item>Cer<ref target="https://www.conservationevidence.com/actions/1454">tify mines and market their products as &#8216;primate friendly&#8217; (e.g. ape-friendly cellular phones)</ref>
+                                 </item>
+                                 <item>Cre<ref target="https://www.conservationevidence.com/actions/1455">ate/preserve primate habitat on islands before dam construction</ref>
+                                 </item>
+                              </list>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+			            </list>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1400" />
+                     <ref target="https://www.conservationevidence.com/actions/1451">Minimize ground vibrations caused by open cast mining activities</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1401" />
+                     <ref target="https://www.conservationevidence.com/actions/1452">Establish no-mining zones in/near watersheds so as to preserve water levels and water quality</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1402" />
+                     <ref target="https://www.conservationevidence.com/actions/1453">Use &#8216;set-aside&#8217; areas of natural habitat for primate protection within mining area</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1403" />
+                     <ref target="https://www.conservationevidence.com/actions/1454">Certify mines and market their products as &#8216;primate friendly&#8217; (e.g. ape-friendly cellular phones)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1404" />
+                     <ref target="https://www.conservationevidence.com/actions/1455">Create/preserve primate habitat on islands before dam construction</ref>.<anchor xml:id="_idTextAnchor1405" />7.4  Threat: Transportation and service corridors<table xml:id="d7e756">
+                        <row>
+                           <cell cols="2">
+                              <p>
+                                 <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for transportation and service corridors?</hi>
+                              </p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>
+                                 <hi rendition="simple:bold">Likely to be beneficial</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <list>
+                                 <item>Ins<ref target="https://www.conservationevidence.com/actions/1457">tall rope or pole (canopy) bridges</ref>
+                                 </item>
+                              </list>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <p>
+                                 <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                              </p>
+                           </cell>
+                           <cell>
+                              <list>
+                                 <item>Ins<ref target="https://www.conservationevidence.com/actions/1456">tall green bridges (overpasses)</ref>
+                                 </item>
+                                 <item>Imp<ref target="https://www.conservationevidence.com/actions/1462">lement speed limits in particular areas (e.g. with high primate densities) to reduce vehicle collisions with primates</ref>
+                                 </item>
+                                 <item>Red<ref target="https://www.conservationevidence.com/actions/1459">uce road widths</ref>
+                                 </item>
+                                 <item>Imp<ref target="https://www.conservationevidence.com/actions/1460">ose fines for breaking the speed limit or colliding with primates</ref>
+                                 </item>
+                                 <item>Avo<ref target="https://www.conservationevidence.com/actions/1461">id building roads in key habitat or migration routes</ref>
+                                 </item>
+                                 <item>Imp<ref target="https://www.conservationevidence.com/actions/1462">lement a minimum number of roads (and minimize secondary roads) needed to reach mining extraction sites</ref>
+                                 </item>
+                                 <item>Re-<ref target="https://www.conservationevidence.com/actions/1463">use old roads rather than building new roads</ref>
+                                 </item>
+                                 <item>Re-<ref target="https://www.conservationevidence.com/actions/1464">route vehicles around protected areas</ref>
+                                 </item>
+                                 <item>Ins<ref target="https://www.conservationevidence.com/actions/1465">tall speed bumps to reduce vehicle collisions with primates</ref>
+                                 </item>
+                                 <item>Pro<ref target="https://www.conservationevidence.com/actions/1466">vide adequate signage of presence of primates on or near roads</ref>
+                                 </item>
+                              </list>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+			            </list>L<hi rendition="simple:bold">ikely to be beneficial</hi>
+               <anchor xml:id="_idTextAnchor1406" />
+               <ref target="https://www.conservationevidence.com/actions/1457">Install rope or pole (canopy) bridges</ref>One before-and-after study in Belize study found that howler monkey numbers increased after pole bridges were constructed over man-made gaps. Two studies in Brazil and Madagascar found that primates used pole bridges to cross roads and pipelines. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 50%; harms 0%).</hi>
+               <ref target="https://www.conservationevidence.com/actions/1457">https://www.conservationevidence.com/actions/1457</ref>
+               <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+               <p>We have captured no evidence for the following interventions:</p>
+               <list>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1407" />
+                     <ref target="https://www.conservationevidence.com/actions/1456">Install green bridges (overpasses)</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1408" />
+                     <ref target="https://www.conservationevidence.com/actions/1462">Implement speed limits in particular areas (e.g. with high primate densities) to reduce vehicle collisions with primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1409" />
+                     <ref target="https://www.conservationevidence.com/actions/1459">Reduce road widths</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1410" />
+                     <ref target="https://www.conservationevidence.com/actions/1460">Impose fines for breaking the speed limit or colliding with primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1411" />
+                     <ref target="https://www.conservationevidence.com/actions/1461">Avoid building roads in key habitat or migration routes</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1412" />
+                     <ref target="https://www.conservationevidence.com/actions/1462">Implement a minimum number of roads (and minimize secondary roads) needed to reach mining extraction sites</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1413" />
+                     <ref target="https://www.conservationevidence.com/actions/1463">Re-use old roads rather than building new roads</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1414" />
+                     <ref target="https://www.conservationevidence.com/actions/1464">Re-route vehicles around protected areas</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1415" />
+                     <ref target="https://www.conservationevidence.com/actions/1465">Install speed bumps to reduce vehicle collisions with primates</ref>
+                  </item>
+				              <item>
+                     <anchor xml:id="_idTextAnchor1416" />
+                     <ref target="https://www.conservationevidence.com/actions/1466">Provide adequate signage of presence of primates on or near roads</ref>.<anchor xml:id="_idTextAnchor1417" />7.5  Threat: Biological resource use</item>
+			            </list>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1418" />7.5.1 Hunting</head>
+                  <table xml:id="d7e915">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for hunting?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Con<ref target="https://www.conservationevidence.com/actions/1471">duct regular anti-poaching patrols</ref>
+                              </item>
+								                      <item>Reg<ref target="https://www.conservationevidence.com/actions/1475">ularly de-activate/remove ground snares</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1476">vide better equipment (e.g. guns) to anti-poaching ranger patrols</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1478">lement local no-hunting community policies/traditional hunting ban</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1482">lement community control of patrolling, banning hunting and removing snares</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Str<ref target="https://www.conservationevidence.com/actions/1479">engthen/support/re-install traditions/taboos that forbid the killing of primates</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1481">lement monitoring surveillance strategies (e.g. SMART) or use monitoring data to improve effectiveness of wildlife law enforcement patrols</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1477">vide training to anti-poaching ranger patrols</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1467">lement no-hunting seasons for primates</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1468">lement sustainable harvesting of primates (e.g. with permits, resource access agreements)</ref>
+                              </item>
+								                      <item>Enc<ref target="https://www.conservationevidence.com/actions/1469">ourage use of traditional hunting methods rather than using guns</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1470">lement road blocks to inspect cars for illegal primate bushmeat</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell />
+						                  <cell>
+							                    <list>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1472">vide medicine to local communities to control killing of primates for medicinal purposes</ref> 
+                              </item>
+								                      <item>Int<ref target="https://www.conservationevidence.com/actions/1473">roduce ammunition tax</ref>
+                              </item>
+								                      <item>Ins<ref target="https://www.conservationevidence.com/actions/1474">pect bushmeat markets for illegal primate species</ref>
+                              </item>
+								                      <item>Inf<ref target="https://www.conservationevidence.com/actions/1480">orm hunters of the dangers (e.g., disease transmission) of wild primate meat</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>L<hi rendition="simple:bold">ikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1419" />
+                  <ref target="http://www.conservationevidence.com/actions/1471">Conduct regular anti-poaching patrols</ref>Two of three studies found that gorilla populations increased after regular anti-poaching patrols were conducted, alongside other interventions. One study in Ghana found a decline in gorilla populations. One review on gorillas in Uganda found that no gorillas were killed after an increase in anti-poaching patrols. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 50%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1471">https://www.conservationevidence.com/actions/1471</ref>
+                  <anchor xml:id="_idTextAnchor1420" />
+                  <ref target="http://www.conservationevidence.com/actions/1475">Regularly de-activate/remove ground snares</ref>One of two studies found that the number of gorillas increased in an area patrolled for removing snares, alongside other interventions. One study in the Democratic Republic of Congo, Rwanda, and Uganda found that gorilla populations declined despite snare removal. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1475">https://www.conservationevidence.com/actions/1475</ref>
+                  <anchor xml:id="_idTextAnchor1421" />
+                  <ref target="http://www.conservationevidence.com/actions/1476">Provide better equipment (e.g. guns) to anti-poaching ranger patrols</ref>Two studies in the Democratic Republic of Congo and Rwanda found that gorilla populations increased after providing anti-poaching guards with better equipment, alongside other interventions. One study in Uganda found that no gorillas were killed after providing game guards with better equipment. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 50%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1476">https://www.conservationevidence.com/actions/1476</ref>
+                  <anchor xml:id="_idTextAnchor1422" />
+                  <ref target="http://www.conservationevidence.com/actions/1478">Implement local no-hunting community policies/traditional hunting ban</ref>Four studies, one of which had multiple interventions, in the Democratic Republic of Congo, Belize, Cameroon and Nigeria found that primate populations increased in areas where there were bans on hunting or where hunting was reduced due to local taboos. One study found that very few primates were killed in a sacred site in China where it is forbidden to kill wildlife. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="http://www.conservationevidence.com/actions/1478">https://www.conservationevidence.com/actions/1478</ref>
+                  <anchor xml:id="_idTextAnchor1423" />
+                  <ref target="http://www.conservationevidence.com/actions/1482">Implement community control of patrolling, banning hunting and removing snares</ref>Two site comparison studies found that there were more gorillas and chimpanzees in an area managed by a community conservation organisation than in areas not managed by local communities and community control was more effective at reducing illegal primate hunting compared to the nearby national park. A before-and-after study in Cameroon found that no incidents of gorilla poaching occurred over three years after implementation of community control and monitoring of illegal activities. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 70%; certainty 50%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1482">https://www.conservationevidence.com/actions/1482</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1424" />
+                  <ref target="https://www.conservationevidence.com/actions/1479">Strengthen/support/re-install traditions/taboos that forbid the killing of primates</ref>One site comparison study in Laos found that Laotian black crested gibbons occurred at higher densities in areas where they were protected by a local hunting taboo compared to sites were there was no taboo. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1479">https://www.conservationevidence.com/actions/1479</ref>
+                  <anchor xml:id="_idTextAnchor1425" />
+                  <ref target="https://www.conservationevidence.com/actions/1481">Implement monitoring surveillance strategies (e.g. SMART) or use monitoring data to improve effectiveness of wildlife law enforcement patrols</ref>One before-and-after study in Nigeria found that more gorillas and chimpanzees were observed after the implementation of law enforcement and a monitoring system. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1481">https://www.conservationevidence.com/actions/1481</ref> 
+                  <anchor xml:id="_idTextAnchor1426" />
+                  <ref target="https://www.conservationevidence.com/actions/1477">Provide training to anti-poaching ranger patrols</ref>Two before-and-after studies in Rwanda and India found that primate populations increased in areas where anti-poaching staff received training, alongside other interventions. Two studies in Uganda and Cameroon found that no poaching occurred following training of anti-poaching rangers, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 70%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1477">https://www.conservationevidence.com/actions/1477</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1427" />
+                        <ref target="https://www.conservationevidence.com/actions/1467">Implement no-hunting seasons for primates</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1428" />
+                        <ref target="https://www.conservationevidence.com/actions/1468">Implement sustainable harvesting of primates (e.g. with permits, resource access agreements)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1429" />
+                        <ref target="https://www.conservationevidence.com/actions/1469">Encourage use of traditional hunting methods rather than using guns</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1430" />
+                        <ref target="https://www.conservationevidence.com/actions/1470">Implement road blocks to inspect cars for illegal primate bushmeat</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1431" />
+                        <ref target="https://www.conservationevidence.com/actions/1472">Provide medicine to local communities to control killing of primates for medicinal purposes</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1432" />
+                        <ref target="https://www.conservationevidence.com/actions/1473">Introduce ammunition tax</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1433" />
+                        <ref target="https://www.conservationevidence.com/actions/1474">Inspect bushmeat markets for illegal primate species</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1434" />
+                        <ref target="https://www.conservationevidence.com/actions/1480">Inform hunters of the dangers (e.g., disease transmission) of wild primate meat</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1435" />7.5.2 Substitution</head>
+                  <table xml:id="d7e1262">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for substitution?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="https://www.conservationevidence.com/actions/1485"> selective logging instead of clear-cutting</ref>
+                              </item>
+								                      <item>Avo<ref target="https://www.conservationevidence.com/actions/1494">id/minimize logging of important food tree species for primates </ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Use<ref target="https://www.conservationevidence.com/actions/1467"> patch retention harvesting instead of clear-cutting</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1487">lement small and dispersed logging compartments</ref>
+                              </item>
+								                      <item>Use<ref target="https://www.conservationevidence.com/actions/1488"> shelter wood cutting instead of clear-cutting</ref>
+                              </item>
+								                      <item>Lea<ref target="https://www.conservationevidence.com/actions/1489">ve hollow trees in areas of selective logging for sleeping sites</ref>
+                              </item>
+								                      <item>Cle<ref target="https://www.conservationevidence.com/actions/1490">ar open patches in the forest</ref>
+                              </item>
+								                      <item>Thi<ref target="https://www.conservationevidence.com/actions/1491">n trees within forests</ref>
+                              </item>
+								                      <item>Cop<ref target="https://www.conservationevidence.com/actions/1513">pice trees</ref>
+                              </item>
+								                      <item>Man<ref target="https://www.conservationevidence.com/actions/1492">ually control or remove secondary mid-storey and ground-level vegetation</ref>
+                              </item>
+								                      <item>Avo<ref target="https://www.conservationevidence.com/actions/1493">id slashing climbers/lianas, trees housing them, hemi-epiphytic figs, and ground vegetation</ref>
+                              </item>
+								                      <item>Inc<ref target="https://www.conservationevidence.com/actions/1495">orporate forested corridors or buffers into logged areas</ref>
+                              </item>
+								                      <item>Clo<ref target="https://www.conservationevidence.com/actions/1496">se non-essential roads as soon as logging operations are complete</ref>
+                              </item>
+								                      <item>Use<ref target="https://www.conservationevidence.com/actions/1497"> &#8216;set-asides&#8217; for primate protection within logging area</ref>
+                              </item>
+								                      <item>Wor<ref target="https://www.conservationevidence.com/actions/1498">k inward from barriers or boundaries (e.g. river) to avoid pushing primates toward an impassable barrier or inhospitable habitat</ref>
+                              </item>
+								                      <item>Red<ref target="https://www.conservationevidence.com/actions/1499">uce the size of forestry teams to include employees only (not family members)</ref>
+                              </item>
+								                      <item>Cer<ref target="https://www.conservationevidence.com/actions/1500">tify forest concessions and market their products as &#8216;primate friendly&#8217;</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1501">vide domestic meat to workers of the logging company to reduce hunting</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1436" />
+                  <ref target="https://www.conservationevidence.com/actions/1485">Use selective logging instead of clear-cutting</ref>One of two site comparison studies in Africa found that primate abundance was higher in forests that had been logged at low intensity compared to forest logged at high intensity. One study in Uganda found that primate abundances were similar in lightly and heavily logged forests. One study in Madagascar found that the number of lemurs increased following selective logging. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 35%; harms 30%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1485">https://www.conservationevidence.com/actions/1485</ref> 
+                  <anchor xml:id="_idTextAnchor1437" />
+                  <ref target="https://www.conservationevidence.com/actions/1494">Avoid/minimize logging of important food tree species for primates</ref>One before-and-after study in Belize found that black howler monkey numbers increased over a 13 year period after trees important for food for the species were preserved, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 20%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1494">https://www.conservationevidence.com/actions/1494</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1438" />
+                        <ref target="https://www.conservationevidence.com/actions/1467">Use patch retention harvesting instead of clear-cutting</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1439" />
+                        <ref target="https://www.conservationevidence.com/actions/1487">Implement small and dispersed logging compartments</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1440" />
+                        <ref target="https://www.conservationevidence.com/actions/1488">Use shelter wood cutting instead of clear-cutting</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1441" />
+                        <ref target="https://www.conservationevidence.com/actions/1489">Leave hollow trees in areas of selective logging for sleeping sites</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1442" />
+                        <ref target="https://www.conservationevidence.com/actions/1490">Clear open patches in the forest</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1443" />
+                        <ref target="https://www.conservationevidence.com/actions/1491">Thin trees within forests</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1444" />
+                        <ref target="https://www.conservationevidence.com/actions/1513">Coppice trees</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1445" />
+                        <ref target="https://www.conservationevidence.com/actions/1492">Manually control or remove secondary mid-storey and ground-level vegetation</ref>.</item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1446" />
+                        <ref target="https://www.conservationevidence.com/actions/1493">Avoid slashing climbers/lianas, trees housing them, hemi-epiphytic figs, and ground vegetation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1447" />
+                        <ref target="https://www.conservationevidence.com/actions/1495">Incorporate forested corridors or buffers into logged areas</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1448" />
+                        <ref target="https://www.conservationevidence.com/actions/1496">Close non-essential roads as soon as logging operations are complete</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1449" />
+                        <ref target="https://www.conservationevidence.com/actions/1497">Use &#8216;set-asides&#8217; for primate protection within logging area</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1450" />
+                        <ref target="https://www.conservationevidence.com/actions/1498">Work inward from barriers or boundaries (e.g. river) to avoid pushing primates toward an impassable barrier or inhospitable habitat</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1451" />
+                        <ref target="https://www.conservationevidence.com/actions/1499">Reduce the size of forestry teams to include employees only (not family members)</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1452" />
+                        <ref target="https://www.conservationevidence.com/actions/1500">Certify forest concessions and market their products as &#8216;primate friendly&#8217;</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1453" />
+                        <ref target="https://www.conservationevidence.com/actions/1501">Provide domestic meat to workers of the logging company to reduce hunting</ref>.<anchor xml:id="_idTextAnchor1454" />7.6  Threat: Human intrusions and disturbance<table xml:id="d7e1538">
+                           <row>
+                              <cell cols="2">
+                                 <p>
+                                    <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for human intrusions and disturbance?</hi>
+                                 </p>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <p>
+                                    <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                                 </p>
+                              </cell>
+                              <cell>
+                                 <list>
+                                    <item>Imp<ref target="https://www.conservationevidence.com/actions/1502">lement a &#8216;no-feeding of wild primates&#8217; policy</ref>
+                                    </item>
+                                    <item>Put<ref target="https://www.conservationevidence.com/actions/1507"> up signs to warn people about not feeding primates</ref>
+                                    </item>
+                                    <item>Res<ref target="https://www.conservationevidence.com/actions/1515">ettle illegal human communities (i.e. in a protected area) to another location</ref>
+                                    </item>
+                                 </list>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <p>
+                                    <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                                 </p>
+                              </cell>
+                              <cell>
+                                 <list>
+                                    <item>Bui<ref target="https://www.conservationevidence.com/actions/1503">ld fences to keep humans out</ref>
+                                    </item>
+                                    <item>Res<ref target="https://www.conservationevidence.com/actions/1504">trict number of people that are allowed access to the site</ref>
+                                    </item>
+                                    <item>Ins<ref target="https://www.conservationevidence.com/actions/1505">tall &#8216;primate-proof&#8217; garbage bins</ref>
+                                    </item>
+                                    <item>Do <ref target="https://www.conservationevidence.com/actions/1508">not allow people to consume food within natural areas where primates can view them</ref>
+                                    </item>
+                                 </list>
+                              </cell>
+                           </row>
+                        </table>
+                     </item>
+			               </list>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1455" />
+                  <ref target="https://www.conservationevidence.com/actions/1502">Implement a &#8216;no-feeding of wild primates&#8217; policy</ref>A controlled before-and-after study in Japan found that reducing food provisioning of macaques progressively reduced productivity and reversed population increases and crop and forest damage. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 20%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1502">https://www.conservationevidence.com/actions/1502</ref> 
+                  <anchor xml:id="_idTextAnchor1456" />
+                  <ref target="https://www.conservationevidence.com/actions/1507">Put up signs to warn people about not feeding primates</ref>One review study in Japan found that after macaque feeding by tourists was banned and advertised, the number of aggressive incidents between people and macaques decreased as well as the number of road collisions with macaques that used to be fed from cars. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 30%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1507">https://www.conservationevidence.com/actions/1507</ref>
+                  <anchor xml:id="_idTextAnchor1457" />
+                  <ref target="https://www.conservationevidence.com/actions/1515">Resettle illegal human communities (i.e. in a protected area) to another location </ref>One review on gorillas in Uganda found that no more gorillas were killed after human settlers were relocated outside the protected area, alongside other interventions. One before-and-after study in the Republic of Congo found that most reintroduced chimpanzees survived over five years after human communities were resettled, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 65%; certainty 15%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1515">https://www.conservationevidence.com/actions/1515</ref>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1458" />
+                        <ref target="https://www.conservationevidence.com/actions/1503">Build fences to keep humans out</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1459" />
+                        <ref target="https://www.conservationevidence.com/actions/1504">Restrict number of people that are allowed access to the site</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1460" />
+                        <ref target="https://www.conservationevidence.com/actions/1505">Install &#8216;primate-proof&#8217; garbage bins</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1461" />
+                        <ref target="https://www.conservationevidence.com/actions/1508">Do not allow people to consume food within natural areas where primates can view them</ref>.<anchor xml:id="_idTextAnchor1462" />7.7  Threat: Natural system modifications<table xml:id="d7e1673">
+                           <row>
+                              <cell cols="2">
+                                 <p>
+                                    <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for natural system modifications?</hi>
+                                 </p>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <p>
+                                    <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                                 </p>
+                              </cell>
+                              <cell>
+                                 <list>
+                                    <item>Use<ref target="https://www.conservationevidence.com/actions/1516"> prescribed burning within the context of home range size and use </ref>
+                                    </item>
+                                    <item>Pro<ref target="https://www.conservationevidence.com/actions/1518">tect important food/nest trees before burning</ref>
+                                    </item>
+                                 </list>
+                              </cell>
+                           </row>
+                        </table>
+                     </item>
+			               </list>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1463" />
+                        <ref target="https://www.conservationevidence.com/actions/1516">Use prescribed burning within the context of home range size and use</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1464" />
+                        <ref target="https://www.conservationevidence.com/actions/1518">Protect important food/nest trees before burning</ref>.<anchor xml:id="_idTextAnchor1465" />7.8  Threat: Invasive and other problematic species and genes</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1466" />7.8.1 Problematic animal/plant species and genes</head>
+                  <table xml:id="d7e1729">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for problematic animal/plant species and genes?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Red<ref target="https://www.conservationevidence.com/actions/1534">uce primate predation by non-primate species through exclusion (e.g. fences) or translocation</ref>
+                              </item>
+								                      <item> Re<ref target="https://www.conservationevidence.com/actions/1522">duce primate predation by other primate species through exclusion (e.g. fences) or translocation</ref>
+                              </item>
+								                      <item>Con<ref target="https://www.conservationevidence.com/actions/1532">trol habitat-altering mammals (e.g. elephants) through exclusion (e.g. fences) or translocation</ref>
+                              </item>
+								                      <item>Con<ref target="https://www.conservationevidence.com/actions/1520">trol inter-specific competition for food through exclusion (e.g. fences) or translocation</ref>
+                              </item>
+								                      <item>Rem<ref target="https://www.conservationevidence.com/actions/1533">ove alien invasive vegetation where the latter has a clear negative effect on the primate species in question</ref>
+                              </item>
+								                      <item>Pre<ref target="https://www.conservationevidence.com/actions/1536">vent gene contamination by alien primate species introduced by humans, through exclusion (e.g. fences) or translocation</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1467" />
+                        <ref target="https://www.conservationevidence.com/actions/1534">Reduce primate predation by non-primate species through exclusion (e.g. fences) or translocation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1468" />
+                        <ref target="https://www.conservationevidence.com/actions/1522">Reduce primate predation by other primate species through exclusion (e.g. fences) or translocation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1469" />
+                        <ref target="https://www.conservationevidence.com/actions/1532">Control habitat-altering mammals (e.g. elephants) through exclusion (e.g. fences) or translocation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1470" />
+                        <ref target="https://www.conservationevidence.com/actions/1520">Control inter-specific competition for food through exclusion (e.g. fences) or translocation</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1471" />
+                        <ref target="https://www.conservationevidence.com/actions/1533">Remove alien invasive vegetation where the latter has a clear negative effect on the primate species in question</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1472" />
+                        <ref target="https://www.conservationevidence.com/actions/1536">Prevent gene contamination by alien primate species introduced by humans, through exclusion (e.g. fences) or translocation</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1473" />7.8.2 Disease transmission</head>
+                  <table xml:id="d7e1846">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for disease transmission?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pre<ref target="http://www.conservationevidence.com/actions/1549">ventative vaccination of habituated or wild primates </ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Wea<ref target="https://www.conservationevidence.com/actions/1537">r face-masks to avoid transmission of viral and bacterial diseases to primates </ref>
+                              </item>
+								                      <item>Kee<ref target="https://www.conservationevidence.com/actions/1538">p safety distance to habituated animals</ref>
+                              </item>
+								                      <item>Lim<ref target="https://www.conservationevidence.com/actions/1539">it time that researchers/tourists are allowed to spend with habituated animals</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1541">lement quarantine for primates before reintroduction/translocation</ref>
+                              </item>
+								                      <item>Ens<ref target="https://www.conservationevidence.com/actions/1546">ure that researchers/tourists are up-to-date with vaccinations and healthy</ref>
+                              </item>
+								                      <item>Reg<ref target="https://www.conservationevidence.com/actions/1547">ularly disinfect clothes, boots etc.</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell />
+						                  <cell>
+							                    <list>
+								                      <item>Tre<ref target="https://www.conservationevidence.com/actions/1550">at sick/injured animals</ref>
+                              </item>
+								                      <item>Rem<ref target="https://www.conservationevidence.com/actions/1551">ove/treat external/internal parasites to increase reproductive success/survival </ref>
+                              </item>
+								                      <item>Con<ref target="https://www.conservationevidence.com/actions/1553">duct veterinary screens of animals before reintroducing/translocating them</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1554">lement continuous health monitoring with permanent vet on site</ref>
+                              </item>
+								                      <item>Det<ref target="https://www.conservationevidence.com/actions/1556">ect and report dead primates and clinically determine their cause of death to avoid disease transmission</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Im<ref target="https://www.conservationevidence.com/actions/1540">plement quarantine for people arriving at, and leaving the site</ref>
+                              </item>
+								                      <item>Wea<ref target="https://www.conservationevidence.com/actions/1548">r gloves when handling primate food, tool items, etc.</ref>
+                              </item>
+								                      <item>Con<ref target="https://www.conservationevidence.com/actions/1552">trol &#8216;reservoir&#8217; species to reduce parasite burdens/pathogen sources</ref>
+                              </item>
+								                      <item>Avo<ref target="https://www.conservationevidence.com/actions/1555">id contact between wild primates and human-raised primates</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1557">lement a health programme for local communities</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor1474" />
+                  <ref target="https://www.conservationevidence.com/actions/1549">Preventative vaccination of habituated or wild primates</ref> Three before-and-after studies in the Republic of Congo and Gabon, two focusing on chimpanzees and one on gorillas, found that most reintroduced individuals survived over 3.5-10 years after being vaccinated, alongside other interventions. One before-and-after study in Puerto Rico found that annual mortality of introduced rhesus macaques decreased after a preventive tetanus vaccine campaign, alongside other interventions. <hi rendition="simple:italic">Assessment: trade-offs between benefits and harms (effectiveness 70%; certainty 40%; harms 30%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1549">https://www.conservationevidence.com/actions/1549</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1475" />
+                  <ref target="https://www.conservationevidence.com/actions/1537">Wear face-masks to avoid transmission of viral and bacterial diseases to primates </ref>One before-and-after study in Rwanda, Uganda and the Democratic Republic of Congo found that gorilla numbers increased while being visited by researchers and visitors wearing face-masks, alongside other interventions. One study in Uganda found that a confiscated chimpanzee was successfully reunited with his mother after being handled by caretakers wearing face-masks, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 5%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1537">https://www.conservationevidence.com/actions/1537</ref> 
+                  <anchor xml:id="_idTextAnchor1476" />
+                  <ref target="https://www.conservationevidence.com/actions/1538">Keep safety distance to habituated animals</ref>One before-and-after study in the Republic of Congo found that most reintroduced chimpanzees survived over five years while being routinely followed from a safety distance, alongside other interventions. One before-and-after study in Rwanda, Uganda and the Democratic Republic of Congo found that gorilla numbers increased while being routinely visited from a safety distance, alongside other interventions. However, one study in Malaysia found that orangutan numbers declined while being routinely visited from a safety distance. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1538">https://www.conservationevidence.com/actions/1538</ref>
+                  <anchor xml:id="_idTextAnchor1477" />
+                  <ref target="https://www.conservationevidence.com/actions/1539">Limit time that researchers/tourists are allowed to spend with habituated animals</ref>One before-and-after study in Rwanda, Uganda and the Democratic Republic of Congo found that gorilla numbers increased while being routinely visited during limited time, alongside other interventions. One controlled study in Indonesia found that the behaviour of orangutans that spent limited time with caretakers was more similar to the behaviour of wild orangutans than that of individuals that spent more time with caretakers. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1539">https://www.conservationevidence.com/actions/1539</ref>
+                  <anchor xml:id="_idTextAnchor1478" />
+                  <ref target="https://www.conservationevidence.com/actions/1541">Implement quarantine for primates before reintroduction/translocation</ref>Six studies, including four before-and-after studies, in Brazil, Madagascar, Malaysia and Indonesia have found that most reintroduced primates did not survive or their population size decreased over periods ranging from months up to seven years post-release, despite being quarantined before release, alongside other interventions. However, two before-and-after studies in Indonesia, the Republic of Congo and Gabon found that most orangutans and gorillas that underwent quarantine survived over a period ranging from three months to 10 years. One before-and-after study in Uganda found that one reintroduced chimpanzee repeatedly returned to human settlements after being quarantined before release alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1541">https://www.conservationevidence.com/actions/1541</ref>
+                  <anchor xml:id="_idTextAnchor1479" />
+                  <ref target="https://www.conservationevidence.com/actions/1546">Ensure that researchers/tourists are up-to-date with vaccinations and healthy</ref>One before-and-after study in Rwanda, Uganda and the Republic of Congo found that gorilla numbers increased while being visited by healthy researchers and visitors, alongside other interventions. However, one controlled study in Malaysia found that orangutan numbers decreased despite being visited by healthy researchers and visitors, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 30%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1546">https://www.conservationevidence.com/actions/1546</ref>
+                  <anchor xml:id="_idTextAnchor1480" />
+                  <ref target="https://www.conservationevidence.com/actions/1547">Regularly disinfect clothes, boots etc.</ref>One controlled, before-and-after study in Rwanda, Uganda and the Democratic Republic of Congo found that gorilla numbers increased while being regularly visited by researchers and visitors whose clothes were disinfected, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1547">https://www.conservationevidence.com/actions/1547</ref>
+                  <anchor xml:id="_idTextAnchor1481" />
+                  <ref target="https://www.conservationevidence.com/actions/1550">Treat sick/injured animals</ref>Eight studies, including four before-and-after studies, in Brazil, Malaysia, Liberia, the Democratic Republic of Congo, The Gambia and South Africa found that most reintroduced or translocated primates that were treated when sick or injured, alongside other interventions, survived being released and up to at least five years. However, five studies, including one review and four before-and-after studies, in Brazil, Thailand, Malaysia and Madagascar found that most reintroduced or translocated primates did not survive or their numbers declined despite being treated when sick or injured, alongside other interventions. One study in Uganda found that several infected gorillas were medically treated after receiving treatment, alongside other interventions. One study in Senegal found that one chimpanzee was reunited with his mother after being treated for injuries, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 20%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1550">https://www.conservationevidence.com/actions/1550</ref>
+                  <anchor xml:id="_idTextAnchor1482" />
+                  <ref target="https://www.conservationevidence.com/actions/1551">Remove/treat external/internal parasites to increase reproductive success/survival</ref>Five studies, including four before-and-after studies, in the Republic of Congo, The Gambia and Gabon found that most reintroduced or translocated primates that were treated for parasites, alongside other interventions, survived periods of at least five years. However, four studies, including one before-and-after study, in Brazil, Gabon and Vietnam found that most reintroduced primates did not survive or their numbers declined after being treated for parasites, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 5%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1551">https://www.conservationevidence.com/actions/1551</ref>
+                  <anchor xml:id="_idTextAnchor1483" />
+                  <ref target="https://www.conservationevidence.com/actions/1553">Conduct veterinary screens of animals before reintroducing/translocating them</ref>Twelve studies, including seven before-and-after studies, in Brazil, Malaysia, Indonesia, Liberia, the Republic of Congo, Guinea, Belize, French Guiana and Madagascar found that most reintroduced or translocated primates that underwent pre-release veterinary screens, alongside other interventions, survived, in some situations, up to at least five years or increased in population size. However, 10 studies, including six before-and-after studies, in Brazil, Malaysia, French Guiana, Madagascar, Kenya, South Africa and Vietnam found that most reintroduced or translocated primates did not survive or their numbers declined after undergoing pre-release veterinary screens, alongside other interventions. One before-and-after study in Uganda, found that one reintroduced chimpanzee repeatedly returned to human settlements after undergoing pre-release veterinary screens, alongside other interventions. One controlled study in Indonesia found that gibbons that underwent pre-release veterinary screens, alongside other interventions, behaved similarly to wild gibbons. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1553">https://www.conservationevidence.com/actions/1553</ref> 
+                  <anchor xml:id="_idTextAnchor1484" />
+                  <ref target="https://www.conservationevidence.com/actions/1554">Implement continuous health monitoring with permanent vet on site</ref>One controlled, before-and-after study in Rwanda, Uganda and the Republic of Congo found that numbers of gorillas that were continuously monitored by vets, alongside other interventions, increased over 41 years. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 20%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1554">https://www.conservationevidence.com/actions/1554</ref> 
+                  <anchor xml:id="_idTextAnchor1485" />
+                  <ref target="https://www.conservationevidence.com/actions/1556">Detect and report dead primates and clinically determine their cause of death to avoid disease transmission</ref>One controlled, before-and-after study in Rwanda, Uganda and the Republic of Congo found that numbers of gorillas that were continuously monitored by vets, alongside other interventions, increased over 41 years. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1556">https://www.conservationevidence.com/actions/1556</ref>
+                  <hi rendition="simple:bold"> No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1486" />
+                        <ref target="https://www.conservationevidence.com/actions/1540">Implement quarantine for people arriving at, and leaving the site</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1487" />
+                        <ref target="https://www.conservationevidence.com/actions/1548">Wear gloves when handling primate food, tool items, etc.</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1488" />
+                        <ref target="https://www.conservationevidence.com/actions/1552">Control &#8216;reservoir&#8217; species to reduce parasite burdens/pathogen sources</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1489" />
+                        <ref target="https://www.conservationevidence.com/actions/1555">Avoid contact between wild primates and human-raised primates</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1490" />
+                        <ref target="https://www.conservationevidence.com/actions/1557">Implement a health programme for local communities</ref>.<anchor xml:id="_idTextAnchor1491" />7.9  Threat: Pollution</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1492" />7.9.1 Garbage/solid waste</head>
+                  <table xml:id="d7e2244">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for garbage and solid waste?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Red<ref target="https://www.conservationevidence.com/actions/1560">uce garbage/solid waste to avoid primate injuries</ref>
+                              </item>
+								                      <item>Rem<ref target="https://www.conservationevidence.com/actions/1561">ove human food waste that may potentially serve as food sources for primates to avoid disease transmission and conflict with humans</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1493" />
+                        <ref target="https://www.conservationevidence.com/actions/1560">Reduce garbage/solid waste to avoid primate injuries</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1494" />
+                        <ref target="https://www.conservationevidence.com/actions/1561">Remove human food waste that may potentially serve as food sources for primates to avoid disease transmission and conflict with humans.</ref>
+                     </item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1495" />7.9.2 Excess energy</head>
+                  <table xml:id="d7e2318">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for excess energy?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Red<ref target="https://www.conservationevidence.com/actions/1562">uce noise pollution by restricting development activities to certain times of the day/night  </ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <ref target="https://www.conservationevidence.com/actions/1538" />
+                  <hi rendition="simple:bold"> N</hi>
+                  <hi rendition="simple:bold">o evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1496" />
+                        <ref target="https://www.conservationevidence.com/actions/1562">Reduce noise pollution by restricting development activities to certain times of the day/night</ref>.<anchor xml:id="_idTextAnchor1497" />7.10  Education and Awareness<table xml:id="d7e2385">
+                           <row>
+                              <cell cols="2">
+                                 <p>
+                                    <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for education and awareness?</hi>
+                                 </p>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <p>
+                                    <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                                 </p>
+                              </cell>
+                              <cell>
+                                 <list>
+                                    <item>Edu<ref target="https://www.conservationevidence.com/actions/1563">cate local communities about primates and sustainable use</ref>
+                                       <ref target="https://www.conservationevidence.com/actions/1565" />
+                                    </item>
+                                    <item>
+                                       <ref target="https://www.conservationevidence.com/actions/1565">Involve local community in primate research and conservation management </ref>
+                                    </item>
+                                    <item>Reg<ref target="https://www.conservationevidence.com/actions/1569">ularly play TV and radio announcements to raise primate conservation awareness</ref>
+                                    </item>
+                                    <item>Imp<ref target="https://www.conservationevidence.com/actions/1571">lement multimedia campaigns using theatre, film, print media,  discussions</ref>
+                                    </item>
+                                 </list>
+                              </cell>
+                           </row>
+                           <row>
+                              <cell>
+                                 <p>
+                                    <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                                 </p>
+                              </cell>
+                              <cell>
+                                 <list>
+                                    <item>Ins<ref target="https://www.conservationevidence.com/actions/1566">tall billboards to raise primate conservation awareness</ref>
+                                    </item>
+                                    <item>Int<ref target="https://www.conservationevidence.com/actions/1574">egrate local religion/taboos into conservation education  </ref>
+                                    </item>
+                                 </list>
+                              </cell>
+                           </row>
+                        </table>
+                     </item>
+			               </list>
+                  <ref target="https://www.conservationevidence.com/actions/1538" />
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1498" />
+                  <ref target="http://www.conservationevidence.com/actions/1563">Educate local communities about primates and sustainable use</ref>One before-and-after study in Cameroon found that numbers of drills increased after the implementation of an education programme, alongside one other intervention. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 0%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1563">https://www.conservationevidence.com/actions/1563</ref>
+                  <anchor xml:id="_idTextAnchor1499" />
+                  <ref target="https://www.conservationevidence.com/actions/1565">Involve local community in primate research and conservation management </ref> One before-and-after study in Rwanda, Uganda and the Democratic Republic of Congo found that gorilla numbers decreased despite the implementation of an environmental education programme, alongside other interventions. However, one before-and-after study in Cameroon found that gorilla poaching stopped after the implementation of a community-based monitoring scheme, alongside other interventions. One before-and-after study in Belize found that numbers of howler monkeys increased while local communities were involved in the management of the sanctuary, alongside other interventions. One before-and-after study in Uganda found that a reintroduced chimpanzee repeatedly returned to human settlements despite the involvement of local communities in the reintroduction project, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 20%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1565">https://www.conservationevidence.com/actions/1565</ref>
+                  <anchor xml:id="_idTextAnchor1500" />
+                  <ref target="https://www.conservationevidence.com/actions/1569">Regularly play TV and radio announcements to raise primate conservation awareness </ref>One before-and-after study in Congo found that most reintroduced chimpanzees whose release was covered by media, alongside other interventions, survived over five years. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 5%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1569">https://www.conservationevidence.com/actions/1569</ref>
+                  <anchor xml:id="_idTextAnchor1501" />
+                  <ref target="https://www.conservationevidence.com/actions/1571">Implement multimedia campaigns using theatre, film, print media, and discussions</ref>Three before-and-after studies in Belize and India found that primate numbers increased after the implementation of education programs, alongside other interventions. Three before-and-after studies found that the knowledge about primates increased after the implementation of education programmes. One before-and-after study in Madagascar found that lemur poaching appeared to have ceased after the distribution of conservation books in schools. One study in four African countries found that large numbers of people were informed about gorillas through multimedia campaigns using theatre and film. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1571">https://www.conservationevidence.com/actions/1571</ref> 
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1502" />
+                        <ref target="https://www.conservationevidence.com/actions/1566">Install billboards to raise primate conservation awareness</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1503" />
+                        <ref target="https://www.conservationevidence.com/actions/1574">Integrate local religion/taboos into conservation education</ref>.<anchor xml:id="_idTextAnchor1504" />7.11  Habitat protection</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1505" />7.11.1 Habitat protection</head>
+                  <table xml:id="d7e2531">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for habitat protection?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be</hi>
+                           </p>
+							                    <p>
+                              <hi rendition="simple:bold">beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cre<ref target="https://www.conservationevidence.com/actions/1580">ate/protect habitat corridors</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Leg<ref target="https://www.conservationevidence.com/actions/1578">ally protect primate habitat </ref>
+                              </item>
+								                      <item>Est<ref target="https://www.conservationevidence.com/actions/1579">ablish areas for conservation which are not protected by national or international legislation (e.g. private sector standards and codes)</ref>
+                              </item>
+								                      <item>Cre<ref target="https://www.conservationevidence.com/actions/1581">ate/protect forest patches in highly fragmented landscapes</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cre<ref target="https://www.conservationevidence.com/actions/1577">ate buffer zones around protected primate habitat</ref>
+                              </item>
+								                      <item>Dem<ref target="https://www.conservationevidence.com/actions/1582">arcate and enforce boundaries of protected areas</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">
+                     <anchor xml:id="_idTextAnchor1506" />Likely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1507" />
+                  <ref target="https://www.conservationevidence.com/actions/1580">Create/protect habitat corridors</ref>One before-and-after study in Belize found that howler monkey numbers increased after the protection of a forest corridor, alongside other interventions. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 65%; certainty 41%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1580">https://www.conservationevidence.com/actions/1580</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1508" />
+                  <ref target="https://www.conservationevidence.com/actions/1578">Legally protect primate habitat</ref>Two reviews and a before-and-after study in China found that primate numbers increased or their killing was halted after their habitat became legally protected, alongside other interventions. However, one before-and-after study in Kenya found that colobus and mangabey numbers decreased despite the area being declared legally protected, alongside other interventions. Two before-and-after studies found that most chimpanzees and gorillas reintroduced to areas that received legal protection, alongside other interventions, survived over 4&#8211;5 years. However, one before-and-after study in Brazil found that most golden lion tamarins did not survive over seven years despite being reintroduced to a legally protected area, alongside other interventions, yet produced offspring that partly compensated the mortality. One controlled, site comparison study in Mexico found that howler monkeys in protected areas had lower stress levels than individuals living in unprotected forest fragments. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1578">https://www.conservationevidence.com/actions/1578</ref> 
+                  <anchor xml:id="_idTextAnchor1509" />
+                  <ref target="https://www.conservationevidence.com/actions/1579">Establish areas for conservation which are not protected by national or international legislation (e.g. private sector standards and codes)</ref>Two before-and-after studies in Rwanda, Republic of Congo and Belize found that gorilla and howler monkey numbers increased after the implementation of a conservation project funded by a consortium of organizations or after being protected by local communities, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1579">https://www.conservationevidence.com/actions/1579</ref> 
+                  <anchor xml:id="_idTextAnchor1510" />
+                  <ref target="https://www.conservationevidence.com/actions/1581">Create/protect forest patches in highly fragmented landscapes</ref>One before-and-after study in Belize found that howler monkey numbers increased after the protection of forest along property boundaries and across cleared areas, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1581">https://www.conservationevidence.com/actions/1581</ref> 
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1511" />
+                        <ref target="https://www.conservationevidence.com/actions/1577">Create buffer zones around protected primate habitat</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1512" />
+                        <ref target="https://www.conservationevidence.com/actions/1582">Demarcate and enforce boundaries of protected areas</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1513" />7.11.2 Habitat creation or restoration</head>
+                  <table xml:id="d7e2732">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for habitat creation or restoration?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pla<ref target="https://www.conservationevidence.com/actions/1584">nt indigenous trees to re-establish natural tree communities in clear-cut areas</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Res<ref target="https://www.conservationevidence.com/actions/1583">tore habitat corridors</ref>
+                              </item>
+								                      <item>Pla<ref target="https://www.conservationevidence.com/actions/1586">nt indigenous fast-growing trees (will not necessarily resemble original community) in clear-cut areas</ref>
+                              </item>
+								                      <item>Use<ref target="https://www.conservationevidence.com/actions/1588"> weeding to promote regeneration of indigenous tree communities</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1514" />
+                  <ref target="https://www.conservationevidence.com/actions/1584">Plant indigenous trees to re-establish natural tree communities in clear-cut areas</ref>One site comparison study in Kenya found that group densities of two out of three primate species were lower in planted forests than in natural forests. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 30%; certainty 5%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1584">https://www.conservationevidence.com/actions/1584</ref> 
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1515" />
+                        <ref target="https://www.conservationevidence.com/actions/1583">Restore habitat corridors</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1516" />
+                        <ref target="https://www.conservationevidence.com/actions/1586">Plant indigenous fast-growing trees (will not necessarily resemble original community) in clear-cut areas</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1517" />
+                        <ref target="https://www.conservationevidence.com/actions/1588">Use weeding to promote regeneration of indigenous tree communities</ref>.<anchor xml:id="_idTextAnchor1518" />7.12  Species management</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1519" />7.12.1 Species management</head>
+                  <table xml:id="d7e2861">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for species management?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Gua<ref target="https://www.conservationevidence.com/actions/1523">rd habituated primate groups to ensure their safety/well-being</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Hab<ref target="https://www.conservationevidence.com/actions/1519">ituate primates to human presence to reduce stress from tourists/researchers etc.</ref>
+                              </item>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1524">lement legal protection for primate species under threat</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Imp<ref target="https://www.conservationevidence.com/actions/1521">lement birth control to stabilize primate community/population size</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>L<hi rendition="simple:bold">ikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1520" />
+                  <ref target="https://www.conservationevidence.com/actions/1523">Guard habituated primate groups to ensure their safety/well-being</ref>One study in Rwanda, Uganda and the Congo found that a population of mountain gorillas increased after being guarded against poachers, alongside other interventions. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1523">https://www.conservationevidence.com/actions/1523</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1521" />
+                  <ref target="https://www.conservationevidence.com/actions/1519">Habituate primates to human presence to reduce stress from tourists/researchers etc.</ref>Two studies in Central Africa and Madagascar found that primate populations increased or were stable following habituation to human presence, alongside other interventions. One study in Brazil found that golden lion tamarin populations declined following habituation to human presence, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 20%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1519">https://www.conservationevidence.com/actions/1519</ref> 
+                  <anchor xml:id="_idTextAnchor1522" />
+                  <ref target="https://www.conservationevidence.com/actions/1524">Implement legal protection for primate species under threat</ref>Three of four studies in India, South East Asia, and West Africa found that primate populations declined after the respective species were legally protected, alongside other interventions. One of four studies in India found that following a ban on export of rhesus macaques, their population increased. One study in Malaysia found that a minority of introduced gibbons survived after implementing legal protection, along with other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1524">https://www.conservationevidence.com/actions/1524</ref> 
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1523" />
+                        <ref target="https://www.conservationevidence.com/actions/1521">Implement birth control to stabilize primate community/population size</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1524" />7.12.2 Species recovery</head>
+                  <table xml:id="d7e3027">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for species recovery?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Reg<ref target="https://www.conservationevidence.com/actions/1526">ularly and continuously provide supplementary food to primates</ref>
+                              </item>
+								                      <item>Reg<ref target="https://www.conservationevidence.com/actions/1527">ularly provide supplementary food to primates during resource scarce periods only</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1528">vide supplementary food for a certain period of time only</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1530">vide additional sleeping platforms/nesting sites for primates</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1531">vide artificial water sources</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1525">vide salt licks for primates</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1529">vide supplementary food to primates through the establishment of prey populations</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1525" />
+                  <ref target="https://www.conservationevidence.com/actions/1526">Regularly and continuously provide supplementary food to primates</ref>Two of four studies found that primate populations increased after regularly providing supplementary food, alongside other interventions, while two of four studies found that populations declined. Four of four studies found that the majority of primates survived after regularly providing supplementary food, alongside other interventions. One study found that introduced lemurs had different diets to wild primates after regularly being providing supplementary food, along with other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 30%; harms 60%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1526">https://www.conservationevidence.com/actions/1526</ref>  
+                  <anchor xml:id="_idTextAnchor1526" />
+                  <ref target="https://www.conservationevidence.com/actions/1527">Regularly provide supplementary food to primates during resource scarce periods only</ref>Two studies found that the majority of primates survived after supplementary feeding in resource scarce periods, alongside other interventions. One study in Madagascar found that the diet of introduced lemurs was similar to that of wild lemurs after supplementary feeding in resource scarce periods, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1527">https://www.conservationevidence.com/actions/1527</ref>  
+                  <anchor xml:id="_idTextAnchor1527" />
+                  <ref target="https://www.conservationevidence.com/actions/1528">Provide supplementary food for a certain period of time only</ref>Six of eleven studies found that a majority of primates survived after supplementary feeding, alongside other interventions. Five of eleven studies found that a minority of primates survived. One of two studies found that a reintroduced population of primates increased after supplementary feeding for two months immediately after reintroduction, alongside other interventions. One study found that a reintroduced population declined. Two studies found that abandoned primates rejoined wild groups after supplementary feeding, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 0%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1528">https://www.conservationevidence.com/actions/1528</ref>  
+                  <anchor xml:id="_idTextAnchor1528" />
+                  <ref target="https://www.conservationevidence.com/actions/1530">Provide additional sleeping platforms/nesting sites for primates</ref>One study found that a translocated golden lion tamarin population declined despite providing artificial nest boxes, alongside other interventions. One of two studies found that the majority of gorillas survived for at least seven years after nesting platforms were provided, alongside other interventions. One of two studies found that a minority of tamarins survived for at least seven years after artificial nest boxes were provided, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 20%; certainty 0%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1530">https://www.conservationevidence.com/actions/1530</ref>  
+                  <anchor xml:id="_idTextAnchor1529" />
+                  <ref target="https://www.conservationevidence.com/actions/1531">Provide artificial water sources</ref>Three of five studies found that a minority of primates survived for between 10 months and seven years when provided with supplementary water, alongside other interventions. Two of five studies found that a majority of primates survived for between nine and ten months, when provided with supplementary water, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 20%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1531">https://www.conservationevidence.com/actions/1531</ref> 
+                  <hi rendition="simple:bold">No evidence found (no assessment)</hi>
+                  <p>We have captured no evidence for the following interventions:</p>
+                  <list>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1530" />
+                        <ref target="https://www.conservationevidence.com/actions/1525">Provide salt licks for primates</ref>
+                     </item>
+				                 <item>
+                        <anchor xml:id="_idTextAnchor1531" />
+                        <ref target="https://www.conservationevidence.com/actions/1529">Provide supplementary food to primates through the establishment of prey populations</ref>.</item>
+			               </list>
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1532" />7.12.3 Species reintroduction</head>
+                  <table xml:id="d7e3225">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for species reintroduction?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Rei<ref target="https://www.conservationevidence.com/actions/1590">ntroduce primates into habitat where the species is absent</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Tra<ref target="https://www.conservationevidence.com/actions/1558">nslocate (capture and release) wild primates from development sites to natural habitat elsewhere </ref>
+                              </item>
+								                      <item>Tra<ref target="https://www.conservationevidence.com/actions/1559">nslocate (capture and release) wild primates from abundant population areas to non-inhabited environments</ref>
+                              </item>
+								                      <item>All<ref target="https://www.conservationevidence.com/actions/1564">ow primates to adapt to local habitat conditions for some time before introduction to the wild</ref>
+                              </item>
+								                      <item>Rei<ref target="https://www.conservationevidence.com/actions/1567">ntroduce primates in groups</ref>
+                              </item>
+								                      <item>Rei<ref target="https://www.conservationevidence.com/actions/1589">ntroduce primates as single/multiple individuals</ref>
+                              </item>
+								                      <item>Rei<ref target="https://www.conservationevidence.com/actions/1591">ntroduce primates into habitat where the species is present</ref>
+                              </item>
+								                      <item>Rei<ref target="https://www.conservationevidence.com/actions/1593">ntroduce primates into habitat with predators</ref>
+                              </item>
+								                      <item>Rei<ref target="https://www.conservationevidence.com/actions/1592">ntroduce primates into habitat without predators</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>L<hi rendition="simple:bold">ikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1533" />
+                  <ref target="https://www.conservationevidence.com/actions/1590">Reintroduce primates into habitat where the species is absent</ref>One of two studies found that primate populations increased after reintroduction into habitat where the species was absent, alongside other interventions. One study in Thailand found that lar gibbon populations declined post-reintroduction. One study in Indonesia found that a orangutan population persisted for at least four years after reintroduction. Eight of ten studies found that a majority of primates survived after reintroduction into habitat where the species was absent, alongside other interventions. Two studies in Malaysia and Vietnam found that a minority of primates survived after reintroduction into habitat where the species was absent, alongside other interventions. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 60%; certainty 40%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1590">https://www.conservationevidence.com/actions/1590</ref>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1534" />
+                  <ref target="https://www.conservationevidence.com/actions/1558">Translocate (capture and release) wild primates from development sites to natural habitat elsewhere</ref>Four studies found that the majority of primates survived following translocation from a development site to natural habitat, alongside other interventions. One study in French Guyana found that a minority of primates survived for at least 18 months. One study in India found that rhesus macaques remained at sites where they were released following translocation from a development site to natural habitat, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 60%; certainty 30%; harms 10%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1558">https://www.conservationevidence.com/actions/1558</ref>  
+                  <anchor xml:id="_idTextAnchor1535" />
+                  <ref target="https://www.conservationevidence.com/actions/1559">Translocate (capture and release) wild primates from abundant population areas to non-inhabited environments</ref>One study in Belize found that he majority of howler monkeys survived for at least 10 months after translocation from abundant population areas to an uninhabited site, along with other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 20%; harms 0%).</hi> 
+                  <ref target="https://www.conservationevidence.com/actions/1559">https://www.conservationevidence.com/actions/1559</ref>  
+                  <anchor xml:id="_idTextAnchor1536" />
+                  <ref target="https://www.conservationevidence.com/actions/1564">Allow primates to adapt to local habitat conditions for some time before introduction to the wild</ref>Two of three studies found that primate populations declined despite allowing individuals to adapt to local habitat conditions before introduction into the wild, along with other interventions. One study in Belize found an increase in introduced howler monkey populations. Ten of 17 studies found that a majority of primates survived after allowing them to adapt to local habitat conditions before introduction into the wild, along with other interventions. Six studies found that a minority of primates survived and one study found that half of primates survived. One study found that a reintroduced chimpanzee repeatedly returned to human settlements after allowing it to adapt to local habitat conditions before introduction into the wild, along with other interventions. One study found that after allowing time to adapt to local habitat conditions, a pair of reintroduced Bornean agile gibbons had a similar diet to wild gibbons. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1564">https://www.conservationevidence.com/actions/1564</ref>  
+                  <anchor xml:id="_idTextAnchor1537" />
+                  <ref target="https://www.conservationevidence.com/actions/1567">Reintroduce primates in groups</ref>Two of four studies found that populations of introduced primates declined after reintroduction in groups, alongside other interventions, while two studies recorded increases in populations. Two studies found that primate populations persisted for at least five to 55 years after reintroduction in groups, alongside other interventions. Seven of fourteen studies found that a majority of primates survived after reintroduction in groups, alongside other interventions. Seven of fourteen studies found that a minority of primates survived after reintroduction in groups, alongside other interventions. One study found that introduced primates had a similar diet to a wild population. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 20%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1567">https://www.conservationevidence.com/actions/1567</ref>  
+                  <anchor xml:id="_idTextAnchor1538" />
+                  <ref target="https://www.conservationevidence.com/actions/1589">Reintroduce primates as single/multiple individuals</ref>Three of four studies found that populations of reintroduced primates declined after reintroduction as single/multiple individuals, alongside other interventions. One study in Tanzania found that the introduced chimpanzee population increased in size. Three of five studies found that a minority of primates survived after reintroduction as single/multiple individuals, alongside other interventions. One study found that a majority of primates survived and one study found that half of primates survived. Two of two studies in Brazil and Senegal found that abandoned primates were successfully reunited with their mothers after reintroduction as single/multiple individuals, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 20%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1589">https://www.conservationevidence.com/actions/1589</ref>  
+                  <anchor xml:id="_idTextAnchor1539" />
+                  <ref target="https://www.conservationevidence.com/actions/1591">Reintroduce primates into habitat where the species is present</ref>One of two studies found that primate populations increased after reintroduction into habitat where the species was absent, alongside other interventions. One study in Malaysia found that an introduced orangutan population declined post-reintroduction. One study found that a primate population persisted for at least four years after reintroduction. Eight of ten studies found that a majority of primates survived after reintroduction into habitat where the species was absent, alongside other interventions. Two studies found that a minority of primates survived after reintroduction into habitat where the species was present, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1591">https://www.conservationevidence.com/actions/1591</ref>  
+                  <anchor xml:id="_idTextAnchor1540" />
+                  <ref target="https://www.conservationevidence.com/actions/1593">Reintroduce primates into habitat with predators</ref>Eight of fourteen studies found that a majority of reintroduced primates survived after reintroduction into habitat with predators, alongside other interventions. Six studies found that a minority of primates survived. One study found that an introduced primate population increased after reintroduction into habitat with predators, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1593">https://www.conservationevidence.com/actions/1593</ref>  
+                  <anchor xml:id="_idTextAnchor1541" />
+                  <ref target="https://www.conservationevidence.com/actions/1592">Reintroduce primates into habitat without predators</ref>One study in Tanzania found that a population of reintroduced chimpanzees increased over 16 years following reintroduction into habitat without predators. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 5%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1592">https://www.conservationevidence.com/actions/1592</ref>  
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1542" />7.12.4 <hi rendition="simple:italic">Ex-situ</hi> conservation</head>
+                  <table xml:id="d7e3482">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for </hi>
+                              <hi rendition="simple:bold">
+                                 <hi rendition="simple:italic">ex-situ</hi>
+                              </hi>
+                              <hi rendition="simple:bold"> conservation?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Cap<ref target="https://www.conservationevidence.com/actions/1594">tive breeding and reintroduction of primates into the wild: born and reared in cages</ref>
+                              </item>
+								                      <item>Cap<ref target="https://www.conservationevidence.com/actions/1595">tive breeding and reintroduction of primates into the wild: limited free-ranging experience</ref>
+                              </item>
+								                      <item>Cap<ref target="https://www.conservationevidence.com/actions/1596">tive breeding and reintroduction of primates into the wild: born and raised in a free-ranging environment</ref>
+                              </item>
+								                      <item>Reh<ref target="https://www.conservationevidence.com/actions/1597">abilitate injured/orphaned primates</ref>
+                              </item>
+								                      <item>Fos<ref target="https://www.conservationevidence.com/actions/1600">tering appropriate behaviour to facilitate rehabilitation</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1543" />
+                  <ref target="https://www.conservationevidence.com/actions/1594">Captive breeding and reintroduction of primates into the wild: born and reared in cages</ref>One study in Brazil found that the majority of reintroduced golden lion tamarins which were born and reared in cages, alongside other interventions, did not survive over seven years.Two of two studies in Brazil and French Guiana found that more reintroduced primates that were born and reared in cages, alongside other interventions, died post-reintroduction compared to wild-born monkeys. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 0%; certainty 15%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1594">https://www.conservationevidence.com/actions/1594</ref>  
+                  <anchor xml:id="_idTextAnchor1544" />
+                  <ref target="https://www.conservationevidence.com/actions/1595">Captive breeding and reintroduction of primates into the wild: limited free-ranging experience</ref>One of three studies found that the majority of captive-bred primates, with limited free-ranging experience and which were reintroduced in the wild, alongside other interventions, had survived. One study in Madagascar found that a minority of captive-bred lemurs survived reintroduction over five years. One study found that reintroduced lemurs with limited free-ranging experience had a similar diet to wild primates. Reintroduction was undertaken alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 30%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1595">https://www.conservationevidence.com/actions/1595</ref>  
+                  <anchor xml:id="_idTextAnchor1545" />
+                  <ref target="https://www.conservationevidence.com/actions/1596">Captive breeding and reintroduction of primates into the wild: born and raised in a free-ranging environment</ref>One study in Brazil found that the majority of golden lion tamarins survived for at least four months after being raised in a free-ranging environment, alongside other interventions. One study found that the diet of lemurs that were born and raised in a free-ranging environment alongside other interventions, overlapped with that of wild primates. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1596">https://www.conservationevidence.com/actions/1596</ref> 
+                  <anchor xml:id="_idTextAnchor1546" />
+                  <ref target="https://www.conservationevidence.com/actions/1597">Rehabilitate injured/orphaned primates</ref>Six of eight studies found that the majority of introduced primates survived after rehabilitation of injured or orphaned individuals, alongside other interventions. One study found that a minority of introduced primates survived, and one study found that half of primates survived. One of two studies found that an introduced chimpanzee population increased in size after rehabilitation of injured or orphaned individuals, alongside other interventions. One study found that an introduced rehabilitated or injured primate population declined. One review found that primates living in sanctuaries had a low reproduction rate. One study found that introduced primates had similar behaviour to wild primates after rehabilitation of injured or orphaned individuals, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1597">https://www.conservationevidence.com/actions/1597</ref>  
+                  <anchor xml:id="_idTextAnchor1547" />
+                  <ref target="https://www.conservationevidence.com/actions/1600">Fostering appropriate behaviour to facilitate rehabilitation</ref>Three of five studies found that a minority of primates survived after they were fostered to encourage behaviour appropriate to facilitate rehabilitation, alongside other interventions. Two studies found that the majority of reintroduced primates fostered to facilitate rehabilitation along other interventions survived. Three studies found that despite fostering to encourage behaviour appropriate to facilitate rehabilitation, alongside other interventions, primates differed in their behaviour to wild primates. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 10%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1600">https://www.conservationevidence.com/actions/1600</ref> 
+               </div>
+            </div>
+            <div>
+               <head type="section-lev1">
+                  <anchor xml:id="_idTextAnchor1548" />7.13  Livelihood; economic and other incentives</head>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1549" />7.13.1 Provide benefits to local communities for sustainably managing their forest and its wildlife</head>
+                  <table xml:id="d7e3643">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for</hi> 
+                              <hi rendition="simple:bold">providing benefits to local communities for sustainably managing their forest and its wildlife?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1509">vide monetary benefits to local communities for sustainably managing their forest and its wildlife (e.g. REDD, employment)</ref>
+                              </item>
+								                      <item>Pro<ref target="https://www.conservationevidence.com/actions/1510">vide non-monetary benefits to local communities for sustainably managing their forest and its wildlife (e.g. better education, infrastructure development)</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1550" />
+                  <ref target="https://www.conservationevidence.com/actions/1509">Provide monetary benefits to local communities for sustainably managing their forest and its wildlife (e.g. REDD, employment)</ref>One before-and-after study in Belize found that howler monkey numbers increased after the provision of monetary benefits to local communities alongside other interventions. However, one before-and-after study in Rwanda, Uganda and the Congo found that gorilla numbers decreased despite the implementation of development projects in nearby communities, alongside other interventions. One before-and-after study in Congo found that most chimpanzees reintroduced to an area where local communities received monetary benefits, alongside other interventions, survived over five years. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 50%; certainty 25%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1509">https://www.conservationevidence.com/actions/1509</ref>  
+                  <anchor xml:id="_idTextAnchor1551" />
+                  <ref target="https://www.conservationevidence.com/actions/1510">Provide non-monetary benefits to local communities for sustainably managing their forest and its wildlife (e.g. better education, infrastructure development)</ref>One before-and-after study India found that numbers of gibbons increased in areas were local communities were provided alternative income, alongside other interventions. One before-and-after study in Congo found that most chimpanzees reintroduced survived over seven years in areas where local communities were provided non-monetary benefits, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 10%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1510">https://www.conservationevidence.com/actions/1510</ref>  
+               </div>
+               <div>
+                  <head type="section-lev2">
+                     <anchor xml:id="_idTextAnchor1552" />7.13.2 Long-term presence of research/tourism project</head>
+                  <table xml:id="d7e3735">
+				
+					
+					
+				
+				
+					                <row>
+						                  <cell cols="2">
+							                    <p>
+                              <hi rendition="simple:bold">Based on the collated evidence, what is the current assessment of the effectiveness of interventions for</hi> 
+                              <hi rendition="simple:bold">the long-term presence of research-/tourism project?</hi>
+                           </p>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Likely to be beneficial</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Run<ref target="https://www.conservationevidence.com/actions/1511"> research project and ensure permanent human presence at site</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Run<ref target="http://www.conservationevidence.com/actions/1512"> tourism project and ensure permanent human presence at site</ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+					                <row>
+						                  <cell>
+							                    <p>
+                              <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                           </p>
+						                  </cell>
+						                  <cell>
+							                    <list>
+								                      <item>Per<ref target="https://www.conservationevidence.com/actions/1517">manent presence of staff/managers </ref>
+                              </item>
+							                    </list>
+						                  </cell>
+					                </row>
+				
+			               </table>L<hi rendition="simple:bold">ikely to be beneficial</hi>
+                  <anchor xml:id="_idTextAnchor1553" />
+                  <ref target="https://www.conservationevidence.com/actions/1511">Run research project and ensure permanent human presence at site</ref>Three before-and-after studies, in Rwanda, Uganda, Congo and Belize found that numbers of gorillas and howler monkeys increased while populations were continuously monitored by researchers, alongside other interventions. One before-and-after study in Kenya found that troops of translocated baboons survived over 16 years post-translocation while being continuously monitored by researchers, alongside other interventions. One before-and-after study in the Congo found that most reintroduced chimpanzees survived over 3.5 years while being continuously monitored by researchers, alongside other interventions. However, one before-and-after study in Brazil found that most reintroduced tamarins did not survive over 7 years, despite being continuously monitored by researchers, alongside other interventions; but tamarins reproduced successfully. One review on gorillas in Uganda found that no individuals were killed while gorillas were continuously being monitored by researchers, alongside other interventions. <hi rendition="simple:italic">Assessment: likely to be beneficial (effectiveness 61%; certainty 40%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1511">https://www.conservationevidence.com/actions/1511</ref>
+                  <hi rendition="simple:bold">Trade-off between benefit and harms</hi>
+                  <anchor xml:id="_idTextAnchor1554" />
+                  <ref target="http://www.conservationevidence.com/actions/1512">Run tourism project and ensure permanent human presence at site</ref>Six studies, including four before-and-after studies, in Rwanda, Uganda, Congo and Belize found that numbers of gorillas and howler monkeys increased after local tourism projects were initiated, alongside other interventions. However, two before-and-after studies in Kenya and Madagascar found that numbers of colobus and mangabeys and two of three lemur species decreased after implementing tourism projects, alongside other interventions. One before-and-after study in China found that exposing macaques to intense tourism practices, especially through range restrictions to increase visibility for tourists, had increased stress levels and increased infant mortality, peaking at 100% in some years. <hi rendition="simple:italic">Assessment: trade-off between benefit and harms (effectiveness 40%; certainty 40%; harms 40%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1512">https://www.conservationevidence.com/actions/1512</ref>  
+                  <hi rendition="simple:bold">Unknown effectiveness (limited evidence)</hi>
+                  <anchor xml:id="_idTextAnchor1555" />
+                  <ref target="https://www.conservationevidence.com/actions/1517">Permanent presence of staff/managers</ref>Two before-and-after studies in the Congo and Gabon found that most reintroduced chimpanzees and gorillas survived over a period of between nine months to five years while having permanent presence of reserve staff. One before-and-after study in Belize found that numbers of howler monkeys increased after permanent presence of reserve staff, alongside other interventions. However, one before-and-after study in Kenya found that numbers of colobus and mangabeys decreased despite permanent presence of reserve staff, alongside other interventions. <hi rendition="simple:italic">Assessment: unknown effectiveness &#8212; limited evidence (effectiveness 40%; certainty 30%; harms 0%).</hi>
+                  <ref target="https://www.conservationevidence.com/actions/1517">https://www.conservationevidence.com/actions/1517</ref>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
