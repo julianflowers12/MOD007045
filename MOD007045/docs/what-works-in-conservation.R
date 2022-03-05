@@ -13,6 +13,15 @@ wwic <- pdfs[4]
 
 wwic_t <- readtext(wwic)
 
+wwic_t$text
+
+assessment <- kwic(corpus(wwic_t, text_field = "text"), pattern = "assessment", window = 20)
+
+assessment <- data.table::setDT(assessment)
+
+assessment %>%
+  reactable::reactable(searchable = TRUE, filterable = TRUE, sortable = TRUE)
+
 s <- wwic_t %>%
   unnest_tokens(sent, text, "sentences") %>%
   mutate(sent = str_squish(sent))
@@ -24,14 +33,18 @@ threats <- s %>%
   select(-sent) %>%
   mutate(split = str_remove(split, "^\\d{1,}"),
          threat = str_extract(split, "\\d\\.\\d threat.*"),
-         conservation = str_extract(split, ".+\\b\\sconservation$"),
+         conservation = ifelse(str_detect(split, "conservation$"), word(split, -2), NA),
          threat = ifelse(nchar(threat) > 1, threat, NA),
          conservation = ifelse(nchar(conservation) > 1, conservation, NA)) %>%
   fill(threat, .direction = "down") %>%
-  fill(conservation) %>%
-  DT::datatable()
+  fill(conservation)
 
-threats
+threats %>%
+  dplyr::select(target = conservation, threat, intervention = split)%>%
+  mutate(intervention = str_squish(intervention)) %>%
+  filter(threat != intervention) %>%
+  mutate(intervention = str_remove(intervention, "\\d{1,}\\.\\d{1,}\\.\\d{1,}\\s")) %>%
+  write_csv("conservation_interventions.csv")
 
 
 

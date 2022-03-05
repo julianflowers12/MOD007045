@@ -126,7 +126,8 @@ cs_links %>%
   filter(!str_detect(text1, "^Reports")) %>%
   filter(!str_detect(text1, "^Consult")) %>%
   filter(!str_detect(text1, "^Data,")) %>%
-  filter(!str_detect(text1, "^Find out "))
+  filter(!str_detect(text1, "^Find out ")) %>%
+  mutate(text = str_remove(text, "https://www.gov.uk/countryside-stewardship-grants/"))
 
 
 

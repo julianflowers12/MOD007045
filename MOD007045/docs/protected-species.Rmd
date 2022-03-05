@@ -1,0 +1,150 @@
+---
+title: "Protected species"
+author: "Julian Flowers"
+date: "05/03/2022"
+output: 
+   html_document:
+     toc: yes
+     toc_float: yes
+     code_folding: hide
+     theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE, message = FALSE)
+
+library(myScrapers);library(rvest);library(tidyverse
+                                           )
+```
+
+## Govt guidance
+
+From <https://www.gov.uk/guidance/protected-species-how-to-review-planning-applications>
+
+### Habitats
+
+```{r}
+url <- "https://www.gov.uk/guidance/protected-species-how-to-review-planning-applications"
+
+
+tables <- url %>%
+  read_html() %>%
+  html_table()
+
+tables[1] %>%
+  knitr::kable()
+
+```
+
+### Survey timing
+
+```{r}
+
+tables[2] %>%
+  knitr::kable()
+
+```
+
+### Schedule 1 birds under Wildlife and Countryside Act 1981
+
+```{r}
+
+sch1 <- "https://www.legislation.gov.uk/ukpga/1981/69/schedule/1"
+
+sch1_tables <- sch1 %>%
+  read_html() %>%
+  html_table()
+
+sch1_tables %>%
+  knitr::kable()
+
+```
+
+### Principal species (S41 NERC)
+
+```{r}
+
+nerc <- "https://en.wikipedia.org/wiki/List_of_species_and_habitats_of_principal_importance_in_England"
+
+nerc_tables <- nerc %>%
+  read_html() %>%
+  html_table() %>%
+  data.frame() %>%
+  reactable::reactable(searchable = TRUE)
+
+nerc_tables
+
+
+```
+
+### Priority habitats
+
+```{r}
+
+nerc_1 <- nerc %>%
+  read_html() %>%
+  html_nodes("li") %>%
+  html_text() %>%
+  str_squish() %>%
+  .[c(8:63)]
+
+nerc_1 <- nerc_1 %>%
+  enframe() 
+
+colnames(nerc_1) <- c("name", "priority_habitats")
+
+nerc_1 %>%
+  separate(priority_habitats, remove = FALSE, c("level1", "level2"), sep = ":") %>%
+  knitr::kable()
+```
+
+### Per species/ taxon text
+
+```{r}
+
+planning_advice <- url %>%
+  get_page_links() %>%
+  .[grepl("advice-for-making",.)] %>%
+  .[grepl("^https", .)] %>%
+  enframe()
+
+
+planning_advice_text <- planning_advice %>%
+  mutate(text = map(value, get_page_text)) %>%
+  unnest("text") %>%
+  group_by(name) %>%
+  slice(-c(1:12)) %>%
+  mutate(species = str_remove(value, "https://www.gov.uk/guidance/"), 
+         species = str_remove(species, "-advice-for-making-planning-decisions"))
+
+planning_advice_text %>%
+  select(species, text) %>%
+  reactable::reactable(searchable = TRUE, filterable = TRUE, sortable = TRUE)
+
+```
+
+### Survey methods
+
+```{r}
+protected_species_survey <- planning_advice %>%
+  mutate(on_links = map(value, get_page_links)) %>%
+  unnest("on_links") %>%
+  group_by(name) %>%
+  slice(-c(1:39)) %>%
+  mutate(species = str_remove(value, "https://www.gov.uk/guidance/")) %>%
+  filter(str_detect(on_links, "survey"))
+
+survey_docs_cieem <- protected_species_survey$on_links[3] %>%   # chartered institute of ecology and environment management
+  get_page_docs() %>%
+  map(., readtext::readtext)
+
+map(survey_docs_cieem, "text") %>%
+  enframe() %>%
+  unnest("value") %>%
+  mutate(value = str_squish(value)) %>%
+  DT::datatable(escape = FALSE)
+```
+
+```{r}
+
+```

@@ -1,6 +1,22 @@
 ## bocc 5
 
 library(readtext); library(pdftools);library(tabulizer); library(rJava); library(tidytext)
+library(readxl)
+
+jncc <- "https://hub.jncc.gov.uk/assets/478f7160-967b-4366-acdf-8941fd33850b"
+
+red_list <- tempfile()
+red_list_jncc <- curl::curl_download("https://data.jncc.gov.uk/data/478f7160-967b-4366-acdf-8941fd33850b/consolidated-red-list-extract-20220202.xlsx", red_list)
+
+red_list_jncc <- red_list_jncc %>%
+  read_excel(sheet = 2) %>%
+  janitor::clean_names()
+
+survey_data <- read_csv(paste0(here(), "/data/records-2022-02-17.csv"), show_col_types = FALSE) %>%
+  janitor::clean_names()
+
+survey_full <- survey_data %>%
+  left_join(red_list_jncc, by = c("species_id_tvk" = "recommended_taxon_version_key"))
 
 pdf <- "https://britishbirds.co.uk/sites/default/files/BB_Dec21-BoCC5-IUCN2.pdf"
 
