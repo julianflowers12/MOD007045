@@ -1,0 +1,56 @@
+---
+title: "Cherry Hinton Chalk Pits"
+author: '2050707'
+date: "15/02/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(pacman)
+p_load(tidyverse, sf, here)
+
+shp <- list.files(here("MOD007045/data/Cherry Hinton CP"), pattern = "geojson|shp", full.names = TRUE)
+shp
+```
+
+```{r}
+shps <- map(shp, st_read)
+
+shps[[6]] %>%
+  group_by(p1code) %>%
+  st_area()
+
+```
+```{r}
+
+shps[1]
+
+ggplot() +
+  geom_sf(data = shps[[1]]) +
+  geom_sf(data = shps[[3]]) +
+  geom_sf(data = shps[[2]]) +
+  geom_sf(data = shps[[4]]) 
+
+
+
+
+
+```
+## Areas
+
+```{r}
+total <- st_area(shps[[1]])
+
+total / 10000
+
+shps[[2]] %>%
+  #mutate(id = row_number()) %>%
+  #filter(id == 7) %>%
+  st_area()
+
+scrub <- st_union(shps[[3]] %>% filter(p1code == "A2.2")) %>%
+  st_area()
+
+```
+
