@@ -50,3 +50,4 @@ dt_tok <- tokens(taxon_list) %>%
     tail(20)
 
 
+  pluck(dt_tok$species)

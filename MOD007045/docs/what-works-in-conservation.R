@@ -39,11 +39,16 @@ threats <- s %>%
   fill(threat, .direction = "down") %>%
   fill(conservation)
 
-threats %>%
+threats1 <- threats %>%
   dplyr::select(target = conservation, threat, intervention = split)%>%
   mutate(intervention = str_squish(intervention)) %>%
   filter(threat != intervention) %>%
-  mutate(intervention = str_remove(intervention, "\\d{1,}\\.\\d{1,}\\.\\d{1,}\\s")) %>%
+  mutate(intervention = str_remove(intervention, "\\d{1,}\\.\\d{1,}\\.\\d{1,}\\s"))
+
+
+
+threats1 %>%
+  DT::datatable(options = list(pageLength = 25))
   write_csv("conservation_interventions.csv")
 
 

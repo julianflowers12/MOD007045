@@ -10,7 +10,7 @@ output:
      number_sections: yes
      keep_md: yes
 params:
-  species: Grey Partridge
+  species: House Sparrow
 bibliography: references.bib
 ---
 
@@ -50,7 +50,7 @@ NBN atlas lists 1044 species observations within 2km of the Chalk Pits
 
 library(tidyverse); library(here); library(glue); library(sf); library(gt); library(readxl)
 
-data <- read_csv(paste0(here(), "/data/records-2022-02-17.csv"), show_col_types = FALSE)
+data <- read_csv(paste0(here(), "/data/Cherry Hinton CP/records-2022-02-17.csv"), show_col_types = FALSE)
 
 
 data_1 <- data %>%
@@ -75,14 +75,14 @@ red_list_jncc <- red_list_jncc %>%
 
 
 red_list_jncc %>%
-  DT::datatable()
+  DT::datatable(filter = "top", selection = TRUE)
 
 ```
 
 
 ```{r}
 
-survey_data <- read_csv(paste0(here(), "/data/records-2022-02-17.csv"), show_col_types = FALSE) %>%
+survey_data <- read_csv(paste0(here(), "/data/Cherry Hinton CP/records-2022-02-17.csv"), show_col_types = FALSE) %>%
   janitor::clean_names()
 
 survey_full <- survey_data %>%
@@ -195,6 +195,19 @@ survey_lichen <- survey_selected %>%
     subtitle = "Near threatened"
   ) 
 
+```
+
+```{r fig.height=6, fig.width=8}
+library(ggspatial)
+survey_selected %>%
+  st_as_sf(coords = c(x = "longitude_wgs84", y = "latitude_wgs84"), crs = 27700, agr = "constant") %>%
+  filter(bto_red_data_categories == "Bird-Red") %>%
+  ggplot() +
+  annotation_map_tile(zoomin = -1) +
+  geom_sf(aes(colour = start_date_year)) +
+  coord_sf() +
+  facet_wrap(~common_name.x, nrow = 6)
+  
 
 
 ```
@@ -202,13 +215,13 @@ survey_lichen <- survey_selected %>%
 ```{r}
 library(ggspatial)
 
-params$species
+params$species 
 data_1 %>%
   st_as_sf(coords = c(x = "longitude_wgs84", y = "latitude_wgs84"), crs = 4326, agr = "constant") %>%
-  filter(str_detect(common_name, params$species)) %>%
+  filter(str_detect(common_name, params$species), start_date_year >= 2010) %>%
   ggplot() +
   annotation_map_tile(zoomin = 0) +
-  geom_sf() +
+  geom_sf(aes(colour = factor(start_date_year))) +
   coord_sf() +
   ggtitle(params$species)
 
