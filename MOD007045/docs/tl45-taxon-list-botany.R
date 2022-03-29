@@ -25,7 +25,7 @@ dt_tok <- tokens(taxon_list) %>%
   rename(sp = val1) %>%
   fill(year, .direction = "up") %>%
   mutate(count = ifelse(is.na(count) & !str_detect(val, "\\d{4}"), val, count),
-         sp = str_remove(sp, " \\sx")) %>%
+         sp = str_remove_all(sp, " \\sx\\s")) %>%
   select(name, sp, count, year) %>%
   filter(!sp %in% c("s.s.", "agg", "s.l.", "s.s", "s.l", ".", "agg.", "x")) %>%
   mutate(count1 = lead(count, 3)) %>%

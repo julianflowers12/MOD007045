@@ -80,6 +80,19 @@ db_na <- map(db_list, ~.x[!is.na(.x)])
 
 evidence_db <- map_dfr(db_na, bind_rows)
 
+evidence_db %>% write_rds("evidence.rds")
+
+evidence_db %>%
+  mutate(action = tolower(action)) %>%
+  full_join(threats1, by = c("action" = "intervention")) %>%
+  write_rds("evidence.rds")
+
+str(evidence_db)
+
+evidence %>%
+  DT::datatable(filter = "top", options = list(pageLength = 25))
+
+
 
 
 beneficical_interventions <- evidence_db %>%

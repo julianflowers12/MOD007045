@@ -5,7 +5,7 @@ p_load(tidyverse, readtext, pdftools, myScrapers, tidytext, quanteda, here)
 
 here()
 
-path <- glue::glue(here(), "/MOD007045/docs/")
+path <- glue::glue(here(), "/docs/")
 
 pdfs <- list.files(path, ".pdf", full.names = T)
 
@@ -13,7 +13,7 @@ wwic <- pdfs[4]
 
 wwic_t <- readtext(wwic)
 
-wwic_t$text
+#wwic_t$text
 
 assessment <- kwic(corpus(wwic_t, text_field = "text"), pattern = "assessment", window = 20)
 
