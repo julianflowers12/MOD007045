@@ -145,6 +145,125 @@ map(survey_docs_cieem, "text") %>%
   DT::datatable(escape = FALSE)
 ```
 
+### Red-listed species
+
+```{r red-list}
+library(readxl)
+### data from jncc
+
+tmp <- tempfile()
+
+curl::curl_download("https://data.jncc.gov.uk/data/478f7160-967b-4366-acdf-8941fd33850b/consolidated-red-list-extract-20220202.xlsx", tmp)
+
+red_list <- read_excel(tmp, sheet = 2) %>%
+  janitor::clean_names() %>%
+  DT::datatable(options = list(pageLength = 25), filter = "top")
+
+red_list
+
+
+
+```
+
+```{r red-list mammals}
+
+url1 <- "https://www.mammal.org.uk/science-research/red-list/"
+
+mammals <- url1 %>%
+  read_html() %>%
+  html_table()
+
+mammals <- mammals[[1]]
+colnames(mammals) <- mammals[1,] 
+
+mammals %>%
+  slice(-1)
+
+```
+
+### Plant red list
+
 ```{r}
+
+plant_red_list <- "https://bsbi.org/ERL_table.xlsx"
+
+prd <- tempfile()
+
+curl::curl_download(plant_red_list, prd) %>%
+  read_excel() %>%
+  DT::datatable(filter = "top")
+
+
+
+```
+
+### Consolidated list
+
+<https://data.jncc.gov.uk/data/478f7160-967b-4366-acdf-8941fd33850b/Taxon-designations-20220202.xlsx>
+
+```{r}
+
+csvs <- list.files(here::here("data"), "csv", full.names = TRUE)
+
+taxa_list <- read_csv(csvs[3], show_col_types = FALSE)
+
+taxa_list <- taxa_list %>%
+  mutate(designation = ifelse(`Count of Recommended taxon name` > 1, `Row Labels`, NA), 
+         designation1 = ifelse(str_detect(designation, "\\d$"), designation, NA)) %>%
+  fill(designation1, .direction = "downup") %>%
+  mutate(designation = ifelse(designation != designation1, designation, NA)) %>%
+  fill(designation, .direction = "down") %>%
+  select(-`Count of Recommended taxon name`) %>%
+  filter(`Row Labels` != designation) %>%
+  filter(`Row Labels` != designation1) %>%
+  select(designation, designation1, taxa = `Row Labels`) 
+
+taxa_list %>%
+  DT::datatable(filter = "top", options = list(pageLength = 25))
+
+
+get_common_names <- function(x){
+  
+  require(taxize)
+  
+  taxize::sci2comm(x, db = "itis", simplify = TRUE)
+  
+  
+}
+
+bd_list <- taxa_list %>%
+  filter(designation == "Birds Directive", 
+         designation1 == "Annex 1") %>%
+  pluck("taxa")
+
+bd_names <- get_common_names(bd_list) 
+
+taxa_list %>%
+  count(designation, designation1)
+
+bd_names %>%
+  enframe() %>%
+  unnest("value") %>%
+  DT::datatable()
+```
+
+### Red listed plants
+
+Common names - endangered, near-threatened or vulnerable
+
+```{r plant-red-list-names}
+
+p_red <- curl::curl_download(plant_red_list, prd) %>%
+  read_excel() %>%
+  filter(`England Red List` %in% c("EN", "NT", "VU"), `GB Red List` != "LC") %>%
+  pluck("Taxon")
+
+pl_names <- map(p_red, get_common_names)
+
+pl_names %>%
+  enframe() %>%
+  unnest("value") %>%
+  unnest("value") %>%
+  DT::datatable()
 
 ```
