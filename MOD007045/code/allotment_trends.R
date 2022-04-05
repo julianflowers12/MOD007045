@@ -62,7 +62,8 @@ data <- data %>%
          t_ha = tenants / size_ha,
          t_plot = tenants / plots,
          w_plot = waiting / plots,
-         new_old = tenants / tenant_2009) %>%
+         new_old = tenants / tenant_2009,
+         d_plot = plots - plots_2009) %>%
   arrange(name)
 
 data
@@ -73,6 +74,9 @@ data %>%
 
 data %>%
   mutate_at(.vars = 2:ncol(.), as.numeric) %>%
-  .[,2:5] %>%
+  .[,2:8] %>%
   map_dbl(.,sum)
+
+
+
 

@@ -1,6 +1,6 @@
 library(myScrapers)
 
-search <- "allotments (biodiversity OR ecosystem services)"
+search <- "food desert[tw] OR food bank[tw]"
 key <- Sys.getenv("ncbi_key")
 
 end <- 2022
@@ -14,5 +14,12 @@ all_ss <- myScrapers::get_ss_data(search = search)
 
 all_ss$data$title
 
-all_ss$data[c(1, 5, 22, 32, 37, 45, 49, 59, 58, 63, 66, 70, 77, 79, 85, 90),] %>%
+all_ss$data[c(5, 17, ),] %>%
   View()
+
+#### climate change
+
+library(readtext)
+
+cccs <- readtext("https://www.cambridge.gov.uk/media/9581/climate-change-strategy-2021-2026.pdf")
+

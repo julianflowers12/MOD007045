@@ -15,3 +15,10 @@ corpus(elms_targets) %>%
 
 corpus(elms_targets) %>%
   kwic(., phrase("Local nature"), window = 15)
+
+
+corpus(elms_targets) %>%
+  kwic(., phrase("Landscape recovery"), window = 15)
+
+corpus(elms_targets) %>%
+  kwic(., phrase("Sustainable"), window = 15)
