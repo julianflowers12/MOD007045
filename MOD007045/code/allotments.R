@@ -23,3 +23,8 @@ library(readtext)
 
 cccs <- readtext("https://www.cambridge.gov.uk/media/9581/climate-change-strategy-2021-2026.pdf")
 
+library(quanteda)
+
+cccs_corp <- corpus(cccs, "text")
+
+kwic(cccs_corp, phrase("sustainable food"))

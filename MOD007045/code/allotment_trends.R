@@ -1,5 +1,7 @@
 ## allotment data from https://allotments.net/2021/12/18/updated-survey-of-cambridge-allotments/
 
+library(tidyverse)
+
 data <- data.frame(
   name = c("Wenvoe", "Blacklands", "Burnside", "Perne",
            "Fairfax", "Baldock", "Peverel", "Holbrook",
@@ -57,6 +59,8 @@ data <- data.frame(
                  47, 18, 16, 0, 49.25)
 )
 
+
+
 data <- data %>%
   mutate(p_ha = plots / size_ha,
          t_ha = tenants / size_ha,
@@ -65,6 +69,12 @@ data <- data %>%
          new_old = tenants / tenant_2009,
          d_plot = plots - plots_2009) %>%
   arrange(name)
+
+data %>%
+  summarise(across(where(is_double), sum)) %>%
+  mutate(ploth = plots/size_ha,
+         tenantsh = tenants / plots,
+         )
 
 data
 
