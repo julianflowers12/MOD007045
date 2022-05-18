@@ -19,6 +19,42 @@ get_effectiveness <- function(url){
 
 }
 
+get_header <- function(url){
+  url %>%
+    read_html() %>%
+    html_nodes(".h2") %>%
+    html_text() %>%
+    str_squish()
+}
+
+map(urls[1:99], get_header)
+
+get_synopsis <- function(url){
+  url %>%
+    read_html() %>%
+    html_nodes(".StyleSynopsisBodyTextItalic") %>%
+    html_text() %>%
+    str_squish()
+}
+
+get_synopsis(urls[87])
+
+get_assessment(urls[87])
+
+get_key_message <- function(url){
+  url %>%
+    read_html() %>%
+    html_nodes(".mb-4") %>%
+    html_text() %>%
+    str_squish() %>%
+    .[1]
+}
+
+
+get_key_message(urls[87])
+
+
+
 get_assessment <- function(url){
   get_effectiveness(url) %>%
   str_remove(. , "Overall effectiveness category") %>%
@@ -34,7 +70,7 @@ get_no_studies <- function(url){
     str_extract(., "Number.+")
 }
 
-get_no_studies(urls[2])
+get_action(urls[87])
 
 get_action <- function(url){
 
@@ -42,26 +78,34 @@ get_action <- function(url){
   require(stringr)
   assessment <- get_assessment(url)
   studies <- get_no_studies(url)
-  links <- get_page_links(url)
-  links1 <- links[c(12:13)]
+  action <- get_header(url)
+  synopsis <- get_synopsis(url)
+  links <- get_page_links(urls[87])
+  links1 <- links[c(12)] %>%
+    str_extract(., "https://www.+/\\d{1,}")
   links2 <- links %>%
    .[grep("/journalsearcher/synopsis#", .)]
-  action <- links1[2] %>%
-    str_remove(., "&body.+")
-  action <- action %>%
-    str_remove(., "mailto:\\?subject=")
+  # action <- links1[2] %>%
+  #   str_remove(., "&body.+")
+  # action <- action %>%
+  #   str_remove(., "mailto:\\?subject=")
   taxon <- links2 %>%
     str_remove(., "/journalsearcher/synopsis#")
   out = data.frame(taxon = taxon,
                    action = action,
+                   synopsis = synopsis,
                    assessment = assessment,
-                   no_studies = studies
+                   no_studies = studies,
+                   link = links1
              )
 
 }
 
-t1 <- get_action(urls[4])
+t1 <- get_action(urls[87])
 
+t1
+
+get_header(urls[3])
 
 
 
@@ -90,8 +134,13 @@ evidence_db %>%
 str(evidence_db)
 
 evidence %>%
-  DT::datatable(filter = "top", options = list(pageLength = 25))
-
+  mutate(link = str_extract(action, "https.+")) %>%
+  reactable::reactable(sortable = T,
+                       searchable = T,
+                       filterable = T, showSortable = T,
+                       defaultPageSize = 50, paginationType = "jump",
+                       resizable = TRUE, compact = TRUE, selection = "multiple"
+                       )
 
 
 
